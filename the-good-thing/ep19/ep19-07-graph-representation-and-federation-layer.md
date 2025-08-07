@@ -1,9 +1,46 @@
-# ep19-07-graph-representation-and-federation-layer
-
-**Time Range:** 00:32:32 - 00:37:10
-
-**Topic:** Graphs vs GraphQL, hypermedia as graph interface, Procore’s internal federation journey
-
+---
+title: Graph Representation and Federation Layer
+slug: ep19-07-graph-representation-and-federation-layer
+series: The Good Thing
+episode: 19
+chunk: 7
+participants:
+  - Stefan
+  - Robert Farr
+  - Jens
+segment: Graph Architecture and Federation
+timecode: 00:32:32 – 00:37:10
+start_time: 00:32:32
+end_time: 00:37:10
+speakers:
+  - Stefan
+  - Robert Farr
+  - Jens
+topics:
+  - Distinction between graphs and GraphQL
+  - Hypermedia as graph interface pattern
+  - Procore's internal federation implementation journey
+  - Graph representation strategies
+tags:
+  - graphs
+  - graphql
+  - hypermedia
+  - federation
+  - architecture
+  - procore
+entities:
+  - Robert Farr
+  - Stefan Avram
+  - Jens Neuse
+  - Procore
+  - GraphQL
+mentions:
+  - Graph vs GraphQL conceptual differences
+  - Hypermedia interface patterns
+  - Internal federation experiences
+  - Graph representation challenges
+summary: |
+  Exploration of graph representations beyond GraphQL, discussing hypermedia as a graph interface and Robert's insights from Procore's internal federation implementation journey.
 ---
 
 00:32:32:19 - 00:33:00:20

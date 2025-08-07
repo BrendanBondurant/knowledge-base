@@ -1,9 +1,42 @@
-# ep20-02-business-tradeoffs-and-readability
-
-**Time Range:** 00:06:28:26 - 00:12:00:17
-
-**Topic:** Business tradeoffs of language choice and readability
-
+---
+title: Business Tradeoffs and Readability
+slug: ep20-02-business-tradeoffs-and-readability
+series: The Good Thing
+episode: 20
+chunk: 2
+participants:
+  - Stefan
+  - Jens
+segment: Language Choice and Business Impact
+timecode: 00:06:28:26 – 00:12:00:17
+start_time: 00:06:28:26
+end_time: 00:12:00:17
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Business tradeoffs in programming language selection
+  - Code readability and maintainability considerations
+  - Team productivity and hiring implications
+  - Language ecosystem and tooling impact
+tags:
+  - business-tradeoffs
+  - code-readability
+  - maintainability
+  - team-productivity
+  - hiring
+  - language-ecosystem
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - Programming languages
+mentions:
+  - Language selection criteria
+  - Code maintainability factors
+  - Team productivity metrics
+  - Hiring and skill availability
+summary: |
+  Deep dive into the business considerations behind programming language choice, focusing on readability, maintainability, team productivity, and the broader implications for hiring and ecosystem support.
 ---
 
 00:06:28:26 - 00:06:44:29

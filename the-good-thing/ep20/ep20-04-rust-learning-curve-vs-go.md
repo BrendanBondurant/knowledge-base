@@ -1,9 +1,43 @@
-# ep20-04-rust-learning-curve-vs-go
-
-**Time Range:** 00:18:25:15 - 00:23:07:28
-
-**Topic:** Rust's learning curve and borrow checker vs Go’s flexibility
-
+---
+title: Rust Learning Curve vs Go
+slug: ep20-04-rust-learning-curve-vs-go
+series: The Good Thing
+episode: 20
+chunk: 4
+participants:
+  - Stefan
+  - Jens
+segment: Language Complexity and Developer Experience
+timecode: 00:18:25:15 – 00:23:07:28
+start_time: 00:18:25:15
+end_time: 00:23:07:28
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Rust's steep learning curve and borrow checker
+  - Go's flexibility and ease of adoption
+  - Developer experience differences
+  - Language complexity trade-offs
+tags:
+  - rust
+  - go
+  - learning-curve
+  - borrow-checker
+  - developer-experience
+  - language-complexity
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - Rust programming language
+  - Go programming language
+mentions:
+  - Rust borrow checker challenges
+  - Go's simplicity advantages
+  - Learning curve implications
+  - Developer productivity factors
+summary: |
+  Comparison of Rust's steep learning curve and borrow checker complexity against Go's flexibility and ease of adoption, examining how language complexity affects developer experience and productivity.
 ---
 00:18:25:15 - 00:18:47:18
 Jens

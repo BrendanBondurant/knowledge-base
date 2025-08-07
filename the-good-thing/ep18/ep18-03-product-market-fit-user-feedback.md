@@ -1,9 +1,45 @@
-# ep18-03-product-market-fit-user-feedback
-
-**Time Range:** 00:13:08:16 - 00:20:00:05
-
-**Topic:** Product market fit and listening to users
-
+---
+title: Product Market Fit and User Feedback
+slug: ep18-03-product-market-fit-user-feedback
+series: The Good Thing
+episode: 18
+chunk: 3
+participants:
+  - Stefan
+  - Jens
+segment: Understanding product-market fit dynamics
+timecode: 00:13:08:16 – 00:20:00:05
+start_time: 00:13:08:16
+end_time: 00:20:00:05
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Startup strategy ownership and accountability
+  - Product-market fit recognition and feelings
+  - Sales as listening vs forcing solutions
+  - Push vs pull market dynamics
+  - Everything feeling "off" without PMF
+  - Identifying customer pain points and company problems
+tags:
+  - product-market-fit
+  - sales-strategy
+  - customer-listening
+  - market-dynamics
+  - startup-strategy
+  - pain-points
+entities:
+  - TAB (Technical Advisory Board)
+mentions:
+  - owning your stuff and not blaming people
+  - layoffs meaning plan didn't align with reality
+  - pushing solution into market
+  - marketing and sales investment requirements
+  - everything feels off without PMF
+  - deals taking forever
+  - listening vs forcing solutions down throats
+summary: |
+  Jens emphasizes founder accountability for strategy failures, noting that layoffs often signal misalignment between plans and reality. He describes the feeling of lacking product-market fit as everything being "off" - deals take forever, growth is slow, despite some sales occurring. Stefan explains that effective sales is about listening to identify real problems rather than forcing solutions, with the goal being market pull rather than push dynamics.
 ---
 
 00:13:08:16 - 00:13:11:19

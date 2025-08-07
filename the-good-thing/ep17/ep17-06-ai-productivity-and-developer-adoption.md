@@ -1,9 +1,49 @@
-# ep17-06-ai-productivity-and-developer-adoption
-
-**Time Range:** 00:25:14 - 00:30:28
-
-**Topic:** AI’s impact on developer experience and speed
-
+---
+title: AI Productivity and Developer Adoption
+slug: ep17-06-ai-productivity-and-developer-adoption
+series: The Good Thing
+episode: 17
+chunk: 6
+participants:
+  - Stefan
+  - Jens
+segment: AI impact on developer productivity and career evolution
+timecode: 00:25:14 – 00:30:28
+start_time: 00:25:14
+end_time: 00:30:28
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Bootcamp limitations vs real-world experience
+  - AI making developers 10x faster vs replacing them
+  - Constant relearning in technology careers
+  - Technology obsolescence every 17 years
+  - Medical field stability vs tech evolution
+  - Cloud deployment simplification with AI
+tags:
+  - ai-productivity
+  - developer-evolution
+  - career-development
+  - technology-obsolescence
+  - learning-curve
+  - imposter-syndrome
+entities:
+  - Cursor
+  - ChatGPT
+  - AWS
+  - FTP
+mentions:
+  - todo app bootcamp projects
+  - 10x developer productivity debate
+  - medical school continuing education
+  - stitches technique unchanged since 70s
+  - 1997 vs current development landscape
+  - 17-year technology refresh cycle
+  - FTP file upload simplicity
+  - ChatGPT AWS integration
+summary: |
+  Stefan explores the debate between AI making developers 10x more productive versus replacing them entirely, comparing technology's constant evolution to more stable fields like medicine. He notes that developers must constantly relearn everything as technology cycles refresh every 17 years, from simple FTP uploads in the 90s to AI-assisted cloud deployment today, questioning whether this makes developers stronger or more dependent on tools.
 ---
 
 00:25:14:25 - 00:25:36:12

@@ -1,9 +1,56 @@
-# ep17-05-anxiety-juniors-and-bootcamp-bubble
-
-**Time Range:** 00:20:22 - 00:25:14
-
-**Topic:** Developer anxiety and the impact of bootcamps
-
+---
+title: Anxiety, Juniors, and the Bootcamp Bubble
+slug: ep17-05-anxiety-juniors-and-bootcamp-bubble
+series: The Good Thing
+episode: 17
+chunk: 5
+participants:
+  - Stefan
+  - Jens
+segment: Developer experience evolution and complexity
+timecode: 00:20:22 – 00:25:14
+start_time: 00:20:22
+end_time: 00:25:14
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Imposter syndrome and developer anxiety
+  - Evolution of development stack complexity
+  - Modern stack vs simple PHP/Apache setup
+  - Majority of developers having less than 3 years experience
+  - AI and cursor impact on junior developers
+  - Apprenticeship model vs bootcamp approach
+tags:
+  - imposter-syndrome
+  - developer-anxiety
+  - bootcamps
+  - junior-developers
+  - stack-complexity
+  - learning-fundamentals
+entities:
+  - PHP
+  - Apache
+  - Engine X
+  - MySQL
+  - Next.js
+  - Keycloak
+  - Node.js
+  - Postgres
+  - Redis
+  - ClickHouse
+  - OpenTelemetry
+  - Cursor
+mentions:
+  - simple PHP file upload with FTP
+  - modern complex technology stack
+  - high demand for developers
+  - majority being non-senior developers
+  - vibe coding without understanding
+  - security vulnerabilities in AI-generated code
+  - carpenter apprenticeship analogy
+summary: |
+  Jens discusses how development has become exponentially more complex compared to simple PHP/Apache setups, while the majority of developers now have less than 3 years of experience. He expresses concern about junior developers using AI tools like Cursor to "vibe code" without understanding fundamentals, comparing it unfavorably to traditional apprenticeship models where you learn to do things by hand first.
 ---
 
 00:20:22:04 - 00:21:06:02

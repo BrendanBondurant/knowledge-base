@@ -1,9 +1,47 @@
-# ep19-08-llm-consumers-and-schema-first-apis
-
-**Time Range:** 00:37:10 - 00:42:11
-
-**Topic:** AI as a new API consumer, schema-first value, and GraphQL’s metadata advantages
-
+---
+title: LLM Consumers and Schema-First APIs
+slug: ep19-08-llm-consumers-and-schema-first-apis
+series: The Good Thing
+episode: 19
+chunk: 8
+participants:
+  - Stefan
+  - Robert Farr
+  - Jens
+segment: AI and API Design
+timecode: 00:37:10 – 00:42:11
+start_time: 00:37:10
+end_time: 00:42:11
+speakers:
+  - Stefan
+  - Robert Farr
+  - Jens
+topics:
+  - AI and LLMs as new API consumers
+  - Schema-first approach value proposition
+  - GraphQL's metadata and introspection advantages
+  - API design for AI integration
+tags:
+  - llm
+  - ai
+  - schema-first
+  - graphql
+  - metadata
+  - introspection
+  - api-consumers
+entities:
+  - Robert Farr
+  - Stefan Avram
+  - Jens Neuse
+  - GraphQL
+  - AI/LLM systems
+mentions:
+  - AI as API consumer paradigm
+  - Schema-first design benefits
+  - GraphQL introspection capabilities
+  - Metadata-driven integration
+summary: |
+  Discussion of how AI and LLMs represent a new class of API consumers, highlighting the value of schema-first approaches and GraphQL's metadata advantages for AI integration.
 ---
 
 00:37:10:22 - 00:37:38:22

@@ -1,9 +1,47 @@
-# ep19-01-robert-farr-journey-to-procore
-
-**Time Range:** 00:00:09 - 00:05:01
-
-**Topic:** Robert Farr's background, Kansas City tech scene, and transition from Cerner to Procore
-
+---
+title: Robert Farr's Journey to Procore
+slug: ep19-01-robert-farr-journey-to-procore
+series: The Good Thing
+episode: 19
+chunk: 1
+participants:
+  - Stefan
+  - Robert Farr
+segment: Introduction and Guest Background
+timecode: 00:00:09 – 00:05:01
+start_time: 00:00:09
+end_time: 00:05:01
+speakers:
+  - Stefan
+  - Robert Farr
+topics:
+  - Robert Farr's career journey from Kansas City to Procore
+  - Transition from Cerner to Procore
+  - Kansas City tech scene and geography
+  - Career progression in distributed systems and site reliability
+tags:
+  - career-journey
+  - procore
+  - cerner
+  - kansas-city
+  - distributed-systems
+  - site-reliability-engineering
+entities:
+  - Robert Farr
+  - Procore
+  - Cerner
+  - Kansas City
+  - Missouri
+  - Stefan Avram
+  - WunderGraph
+  - Milo
+mentions:
+  - Kansas City geography spanning two states
+  - Stefan's previous work at Milo in Kansas City
+  - Robert's background in distributed systems
+  - Career transition from healthcare to construction tech
+summary: |
+  Stefan introduces Robert Farr, Principal Architect at Procore, discussing his background in Kansas City and career journey from Cerner to Procore. The conversation covers Robert's experience in distributed systems and site reliability engineering.
 ---
 Episode 19
 00:00:09:26 - 00:00:27:17

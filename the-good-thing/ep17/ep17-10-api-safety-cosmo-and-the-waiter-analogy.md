@@ -1,9 +1,48 @@
-# ep17-10-api-safety-cosmo-and-the-waiter-analogy
-
-**Time Range:** 00:45:01 - 00:50:19
-
-**Topic:** Why APIs safeguard AI systems and Cosmo's role
-
+---
+title: API Safety, Cosmo, and the Waiter Analogy
+slug: ep17-10-api-safety-cosmo-and-the-waiter-analogy
+series: The Good Thing
+episode: 17
+chunk: 10
+participants:
+  - Stefan
+  - Jens
+segment: API contracts as AI safety mechanisms
+timecode: 00:45:01 – 00:50:19
+start_time: 00:45:01
+end_time: 00:50:19
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - LLM text communication vulnerabilities
+  - Token tokenization and model differences
+  - Temperature and creativity vs hallucinations
+  - API contracts as safety mechanisms
+  - Waiter restaurant analogy for API safety
+  - Schema validation and type safety
+tags:
+  - api-safety
+  - llm-communication
+  - tokenization
+  - temperature-settings
+  - schema-validation
+  - safety-mechanisms
+entities:
+  - LLMs
+  - Sofia
+  - API contracts
+mentions:
+  - sending 100 bucks to Sofia
+  - raw text communication problems
+  - tokenization process
+  - different model training data
+  - temperature creativity settings
+  - hallucinations risk
+  - waiter restaurant analogy
+  - schema validation importance
+summary: |
+  Jens explains why raw text communication between LLMs is dangerous, using an example of accidentally sending money to Sofia due to tokenization differences and temperature settings causing hallucinations. He advocates for API contracts as safety mechanisms, using a waiter restaurant analogy to illustrate how structured schemas provide validation and type safety that prevent AI systems from executing unintended actions.
 ---
 
 00:45:01:06 - 00:45:06:24

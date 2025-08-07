@@ -1,9 +1,47 @@
-# ep17-03-monoliths-vs-microservices-in-practice
-
-**Time Range:** 00:10:29 - 00:15:20
-
-**Topic:** Microservices vs monoliths and solving the right problems
-
+---
+title: Monoliths vs Microservices in Practice
+slug: ep17-03-monoliths-vs-microservices-in-practice
+series: The Good Thing
+episode: 17
+chunk: 3
+participants:
+  - Stefan
+  - Jens
+segment: Practical comparison of monolith vs microservice architectures
+timecode: 00:10:29 – 00:15:20
+start_time: 00:10:29
+end_time: 00:15:20
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Microservices anti-patterns for small teams
+  - Monolith success stories vs microservices complexity
+  - Focus on problem-solving over architecture trends
+  - Cosmo's boring monolith approach
+  - RPC contracts and client generation
+tags:
+  - microservices
+  - monolith
+  - architecture-patterns
+  - team-size
+  - complexity-management
+  - boring-tech
+entities:
+  - Ruby on Rails
+  - GitHub
+  - Cosmo
+  - WunderGraph
+  - buf connect
+mentions:
+  - five developer team antipattern
+  - GitHub scaling with Rails
+  - companies going bankrupt from monoliths
+  - microservices complexity stories
+  - control plane architecture
+  - RPC contract generation
+summary: |
+  Jens critiques the trend of small teams adopting microservices prematurely, arguing that monoliths like GitHub's Rails implementation have better scaling stories than complex microservice architectures. He advocates for boring, problem-focused solutions, using WunderGraph's Cosmo as an example of a successful single backend with RPC contracts that serves multiple clients without unnecessary architectural complexity.
 ---
 
 00:10:29:05 - 00:11:01:07

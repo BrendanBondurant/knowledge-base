@@ -1,9 +1,51 @@
-# ep18-04-open-source-enterprise-enablemen
-
-**Time Range:** 00:20:00:08 - 00:26:47:12
-
-**Topic:** Open source as enterprise enabler
-
+---
+title: Open Source Enterprise Enablement
+slug: ep18-04-open-source-enterprise-enablemen
+series: The Good Thing
+episode: 18
+chunk: 4
+participants:
+  - Stefan
+  - Jens
+segment: Open source strategy for enterprise sales
+timecode: 00:20:00:08 – 00:26:47:12
+start_time: 00:20:00:08
+end_time: 00:26:47:12
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Product-market fit definition as willingness to pay
+  - Technical Advisory Board (TAB) introduction
+  - Open source vs closed source enterprise sales
+  - Organizational barriers to trying new solutions
+  - Healthcare company eight-month blocking example
+  - Bank POC limitations with play graphs only
+  - Open source enabling engineer evaluation
+tags:
+  - open-source-strategy
+  - enterprise-sales
+  - organizational-barriers
+  - poc-limitations
+  - engineer-evaluation
+  - healthcare-company
+  - bank-restrictions
+entities:
+  - TAB (Technical Advisory Board)
+  - Healthcare company
+  - Cosmo
+  - Banks
+mentions:
+  - product market fit as pain big enough to pay for
+  - how to iterate and get to PMF
+  - open secret discovery
+  - healthcare enterprise call
+  - eight months company blocking
+  - different vendor market solution
+  - large bank POC with play graphs
+  - engineer interest vs organizational blocking
+summary: |
+  Stefan defines product-market fit as solving pain big enough that people pay for it, introducing the TAB concept for iteration guidance. Jens shares insights from healthcare enterprise calls, revealing how organizational barriers prevent engineers from trying solutions for months. He describes an eight-month blocking scenario and bank POCs restricted to play graphs, illustrating how open source enables engineer evaluation when traditional enterprise sales processes create insurmountable barriers.
 ---
 
 00:20:00:08 - 00:20:10:13

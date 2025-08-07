@@ -1,9 +1,47 @@
-# ep19-03-api-contracts-and-internal-vs-external-use
-
-**Time Range:** 00:10:10 - 00:15:13
-
-**Topic:** Role of APIs at Procore, internal vs external API thinking, and contracts in large systems
-
+---
+title: API Contracts and Internal vs External Use
+slug: ep19-03-api-contracts-and-internal-vs-external-use
+series: The Good Thing
+episode: 19
+chunk: 3
+participants:
+  - Stefan
+  - Robert Farr
+  - Jens
+segment: API Architecture and Design Patterns
+timecode: 00:10:10 – 00:15:13
+start_time: 00:10:10
+end_time: 00:15:13
+speakers:
+  - Stefan
+  - Robert Farr
+  - Jens
+topics:
+  - Role of APIs at Procore in large-scale systems
+  - Internal vs external API design considerations
+  - API contracts and governance in enterprise environments
+  - Architectural patterns for system integration
+tags:
+  - api-design
+  - contracts
+  - architecture
+  - enterprise
+  - governance
+  - internal-apis
+  - external-apis
+  - procore
+entities:
+  - Procore
+  - Robert Farr
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - API contract design strategies
+  - Internal vs external API considerations
+  - Large system integration challenges
+  - Enterprise API governance
+summary: |
+  Discussion of API architecture at Procore, focusing on the role of APIs in large systems, differences between internal and external API design approaches, and the challenges of maintaining contracts in enterprise environments.
 ---
 
 00:10:10:26 - 00:10:30:01

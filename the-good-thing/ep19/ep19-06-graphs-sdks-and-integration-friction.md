@@ -1,9 +1,45 @@
-# ep19-06-graphs-sdks-and-integration-friction
-
-**Time Range:** 00:27:21 - 00:32:32
-
-**Topic:** Jens and Robert on SDKs, webhooks, graphs, service fragmentation, and external integrations
-
+---
+title: Graphs, SDKs, and Integration Friction
+slug: ep19-06-graphs-sdks-and-integration-friction
+series: The Good Thing
+episode: 19
+chunk: 6
+participants:
+  - Stefan
+  - Robert Farr
+  - Jens
+segment: Integration Patterns and Developer Tools
+timecode: 00:27:21 – 00:32:32
+start_time: 00:27:21
+end_time: 00:32:32
+speakers:
+  - Stefan
+  - Robert Farr
+  - Jens
+topics:
+  - SDKs and their role in API integration
+  - Webhooks and real-time integration patterns
+  - Graph representations and service architecture
+  - External integration challenges and friction
+tags:
+  - sdks
+  - webhooks
+  - graphs
+  - integration
+  - service-architecture
+  - external-apis
+entities:
+  - Robert Farr
+  - Stefan Avram
+  - Jens Neuse
+  - Procore
+mentions:
+  - SDK design patterns
+  - Webhook implementation challenges
+  - Service fragmentation issues
+  - External integration friction
+summary: |
+  Discussion of integration patterns including SDKs, webhooks, and graph representations, exploring how service fragmentation creates friction for external integrations and developer experience.
 ---
 
 00:27:21:13 - 00:27:22:23

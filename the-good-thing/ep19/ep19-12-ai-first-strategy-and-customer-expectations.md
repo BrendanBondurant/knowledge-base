@@ -1,9 +1,45 @@
-# ep19-12-ai-first-strategy-and-customer-expectations
-
-**Time Range:** 00:58:01 - 01:03:09
-
-**Topic:** AI-first strategy at Procore, enterprise impact, customer reactions, and internal tools
-
+---
+title: AI-First Strategy and Customer Expectations
+slug: ep19-12-ai-first-strategy-and-customer-expectations
+series: The Good Thing
+episode: 19
+chunk: 12
+participants:
+  - Stefan
+  - Robert Farr
+  - Jens
+segment: AI Strategy and Enterprise Adoption
+timecode: 00:58:01 – 01:03:09
+start_time: 00:58:01
+end_time: 01:03:09
+speakers:
+  - Stefan
+  - Robert Farr
+  - Jens
+topics:
+  - AI-first strategy implementation at Procore
+  - Enterprise AI impact and transformation
+  - Customer reactions to AI initiatives
+  - Internal tool development with AI
+tags:
+  - ai-first-strategy
+  - procore
+  - enterprise-ai
+  - customer-expectations
+  - internal-tools
+  - ai-transformation
+entities:
+  - Procore
+  - Robert Farr
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - Procore's AI-first approach
+  - Enterprise AI transformation
+  - Customer feedback on AI features
+  - Internal AI tool development
+summary: |
+  Robert discusses Procore's AI-first strategy implementation, exploring enterprise AI impact, customer reactions to AI initiatives, and the development of internal AI-powered tools.
 ---
 
 00:58:01:19 - 00:58:06:06

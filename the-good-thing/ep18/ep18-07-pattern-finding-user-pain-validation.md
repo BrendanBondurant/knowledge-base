@@ -1,9 +1,55 @@
-# ep18-07-pattern-finding-user-pain-validation
-
-**Time Range:** 00:38:04:00 - 00:44:35:22
-
-**Topic:** Pattern finding and user pain validation
-
+---
+title: Pattern Finding and User Pain Validation
+slug: ep18-07-pattern-finding-user-pain-validation
+series: The Good Thing
+episode: 18
+chunk: 7
+participants:
+  - Stefan
+  - Jens
+segment: TAB methodology for pattern discovery and validation
+timecode: 00:38:04:00 – 00:44:35:22
+start_time: 00:38:04:00
+end_time: 00:44:35:22
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Scoping TAB conversations to relevant domains
+  - Cosmo usage patterns in B2C digital applications
+  - Multi-team federation dynamics
+  - Stakeholder mapping and workflow analysis
+  - Priority identification and pain point discovery
+  - Pattern overlap identification across customers
+  - Hockey stick growth inflection point finding
+  - Customer behavior exploration methodology
+tags:
+  - pattern-discovery
+  - user-research
+  - stakeholder-mapping
+  - workflow-analysis
+  - pain-point-validation
+  - growth-inflection
+  - customer-behavior
+entities:
+  - Cosmo
+  - GraphQL
+  - Federation
+  - B2C applications
+  - Product owners
+  - Developers
+mentions:
+  - finding real gold in conversations
+  - not asking about commuting to work
+  - B2C digital applications nature
+  - multiple teams working together
+  - stakeholder mapping process
+  - to-do list prioritization
+  - buying solution over everything else
+  - hockey stick growth point
+  - TAB exploration fun factor
+summary: |
+  Jens explains how to scope TAB conversations effectively by focusing on relevant domains like Cosmo's federation and API space rather than unrelated areas. He describes their discovery process: mapping B2C application teams, identifying stakeholders and workflows, and understanding daily priorities to find pain points significant enough to make customers prioritize buying solutions above everything else. The goal is finding behavioral patterns across customers that indicate inflection points for hockey stick growth.
 ---
 
 00:38:04:00 - 00:38:25:01
