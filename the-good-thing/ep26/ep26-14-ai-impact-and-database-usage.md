@@ -1,4 +1,3 @@
-
 ---
 title: AI Impact and Database Usage
 slug: ep26-14-ai-impact-and-database-usage

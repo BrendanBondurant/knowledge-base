@@ -1,4 +1,3 @@
-
 ---
 title: Open Source Strategy and VC Resistance
 slug: ep08-02-open-source-and-self-hosting
@@ -174,7 +173,7 @@ And what was the difference between the SDK and Cosmo, especially in terms of re
 00:17:08:08 - 00:17:49:09
 Jens
 So, the SDK allowed you to define API dependencies, glue them together so you could say,
-here's a Postgres database, here's a rest API, here’s a GraphQL API, glue them all together into
+here's a Postgres database, here's a rest API, here's a GraphQL API, glue them all together into
 a single unified GraphQL schema, and then expose that as an API. Cool tool. Was a lot of fun to
 build. Problem. The, I would say that the impact radius of the solution and that's it's like super
 important concept impact radius of the solution is single person or single team.
