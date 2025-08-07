@@ -1,26 +1,121 @@
 1
 
-
+| Start    | End      | Topic                                                                        | Slug                                               |
+| -------- | -------- | ---------------------------------------------------------------------------- | -------------------------------------------------- |
+| 00:00:01 | 00:02:32 | Podcast Origins and the Engineering of Tradeoffs                            | ep01-01-intro-podcast-origins-tradeoffs           |
+| 00:02:32 | 00:06:42 | Mono Skiing, Recovery, and Learning to Fail                                 | ep01-02-jens-accident-resilience-monoskiing       |
+| 00:06:42 | 00:10:02 | Startup Resilience Rooted in Recovery                                       | ep01-03-resilience-career-pivot-accident          |
+| 00:10:02 | 00:13:23 | Education After Accident: Business, Psychology, and Persistence             | ep01-04-education-after-accident-business-psychology |
+| 00:13:23 | 00:16:46 | From Perl Frustration to Startup Beginnings                                 | ep01-05-learning-from-failure-startup-lessons     |
+| 00:16:46 | 00:20:07 | Shakealert Startup — First Real Coding Experience                           | ep01-06-shakealert-startup-self-taught-dev        |
+| 00:20:07 | 00:23:12 | Getting Over Fear and Just Doing Things                                     | ep01-07-gaming-fear-go-language-just-do-things    |
+| 00:23:12 | 00:26:23 | Procrastination, Deep Learning, and Fundamentals                            | ep01-08-procrastination-deep-learning-fundamentals |
+| 00:26:23 | 00:29:55 | Fundamentals, AI Learning, and The Imposters Handbook                       | ep01-09-fundamentals-ai-learning-imposters-handbook |
+| 00:29:55 | 00:32:55 | Realizing What You Don't Know — Seniority and Boldness                      | ep01-10-seniority-boldness-it-depends             |
+| 00:32:55 | 00:36:29 | First Startup Lessons Failure and Flywheels                                 | ep01-11-first-startup-lessons-failure-and-flywheels |
+| 00:36:30 | 00:39:17 | Marketplace Flywheels and Airbnb Lessons                                    | ep01-12-marketplace-flywheels-and-airbnb-lessons  |
+| 00:39:17 | 00:42:46 | Post-Shake Failure CTO Mindset and Confidence                               | ep01-13-post-shake-failure-cto-mindset-and-confidence |
+| 00:42:46 | 00:46:53 | From Architect to GraphQL Inspiration                                       | ep01-14-from-architect-to-graphql-inspiration     |
+| 00:46:53 | 00:49:40 | Soft Skills Bold Applications and Bare Metal Mistakes                       | ep01-15-soft-skills-bold-applications-and-bare-metal-mistakes |
+| 00:49:40 | 00:53:29 | Bare Metal Overkill and Custom CMS Traps                                    | ep01-16-bare-metal-overkill-and-custom-cms-traps  |
+| 00:53:29 | 00:57:05 | Build vs Buy Regret and Product Focus                                       | ep01-17-build-vs-buy-regret-and-product-focus     |
+| 00:57:05 | 01:00:23 | Federation Pitfalls and Customer Focus                                      | ep01-18-federation-pitfalls-and-customer-focus    |
+| 01:00:23 | 01:03:28 | Customer Focus AI Era and Career Advice                                     | ep01-19-customer-focus-ai-era-and-career-advice   |
+| 01:03:28 | 01:07:15 | Prompting Programming and Team Dynamics                                     | ep01-20-prompting-programming-and-team-dynamics   |
+| 01:07:15 | 01:10:10 | Collaboration Federation and Episode Wrap                                   | ep01-21-collaboration-federation-and-episode-wrap |
 
 2
 
-
+| Start    | End      | Topic                                                                        | Slug                                               |
+| -------- | -------- | ---------------------------------------------------------------------------- | -------------------------------------------------- |
+| 00:00:24 | 00:04:43 | Introduction and Retreat Experience in Norway                               | ep02-01-intro-retreat-norway                      |
+| 00:04:44 | 00:08:36 | Remote Culture and Quarterly Retreats                                       | ep02-02-remote-culture-quarterly-retreats         |
+| 00:08:37 | 00:12:34 | Customer Proximity and Engineering Feedback Loops                           | ep02-03-customer-proximity-feedback-loops         |
+| 00:12:34 | 00:16:37 | Reliability vs Speed and Test Suite Optimization                            | ep02-04-reliability-speed-test-suite              |
+| 00:16:37 | 00:20:13 | Hiring Philosophy and Team Culture                                          | ep02-05-hiring-team-culture-marathon-runners      |
+| 00:20:13 | 00:25:15 | Cache Warming and Super Bowl Traffic Spikes                                 | ep02-06-cache-warming-super-bowl-traffic          |
+| 00:25:15 | 00:29:35 | Cache Warmer Solution and Analytics Implementation                          | ep02-07-cache-warmer-solution-analytics           |
+| 00:30:01 | 00:33:43 | Business Impact of Performance and Conversion Rates                         | ep02-08-business-impact-performance-conversion     |
+| 00:33:43 | 00:39:32 | Federation vs REST Organizational Benefits                                  | ep02-09-federation-vs-rest-organizational-benefits |
+| 00:39:32 | 00:43:16 | Schema Transparency and Conway's Law                                        | ep02-10-schema-transparency-conways-law           |
+| 00:43:16 | 00:47:02 | Hypermedia APIs and LLM Agents                                              | ep02-11-hypermedia-apis-llm-agents                |
+| 00:47:02 | 00:51:44 | Super Bowl Preparation and War Room Setup                                   | ep02-12-super-bowl-preparation-war-room           |
+| 00:51:44 | 00:56:39 | Descriptions, Federation, and RFC Process                                   | ep02-13-descriptions-federation-rfc               |
+| 00:56:39 | 01:00:08 | Closing, Hiring, and Episode Wrap-up                                        | ep02-14-closing-hiring-episode-wrap               |
 
 3
 
-
+| Start    | End      | Topic                                                                        | Slug                                               |
+| -------- | -------- | ---------------------------------------------------------------------------- | -------------------------------------------------- |
+| 00:00:15 | 00:05:21 | Introduction and Dustin's Background                                        | ep03-01-intro-dustin-background                   |
+| 00:05:21 | 00:08:30 | Role Evolution and Technical Founder Discussion                             | ep03-02-role-evolution-technical-founder          |
+| 00:08:30 | 00:13:26 | AI Tools and Workflow Discussion                                            | ep03-03-ai-tools-workflow-copilot                 |
+| 00:13:26 | 00:16:34 | Hiring Practices and AI-Generated Code                                      | ep03-04-hiring-ai-generated-code                  |
+| 00:16:34 | 00:21:40 | Fly.io Mistake and Reliability Lessons                                      | ep03-05-fly-io-mistake-reliability                |
+| 00:21:40 | 00:26:46 | Cosmo's Boring Tech Architecture                                            | ep03-06-cosmo-boring-tech-architecture            |
+| 00:26:46 | 00:32:26 | Telemetry Pipeline Architecture                                             | ep03-07-telemetry-pipeline-architecture           |
+| 00:32:26 | 00:37:00 | ClickHouse Self-Hosting Discussion                                          | ep03-08-clickhouse-self-hosting-discussion        |
+| 00:37:00 | 00:42:32 | Startup Credits and Business Focus                                          | ep03-09-startup-credits-business-focus            |
+| 00:42:32 | 00:47:39 | Observability and Self-Hosting Debate                                       | ep03-10-observability-self-hosting-debate         |
+| 00:47:39 | 00:53:01 | Edge Computing Discussion                                                    | ep03-11-edge-computing-discussion                 |
+| 00:53:01 | 00:56:45 | Cosmo Architecture Reliability and Closing                                  | ep03-12-cosmo-architecture-reliability-closing    |
 
 4
 
-
+| Start    | End      | Topic                                                                        | Slug                                               |
+| -------- | -------- | ---------------------------------------------------------------------------- | -------------------------------------------------- |
+| 00:00:24 | 00:03:15 | Podcast Feedback, Casual Tone, and Devtools Origins                         | ep04-01-intro-podcast-feedback-devtools-origins   |
+| 00:03:15 | 00:06:56 | Startup Identity, Hero Messaging, and Sales Realities                       | ep04-02-startup-identity-hero-messaging-sales     |
+| 00:06:56 | 00:10:07 | Pricing, Customer Value, and Mid-Market vs. Enterprise                      | ep04-03-pricing-customer-value-midmarket-enterprise |
+| 00:10:07 | 00:13:12 | WunderGraph Cloud, Low-Cost Customers, and Support Challenges               | ep04-04-wundergraph-cloud-support-enterprise      |
+| 00:13:12 | 00:16:17 | Enterprise as End Goal, Value Creation, and Startup Advice                  | ep04-05-enterprise-end-goal-value-advice          |
+| 00:16:17 | 00:19:11 | Building Relationships, Customer Validation, and Payment                    | ep04-06-customer-relationships-validation-payment |
+| 00:19:11 | 00:22:00 | Customer Willingness to Pay, Procurement, and the Zip Story                 | ep04-07-customer-willingness-payment-zip-story    |
+| 00:22:00 | 00:25:32 | Fly.io, Platform Building, Reliability, and Support                         | ep04-08-flyio-platform-reliability-support        |
+| 00:25:32 | 00:29:02 | Customer Focus, ICP Changes, Company Growth, and Listening to Users         | ep04-09-customer-focus-icp-growth-feedback        |
+| 00:29:02 | 00:35:10 | Collaboration, Team Energy, Feedback Loops, and Cache Warmer Story          | ep04-10-collaboration-team-feedback-cachewarmer   |
+| 00:44:09 | 00:52:10 | Vision vs. Customer Feedback, AB Testing, and Luck                          | ep04-11-vision-feedback-abtesting-luck            |
+| 00:52:10 | 00:59:01 | Market Size, VC Pattern Matching, and Founder vs. Market                    | ep04-12-market-size-vc-patterns-founder-vs-market |
+| 00:59:01 | 01:06:02 | Innovation, Platform Moats, AI, and Collaboration Platforms                 | ep04-13-innovation-moats-ai-platforms             |
+| 01:06:02 | 01:13:55 | VC Bets, Future Predictions, Peace, Green Energy, and the Future of Software | ep04-14-vc-bets-future-peace-energy-software      |
 
 5
 
-
+| Start    | End      | Topic                                                                        | Slug                                               |
+| -------- | -------- | ---------------------------------------------------------------------------- | -------------------------------------------------- |
+| 00:00:25 | 00:07:12 | Intro, Content Marketing, and Founder-Led Content                           | ep05-01-intro-content-marketing-founder-led       |
+| 00:07:12 | 00:11:00 | Content Creation, Practice, and Sales Mindset                               | ep05-02-content-creation-practice-sales-mindset   |
+| 00:11:00 | 00:15:17 | Sales, Rejection, Indecision, and Customer Focus                            | ep05-03-sales-rejection-indecision-customer-focus |
+| 00:15:17 | 00:22:31 | Enterprise Sales, Value Demonstration, and Customer Stories                 | ep05-04-enterprise-sales-value-customer-stories   |
+| 00:22:32 | 00:27:37 | B2B/B2C Theory and Founder Mode                                             | ep05-05-b2b-b2c-theory-founder-mode               |
+| 00:27:37 | 00:36:27 | Founder Mode, Support Culture, and PII Handling                             | ep05-06-founder-mode-support-culture-pii          |
+| 00:36:27 | 00:45:06 | Customer Focus, Competition, and Benchmarks                                 | ep05-07-customer-focus-competition-benchmarks     |
+| 00:45:06 | 00:51:27 | Benchmarks, Performance, and Real-World Use Cases                           | ep05-08-benchmarks-performance-realworld          |
+| 00:51:27 | 00:56:04 | Micro vs. Macro Benchmarks and Code Optimization                            | ep05-09-micro-vs-macro-benchmarks-optimization    |
+| 00:56:05 | 01:06:41 | REST vs. GraphQL, Federation, and Organizational Problems                   | ep05-10-rest-vs-graphql-federation-org-problems   |
+| 01:06:41 | 01:11:00 | Boring Tech vs. Big Company Culture                                         | ep05-11-boring-tech-vs-bigco-culture              |
 
 6
 
-
+| Start    | End      | Topic                                                                        | Slug                                               |
+| -------- | -------- | ---------------------------------------------------------------------------- | -------------------------------------------------- |
+| 00:00:24 | 00:02:32 | Intro, Personal Updates, Wedding Prep, and Episode Theme                    | ep06-01-intro-personal-updates-wedding-theme      |
+| 00:02:32 | 00:04:54 | Copying Competitors and the Early Days of WunderGraph                       | ep06-02-copying-competitors-early-days-wundergraph |
+| 00:04:54 | 00:07:17 | Hasura, Apollo, Copying Features, and Distribution vs. Features             | ep06-03-hasura-apollo-copying-features-distribution |
+| 00:07:17 | 00:10:42 | Copying Competitors, Strategy, Vision, and Customer Focus                   | ep06-04-copying-competitors-strategy-vision        |
+| 00:10:42 | 00:13:34 | Distribution, Investor Conversations, and Growth Metrics                    | ep06-05-distribution-investors-growth-metrics      |
+| 00:13:34 | 00:16:56 | Open Source Alternatives, Business Models, and Product Differentiation     | ep06-06-open-source-alternatives-business-models   |
+| 00:16:56 | 00:20:15 | Open Source, Infra vs. Collaboration, and Value Perception                 | ep06-07-open-source-infra-vs-collaboration-value   |
+| 00:20:15 | 00:23:31 | Cost Structure, Infra vs. Collaboration, Pricing, and Value Alignment      | ep06-08-cost-structure-infra-collaboration-pricing |
+| 00:23:31 | 00:27:30 | Driving Down Infra Cost, Collaboration Features, Vercel, and AWS           | ep06-09-driving-down-infra-cost-collaboration-vercel-aws |
+| 00:27:30 | 00:31:41 | Open Source Game Theory, FAANG, and Community Contributions                | ep06-10-open-source-game-theory-faang-community   |
+| 00:31:41 | 00:36:26 | Open Source Efficiency, Code Quality, and Procurement                      | ep06-11-open-source-efficiency-code-quality-procurement |
+| 00:36:26 | 00:41:07 | Usage-Based Pricing, Enterprise Needs, and Predictability                  | ep06-12-usage-based-pricing-enterprise-predictability |
+| 00:41:07 | 00:45:00 | Copying Competitors, REST Connectors, and Technical Evaluation             | ep06-13-copying-competitors-rest-connectors-technical-evaluation |
+| 00:45:00 | 00:50:22 | N+1 Problems, Batching, Testing, and Engineering Philosophy                | ep06-14-n-plus-one-batching-testing-engineering   |
+| 00:50:22 | 00:55:10 | Startup Ideas, Motion, Learning from Failure, and Product Pivots           | ep06-15-startup-ideas-motion-learning-failure-pivots |
+| 00:55:10 | 01:03:21 | Team Dynamics, Retreat, Cosmo Pivot, First Customers, and Luck             | ep06-16-team-dynamics-retreat-cosmo-pivot-customers-luck |
+| 01:03:21 | 01:09:27 | FAANG Intro, Walmart, Onboarding, Feedback, and Episode Wrap-up            | ep06-17-faang-intro-walmart-onboarding-feedback-wrapup |
 
 7
 
@@ -31,7 +126,7 @@
 | 00:10:23 | 00:16:19 | Startup velocity, customer feedback loops, and iterative engineering culture | ep07-03-startup-velocity-and-feedback-loops        |
 | 00:16:19 | 00:21:16 | Query planner reliability, safeguards, and router headless mode              | ep07-04-query-plan-reliability-and-router-preview  |
 | 00:21:16 | 00:27:03 | Effects of directives like `@provides` and `@requires` on query planning     | ep07-05-directive-impact-on-query-planning         |
-| 00:27:03 | 00:32:20 | Architecture of Cosmo’s composition and execution config system              | ep07-06-cosmo-composition-and-execution-config     |
+| 00:27:03 | 00:32:20 | Architecture of Cosmo's composition and execution config system              | ep07-06-cosmo-composition-and-execution-config     |
 | 00:32:20 | 00:38:24 | How composition precomputes metadata to simplify query planning              | ep07-07-composition-simplifies-query-planning      |
 | 00:38:24 | 00:45:32 | Explaining subgraph jumps, root entry nodes, and graph traversal             | ep07-08-understanding-subgraph-jumps               |
 | 00:45:32 | 00:51:06 | Education, git migration, and continuous learning in GraphQL                 | ep07-09-continuous-learning-in-graphql             |
@@ -52,7 +147,7 @@
 | 00:09:03 | 00:19:15 | Open source, licensing, and the value of self-hosting                 | ep08-02-open-source-and-self-hosting              |
 | 00:19:15 | 00:27:51 | Infra vs collaboration products, pricing models, and monetization     | ep08-03-infra-vs-collaboration-and-pricing        |
 | 00:27:51 | 00:36:18 | SoundCloud case study intro and partnership highlights                | ep08-04-soundcloud-case-study                     |
-| 00:36:18 | 00:42:02 | Technical deep dive into SoundCloud’s migration and performance gains | ep08-05-soundcloud-migration-performance          |
+| 00:36:18 | 00:42:02 | Technical deep dive into SoundCloud's migration and performance gains | ep08-05-soundcloud-migration-performance          |
 | 00:42:02 | 00:49:03 | Critique of REST connectors and complexity of integrating legacy APIs | ep08-06-rest-connectors-and-legacy-api-challenges |
 | 00:49:03 | 00:54:23 | Schema quality, DX, and the risk of leaking REST abstractions         | ep08-07-schema-quality-and-abstractions           |
 | 00:54:23 | 01:00:26 | Launching the State of Federation report and GraphQL adoption trends  | ep08-08-state-of-federation-report                |
@@ -126,9 +221,9 @@
 | 00:10:01 | 00:14:14 | Proprietary code value and open source mindset for Cosmo and other tools          | ep12-04-code-value-vs-open-source         |
 | 00:14:14 | 00:18:23 | Federation and MCP compatibility: AI access through a supergraph                  | ep12-05-ai-mcp-federation-alignment       |
 | 00:18:23 | 00:22:42 | Using collections of GraphQL queries to create MCP interfaces with access control | ep12-06-mcp-through-graphql-collections   |
-| 00:22:42 | 00:26:19 | Federation’s origins, Apollo’s key contribution, and stalled innovation           | ep12-07-federation-history-and-apollo     |
+| 00:22:42 | 00:26:19 | Federation's origins, Apollo's key contribution, and stalled innovation           | ep12-07-federation-history-and-apollo     |
 | 00:26:19 | 00:30:09 | Limits of GraphQL for federation and introduction to Relay and Isograph           | ep12-08-graphql-limitations-relay         |
-| 00:30:09 | 00:34:15 | Relay’s node interface and Cosmo Router’s potential native support                | ep12-09-cosmo-native-relay-support        |
+| 00:30:09 | 00:34:15 | Relay's node interface and Cosmo Router's potential native support                | ep12-09-cosmo-native-relay-support        |
 | 00:34:15 | 00:38:22 | Secure entity lookup via JWT-based node IDs in federation                         | ep12-10-relay-jwt-node-entities           |
 | 00:38:22 | 00:42:26 | Why GraphQL is essential for Relay and UI refetching at scale                     | ep12-11-relay-fragments-ui-scale          |
 | 00:42:26 | 00:47:16 | GraphQL vs REST or tRPC in large frontend teams and hoisted fragments             | ep12-12-data-dependencies-at-scale        |
@@ -137,7 +232,7 @@
 | 00:54:11 | 00:58:19 | Ladder of devtool adoption and collaboration as the key to success                | ep12-15-devtools-ladder-and-collaboration |
 | 00:58:19 | 01:03:20 | Problems with compute-based business models and startup infra reliability         | ep12-16-compute-vs-collaboration          |
 | 01:03:20 | 01:08:23 | Reliability lessons from GCP vs Fly and value of collaborative tools              | ep12-17-infra-reliability-and-value       |
-| 01:08:23 | 01:12:03 | Why WunderGraph avoids managed routers and Apollo’s misstep                       | ep12-18-managed-router-operational-costs  |
+| 01:08:23 | 01:12:03 | Why WunderGraph avoids managed routers and Apollo's misstep                       | ep12-18-managed-router-operational-costs  |
 | 01:12:03 | 01:13:05 | Closing thoughts and tease for future episodes on Federation at scale             | ep12-19-collaboration-and-next-episode    |
 
 13
@@ -191,7 +286,7 @@
 | 00:30:17 | 00:35:11 | Retool's Clear Use Case and Visual Flow vs Execution Flaws                    | ep15-07-retool-clarity-and-flow                |
 | 00:35:11 | 00:40:01 | PostHog's Overloaded Feature Set and Developer Appeal                         | ep15-08-posthog-overreach-and-dev-style        |
 | 00:40:01 | 00:45:13 | Humor, Pricing, and Objection Handling on PostHog                             | ep15-09-posthog-humor-pricing-positioning      |
-| 00:45:13 | 00:50:17 | Roasting Apollo’s Hero Messaging and GraphQL Positioning                      | ep15-10-apollo-cloud-native-roast              |
+| 00:45:13 | 00:50:17 | Roasting Apollo's Hero Messaging and GraphQL Positioning                      | ep15-10-apollo-cloud-native-roast              |
 | 00:50:17 | 00:54:10 | Apollo Connectors and Lack of Problem Clarity                                 | ep15-11-apollo-connectors-messaging-gap        |
 | 00:54:10 | 00:59:12 | Federation Benefits Without Metrics and Confusing CTA                         | ep15-12-apollo-federation-performance-flaws    |
 | 00:59:12 | 01:04:01 | Roasting the WunderGraph Landing Page: Messaging and Audience Fit             | ep15-13-wundergraph-landing-page-roast         |
@@ -205,11 +300,11 @@
 | -------- | -------- | ------------------------------------------------------------------------------ | ------------------------------------------- |
 | 00:00:12 | 00:04:30 | Unreal Engine, open source distribution, and the value of mass adoption        | ep16-01-unreal-open-source-mass-adoption    |
 | 00:04:30 | 00:09:15 | Federation strategy, licensing constraints, and why open standards matter      | ep16-02-federation-licensing-open-standards |
-| 00:09:15 | 00:14:09 | Open source isn’t free, and expectations around support and contributions      | ep16-03-open-source-support-and-cost        |
+| 00:09:15 | 00:14:09 | Open source isn't free, and expectations around support and contributions      | ep16-03-open-source-support-and-cost        |
 | 00:14:09 | 00:21:10 | Community collaboration, PR maintenance, and risks of accepting external code  | ep16-04-collaboration-pr-liability          |
 | 00:21:10 | 00:26:16 | What happens if someone forks Cosmo: lack of future context and falling behind | ep16-05-forking-cosmo-future-context        |
 | 00:26:16 | 00:31:23 | Challenges in running Cosmo as a managed service without domain expertise      | ep16-06-managed-service-expertise-gap       |
-| 00:31:23 | 00:36:03 | Pricing, sales feedback loops, and why copying code doesn’t equal GTM success  | ep16-07-pricing-sales-copying-gaps          |
+| 00:31:23 | 00:36:03 | Pricing, sales feedback loops, and why copying code doesn't equal GTM success  | ep16-07-pricing-sales-copying-gaps          |
 | 00:36:03 | 00:41:07 | VC funding, market differentiation, and tar pit startup ideas                  | ep16-08-vc-differentiation-tarpits          |
 | 00:41:07 | 00:46:28 | Big company cloning limits, energy mismatch, and hiring misalignment           | ep16-09-bigco-cloning-energy-gap            |
 | 00:46:28 | 00:51:18 | Corporate tradeoffs, Cosmo competition, and founder drive                      | ep16-10-corporate-vs-founder-drive          |
@@ -224,7 +319,7 @@
 | 00:10:29 | 00:15:20 | Microservices vs monoliths and solving the right problems         | ep17-03-monoliths-vs-microservices-in-practice     |
 | 00:15:20 | 00:20:22 | Resume-driven development and coding as a tool                    | ep17-04-resume-driven-development-and-tool-mindset |
 | 00:20:22 | 00:25:14 | Developer anxiety and the impact of bootcamps                     | ep17-05-anxiety-juniors-and-bootcamp-bubble        |
-| 00:25:14 | 00:30:28 | AI’s impact on developer experience and speed                     | ep17-06-ai-productivity-and-developer-adoption     |
+| 00:25:14 | 00:30:28 | AI's impact on developer experience and speed                     | ep17-06-ai-productivity-and-developer-adoption     |
 | 00:30:28 | 00:34:58 | Using AI tools like ChatGPT and Cursor for research               | ep17-07-prompting-for-research-and-insight         |
 | 00:34:58 | 00:39:24 | Long-term AI autonomy and the limits of motivation                | ep17-08-ai-limits-and-autonomy-questions           |
 | 00:39:24 | 00:45:01 | AI communication challenges and the need for API contracts        | ep17-09-ai-communication-vs-api-safety             |
@@ -252,15 +347,15 @@
 | Start    | End      | Topic                                                                                       | Slug                                                |
 | -------- | -------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | 00:00:09 | 00:05:01 | Robert Farr's background, Kansas City tech scene, and transition from Cerner to Procore     | ep19-01-robert-farr-journey-to-procore              |
-| 00:05:01 | 00:10:10 | Procore’s mission, industry impact, founder story, and Robert’s role as principal architect | ep19-02-procore-mission-and-robert-role             |
+| 00:05:01 | 00:10:10 | Procore's mission, industry impact, founder story, and Robert's role as principal architect | ep19-02-procore-mission-and-robert-role             |
 | 00:10:10 | 00:15:13 | Role of APIs at Procore, internal vs external API thinking, and contracts in large systems  | ep19-03-api-contracts-and-internal-vs-external-use  |
-| 00:15:13 | 00:21:20 | Evolution of Robert’s thinking on APIs, monolithic database pain, REST vs RPC tradeoffs     | ep19-04-api-evolution-and-rest-vs-rpc               |
+| 00:15:13 | 00:21:20 | Evolution of Robert's thinking on APIs, monolithic database pain, REST vs RPC tradeoffs     | ep19-04-api-evolution-and-rest-vs-rpc               |
 | 00:21:20 | 00:27:21 | Governance at scale, challenges with API consistency, hypermedia, and developer experience  | ep19-05-api-governance-and-hypermedia-challenges    |
 | 00:27:21 | 00:32:32 | Jens and Robert on SDKs, webhooks, graphs, service fragmentation, and external integrations | ep19-06-graphs-sdks-and-integration-friction        |
-| 00:32:32 | 00:37:10 | Graphs vs GraphQL, hypermedia as graph interface, Procore’s internal federation journey     | ep19-07-graph-representation-and-federation-layer   |
-| 00:37:10 | 00:42:11 | AI as a new API consumer, schema-first value, and GraphQL’s metadata advantages             | ep19-08-llm-consumers-and-schema-first-apis         |
+| 00:32:32 | 00:37:10 | Graphs vs GraphQL, hypermedia as graph interface, Procore's internal federation journey     | ep19-07-graph-representation-and-federation-layer   |
+| 00:37:10 | 00:42:11 | AI as a new API consumer, schema-first value, and GraphQL's metadata advantages             | ep19-08-llm-consumers-and-schema-first-apis         |
 | 00:42:11 | 00:47:02 | Query planning, complexity scores, supergraph as database analogy, and federation insight   | ep19-09-query-planning-and-supergraph-as-database   |
-| 00:47:02 | 00:52:08 | Federation’s role in AI enablement, structured contracts, and GraphQL as SQL for agents     | ep19-10-federation-for-ai-and-sql-for-agents        |
+| 00:47:02 | 00:52:08 | Federation's role in AI enablement, structured contracts, and GraphQL as SQL for agents     | ep19-10-federation-for-ai-and-sql-for-agents        |
 | 00:52:08 | 00:58:01 | Building secure agent tools with MCP, session exploration, and production safety            | ep19-11-mcp-agent-workflows-and-security            |
 | 00:58:01 | 01:03:09 | AI-first strategy at Procore, enterprise impact, customer reactions, and internal tools     | ep19-12-ai-first-strategy-and-customer-expectations |
 | 01:03:09 | 01:05:33 | AI boom acceleration, value delivery pressure, and closing thoughts                         | ep19-13-embracing-ai-and-looking-ahead              |
@@ -272,13 +367,13 @@
 | 00:00:21:00 | 00:06:28:24 | Rust vs Go debate and developer accessibility                | ep20-01-rust-vs-go-debate-accessibility      |
 | 00:06:28:26 | 00:12:00:17 | Business tradeoffs of language choice and readability        | ep20-02-business-tradeoffs-and-readability   |
 | 00:12:00:19 | 00:18:25:13 | Tech obsession vs customer value and software complexity     | ep20-03-tech-obsession-customer-value        |
-| 00:18:25:15 | 00:23:07:28 | Rust's learning curve and borrow checker vs Go’s flexibility | ep20-04-rust-learning-curve-vs-go            |
+| 00:18:25:15 | 00:23:07:28 | Rust's learning curve and borrow checker vs Go's flexibility | ep20-04-rust-learning-curve-vs-go            |
 | 00:23:08:01 | 00:29:01:09 | AI blackmail headline analysis and LLM misunderstanding      | ep20-05-ai-blackmail-headline-analysis       |
 | 00:29:01:11 | 00:34:07:22 | OpenAI IPO spin and the vision-funded startup ecosystem      | ep20-06-openai-ipo-spin-startup-vision       |
 | 00:34:07:24 | 00:40:23:23 | Stargate project and hardware monopoly concerns              | ep20-07-stargate-project-and-monopoly        |
 | 00:40:23:25 | 00:47:02:24 | Codex vs Cursor and OpenAI's platform strategy               | ep20-08-codex-vs-cursor-openai-strategy      |
 | 00:47:02:27 | 00:51:10:03 | Distribution dominance and startup defensibility             | ep20-09-distribution-dominance-defensibility |
-| 00:51:10:06 | 01:01:08:19 | WunderGraph’s plugin system and LLM-optimized backend dev    | ep20-10-wundergraph-plugin-llm-backend       |
+| 00:51:10:06 | 01:01:08:19 | WunderGraph's plugin system and LLM-optimized backend dev    | ep20-10-wundergraph-plugin-llm-backend       |
 
 21
 
@@ -286,22 +381,22 @@
 | -------- | -------- | --------------------------------------------------------- | ----------------------------------------- |
 | 00:00:18 | 00:03:18 | Intro and explanation of the AI startup tier list game    | ep21-01-ai-startup-tier-list-intro        |
 | 00:03:18 | 00:06:06 | Explaining the tier list criteria and OpenAI risk         | ep21-02-tier-criteria-openai-risk         |
-| 00:06:06 | 00:10:08 | Reviewing ThunderCode’s website and messaging             | ep21-03-thundercode-website-review        |
-| 00:10:08 | 00:13:06 | Lack of clear value and founders’ potential to pivot      | ep21-04-thundercode-feedback-and-pivot    |
+| 00:06:06 | 00:10:08 | Reviewing ThunderCode's website and messaging             | ep21-03-thundercode-website-review        |
+| 00:10:08 | 00:13:06 | Lack of clear value and founders' potential to pivot      | ep21-04-thundercode-feedback-and-pivot    |
 | 00:13:06 | 00:16:08 | Transition to Marblism and first impressions of branding  | ep21-05-marblism-branding-and-demo        |
 | 00:16:08 | 00:20:06 | Marblism product walkthrough and UX feedback              | ep21-06-marblism-product-and-ux           |
 | 00:20:06 | 00:23:13 | Differentiation debate and OpenAI threat to Marblism      | ep21-07-marblism-uniqueness-and-threats   |
 | 00:23:13 | 00:27:08 | Reviewing Klavis and misunderstanding of value prop       | ep21-08-klavis-lack-of-clarity            |
 | 00:27:08 | 00:30:10 | Klavis analysis and OpenAI comparison                     | ep21-09-klavis-vs-openai                  |
-| 00:30:10 | 00:33:15 | Evaluating Lumona’s social media search concept           | ep21-10-lumona-ai-social-search           |
+| 00:30:10 | 00:33:15 | Evaluating Lumona's social media search concept           | ep21-10-lumona-ai-social-search           |
 | 00:33:15 | 00:36:02 | Lumona critique and search engine market concerns         | ep21-11-lumona-vs-existing-search         |
 | 00:36:02 | 00:40:00 | Reviewing Hyperbound's AI sales training product          | ep21-12-hyperbound-sales-ai-overview      |
 | 00:40:00 | 00:42:06 | Hyperbound differentiation and market potential           | ep21-13-hyperbound-feedback-and-tier      |
 | 00:42:06 | 00:45:10 | Reflections on AI wrappers and market saturation          | ep21-14-ai-wrappers-and-market-saturation |
 | 00:45:10 | 00:48:05 | Evaluating Nao as a Cursor alternative                    | ep21-15-nao-vs-cursor                     |
-| 00:48:05 | 00:51:00 | Critique of Nao’s VS Code-like UI and weak value prop     | ep21-16-nao-editor-vibe-and-overlap       |
+| 00:48:05 | 00:51:00 | Critique of Nao's VS Code-like UI and weak value prop     | ep21-16-nao-editor-vibe-and-overlap       |
 | 00:51:00 | 00:54:05 | Reviewing Amy and how it automates VC associate tasks     | ep21-17-amy-vc-automation                 |
-| 00:54:05 | 00:57:00 | Amy’s landing page problems and team reactions            | ep21-18-amy-positioning-issues            |
+| 00:54:05 | 00:57:00 | Amy's landing page problems and team reactions            | ep21-18-amy-positioning-issues            |
 | 00:57:00 | 01:00:00 | Ciroos team background and unclear SRE messaging          | ep21-19-ciroos-funding-and-messaging      |
 | 01:00:00 | 01:03:13 | Ciroos critique and go-to-market challenges               | ep21-20-ciroos-scale-risk                 |
 | 01:03:13 | 01:06:14 | Review of Mlop's open source strategy and GitHub activity | ep21-21-mlop-open-source-challenges       |
@@ -309,7 +404,7 @@
 | 01:09:08 | 01:12:27 | Text.ai walkthrough and concerns about competition        | ep21-23-textai-group-chatbot-analysis     |
 | 01:12:27 | 01:15:12 | Tier wrap-up and realization of bubble trends             | ep21-24-tierlist-wrap-and-bubble-comments |
 | 01:15:12 | 01:17:05 | Reflections on YC selection and WunderGraph investors     | ep21-25-yc-selection-and-funding-insights |
-| 01:17:05 | 01:20:15 | Jens’ story about Tanzanian wheelchair project            | ep21-26-wheelchair-project-and-outro      |
+| 01:17:05 | 01:20:15 | Jens' story about Tanzanian wheelchair project            | ep21-26-wheelchair-project-and-outro      |
 
 22
 
@@ -322,7 +417,7 @@
 | 00:19:26 | 00:26:23 | Breaking abstraction with Apollo connectors                         | ep22-05-apollo-connectors-and-broken-abstraction  |
 | 00:26:23 | 00:32:04 | Schema noise, front-end developer experience, and legacy approaches | ep22-06-schema-noise-and-frontend-friction        |
 | 00:32:04 | 00:39:26 | Inaccessible entities, n+1 problem, and implementation issues       | ep22-07-inaccessible-entities-and-n-plus-one      |
-| 00:39:26 | 00:46:23 | WunderGraph’s plugin-based alternative to connectors                | ep22-08-plugin-approach-to-federation             |
+| 00:39:26 | 00:46:23 | WunderGraph's plugin-based alternative to connectors                | ep22-08-plugin-approach-to-federation             |
 | 00:46:23 | 00:54:20 | Learn to code debate, LLMs, and developer role evolution            | ep22-09-learn-to-code-llms-and-dev-evolution      |
 | 00:54:20 | 01:03:02 | AI raising the bar, developer value, and engineering complexity     | ep22-10-ai-raising-the-bar-in-software            |
 | 01:03:02 | 01:03:59 | Final thoughts and episode closeout                                 | ep22-11-closing-and-hiring-invitation             |
@@ -331,15 +426,15 @@
 
 | Start    | End      | Topic                                                                  | Slug                                              |
 | -------- | -------- | ---------------------------------------------------------------------- | ------------------------------------------------- |
-| 00:00:23 | 00:06:53 | PlanetScale’s Postgres announcement and database engineering deep dive | ep23-01-planetscale-postgres-database-engineering |
-| 00:06:53 | 00:13:31 | NVMe, pricing models, and PlanetScale’s proprietary architecture       | ep23-02-pricing-and-proprietary-architecture      |
+| 00:00:23 | 00:06:53 | PlanetScale's Postgres announcement and database engineering deep dive | ep23-01-planetscale-postgres-database-engineering |
+| 00:06:53 | 00:13:31 | NVMe, pricing models, and PlanetScale's proprietary architecture       | ep23-02-pricing-and-proprietary-architecture      |
 | 00:13:31 | 00:20:08 | Lee Robinson leaves Vercel and the evolving role of developer advocacy | ep23-03-lee-robinson-leaves-vercel                |
-| 00:20:08 | 00:26:18 | Cursor’s pricing backlash and early stage founder pressure             | ep23-04-cursor-pricing-and-founder-pressure       |
-| 00:26:18 | 00:33:14 | Business model fragility, Microsoft’s long game, and AI consolidation  | ep23-05-ai-economics-and-consolidation            |
-| 00:33:14 | 00:39:06 | Distribution vs product, GitHub’s AI integrations, and AI’s dev impact | ep23-06-github-ai-product-vs-distribution         |
+| 00:20:08 | 00:26:18 | Cursor's pricing backlash and early stage founder pressure             | ep23-04-cursor-pricing-and-founder-pressure       |
+| 00:26:18 | 00:33:14 | Business model fragility, Microsoft's long game, and AI consolidation  | ep23-05-ai-economics-and-consolidation            |
+| 00:33:14 | 00:39:06 | Distribution vs product, GitHub's AI integrations, and AI's dev impact | ep23-06-github-ai-product-vs-distribution         |
 | 00:39:06 | 00:45:01 | 50 percent AI code claims and software liability concerns              | ep23-07-llm-code-quality-and-productivity         |
 | 00:45:01 | 00:50:04 | AI-generated libraries, collaboration bottlenecks, and dev workflows   | ep23-08-collaboration-vs-coding-speed             |
-| 00:50:04 | 00:57:07 | WunderGraph’s new product direction and company reinvention            | ep23-09-wundergraph-product-reinvention           |
+| 00:50:04 | 00:57:07 | WunderGraph's new product direction and company reinvention            | ep23-09-wundergraph-product-reinvention           |
 | 00:57:07 | 00:59:35 | The Cosmo pivot story and closing thoughts                             | ep23-10-cosmo-origin-and-wrap-up                  |
 
 24
@@ -355,7 +450,7 @@
 | 00:33:06 | 00:40:14 | AI productivity study critique and media discourse               | ep24-07-ai-productivity-study        |
 | 00:40:14 | 00:46:14 | Personal AI coding experiences and internal bias jokes           | ep24-08-ai-coding-experience         |
 | 00:46:14 | 00:51:18 | Lovable growth, AI scaffolding, and long-term viability          | ep24-09-lovable-ai-scaling           |
-| 00:51:18 | 00:56:25 | Meta’s AI model strategy and geopolitical implications           | ep24-10-meta-open-source-shift       |
+| 00:51:18 | 00:56:25 | Meta's AI model strategy and geopolitical implications           | ep24-10-meta-open-source-shift       |
 | 00:56:25 | 01:02:53 | Monopolies, branding tactics, and Coldplay incident sign-off     | ep24-11-monopolies-branding-coldplay |
 
 
@@ -376,7 +471,7 @@
 | 00:44:08 | 00:49:51 | How LLMs change user behavior, content ownership, and the future web experience               | ep25-11-llm-behavior-shift-and-web-experience          |
 | 00:49:51 | 00:54:27 | Early enterprise AI adoption patterns and where LLM tools are sticking                        | ep25-12-enterprise-llm-adoption-and-traction           |
 | 00:54:27 | 00:58:02 | ChatGPT ads, accessibility gains, and real market pull for AI tools                           | ep25-13-llm-accessibility-and-enterprise-stickiness    |
-| 00:58:02 | 01:01:19 | GraphQL relevance in the LLM era and the “it depends” consultant mindset                      | ep25-14-graphql-llms-and-pragmatic-consulting          |
+| 00:58:02 | 01:01:19 | GraphQL relevance in the LLM era and the "it depends" consultant mindset                      | ep25-14-graphql-llms-and-pragmatic-consulting          |
 | 01:01:19 | 01:05:30 | Developer maturity, clean code extremism, and vendor skepticism                               | ep25-15-developer-maturity-and-boring-tech             |
 | 01:05:30 | 01:07:23 | Infrastructure reliability, boring tech wins, and closing thoughts                            | ep25-16-infrastructure-reliability-and-wrap-up         |
 
@@ -385,7 +480,7 @@
 
 | Start    | End      | Topic                                                                      | Slug                                            |
 | -------- | -------- | -------------------------------------------------------------------------- | ----------------------------------------------- |
-| 00:00:22 | 00:05:20 | Introduction to Sam Lambert and PlanetScale’s MySQL and Postgres offerings | ep26-01-intro-and-product-overview              |
+| 00:00:22 | 00:05:20 | Introduction to Sam Lambert and PlanetScale's MySQL and Postgres offerings | ep26-01-intro-and-product-overview              |
 | 00:05:20 | 00:10:15 | Why PlanetScale is investing in Postgres and the evolution of sharding     | ep26-02-postgres-sharding-and-adoption          |
 | 00:10:15 | 00:15:33 | PlanetScale Metal and high availability design explained                   | ep26-03-metal-performance-and-ha                |
 | 00:15:33 | 00:19:02 | Write-heavy workloads, AI usage, and consistency tradeoffs                 | ep26-04-write-optimization-and-tradeoffs        |
@@ -400,4 +495,3 @@
 | 01:01:10 | 01:05:02 | Scale obsession, orchestration pride, and infrastructure passion           | ep26-13-scale-infrastructure-and-orchestration  |
 | 01:05:02 | 01:09:22 | AI's impact on usage patterns, customer data scale, and cursor integration | ep26-14-ai-impact-and-database-usage            |
 | 01:09:22 | 01:10:27 | Final thoughts and closing remarks                                         | ep26-15-closing-reflections-and-farewell        |
-
