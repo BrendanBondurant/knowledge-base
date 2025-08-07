@@ -1,9 +1,47 @@
-# ep11-08-architecture-insights-conways-law
-
-**Time Range:** 00:43:02 - 00:48:14
-
-**Topic:** Architecture optimization and Conway's Law
-
+---
+title: Architecture Insights and Conway's Law
+slug: ep11-08-architecture-insights-conways-law
+series: The Good Thing
+episode: 11
+chunk: 8
+participants:
+  - Stefan
+  - Jens
+segment: Microservices Architecture Analysis
+timecode: 00:43:03:01 – 00:48:14:14
+start_time: 00:43:03:01
+end_time: 00:48:14:14
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Machine learning approach to schema optimization
+  - Conway's Law in practice
+  - Microservices architecture evaluation
+  - Organization structure and service design
+  - Jeff Bezos API mandate
+  - Team communication through APIs
+tags:
+  - conways-law
+  - microservices-architecture
+  - schema-optimization
+  - organizational-design
+  - api-mandate
+  - team-communication
+entities:
+  - Conway's Law
+  - Jeff Bezos
+  - Amazon
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - machine learning schema optimization
+  - questioning architecture decisions
+  - team ownership of domains
+  - API communication mandate
+  - compiler team example
+summary: |
+  Discussion of using machine learning approaches to optimize microservices architecture through schema analysis. Jens explores how Conway's Law affects system design, while Stefan explains Jeff Bezos' API mandate requiring teams to communicate only through APIs, and how federation can enhance this approach.
 ---
 
 00:43:03:01 - 00:43:25:05

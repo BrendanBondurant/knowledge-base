@@ -1,9 +1,49 @@
-# ep12-04-code-value-vs-open-source
-
-**Time Range:** 00:10:01 - 00:14:14
-
-**Topic:** Proprietary code value and open source mindset for Cosmo and other tools
-
+---
+title: Code Value vs Open Source Philosophy
+slug: ep12-04-code-value-vs-open-source
+series: The Good Thing
+episode: 12
+chunk: 4
+participants:
+  - Stefan
+  - Jens
+segment: Proprietary vs Open Source Discussion
+timecode: 00:10:01:18 – 00:14:14:07
+start_time: 00:10:01:18
+end_time: 00:14:14:07
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Limited value in most code
+  - Distribution and brand as real moats
+  - Open source strategy for Cosmo
+  - Code becoming outdated quickly
+  - Building universe of products
+  - Salesforce distribution example
+tags:
+  - code-value
+  - open-source-strategy
+  - distribution-moats
+  - brand-value
+  - product-roadmaps
+  - cosmo-strategy
+entities:
+  - Cursor
+  - Meta
+  - Cosmo
+  - Salesforce
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - billion dollar companies using Cursor
+  - Meta code without data example
+  - changing user behavior challenges
+  - feed algorithm concerns
+  - Cosmo open source benefits
+  - universe of products vision
+summary: |
+  Discussion of proprietary code ethics with AI access, where Jens argues most code has limited value compared to distribution, brand, and execution capability. He explains WunderGraph's open source strategy for Cosmo, noting that code becomes outdated quickly and real moats come from vision, customers, and go-to-market execution rather than code itself.
 ---
 
 00:10:01:18 - 00:10:28:03

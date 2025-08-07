@@ -1,9 +1,46 @@
-# ep07-01-configure-description-directive
-
-**Time Range:** 00:00:00 - 00:05:06
-
-**Topic:** Configure Description directive and large-scale schema metadata challenges
-
+---
+title: Configure Description Directive and Large-Scale Schema Metadata
+slug: ep07-01-configure-description-directive
+series: The Good Thing
+episode: 7
+chunk: 1
+participants:
+  - Jens
+  - David
+segment: Introduction and Configure Description directive
+timecode: 00:00:00:00 – 00:05:06:09
+start_time: 00:00:00:00
+end_time: 00:05:06:09
+speakers:
+  - Jens
+  - David
+topics:
+  - Configure Description directive implementation
+  - Schema description propagation in federation
+  - Customer-driven feature development
+  - Large-scale schema metadata challenges
+tags:
+  - graphql
+  - federation
+  - directives
+  - schema-composition
+  - customer-feedback
+entities:
+  - WunderGraph
+  - Cosmo
+  - GraphQL
+  - Federation
+  - Jens Neuse
+  - David
+  - Stefan Avram
+mentions:
+  - Stefan's marriage ceremonies
+  - customer use case with 80-90+ graphs
+  - description propagation algorithm
+  - granular control over federation descriptions
+  - post-process transformers
+summary: |
+  Jens introduces episode 7 with David and Sergiy while Stefan is away. David explains the recently implemented Configure Description directive, which gives customers granular control over how schema descriptions propagate in federated graphs, solving challenges for large-scale deployments with 80+ subgraphs.
 ---
 Episode 7
 00:00:00:00 - 00:00:54:03

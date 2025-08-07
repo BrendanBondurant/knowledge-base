@@ -1,9 +1,51 @@
-# ep11-06-graphql-ecosystem-overview
-
-**Time Range:** 00:30:13 - 00:36:28
-
-**Topic:** GraphQL ecosystem, MCP, SDKs, and usage patterns
-
+---
+title: GraphQL Ecosystem Overview and API Categories
+slug: ep11-06-graphql-ecosystem-overview
+series: The Good Thing
+episode: 11
+chunk: 6
+participants:
+  - Stefan
+  - Jens
+segment: API Ecosystem Analysis
+timecode: 00:30:13:19 – 00:36:28:19
+start_time: 00:30:13:19
+end_time: 00:36:28:19
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Three API categories: SDKs, MCP, GraphQL
+  - SDK generation from OpenAPI
+  - GraphQL federation vs query interface
+  - Microservices architecture scaling
+  - Federation vs custom BFF layers
+  - gRPC consumption challenges
+tags:
+  - api-ecosystem
+  - sdk-generation
+  - graphql-federation
+  - microservices
+  - openapi
+  - grpc
+  - bff-pattern
+entities:
+  - Eric Wilde
+  - INNOQ
+  - OpenAPI
+  - GraphQL
+  - gRPC
+  - News Corp
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - Eric Wilde API consultation
+  - SDK vs MCP vs GraphQL categories
+  - Federation algorithm invention
+  - REST API middleware layers
+  - 20 teams 30 subgraphs example
+summary: |
+  Jens outlines three API ecosystem categories: SDKs for humans, MCP for LLMs, and GraphQL for diverse applications. He explains how most people use GraphQL for federation rather than query interface, discussing the challenges of scaling microservices without federation and the complexity of custom federation solutions.
 ---
 
 00:30:13:19 - 00:30:39:18

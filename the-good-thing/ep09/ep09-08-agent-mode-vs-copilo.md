@@ -1,9 +1,47 @@
-# ep09-08-agent-mode-vs-copilo
-
-**Time Range:** 00:30:08 - 00:33:26
-
-**Topic:** Agent mode coding vs autocompletion and prompt-based tools
-
+---
+title: Agent Mode Coding vs Autocompletion and Prompt-Based Tools
+slug: ep09-08-agent-mode-vs-copilot
+series: The Good Thing
+episode: 9
+chunk: 8
+participants:
+  - Jens
+  - Cameron
+segment: Vibe coding and development tools
+timecode: 00:30:07:13 – 00:33:27:02
+start_time: 00:30:07:13
+end_time: 00:33:27:02
+speakers:
+  - Jens
+  - Cameron
+topics:
+  - Vibe coding definition and approach
+  - GitHub Copilot vs Cursor comparison
+  - Agent mode vs autocompletion
+  - Frontend development effectiveness
+  - AI prompt engineering challenges
+  - Context management in AI tools
+tags:
+  - vibe-coding
+  - github-copilot
+  - cursor
+  - agent-mode
+  - frontend-development
+  - prompt-engineering
+entities:
+  - GitHub Copilot
+  - Cursor
+  - Next.js
+  - React
+  - Vue
+mentions:
+  - tab-tab-tab autocompletion
+  - multi-file editing capabilities
+  - frontend framework effectiveness
+  - AI prompt autocomplete problems
+  - context file selection
+summary: |
+  Jens and Cameron compare different AI-assisted coding approaches, from GitHub Copilot's autocompletion to Cursor's agent mode. They discuss "vibe coding" effectiveness, particularly in frontend development, while highlighting challenges with AI prompt engineering and the importance of careful context management.
 ---
 
 00:30:07:13 - 00:30:33:19

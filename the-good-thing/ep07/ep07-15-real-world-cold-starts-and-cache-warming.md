@@ -1,9 +1,52 @@
-# ep07-15-real-world-cold-starts-and-cache-warming
-
-**Time Range:** 01:20:04 - 01:26:02
-
-**Topic:** Cold start issues, real-world config churn, and cache warmers
-
+---
+title: Real-World Cold Starts and Intelligent Cache Warming
+slug: ep07-15-real-world-cold-starts-and-cache-warming
+series: The Good Thing
+episode: 7
+chunk: 15
+participants:
+  - Jens
+  - Sergiy
+  - David
+segment: Production benchmarking and cache warming solutions
+timecode: 01:20:05:01 – 01:26:02:29
+start_time: 01:20:05:01
+end_time: 01:26:02:29
+speakers:
+  - Jens
+  - Sergiy
+  - David
+topics:
+  - Configuration bias in benchmarking
+  - Production router lifecycle management
+  - Config invalidation and cold start problems
+  - Heuristic-based cache warming solution
+  - Real-world performance vs lab testing
+tags:
+  - cold-starts
+  - cache-warming
+  - production-performance
+  - configuration-bias
+  - router-lifecycle
+  - analytics-driven-optimization
+entities:
+  - Cosmo Router
+  - WunderGraph
+  - Node.js
+  - K6
+  - Jens Neuse
+  - David
+  - Sergiy
+mentions:
+  - Node.js single CPU deployment
+  - e-commerce website scaling
+  - 100,000 concurrent users
+  - query planning cache invalidation
+  - analytics warehouse integration
+  - heuristic query prioritization
+  - traffic pattern scaling
+summary: |
+  Jens explains the inherent bias in benchmarking due to configuration knowledge differences and critiques unrealistic lab benchmarks. He details WunderGraph's innovative cache warmer solution that uses analytics to pre-warm router caches with the most complex queries before accepting traffic, ensuring production performance during config changes for large-scale deployments.
 ---
 
 01:20:05:01 - 01:20:28:10

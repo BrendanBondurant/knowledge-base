@@ -1,9 +1,48 @@
-# ep09-15-ai-autonomy-and-tools
-
-**Time Range:** 00:54:05 - 00:58:12
-
-**Topic:** Limitations of AI autonomy and the role of tools and protocols
-
+---
+title: Limitations of AI Autonomy and the Role of Tools and Protocols
+slug: ep09-15-ai-autonomy-and-tools
+series: The Good Thing
+episode: 9
+chunk: 15
+participants:
+  - Jens
+  - Cameron
+segment: AI autonomy and hypermedia discussion
+timecode: 00:54:05:18 – 00:58:12:10
+start_time: 00:54:05:18
+end_time: 00:58:12:10
+speakers:
+  - Jens
+  - Cameron
+topics:
+  - MCP tool packaging and reusability
+  - Docker daemon integration example
+  - Hypermedia APIs vs RPC approaches
+  - AI navigation limitations
+  - Internet exploration capabilities
+  - Model architecture constraints
+tags:
+  - ai-autonomy
+  - hypermedia
+  - rpc
+  - tool-packaging
+  - model-limitations
+  - internet-navigation
+entities:
+  - MCP
+  - Docker
+  - Cursor
+  - JSON-LD
+  - Hypermedia APIs
+mentions:
+  - Docker daemon tool example
+  - tool packaging and extrapolation
+  - hypermedia API navigation
+  - attention heads and neural networks
+  - mixture of experts models
+  - GraphQL schema processing
+summary: |
+  Jens and Cameron explore MCP's tool packaging capabilities and discuss broader questions about AI autonomy. They compare RPC-based tool approaches with hypermedia APIs, questioning whether AI models need pre-defined tools or could eventually navigate the internet autonomously, while acknowledging current model architecture limitations.
 ---
 
 00:54:05:18 - 00:54:46:10

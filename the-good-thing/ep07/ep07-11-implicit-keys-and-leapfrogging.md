@@ -1,9 +1,51 @@
-# ep07-11-implicit-keys-and-leapfrogging
-
-**Time Range:** 00:57:00 - 01:03:00
-
-**Topic:** Implicit keys, leapfrogging, and risks from non-explicit schemas
-
+---
+title: Implicit Keys and Leapfrogging in Federation
+slug: ep07-11-implicit-keys-and-leapfrogging
+series: The Good Thing
+episode: 7
+chunk: 11
+participants:
+  - Jens
+  - Sergiy
+  - David
+segment: Federation key management and explicit schema design
+timecode: 00:57:00:23 – 01:03:00:00
+start_time: 00:57:00:23
+end_time: 01:03:00:00
+speakers:
+  - Jens
+  - Sergiy
+  - David
+topics:
+  - Explicit vs implicit entity keys
+  - Leapfrogging through multiple subgraphs
+  - Schema visibility and team coordination
+  - Federation directive improvements
+  - Interface and union handling across subgraphs
+tags:
+  - federation-keys
+  - implicit-behavior
+  - leapfrogging
+  - schema-explicitness
+  - team-coordination
+  - interfaces-unions
+entities:
+  - GraphQL
+  - Federation
+  - Lord of the Rings
+  - David
+  - Sergiy
+  - Jens Neuse
+mentions:
+  - entity key handshakes
+  - composition error prevention
+  - Lego brick keys concept
+  - Middle Earth metaphor
+  - 10-20 team coordination challenges
+  - interface/union member visibility
+  - microservices architecture coordination
+summary: |
+  David advocates for explicit entity keys to prevent composition errors and team confusion. The discussion covers leapfrogging (routing through multiple subgraphs), implicit key problems, and Sergiy's concerns about interface/union visibility across subgraphs in large organizations with 10-20 teams working on separate services.
 ---
 
 00:57:00:23 - 00:57:25:09

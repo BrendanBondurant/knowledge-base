@@ -1,4 +1,55 @@
 
+---
+title: REST Connectors and Legacy API Integration Challenges
+slug: ep08-06-rest-connectors-and-legacy-api-challenges
+series: The Good Thing
+episode: 8
+chunk: 6
+participants:
+  - Stefan
+  - Jens
+segment: Analysis of REST connector approaches and limitations
+timecode: 00:42:02:19 – 00:49:03:07
+start_time: 00:42:02:19
+end_time: 00:49:03:07
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Apollo REST connectors critique
+  - GraphQL directive complexity for REST mapping
+  - Testing and CI/CD challenges with directive-based APIs
+  - Real-world REST API complexity beyond simple examples
+  - Mutation and POST request handling difficulties
+tags:
+  - rest-connectors
+  - apollo-federation
+  - api-integration
+  - testing-challenges
+  - graphql-directives
+  - legacy-apis
+entities:
+  - Apollo
+  - GraphQL
+  - REST APIs
+  - Stripe
+  - OpenAPI
+  - JSON Schema
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - per-request billing concerns
+  - JSON mapping limitations
+  - HTTP status code handling
+  - discriminator fields
+  - CI testing framework needs
+  - Stripe mock integration
+  - PATCH and POST complexity
+  - n+1 problem solving
+summary: |
+  Critical analysis of REST connector approaches in GraphQL federation, with Jens explaining the limitations of directive-based REST integration. Discussion covers the complexity gap between simple demos and real-world REST APIs, testing challenges, and the need for proper CI/CD integration beyond playground validation.
+---
+
 00:42:02:19 - 00:42:18:09
 Stefan
 Yeah. And it was fantastic collaboration all around. And what was cool is there's a quote in the

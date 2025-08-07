@@ -1,9 +1,56 @@
-# ep07-16-why-join-wundergraph
-
-**Time Range:** 01:26:02 - 01:33:06
-
-**Topic:** Hiring pitch, rewarding engineering, and collaborating with big orgs
-
+---
+title: Why Join WunderGraph - Team Culture and Engineering Impact
+slug: ep07-16-why-join-wundergraph
+series: The Good Thing
+episode: 7
+chunk: 16
+participants:
+  - Jens
+  - Sergiy
+  - David
+segment: Hiring pitch and team culture discussion
+timecode: 01:26:03:01 – 01:33:06:03
+start_time: 01:26:03:01
+end_time: 01:33:06:03
+speakers:
+  - Jens
+  - Sergiy
+  - David
+topics:
+  - Quality of life improvements in federation
+  - Team diversity and global collaboration
+  - Problem-solving culture and engineering impact
+  - Leading vs following in the GraphQL space
+  - Self-taught engineer opportunities
+tags:
+  - hiring
+  - team-culture
+  - engineering-impact
+  - problem-solving
+  - diversity
+  - career-growth
+  - self-taught-engineers
+entities:
+  - WunderGraph
+  - Cosmo
+  - GraphQL
+  - Federation
+  - Jens Neuse
+  - Sergiy
+  - David
+  - Suvij
+  - Nithin
+mentions:
+  - configure description directive impact
+  - global team across continents
+  - direct consequence visibility
+  - problem-solving company identity
+  - leading the GraphQL space
+  - collaborative tooling focus
+  - self-taught engineer success
+  - slack connections with big companies
+summary: |
+  Team discussion on what makes WunderGraph an attractive workplace, with Sergiy emphasizing continuous quality improvements, David highlighting diverse team culture and direct impact visibility, and Jens sharing his journey as a self-taught engineer now collaborating with major companies through GraphQL federation work.
 ---
 
 01:26:03:01 - 01:26:23:15

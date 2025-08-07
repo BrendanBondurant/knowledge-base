@@ -1,9 +1,54 @@
-# ep10-08-realism-and-building-in-public
-
-**Time Range:** 00:50:33 - 00:55:10
-
-**Topic:** Realism, courage, and building in public
-
+---
+title: Realism, Courage, and Building in Public
+slug: ep10-08-realism-and-building-in-public
+series: The Good Thing
+episode: 10
+chunk: 8
+participants:
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
+segment: Work-life balance and founder stress
+timecode: 00:50:31:01 – 00:55:13:11
+start_time: 00:50:31:01
+end_time: 00:55:13:11
+speakers:
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
+topics:
+  - Results vs hours focus philosophy
+  - Elite sports team vs family company
+  - Working with senior engineers
+  - Funding constraints and efficiency
+  - Work boundary challenges
+  - Founder stress and personal growth
+  - Family support importance
+tags:
+  - work-life-balance
+  - results-focus
+  - elite-sports-team
+  - funding-efficiency
+  - founder-stress
+  - family-support
+entities:
+  - WunderGraph
+  - Uber
+  - Paramount
+  - eBay
+  - Google
+mentions:
+  - six kids between founders
+  - kindergarten pickup flexibility
+  - carpenter background story
+  - truck accident career change
+  - self-taught engineer path
+  - principal software engineers
+  - funding constraints benefits
+summary: |
+  Jens explains WunderGraph's results-focused rather than hours-focused culture, comparing the team to elite sports players with families. He reflects on working with senior engineers from major companies and how funding constraints forced efficiency. The founders discuss the challenge of setting work boundaries and Dustin emphasizes the stress of being a founder and the critical importance of family support.
 ---
 
 00:50:31:01 - 00:51:01:21

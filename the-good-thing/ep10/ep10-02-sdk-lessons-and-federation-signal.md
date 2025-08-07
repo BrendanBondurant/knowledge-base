@@ -1,9 +1,52 @@
-# ep10-02-sdk-lessons-and-federation-signal
-
-**Time Range:** 00:09:15 - 00:16:10
-
-**Topic:** SDK lessons, federation signals, and the leap of faith
-
+---
+title: SDK Lessons, Federation Signals, and the Leap of Faith
+slug: ep10-02-sdk-lessons-and-federation-signal
+series: The Good Thing
+episode: 10
+chunk: 2
+participants:
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
+segment: Product strategy and market signals
+timecode: 00:09:15:19 – 00:16:10:04
+start_time: 00:09:15:19
+end_time: 00:16:10:04
+speakers:
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
+topics:
+  - First paying customer in three weeks
+  - SDK limitations for enterprise
+  - Customer feedback and market signals
+  - SDK to Cosmo technology transfer
+  - GraphQL engine architecture
+  - Stefan's sales call documentation
+tags:
+  - sdk-lessons
+  - market-signals
+  - customer-feedback
+  - technology-transfer
+  - graphql-engine
+  - sales-documentation
+entities:
+  - WunderGraph SDK
+  - Cosmo
+  - GraphQL Go Tools
+  - Apollo Federation
+  - Netherlands Retreat
+mentions:
+  - three weeks to first customer
+  - hair on fire problem analysis
+  - federation capabilities request
+  - GraphQL go engine reuse
+  - Stefan's notebook documentation
+  - boring monolith architecture
+summary: |
+  Stefan discusses the rapid customer acquisition but notes the SDK wasn't solving urgent enterprise problems. Björn explains how customer feedback pointing toward federation capabilities became a pivotal market signal. Jens details how the existing GraphQL go engine was repurposed for Cosmo, and Stefan's meticulous sales call documentation helped identify the federation opportunity during their Netherlands retreat.
 ---
 
 00:09:15:19 - 00:09:31:03

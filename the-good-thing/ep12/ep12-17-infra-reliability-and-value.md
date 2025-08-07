@@ -1,9 +1,53 @@
-# ep12-17-infra-reliability-and-value
-
-**Time Range:** 01:03:20 - 01:08:23
-
-**Topic:** Reliability lessons from GCP vs Fly and value of collaborative tools
-
+---
+title: Infrastructure Reliability and Collaborative Value
+slug: ep12-17-infra-reliability-and-value
+series: The Good Thing
+episode: 12
+chunk: 17
+participants:
+  - Stefan
+  - Jens
+segment: Reliability and Business Value Discussion
+timecode: 01:03:20:20 – 01:08:23:10
+start_time: 01:03:20:20
+end_time: 01:08:23:10
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - GCP Kubernetes reliability success
+  - Zero incidents over multiple years
+  - Big cloud provider advantages
+  - Collaboration tools increasing value
+  - Linear team growth example
+  - Federation as collaborative tool
+tags:
+  - gcp-reliability
+  - kubernetes-stability
+  - zero-incidents
+  - collaboration-value
+  - linear-example
+  - federation-collaboration
+entities:
+  - GCP
+  - Kubernetes
+  - Fly.io
+  - AWS
+  - Azure
+  - Linear
+  - Cosmo
+  - Dustin
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - Node.js control plane
+  - automated cluster management
+  - Friday afternoon outages
+  - SLA response failures
+  - margin compression over time
+  - team onboarding value increases
+summary: |
+  Jens shares WunderGraph's reliability success using GCP Kubernetes with zero incidents over years, contrasting with startup infrastructure failures. He advocates for collaboration-based business models over compute reselling, using Linear as an example of how collaborative tools become more valuable as teams grow, positioning Federation as a similar collaborative infrastructure tool.
 ---
 
 01:03:20:20 - 01:03:23:03

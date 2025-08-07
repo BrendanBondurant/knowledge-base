@@ -1,4 +1,52 @@
 
+---
+title: State of GraphQL Federation Report Launch
+slug: ep08-08-state-of-federation-report
+series: The Good Thing
+episode: 8
+chunk: 8
+participants:
+  - Stefan
+  - Jens
+segment: Announcing the State of GraphQL Federation 2024 report
+timecode: 00:54:23:05 – 01:00:26:05
+start_time: 00:54:23:05
+end_time: 01:00:26:05
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - State of GraphQL Federation 2024 report announcement
+  - Survey methodology and customer base insights
+  - Gartner predictions for GraphQL adoption
+  - Market expansion beyond Apollo customers
+  - Federation as emerging enterprise standard
+tags:
+  - state-of-federation
+  - market-research
+  - enterprise-adoption
+  - gartner-predictions
+  - competitive-ecosystem
+  - apollo-federation
+entities:
+  - State of GraphQL Federation Report
+  - Postman
+  - Gartner
+  - Apollo
+  - WunderGraph
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - 1000+ developers, architects, CTOs surveyed
+  - 48-page comprehensive report
+  - 60% enterprise GraphQL adoption by 2027
+  - 30% federation adoption among GraphQL users
+  - 80-90% customers from outside Apollo
+  - multi-vendor ecosystem benefits
+summary: |
+  Launch announcement of the State of GraphQL Federation 2024 report, based on insights from over 1000 WunderGraph customers and prospects. Discussion covers Gartner's predictions of 60% enterprise GraphQL adoption by 2027, with 30% using federation, and the importance of competitive ecosystem health for driving innovation and market growth.
+---
+
 00:54:23:05 - 00:54:44:07
 Stefan
 Your mic, your mic drop. Boom. No, but very fair. And then last topic I want to discuss. And so I

@@ -1,9 +1,48 @@
-# ep07-04-query-plan-reliability-and-router-preview
-
-**Time Range:** 00:16:19 - 00:21:16
-
-**Topic:** Query planner reliability, safeguards, and router headless mode
-
+---
+title: Query Plan Reliability and Router Headless Mode
+slug: ep07-04-query-plan-reliability-and-router-preview
+series: The Good Thing
+episode: 7
+chunk: 4
+participants:
+  - Jens
+  - Sergiy
+  - David
+segment: Query planner reliability and router preview functionality
+timecode: 00:16:19:09 – 00:21:16:06
+start_time: 00:16:19:09
+end_time: 00:21:16:06
+speakers:
+  - Jens
+  - Sergiy
+  - David
+topics:
+  - Query planner reliability safeguards
+  - Router headless mode implementation
+  - Query plan regression prevention
+  - Batch query planning for testing
+  - Startup moats and velocity advantages
+tags:
+  - query-planning
+  - reliability
+  - testing
+  - router-architecture
+  - startup-moats
+entities:
+  - Cosmo
+  - WunderGraph
+  - Jens Neuse
+  - Sergiy
+  - David
+mentions:
+  - query plan previews
+  - execution config from file system
+  - batch operation planning
+  - router version comparisons
+  - 1000+ production queries
+  - provides and override directives
+summary: |
+  Discussion of WunderGraph's competitive moats through velocity and reliability investments. Jens explains the new router headless mode that enables query plan comparison across router versions or schema changes, providing safeguards for large deployments with thousands of production queries.
 ---
 
 00:16:19:09 - 00:16:22:18

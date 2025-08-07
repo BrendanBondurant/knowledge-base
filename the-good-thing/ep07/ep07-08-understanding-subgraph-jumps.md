@@ -1,9 +1,48 @@
-# ep07-08-understanding-subgraph-jumps
-
-**Time Range:** 00:38:24 - 00:45:32
-
-**Topic:** Explaining subgraph jumps, root entry nodes, and graph traversal
-
+---
+title: Understanding Subgraph Jumps and Graph Traversal
+slug: ep07-08-understanding-subgraph-jumps
+series: The Good Thing
+episode: 7
+chunk: 8
+participants:
+  - Jens
+  - Sergiy
+  - David
+segment: Subgraph jumps and federation graph theory
+timecode: 00:38:24:04 – 00:45:32:04
+start_time: 00:38:24:04
+end_time: 00:45:32:04
+speakers:
+  - Jens
+  - Sergiy
+  - David
+topics:
+  - Subgraph jumps as portals between services
+  - Federation keys and unique identifiers
+  - Root entry nodes and graph edges
+  - Microservices architecture and data isolation
+  - Graph theory vs tree structure in planning
+tags:
+  - federation
+  - subgraph-jumps
+  - graph-theory
+  - microservices
+  - federation-keys
+  - entity-resolution
+entities:
+  - GraphQL
+  - Federation
+  - Jens Neuse
+  - Sergiy
+  - David
+mentions:
+  - science fiction portals metaphor
+  - user and address service example
+  - shareable directive
+  - resolvable false configuration
+  - composition vs query planning data structures
+summary: |
+  Jens asks about the "jumps" concept in federation, which Sergiy and David explain as edges between subgraphs using federation keys. The discussion covers how federation enables microservices architecture, root entry nodes, and the difference between composition's full graph perspective and query planning's directed tree approach.
 ---
 
 00:38:24:04 - 00:38:51:28

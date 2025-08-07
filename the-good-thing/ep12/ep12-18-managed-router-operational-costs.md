@@ -1,9 +1,48 @@
-# ep12-18-managed-router-operational-costs
-
-**Time Range:** 01:08:23 - 01:12:03
-
-**Topic:** Why WunderGraph avoids managed routers and Apollo’s misstep
-
+---
+title: Managed Router Operational Costs and Apollo Critique
+slug: ep12-18-managed-router-operational-costs
+series: The Good Thing
+episode: 12
+chunk: 18
+participants:
+  - Stefan
+  - Jens
+segment: Managed Services Business Model Critique
+timecode: 01:08:23:13 – 01:12:03:04
+start_time: 01:08:23:13
+end_time: 01:12:03:04
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Apollo's managed router critique
+  - Platform team operational overhead
+  - Cost analysis of managed vs self-hosted
+  - Multi-company incident collaboration
+  - Federation operational requirements
+  - Margin analysis on compute reselling
+tags:
+  - managed-router-critique
+  - apollo-criticism
+  - operational-overhead
+  - cost-analysis
+  - incident-collaboration
+  - compute-margins
+entities:
+  - Apollo
+  - AWS
+  - Coinbase
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - Apollo router hosting service
+  - SDK experience lessons
+  - on-call requirements
+  - TPS proxy metrics
+  - platform team existing infrastructure
+  - dual company incident response
+summary: |
+  Jens critiques Apollo's managed router service as fundamentally flawed, arguing that companies using federation already have platform teams managing subgraphs, making additional managed router costs redundant. He explains how incidents require coordination between two companies and questions the business model of reselling compute with markup when customers already have operational infrastructure.
 ---
 
 01:08:23:13 - 01:08:42:28

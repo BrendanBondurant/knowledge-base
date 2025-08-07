@@ -1,4 +1,57 @@
 
+---
+title: Infrastructure vs Collaboration Value and Pricing Models
+slug: ep08-03-infra-vs-collaboration-and-pricing
+series: The Good Thing
+episode: 8
+chunk: 3
+participants:
+  - Stefan
+  - Jens
+segment: Business model differentiation and ecosystem strategy
+timecode: 00:19:15:04 – 00:27:51:12
+start_time: 00:19:15:04
+end_time: 00:27:51:12
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Infrastructure vs collaboration value propositions
+  - SDK vs Cosmo revenue differences
+  - Impact radius and multi-team solutions
+  - Per-seat vs per-request pricing models
+  - Open source ecosystem strategy
+tags:
+  - business-model
+  - pricing-strategy
+  - collaboration-tools
+  - infrastructure
+  - enterprise-sales
+  - per-seat-pricing
+entities:
+  - Prisma
+  - Vercel
+  - Next.js
+  - Neon
+  - Monday.com
+  - Jira
+  - Slack
+  - Zoom
+  - Jeff Bezos
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - cache warmer Super Bowl traffic
+  - breaking change detection
+  - schema checks and playground
+  - collaborative value add-ons
+  - procurement officer insights
+  - post-Covid remote collaboration
+  - your margin is my opportunity quote
+summary: |
+  Analysis of why Cosmo generates 100x more revenue than their previous SDK, focusing on impact radius (multi-team vs single-team solutions) and infrastructure vs collaboration value. Discussion covers pricing model insights from procurement officers who prioritize collaboration tools over infrastructure, leading to per-seat pricing strategies for enterprise adoption.
+---
+
 00:19:15:04 - 00:19:50:16
 Jens
 field and if it needs authentication, what scopes are required. So API discovery, sharing APIs,

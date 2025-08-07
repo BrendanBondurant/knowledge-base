@@ -1,9 +1,43 @@
-# ep12-19-collaboration-and-next-episode
-
-**Time Range:** 01:12:03 - 01:13:05
-
-**Topic:** Closing thoughts and tease for future episodes on Federation at scale
-
+---
+title: Collaboration Focus and Next Episode Preview
+slug: ep12-19-collaboration-and-next-episode
+series: The Good Thing
+episode: 12
+chunk: 19
+participants:
+  - Stefan
+  - Jens
+segment: Episode Conclusion and Future Plans
+timecode: 01:12:03:07 – 01:13:05:25
+start_time: 01:12:03:07
+end_time: 01:13:05:25
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Episode wrap-up and reflection
+  - Future guest announcements
+  - Federation at scale focus
+  - Audience engagement call
+  - Collaboration vs compute debate
+tags:
+  - episode-conclusion
+  - guest-announcements
+  - federation-scale
+  - audience-engagement
+  - collaboration-compute-debate
+entities:
+  - Cosmo
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - Cosmo mascot reference
+  - bringing technical experts
+  - hyperscaler company experience
+  - federation at scale expertise
+  - collaboration vs compute opinions
+summary: |
+  Stefan concludes episode 12 highlighting the comprehensive discussion and announces future episodes will feature technical experts with federation experience at hyperscale companies. He encourages audience engagement on the collaboration vs compute debate, while Jens playfully notes that silence implies agreement.
 ---
 
 01:12:03:07 - 01:12:03:29

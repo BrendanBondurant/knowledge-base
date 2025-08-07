@@ -1,9 +1,48 @@
-# ep11-02-fundraising-tradeoffs
-
-**Time Range:** 00:06:00 - 00:12:13
-
-**Topic:** Founder transparency and fundraising tradeoffs
-
+---
+title: Fundraising Tradeoffs and Founder Transparency
+slug: ep11-02-fundraising-tradeoffs
+series: The Good Thing
+episode: 11
+chunk: 2
+participants:
+  - Stefan
+  - Jens
+segment: Enterprise Customers and Strategic Value
+timecode: 00:06:00:22 – 00:12:13:29
+start_time: 00:06:00:22
+end_time: 00:12:13:29
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Enterprise customer requirements
+  - eBay as design partner and investor
+  - Fundraising process challenges
+  - Customer focus vs investor validation
+  - Transparency as founder
+  - Power law and investor motivation
+tags:
+  - enterprise-customers
+  - strategic-investors
+  - fundraising-process
+  - customer-focus
+  - founder-transparency
+  - design-partners
+entities:
+  - eBay
+  - WunderGraph
+  - Stefan Avram
+  - Jens Neuse
+  - Parker Conrad
+  - Rippling
+mentions:
+  - enterprise integration requirements
+  - brand value of public company investment
+  - fundraising as distraction from customers
+  - power law investment strategy
+  - bootstrap vs funding pace
+summary: |
+  Discussion of why WunderGraph needed additional funding for enterprise customers, the strategic value of eBay as both customer and investor, and the challenges of fundraising as a distraction from customer work. Jens reflects on the difficulty of founder transparency during struggles.
 ---
 
 00:06:00:22 - 00:06:32:20

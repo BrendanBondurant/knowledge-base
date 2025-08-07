@@ -1,9 +1,54 @@
-# ep10-07-infra-tradeoffs-and-quality
-
-**Time Range:** 00:43:58 - 00:50:33
-
-**Topic:** Infrastructure investments, testing tradeoffs, and delivery quality
-
+---
+title: Infrastructure Investments, Testing Tradeoffs, and Delivery Quality
+slug: ep10-07-infra-tradeoffs-and-quality
+series: The Good Thing
+episode: 10
+chunk: 7
+participants:
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
+segment: Remote work benefits and company culture
+timecode: 00:43:45:01 – 00:50:31:01
+start_time: 00:43:45:01
+end_time: 00:50:31:01
+speakers:
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
+topics:
+  - Remote work tooling strategies
+  - Family life balance challenges
+  - Work-life boundary management
+  - Company culture and mistake handling
+  - Remote team friction issues
+  - In-person energy vs virtual collaboration
+  - Travel requirements for remote workers
+tags:
+  - remote-tooling
+  - work-life-balance
+  - company-culture
+  - team-friction
+  - family-balance
+  - travel-requirements
+entities:
+  - Linear
+  - Jira
+  - Slack
+  - WunderGraph
+  - Zoom
+mentions:
+  - Linear vs Jira preference
+  - three kids under ten
+  - family separation challenges
+  - mistake-handling culture
+  - Slack misunderstandings
+  - hackathon energy comparison
+  - travel capability requirements
+summary: |
+  Dustin discusses remote work tooling choices like Linear over Jira. Stefan emphasizes family benefits of remote work, while Björn shares the challenges of balancing family presence with work focus. Björn reflects on WunderGraph's culture of learning from mistakes and the difficulties of managing team friction through virtual communication compared to in-person interactions.
 ---
 
 00:43:45:01 - 00:44:08:19

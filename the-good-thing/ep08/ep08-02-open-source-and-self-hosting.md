@@ -1,4 +1,53 @@
 
+---
+title: Open Source Strategy and VC Resistance
+slug: ep08-02-open-source-and-self-hosting
+series: The Good Thing
+episode: 8
+chunk: 2
+participants:
+  - Stefan
+  - Jens
+segment: Open source philosophy and inbound sales strategy
+timecode: 00:09:03:15 – 00:19:15:04
+start_time: 00:09:03:15
+end_time: 00:19:15:04
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - VC resistance to open source strategies
+  - Apache vs Elastic licensing implications
+  - Legal barriers in enterprise environments
+  - Self-hosting as competitive advantage
+  - Bottom-up adoption through developer accessibility
+tags:
+  - open-source
+  - licensing
+  - enterprise-sales
+  - self-hosting
+  - vc-funding
+  - developer-adoption
+entities:
+  - Sentry
+  - HashiCorp
+  - Apollo
+  - Cosmo
+  - WunderGraph
+  - Stefan Avram
+  - Jens Neuse
+  - Zig (Sentry founder)
+mentions:
+  - Apache vs Elastic license comparison
+  - FAANG company legal requirements
+  - bottom-up enterprise adoption
+  - POC without sales involvement
+  - router as infrastructure component
+  - S3 bucket configuration option
+summary: |
+  Discussion of open source strategy in response to VC resistance, with Stefan referencing Sentry's founder on OSS challenges. Jens explains how Apache licensing enables enterprise adoption by removing legal barriers, while self-hosting capabilities create bottom-up sales motion where enterprises conduct POCs independently before engaging for managed solutions.
+---
+
 00:09:03:15 - 00:09:23:07
 Stefan
 Happy to be back on the podcast. And we got some exciting topics today. So Jens let's kind of

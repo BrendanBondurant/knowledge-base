@@ -1,9 +1,53 @@
-# ep10-10-opinionated-vision-and-future
-
-**Time Range:** 01:01:43 - 01:05:53
-
-**Topic:** Why WunderGraph will always have strong opinions
-
+---
+title: Opinionated Vision, Pragmatic Execution, and the Future Ahead
+slug: ep10-10-opinionated-vision-and-future
+series: The Good Thing
+episode: 10
+chunk: 10
+participants:
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
+segment: Vision execution and episode conclusion
+timecode: 01:01:55:15 – 01:05:53:27
+start_time: 01:01:55:15
+end_time: 01:05:53:27
+speakers:
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
+topics:
+  - GraphQL as meta language evolution
+  - Company growth and professionalization
+  - Engineering DNA preservation
+  - Customer communication philosophy
+  - Open source commitment
+  - 10th episode milestone celebration
+  - Podcast journey reflection
+tags:
+  - graphql-meta-language
+  - company-growth
+  - engineering-dna
+  - customer-communication
+  - open-source-commitment
+  - milestone-celebration
+entities:
+  - WunderGraph
+  - GraphQL
+  - Apache 2.0
+  - The Good Thing Podcast
+mentions:
+  - SDK evolution return
+  - GraphQL as byte code
+  - growth stage challenges
+  - engineering-first support
+  - January podcast start
+  - first live recording
+  - open source knowledge sharing
+summary: |
+  Dustin explains how GraphQL will evolve as a meta language while expanding beyond protocol limitations. Björn discusses company growth challenges while preserving engineering DNA and customer-focused communication. Stefan concludes the milestone 10th episode, reflecting on the podcast's journey from January and reaffirming WunderGraph's open source commitment for future growth.
 ---
 
 01:01:55:15 - 01:02:07:09

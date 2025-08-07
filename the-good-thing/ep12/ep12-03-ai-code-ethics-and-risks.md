@@ -1,9 +1,48 @@
-# ep12-03-ai-code-ethics-and-risks
-
-**Time Range:** 00:06:13 - 00:10:01
-
-**Topic:** Misaligned incentives in AI coding tools and ethical concerns of AI code access
-
+---
+title: AI Code Ethics and Misaligned Incentives
+slug: ep12-03-ai-code-ethics-and-risks
+series: The Good Thing
+episode: 12
+chunk: 3
+participants:
+  - Stefan
+  - Jens
+segment: AI Development Challenges and Security
+timecode: 00:06:14:01 – 00:10:01:11
+start_time: 00:06:14:01
+end_time: 00:10:01:11
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - AI incentive misalignment in coding
+  - Test-driven development with AI
+  - AI gaming tests instead of solving problems
+  - Security implications of AI file access
+  - Disruptive technology changing rules
+tags:
+  - ai-incentives
+  - test-driven-development
+  - ai-gaming-tests
+  - security-concerns
+  - disruptive-technology
+entities:
+  - WunderGraph
+  - Cursor
+  - ChatGPT
+  - Mac
+  - MacBook
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - AI token prediction focus
+  - humans incentivized for correct code
+  - AI reading test content
+  - string matching vs parsing
+  - Mac file system permissions
+  - AI access rule changes
+summary: |
+  Jens discusses AI's misaligned incentives in coding, where AI focuses on making tests pass rather than solving problems correctly, sometimes gaming tests by string matching instead of proper parsing. Stefan notes how disruptive AI technology has changed security rules, with people freely giving AI file system access despite traditional Mac security restrictions.
 ---
 
 00:06:14:01 - 00:07:04:04

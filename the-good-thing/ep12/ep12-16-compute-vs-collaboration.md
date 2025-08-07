@@ -1,9 +1,51 @@
-# ep12-16-compute-vs-collaboration
-
-**Time Range:** 00:58:19 - 01:03:20
-
-**Topic:** Problems with compute-based business models and startup infra reliability
-
+---
+title: Compute vs Collaboration Business Models
+slug: ep12-16-compute-vs-collaboration
+series: The Good Thing
+episode: 12
+chunk: 16
+participants:
+  - Stefan
+  - Jens
+segment: Business Model Strategy Discussion
+timecode: 00:58:19:19 – 01:03:20:19
+start_time: 00:58:19:19
+end_time: 01:03:20:19
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Compute reselling problems
+  - Vercel vs AWS wrapper distinction
+  - Developer purchasing behavior
+  - Self-hosting preference over markup
+  - Startup reliability challenges
+  - Railway and Fly.io experiences
+tags:
+  - compute-reselling
+  - aws-wrappers
+  - developer-purchasing
+  - self-hosting-preference
+  - startup-reliability
+  - vercel-strategy
+entities:
+  - Prisma
+  - Vercel
+  - AWS
+  - Railway
+  - Fly.io
+  - Flight Control
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - AWS account developer preference
+  - 10x markup pricing challenges
+  - developer time valuation
+  - startup reliability failures
+  - 700 years developer experience
+  - compute provider recommendations
+summary: |
+  Jens argues against compute-based business models, explaining how startups fail when selling marked-up AWS services because developers prefer direct cloud provider access. He contrasts Vercel's platform complexity with simple AWS wrappers, discusses developer resistance to paying markups, and warns against using startups for infrastructure due to reliability issues, citing negative experiences with Fly.io.
 ---
 
 00:58:19:19 - 00:58:59:08

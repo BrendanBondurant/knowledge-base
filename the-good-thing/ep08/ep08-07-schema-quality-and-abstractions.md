@@ -1,4 +1,52 @@
 
+---
+title: Schema Quality and REST API Abstraction Leakage
+slug: ep08-07-schema-quality-and-abstractions
+series: The Good Thing
+episode: 8
+chunk: 7
+participants:
+  - Stefan
+  - Jens
+segment: Schema design philosophy and subgraph quality focus
+timecode: 00:49:03:07 – 00:54:23:05
+start_time: 00:49:03:07
+end_time: 00:54:23:05
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Schema quality as primary concern
+  - Subgraph implementation verification
+  - Type safety and developer experience improvements
+  - REST API abstraction leakage into GraphQL schemas
+  - Federation directive complexity (@provides, @requires)
+tags:
+  - schema-design
+  - type-safety
+  - subgraph-quality
+  - developer-experience
+  - abstraction-leakage
+  - federation-directives
+entities:
+  - GraphQL
+  - Federation
+  - SAP
+  - SOAP APIs
+  - REST APIs
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - @provides and @requires directive challenges
+  - subgraph schema verification
+  - modernization efforts
+  - legacy SOAP/REST integration
+  - schema structure dictation by REST APIs
+  - GraphQL compatibility concerns
+summary: |
+  Deep dive into schema quality concerns and the philosophical tension between REST connector convenience and GraphQL best practices. Jens argues that REST APIs can leak their abstractions into GraphQL schemas, potentially compromising schema design quality, while emphasizing the importance of well-designed schemas over convenient integration shortcuts.
+---
+
 00:49:03:07 - 00:49:43:10
 Jens
 Yes, you need to solve authentication and yeah, so, I don't know, I, I would love if we could

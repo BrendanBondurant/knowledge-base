@@ -1,9 +1,46 @@
-# ep09-12-human-touch-in-blogging
-
-**Time Range:** 00:43:04 - 00:46:35
-
-**Topic:** Authenticity and human touch in AI-generated blog conten
-
+---
+title: Authenticity and Human Touch in AI-Generated Blog Content
+slug: ep09-12-human-touch-in-blogging
+series: The Good Thing
+episode: 9
+chunk: 12
+participants:
+  - Jens
+  - Cameron
+segment: Content creation and authenticity
+timecode: 00:43:03:19 – 00:46:35:29
+start_time: 00:43:03:19
+end_time: 00:46:35:29
+speakers:
+  - Jens
+  - Cameron
+topics:
+  - AI for documentation and research
+  - Non-developer AI use cases
+  - Blogging as an art form
+  - Authenticity in AI-generated content
+  - Agent mode vs autocompletion for writing
+  - Human touch in content creation
+tags:
+  - content-creation
+  - authenticity
+  - blogging
+  - research-tools
+  - documentation
+  - human-touch
+entities:
+  - Cursor
+  - Wikipedia
+  - GraphQL Federation
+mentions:
+  - federation specification research
+  - composite schema working group
+  - reporter research workflows
+  - agent tab organization
+  - blog post writing patterns
+  - structured vs human content
+summary: |
+  Cameron and Jens explore Cursor's applications beyond coding, including documentation, research, and content creation. Jens emphasizes the importance of authenticity in blogging, preferring autocompletion over agent mode for writing to maintain human touch and avoid overly structured, pattern-following content.
 ---
 
 00:43:03:19 - 00:43:31:19

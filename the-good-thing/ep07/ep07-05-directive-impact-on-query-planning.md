@@ -1,9 +1,49 @@
-# ep07-05-directive-impact-on-query-planning
-
-**Time Range:** 00:21:16 - 00:27:03
-
-**Topic:** Effects of directives like `@provides` and `@requires` on query planning
-
+---
+title: Federation Directives Impact on Query Planning
+slug: ep07-05-directive-impact-on-query-planning
+series: The Good Thing
+episode: 7
+chunk: 5
+participants:
+  - Jens
+  - Sergiy
+  - David
+segment: Federation directives and query plan optimization
+timecode: 00:21:16:06 – 00:27:03:05
+start_time: 00:21:16:06
+end_time: 00:27:03:05
+speakers:
+  - Jens
+  - Sergiy
+  - David
+topics:
+  - Federation directive behavior in query planning
+  - @provides directive as optimization strategy
+  - @requires directive and field dependencies
+  - @override directive and field resolution changes
+  - Query plan visualization and human readability
+tags:
+  - federation
+  - graphql-directives
+  - query-optimization
+  - provides-directive
+  - requires-directive
+  - override-directive
+entities:
+  - GraphQL
+  - Federation
+  - Apollo
+  - Sergiy
+  - David
+  - Jens Neuse
+mentions:
+  - Apollo query plan visualization
+  - parallel vs sequential fetching
+  - field resolution location changes
+  - subgraph dependencies
+  - optional optimization patterns
+summary: |
+  Sergiy explains how federation directives like @provides, @requires, and @override directly influence query planning behavior. The discussion covers optimization strategies, field resolution location changes, and the complexity of managing dependencies between subgraphs in federated architectures.
 ---
 
 00:21:16:06 - 00:21:23:08

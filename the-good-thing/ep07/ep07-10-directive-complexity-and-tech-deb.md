@@ -1,9 +1,53 @@
-# ep07-10-directive-complexity-and-tech-deb
-
-**Time Range:** 00:51:06 - 00:57:00
-
-**Topic:** Problems with Apollo Federation directives and implicit behavior
-
+---
+title: Federation Directive Complexity and Technical Debt
+slug: ep07-10-directive-complexity-and-tech-debt
+series: The Good Thing
+episode: 7
+chunk: 10
+participants:
+  - Jens
+  - Sergiy
+  - David
+segment: Apollo Federation directive critique and solutions
+timecode: 00:51:07:21 – 00:57:00:21
+start_time: 00:51:07:21
+end_time: 00:57:00:21
+speakers:
+  - Jens
+  - Sergiy
+  - David
+topics:
+  - Apollo Federation directive problems
+  - Implicit behavior and edge cases
+  - Evolution of federation specifications
+  - Lord of the Rings "one ring to rule them all" metaphor
+  - Power concentration in single directives
+tags:
+  - apollo-federation
+  - technical-debt
+  - directive-problems
+  - implicit-behavior
+  - specification-evolution
+entities:
+  - Apollo Federation
+  - Facebook
+  - GraphQL
+  - Ruby on Rails
+  - Lord of the Rings
+  - Jens Neuse
+  - Sergiy
+  - David
+mentions:
+  - efficient computation problems
+  - engineering complexity
+  - Ruby on Rails evolution example
+  - Facebook GraphQL origins
+  - inaccessible directive power
+  - shareable directive handshake
+  - mass user enterprise effects
+  - xkcd workflow comic
+summary: |
+  Jens critiques Apollo Federation directives for lacking mathematical foundation and creating computational challenges. Sergiy explains federation as evolutionary like Ruby on Rails, while David uses Lord of the Rings metaphor to describe how single directives can control multiple subgraphs, creating responsibility disparities and unintended consequences in large deployments.
 ---
 
 00:51:07:21 - 00:51:36:06

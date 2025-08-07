@@ -1,9 +1,54 @@
-# ep10-01-technical-pivot-to-cosmo
-
-**Time Range:** 00:00:04 - 00:09:15
-
-**Topic:** Strategic technical decisions and the SDK-to-Cosmo pivot
-
+---
+title: Strategic Technical Decisions and the SDK-to-Cosmo Pivot
+slug: ep10-01-technical-pivot-to-cosmo
+series: The Good Thing
+episode: 10
+chunk: 1
+participants:
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
+segment: Introduction and technical strategy
+timecode: 00:00:04:07 – 00:09:15:16
+start_time: 00:00:04:07
+end_time: 00:09:15:16
+speakers:
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
+topics:
+  - In-person 10th episode celebration
+  - Co-founder introductions and roles
+  - Open source architecture decisions
+  - Amsterdam retreat and Cosmo pivot
+  - Mono repo development approach
+  - Connect Buff and protobuf tooling
+tags:
+  - co-founders
+  - technical-strategy
+  - open-source
+  - mono-repo
+  - protobuf
+  - cosmo-pivot
+entities:
+  - WunderGraph
+  - Cosmo
+  - Amsterdam
+  - Connect Buff
+  - Protobuf
+  - T-Online
+mentions:
+  - first in-person episode
+  - Bretten working retreat
+  - makeshift microphone setup
+  - Amsterdam pivot decision
+  - open source commitment
+  - mono repo efficiency
+  - protobuf contract generation
+summary: |
+  Stefan introduces a special 10th episode recorded in-person with all co-founders in Bretten. Dustin explains the technical decisions that shaped WunderGraph, including the commitment to open source and mono repo architecture. They discuss the pivotal Amsterdam retreat where they decided to go all-in on Cosmo and how protobuf tooling enabled rapid development across multiple languages.
 ---
 Episode 10
 00:00:04:07 - 00:00:11:28
