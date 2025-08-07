@@ -26,6 +26,13 @@ topics:
   - Product for enterprise vs. individual
   - App store success
   - Hypotheses in business
+tags:
+  - b2b-theory
+  - b2c-evolution
+  - founder-mode
+  - startup-leadership
+  - company-culture
+  - scalability
 summary: |
   Stefan and Jens discuss the theory that successful B2B companies eventually become B2C, share examples from Salesforce and their own product, and transition to the topic of founder mode. They define founder mode, discuss its scalability, and reflect on the importance of leadership and team dynamics in startups.
 ---

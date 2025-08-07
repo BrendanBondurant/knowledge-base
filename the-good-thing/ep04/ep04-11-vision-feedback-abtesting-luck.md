@@ -26,6 +26,13 @@ topics:
   - Experimentation
   - Survivorship bias
   - Startup advice
+tags:
+  - vision
+  - feedback
+  - ab-testing
+  - startup-luck
+  - product-direction
+  - founder-mindset
 summary: |
   Jens and Stefan discuss the tension between following a founder's vision and responding to customer feedback, the limits and value of AB testing, and how luck and timing play a major role in startup success. They share stories and advice for founders navigating these challenges.
 ---

@@ -24,6 +24,13 @@ topics:
   - Startup advice
   - Market creation
   - Timing
+tags:
+  - market-size
+  - venture-capital
+  - founder-quality
+  - market-timing
+  - startup-success
+  - investment-decisions
 summary: |
   Jens and Stefan discuss the importance of market size, how VCs use pattern matching to make investment decisions, and the ongoing debate of whether founder quality or market timing is more important for startup success. They share analogies and stories about market creation and riding industry waves.
 ---

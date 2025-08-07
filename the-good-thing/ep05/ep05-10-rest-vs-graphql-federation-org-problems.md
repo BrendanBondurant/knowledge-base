@@ -30,6 +30,13 @@ topics:
   - Right tool for the job
   - Boring tech
   - Product architecture
+tags:
+  - rest-vs-graphql
+  - federation
+  - api-design
+  - organizational-problems
+  - microservices
+  - team-structure
 summary: |
   Stefan and Jens discuss why the REST vs. GraphQL debate is outdated, the real value of federation, and how API choices often reflect organizational problems rather than technical ones. They explore BFF architecture, microservices, collaboration, and the importance of using the right tool for the job.
 ---

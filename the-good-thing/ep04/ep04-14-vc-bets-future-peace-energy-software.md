@@ -27,6 +27,13 @@ topics:
   - Human impact
   - Company mission
   - Episode wrap-up
+tags:
+  - venture-capital
+  - future-predictions
+  - green-energy
+  - software-impact
+  - collaboration
+  - episode-wrap-up
 summary: |
   Stefan and Jens discuss where they would invest as VCs, share predictions for the future including peace and green energy, and reflect on the importance of software and collaboration for humanity. They close the episode with thoughts on company mission, teamwork, and encouragement for listeners to pursue their passions.
 ---

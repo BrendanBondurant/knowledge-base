@@ -29,6 +29,13 @@ topics:
   - HIPAA
   - JWT claims
   - Product responsibility
+tags:
+  - founder-mode
+  - customer-support
+  - company-culture
+  - pii-handling
+  - customer-first
+  - startup-philosophy
 summary: |
   Stefan and Jens discuss the scalability of founder mode, the importance of support culture and company values, and share a story about handling PII for a healthcare customer. They reflect on how close collaboration with customers leads to better native solutions and how security and compliance shape product decisions.
 ---

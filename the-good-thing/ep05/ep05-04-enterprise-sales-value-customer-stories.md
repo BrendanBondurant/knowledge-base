@@ -31,6 +31,13 @@ topics:
   - Customer advocacy
   - Sales process
   - Startup advice
+tags:
+  - enterprise-sales
+  - customer-stories
+  - value-demonstration
+  - b2b-sales
+  - customer-advocacy
+  - startup-growth
 summary: |
   Stefan and Jens discuss the importance of demonstrating value in enterprise sales, the emotional investment of bringing products into organizations, and how customer stories and advocacy drive growth. They share lessons on overcoming indecision, building customer relationships, and the power of network effects and case studies in scaling a startup.
 ---

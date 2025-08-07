@@ -25,6 +25,13 @@ topics:
   - Product complexity
   - Teamwork
   - Episode wrap-up
+tags:
+  - boring-tech
+  - company-culture
+  - business-value
+  - technology-choices
+  - developer-motivation
+  - episode-wrap-up
 summary: |
   Stefan and Jens discuss the value of boring tech, why big companies often build complex internal tools, and the importance of focusing on business value. They reflect on developer motivation, layoffs, and how choosing the right technology can impact company culture and success. The episode wraps up with a preview of next week's topic.
 ---

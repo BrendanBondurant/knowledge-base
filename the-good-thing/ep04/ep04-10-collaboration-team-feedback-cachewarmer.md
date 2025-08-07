@@ -40,6 +40,13 @@ topics:
   - Customer stories
   - Customer collaboration
   - Customer-driven features
+tags:
+  - collaboration
+  - team-energy
+  - feedback-loops
+  - cache-warmer
+  - customer-development
+  - product-iteration
 summary: |
   Jens and Stefan discuss the importance of team collaboration, direct feedback loops with customers, and share the story of building the cache warmer feature. They highlight how close customer relationships and rapid iteration led to impactful product improvements and memorable success moments.
 ---

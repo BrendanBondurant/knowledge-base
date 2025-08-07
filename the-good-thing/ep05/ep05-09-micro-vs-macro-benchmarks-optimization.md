@@ -26,6 +26,13 @@ topics:
   - Product improvement
   - Benchmarking tools
   - Real-world performance
+tags:
+  - micro-benchmarks
+  - macro-benchmarks
+  - code-optimization
+  - performance
+  - developer-experience
+  - technical-validation
 summary: |
   Jens and Stefan discuss the difference between micro and macro benchmarks, the dangers of over-optimizing code, and the tradeoffs between readability and speed. They share insights on garbage collection, benchmarking tools, and why real-world performance matters more than synthetic tests.
 ---

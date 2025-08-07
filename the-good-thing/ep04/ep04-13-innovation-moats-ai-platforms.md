@@ -26,6 +26,13 @@ topics:
   - Platform vs. product
   - AI trends
   - Team collaboration
+tags:
+  - innovation
+  - platform-moats
+  - ai
+  - collaboration-platforms
+  - distribution
+  - product-differentiation
 summary: |
   Jens and Stefan discuss the importance of innovation for long-term success, the concept of platform moats, the impact of AI, and why collaboration platforms are so valuable. They analyze examples like Cursor, GitHub, Slack, and Teams, and reflect on what makes a company defensible in the long run.
 ---

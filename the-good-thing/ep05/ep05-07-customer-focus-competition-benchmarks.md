@@ -29,6 +29,13 @@ topics:
   - Synthetic benchmarks
   - Performance
   - Product improvement
+tags:
+  - customer-focus
+  - competition
+  - benchmarks
+  - technical-validation
+  - startup-strategy
+  - market-positioning
 summary: |
   Stefan and Jens discuss the importance of focusing on customers rather than competitors, share stories about copycat competitors and false marketing, and debate the value and pitfalls of benchmarks. They reflect on how benchmarks can be manipulated, why real-world use cases matter more, and how customer focus drives product improvement.
 ---

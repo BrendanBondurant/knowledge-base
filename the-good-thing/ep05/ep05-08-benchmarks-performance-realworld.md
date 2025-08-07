@@ -29,6 +29,13 @@ topics:
   - Code optimization
   - Developer experience
   - Product marketing
+tags:
+  - benchmarks
+  - performance
+  - real-world-testing
+  - graphql
+  - technical-validation
+  - customer-education
 summary: |
   Stefan and Jens discuss the pitfalls of benchmarks, the difference between synthetic and real-world performance, and how customer needs drive product improvement. They share stories about cache warming for Super Bowl traffic, the importance of macro vs. micro benchmarks, and why focusing on real-world use cases is more valuable than synthetic performance tests.
 ---
