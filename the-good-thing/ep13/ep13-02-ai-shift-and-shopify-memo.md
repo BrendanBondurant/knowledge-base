@@ -1,9 +1,49 @@
-# ep13-02-ai-shift-and-shopify-memo
-
-**Time Range:** 00:04:02 - 00:07:48
-
-**Topic:** AI's transformational shift, Apple Intelligence, and Shopify's AI memo
-
+---
+title: AI Shift and Shopify's AI Memo
+slug: ep13-02-ai-shift-and-shopify-memo
+series: The Good Thing
+episode: 13
+chunk: 2
+participants:
+  - Stefan
+  - Jens
+segment: AI Transformation and Industry Mandates
+timecode: 00:04:02 – 00:07:48
+start_time: 00:04:02
+end_time: 00:07:48
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - AI as the biggest technological shift
+  - Comparison to dot-com boom, cloud, and iPhone transitions
+  - Apple Intelligence rollout
+  - Shopify's AI mandate leaked memo
+  - Industry-wide AI adoption
+tags:
+  - AI-transformation
+  - shopify-memo
+  - apple-intelligence
+  - tech-shifts
+  - industry-mandates
+  - ai-adoption
+entities:
+  - Shopify
+  - Tobias Lütke
+  - Apple Intelligence
+  - ChatGPT
+  - OpenAI
+  - Amazon API mandate
+  - Jeff Bezos
+mentions:
+  - dot-com boom comparison
+  - ChatGPT evolution over two years
+  - college students dependency on AI
+  - Apple Intelligence phone integration
+  - AI everywhere prediction
+  - Amazon's 2002 API mandate parallel
+summary: |
+  Stefan reflects on AI as potentially the biggest technological shift, comparing it to previous major transitions like the dot-com boom and iPhone. They discuss Apple Intelligence features and dive into Tobias Lütke's leaked Shopify memo mandating AI usage across the company, drawing parallels to Amazon's famous API mandate from 2002.
 ---
 
 00:04:02:20 - 00:04:24:03

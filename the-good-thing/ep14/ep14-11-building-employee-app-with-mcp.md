@@ -1,9 +1,53 @@
-# ep14-11-building-employee-app-with-mcp
-
-**Time Range:** 00:43:18 - 00:47:01
-
-**Topic:** Running the MCP-powered prompt to build an app
-
+---
+title: Building Employee App with MCP
+slug: ep14-11-building-employee-app-with-mcp
+series: The Good Thing
+episode: 14
+chunk: 11
+participants:
+  - Stefan
+  - Jens
+  - Dustin
+segment: Live App Generation with MCP Integration
+timecode: 00:43:18 – 00:47:01
+start_time: 00:43:18
+end_time: 00:47:01
+speakers:
+  - Dustin
+  - Stefan
+topics:
+  - Prompt engineering to prevent LLM hallucination
+  - MCP Inspector tool for debugging
+  - Real-time Next.js app generation
+  - Tool permission management
+  - Non-technical prompt requirements
+tags:
+  - app-generation
+  - mcp-inspector
+  - prompt-engineering
+  - hallucination-prevention
+  - nextjs-app
+  - tool-permissions
+  - non-technical-prompts
+entities:
+  - MCP Inspector
+  - Next.js
+  - Claude Desktop
+  - Cursor
+  - Cosmo Studio
+  - LLM
+mentions:
+  - anti-hallucination prompt instructions
+  - no mock data or fake endpoints
+  - focus on exposed tool integration
+  - JSON schema structure reflection
+  - HTTP request endpoint details
+  - 30-second generation time
+  - tool exploration interface
+  - developer background requirements
+  - Tailwind CSS styling
+summary: |
+  Dustin demonstrates the complete MCP workflow, using MCP Inspector to show available tools and their JSON schema structures. He runs a carefully crafted prompt that prevents hallucination by instructing the LLM to avoid mock data and focus on real tool integration, successfully generating a Next.js employee management app in about 30 seconds.
 ---
 
 00:43:18:18 - 00:43:53:23

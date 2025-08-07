@@ -1,9 +1,48 @@
-# ep13-08-mcp-vulnerabilities-and-vibe-coding
-
-**Time Range:** 00:29:20 - 00:32:18
-
-**Topic:** MCP misuse risks, vibe coding vulnerabilities, real-world hacking story
-
+---
+title: MCP Vulnerabilities and Vibe Coding
+slug: ep13-08-mcp-vulnerabilities-and-vibe-coding
+series: The Good Thing
+episode: 13
+chunk: 8
+participants:
+  - Stefan
+  - Jens
+segment: Security Risks of AI-Generated Code and Real-World Examples
+timecode: 00:29:20 – 00:32:18
+start_time: 00:29:20
+end_time: 00:32:18
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Vibe coding security risks with MCP
+  - Real-world hacking story of weekend startup
+  - Educational hacking as security lesson
+  - Standard IO safety recommendation
+  - Financial and data handling responsibilities
+tags:
+  - vibe-coding
+  - security-vulnerabilities
+  - ethical-hacking
+  - startup-security
+  - stripe-integration
+  - security-education
+  - responsible-disclosure
+entities:
+  - MCP
+  - Twitter
+  - Stripe
+  - Standard IO
+mentions:
+  - weekend startup vibe coding story
+  - stripe payment removal
+  - anonymous hacker teaching lesson
+  - one week warning period
+  - app deletion outcome
+  - security report publication
+  - money and data handling risks
+summary: |
+  Jens warns about vibe coding dangers with MCP, recommending standard IO for safety. Stefan shares a story about a weekend startup built with vibe coding that was ethically hacked to teach security lessons - the hacker removed Stripe payments and manipulated the app before giving educational warnings, ultimately leading to the app's deletion.
 ---
 
 00:29:21:05 - 00:29:52:16

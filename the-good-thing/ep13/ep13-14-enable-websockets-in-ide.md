@@ -1,9 +1,52 @@
-# ep13-14-enable-websockets-in-ide
-
-**Time Range:** 00:54:22 - 00:59:01
-
-**Topic:** Enabling WebSockets via prompt, impact of staying in the IDE
-
+---
+title: Enable WebSockets in IDE
+slug: ep13-14-enable-websockets-in-ide
+series: The Good Thing
+episode: 13
+chunk: 14
+participants:
+  - Stefan
+  - Jens
+segment: IDE-Integrated Configuration and Documentation
+timecode: 00:54:22 – 00:59:01
+start_time: 00:59:01
+end_time: 00:59:01
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - OTEL configuration through prompting
+  - JSON schema validation reliability
+  - Datadog exporter configuration
+  - WebSocket subscription support
+  - IDE-integrated documentation workflow
+tags:
+  - websockets
+  - otel-configuration
+  - json-validation
+  - datadog-exporter
+  - ide-integration
+  - documentation-workflow
+  - subscription-support
+entities:
+  - OTEL
+  - Datadog
+  - WebSockets
+  - JSON schema
+  - Cosmo router
+  - IDE
+  - Absent protocol
+mentions:
+  - telemetry configuration
+  - sampling rate metrics
+  - JSON schema validation trust
+  - Datadog agent OTLP
+  - API key headers
+  - WebSocket protocol support
+  - authentication from initial payload
+  - staying in IDE workflow
+summary: |
+  Jens demonstrates configuring OTEL metrics, Datadog integration, and WebSocket support entirely through prompts and JSON schema validation. He emphasizes the power of staying in the IDE without needing to consult external documentation, as the system automatically searches docs and validates configurations against embedded JSON schemas.
 ---
 
 00:54:22:26 - 00:54:51:12

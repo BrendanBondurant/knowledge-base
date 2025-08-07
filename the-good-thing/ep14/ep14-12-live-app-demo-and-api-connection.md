@@ -1,9 +1,55 @@
-# ep14-12-live-app-demo-and-api-connection
-
-**Time Range:** 00:47:01 - 00:50:13
-
-**Topic:** App walkthrough, real-time updates, and connected API
-
+---
+title: Live App Demo and API Connection
+slug: ep14-12-live-app-demo-and-api-connection
+series: The Good Thing
+episode: 14
+chunk: 12
+participants:
+  - Stefan
+  - Jens
+  - Dustin
+segment: Real-time Application Testing and Data Validation
+timecode: 00:47:01 – 00:50:13
+start_time: 00:47:01
+end_time: 00:50:13
+speakers:
+  - Stefan
+  - Jens
+  - Dustin
+topics:
+  - Non-developer movement with MCP and Cursor
+  - Real API endpoint integration
+  - Live data manipulation demonstration
+  - Employee status updates
+  - GraphQL endpoint validation
+tags:
+  - non-developer-movement
+  - real-api-integration
+  - live-data-manipulation
+  - employee-management
+  - graphql-validation
+  - cursor-adoption
+  - automation-accessibility
+entities:
+  - Cursor
+  - MCP community
+  - Cosmo Dashboard
+  - GraphQL endpoint
+  - Next.js
+  - Tailwind CSS
+mentions:
+  - non-developers building applications
+  - security concerns acknowledgment
+  - automation process movement
+  - correct endpoint usage
+  - right headers and request scheme
+  - single page component strategy
+  - real-time API requests
+  - employee mood and availability updates
+  - marriage status filtering
+  - Stefan availability status demo
+summary: |
+  Jens observes a growing movement of non-developers using Cursor and MCP to build applications. Dustin demonstrates the generated app running in Cosmo Dashboard with real API connections, showing live employee data manipulation including mood changes and availability updates, validating the real-time connection through GraphQL endpoint queries.
 ---
 
 00:47:01:10 - 00:47:07:06

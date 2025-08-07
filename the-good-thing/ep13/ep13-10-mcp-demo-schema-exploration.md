@@ -1,9 +1,53 @@
-# ep13-10-mcp-demo-schema-exploration
-
-**Time Range:** 00:36:09 - 00:41:28
-
-**Topic:** MCP demo: schema exploration, prompt-driven workflows in Cosmo
-
+---
+title: MCP Demo - Schema Exploration
+slug: ep13-10-mcp-demo-schema-exploration
+series: The Good Thing
+episode: 13
+chunk: 10
+participants:
+  - Stefan
+  - Jens
+segment: Live MCP Integration Demo with Cosmo
+timecode: 00:36:09 – 00:41:28
+start_time: 00:36:09
+end_time: 00:41:28
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Live MCP demo with Cosmo
+  - Schema exploration workflow
+  - MCP-enhanced development workflows
+  - Prompt-driven API exploration
+  - Super graph architecture analysis
+tags:
+  - mcp-demo
+  - schema-exploration
+  - cosmo-integration
+  - super-graph
+  - workflow-enhancement
+  - prompt-driven-development
+  - api-exploration
+entities:
+  - Cosmo
+  - MCP
+  - Cursor
+  - Super graph
+  - wgc (WunderGraph CLI)
+  - Studio
+  - Subgraphs
+  - Router config
+mentions:
+  - live documentation release
+  - npx wgc mcp setup
+  - API key configuration
+  - schema and subgraph fetching
+  - employee service architecture
+  - family, availability, mood services
+  - authentication and mutations
+  - file upload capabilities
+summary: |
+  Jens demonstrates live MCP integration with Cosmo, showing how to set up and use prompt-driven schema exploration. The demo reveals how MCP tools can automatically fetch super graph schemas, subgraphs, and router configurations to provide comprehensive API architecture summaries through natural language prompts.
 ---
 
 00:36:09:05 - 00:36:14:05

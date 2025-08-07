@@ -1,9 +1,50 @@
-# ep13-05-ai-for-all-and-ux-abstraction
-
-**Time Range:** 00:14:46 - 00:19:22
-
-**Topic:** AI for everyone at Shopify, small business adoption, and abstraction challenges
-
+---
+title: AI for All and UX Abstraction
+slug: ep13-05-ai-for-all-and-ux-abstraction
+series: The Good Thing
+episode: 13
+chunk: 5
+participants:
+  - Stefan
+  - Jens
+segment: Universal AI Adoption and User Experience Challenges
+timecode: 00:14:46 – 00:19:22
+start_time: 00:14:46
+end_time: 00:19:22
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Universal AI adoption at Shopify (all roles)
+  - Small business AI adoption challenges
+  - User experience abstraction for non-technical users
+  - MCP configuration complexity
+  - Cursor's rapid growth (0 to 200M ARR)
+tags:
+  - universal-ai-adoption
+  - small-business
+  - user-experience
+  - non-technical-users
+  - cursor-growth
+  - mcp-configuration
+  - accessibility
+entities:
+  - Shopify
+  - Cursor
+  - Claude Desktop
+  - MCP
+  - QuickBooks
+  - Dustin
+mentions:
+  - 1500 Shopify employees
+  - HR, operations, legal departments
+  - cruise ship analogy for big companies
+  - Cursor's 200M ARR in 1.5 years
+  - FOMO around AI adoption
+  - Stefan's mother's pediatric clinic example
+  - JSON configuration complexity
+summary: |
+  Stefan discusses Shopify's mandate for all 1500+ employees across all departments to use AI, comparing large companies to cruise ships that need time to turn. They explore challenges of AI adoption for small businesses and non-technical users, using examples like Stefan's mother's pediatric clinic and the complexity of MCP configuration in Claude Desktop.
 ---
 
 00:14:46:14 - 00:15:03:26

@@ -1,9 +1,56 @@
-# ep14-07-benefits-of-mcp-for-graphql
-
-**Time Range:** 00:27:17 - 00:31:08
-
-**Topic:** Why you need MCP for your GraphQL API
-
+---
+title: Benefits of MCP for GraphQL
+slug: ep14-07-benefits-of-mcp-for-graphql
+series: The Good Thing
+episode: 14
+chunk: 7
+participants:
+  - Stefan
+  - Jens
+  - Dustin
+segment: GraphQL API Advantages with MCP Integration
+timecode: 00:27:17 – 00:31:08
+start_time: 00:27:17
+end_time: 00:31:08
+speakers:
+  - Dustin
+  - Jens
+  - Stefan
+topics:
+  - Deterministic vs LLM-based task allocation
+  - Four key MCP benefits for GraphQL APIs
+  - AI discovery capabilities
+  - Operation control through trusted documents
+  - Rich metadata from schema comments
+  - Instant integration with AI tools
+tags:
+  - mcp-benefits
+  - graphql-api
+  - ai-discovery
+  - operation-control
+  - rich-metadata
+  - instant-integration
+  - trusted-documents
+entities:
+  - GraphQL API
+  - MCP protocol
+  - GraphQL federation
+  - Trusted documents
+  - ChatGPT
+  - Claude
+  - Cursor
+  - JSON schema
+mentions:
+  - algorithmic JSON schema generation
+  - AST parsing and testing
+  - 80/20 vibe coding validation
+  - federation data aggregation
+  - employee data exposure control
+  - schema comment incorporation
+  - minimal configuration requirements
+  - bank information privacy
+summary: |
+  Jens emphasizes using deterministic algorithms rather than LLMs for JSON schema generation, ensuring testable and reliable results. Dustin outlines four key MCP benefits for GraphQL APIs: AI discovery through protocol capabilities, operation control via trusted documents for selective data exposure, rich metadata from schema comments, and instant integration with AI tools like ChatGPT and Claude.
 ---
 
 00:27:17:03 - 00:27:21:07
