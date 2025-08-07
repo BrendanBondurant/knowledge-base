@@ -1,9 +1,45 @@
-# ep15-04-planetscale-social-proof-and-scale
-
-**Time Range:** 00:15:17 - 00:20:38
-
-**Topic:** Analyzing PlanetScale's Bold Claims and Targeted Messaging
-
+---
+title: PlanetScale Bold Claims and Targeted Database Messaging
+slug: ep15-04-planetscale-social-proof-and-scale
+series: The Good Thing
+episode: 15
+chunk: 4
+participants:
+  - Stefan
+  - Jens
+segment: PlanetScale Landing Page Analysis
+timecode: 00:15:17 – 00:20:38
+start_time: 00:15:17
+end_time: 00:20:38
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Bold database performance claims
+  - Simplified landing page design philosophy
+  - Technical audience targeting strategy
+  - Social proof through case studies
+  - Performance benchmarking links
+tags:
+  - planetscale
+  - database
+  - performance-claims
+  - case-studies
+  - technical-marketing
+entities:
+  - PlanetScale
+  - eBay
+  - Cash App
+  - Vitess
+  - NVMe
+mentions:
+  - "World's fastest and most reliable relational database" claim
+  - Blazing fast NVMe drives and unlimited IOPs
+  - Tier zero database concept
+  - Cash App case study link
+  - Vitess technology mention
+summary: |
+  Stefan and Jens analyze PlanetScale's dramatically simplified landing page featuring bold performance claims like "world's fastest database." They discuss the strategic targeting of technical audiences, the effective use of case studies like Cash App, and how the seemingly "ugly" design actually appeals to developers who care more about performance proof than visual polish.
 ---
 
 00:15:17:22 - 00:15:38:15

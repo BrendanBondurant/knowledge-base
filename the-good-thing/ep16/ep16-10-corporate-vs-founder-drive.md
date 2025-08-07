@@ -1,9 +1,43 @@
-# ep16-10-corporate-vs-founder-drive
-
-**Time Range:** 00:46:28 - 00:51:18
-
-**Topic:** Corporate tradeoffs, Cosmo competition, and founder drive
-
+---
+title: Corporate vs Founder Drive and Big Company Competition Limits
+slug: ep16-10-corporate-vs-founder-drive
+series: The Good Thing
+episode: 16
+chunk: 10
+participants:
+  - Stefan
+  - Jens
+segment: Work Culture and Competitive Dynamics
+timecode: 00:46:28 – 00:51:18
+start_time: 00:46:28
+end_time: 00:51:18
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Corporate employee motivation misalignment
+  - Big company vs startup tradeoffs
+  - FAANG stress level comparisons
+  - Politics and bureaucracy in large companies
+  - Individual contributor versus founder dedication
+tags:
+  - corporate-culture
+  - founder-drive
+  - faang-companies
+  - startup-culture
+  - work-tradeoffs
+entities:
+  - Google
+  - FAANG
+  - Cosmo
+mentions:
+  - Google employee tweet about FAANG stress
+  - $300-400K salary and 5pm job ending
+  - Corporate politics and bureaucracy
+  - "Coasting" in big companies
+  - True technologists in enterprises
+summary: |
+  Stefan and Jens discuss why corporate employees cannot match founder dedication when competing. They explore the tradeoffs between big company stability and startup intensity, referencing a Google employee's tweet about FAANG stress levels. The conversation highlights how corporate environments with politics, bureaucracy, and ability to "coast" create fundamentally different motivation structures than founder-driven startups where personal investment drives relentless focus.
 ---
 
 00:46:28:29 - 00:47:00:10

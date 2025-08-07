@@ -1,9 +1,43 @@
-# ep16-04-collaboration-pr-liability
-
-**Time Range:** 00:14:09 - 00:21:10
-
-**Topic:** Community collaboration, PR maintenance, and risks of accepting external code
-
+---
+title: Open Source Community Collaboration and PR Maintenance Challenges
+slug: ep16-04-collaboration-pr-liability
+series: The Good Thing
+episode: 16
+chunk: 4
+participants:
+  - Stefan
+  - Jens
+segment: Open Source Community Management
+timecode: 00:14:09 – 00:21:10
+start_time: 00:14:09
+end_time: 00:21:10
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Open source time expectations management
+  - Community collaboration vs support demands
+  - Discord question categories and etiquette
+  - Pull request maintenance responsibilities
+  - External contribution quality challenges
+tags:
+  - open-source-community
+  - discord-support
+  - pull-requests
+  - community-management
+  - maintainer-responsibilities
+entities:
+  - Discord
+  - Cosmo
+  - GraphQL Go Tools
+mentions:
+  - "My time is not free" open source principle
+  - Discord as documentation search replacement
+  - AI search tool for documentation
+  - Seven years maintaining GraphQL Go Tools
+  - Frank's comment about maintainer responsibilities
+summary: |
+  Jens discusses the challenges of open source community management, emphasizing that while code is free, maintainer time is not. He distinguishes between valuable collaboration questions and lazy documentation searches, explaining the burden of maintaining pull requests and external contributions. The discussion covers the demanding nature of long-term open source maintenance spanning over seven years.
 ---
 
 00:14:09:09 - 00:14:34:07

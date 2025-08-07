@@ -1,9 +1,41 @@
-# ep15-09-posthog-humor-pricing-positioning
-
-**Time Range:** 00:40:01 - 00:45:13
-
-**Topic:** Humor, Pricing, and Objection Handling on PostHog
-
+---
+title: PostHog Humor, Pricing Strategy and Objection Handling
+slug: ep15-09-posthog-humor-pricing-positioning
+series: The Good Thing
+episode: 15
+chunk: 9
+participants:
+  - Stefan
+  - Jens
+segment: PostHog Marketing Strategy Analysis
+timecode: 00:40:01 – 00:45:13
+start_time: 00:40:01
+end_time: 00:45:13
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Reverse psychology marketing approach
+  - Usage-based pricing positioning
+  - Objection handling on landing page
+  - Humorous anti-sales messaging
+  - Free tier generosity strategy
+tags:
+  - posthog
+  - pricing-strategy
+  - humor-marketing
+  - objection-handling
+  - reverse-psychology
+entities:
+  - PostHog
+mentions:
+  - "You will hate PostHog" reverse messaging
+  - Usage-based pricing that decreases with scale
+  - "Press control w now" humorous CTA
+  - Automated customer success manager emails
+  - Free tier so large few customers pay
+summary: |
+  Stefan and Jens analyze PostHog's clever reverse psychology marketing, using humor to handle objections directly on their landing page. They highlight how PostHog turns typical sales pain points into selling points, like generous free tiers, usage-based pricing, and transparent automated customer success, creating an anti-sales approach that appeals to developers skeptical of traditional sales tactics.
 ---
 
 00:40:01:06 - 00:40:26:27

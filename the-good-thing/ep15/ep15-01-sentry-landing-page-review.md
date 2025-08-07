@@ -1,9 +1,50 @@
-# ep15-01-sentry-landing-page-review
-
-**Time Range:** 00:00:23 - 00:05:03
-
-**Topic:** Reviewing Sentry's Landing Page: Trust Signals, Playfulness, and CTA Strategy
-
+---
+title: Sentry Landing Page Review - Trust Signals and Playfulness
+slug: ep15-01-sentry-landing-page-review
+series: The Good Thing
+episode: 15
+chunk: 1
+participants:
+  - Stefan
+  - Jens
+segment: Landing Page Analysis and Discussion Format
+timecode: 00:00:23 – 00:05:03
+start_time: 00:00:23
+end_time: 00:05:03
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Sentry landing page design review
+  - Trust signals and social proof
+  - Call-to-action placement strategy
+  - Developer-focused design playfulness
+  - Creative vs traditional landing page approaches
+tags:
+  - landing-pages
+  - sentry
+  - design-review
+  - developer-marketing
+  - cta-strategy
+entities:
+  - Sentry
+  - GitHub
+  - Disney
+  - Atlassian
+  - Slack
+  - Lyft
+  - Instacart
+  - Cloudflare
+  - Cursor
+  - Microsoft
+mentions:
+  - "Code breaks. Fix it faster" tagline
+  - "Not bad by 4 million developers" German humor reference
+  - Interactive hover effects on landing page
+  - Trust wall with major company logos
+  - Playful vs professional design debate
+summary: |
+  Stefan and Jens spontaneously decide to review landing pages, starting with Sentry's creative approach. They discuss the effectiveness of Sentry's playful design, trust signals from major companies like Disney and GitHub, and debate whether the interactive elements and humor ("not bad") appeal to developers versus being too playful for a bug-finding tool.
 ---
 Episode 15
 00:00:23:26 - 00:00:33:12

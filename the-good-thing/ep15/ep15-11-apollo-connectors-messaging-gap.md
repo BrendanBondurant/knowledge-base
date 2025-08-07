@@ -1,9 +1,43 @@
-# ep15-11-apollo-connectors-messaging-gap
-
-**Time Range:** 00:50:17 - 00:54:10
-
-**Topic:** Apollo Connectors and Lack of Problem Clarity
-
+---
+title: Apollo Connectors Strategy and Problem Clarity Issues
+slug: ep15-11-apollo-connectors-messaging-gap
+series: The Good Thing
+episode: 15
+chunk: 11
+participants:
+  - Stefan
+  - Jens
+segment: Apollo Technical Strategy Discussion
+timecode: 00:50:17 – 00:54:10
+start_time: 00:50:17
+end_time: 00:54:10
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Apollo migration feature flags
+  - WunderGraph router compatibility issues
+  - Social proof presentation problems
+  - Non-clickable customer logos critique
+  - Technical migration challenges
+tags:
+  - apollo-graphql
+  - migration
+  - feature-flags
+  - social-proof
+  - router-compatibility
+entities:
+  - Apollo
+  - WunderGraph
+  - Matt (Apollo engineer)
+mentions:
+  - Customer migration from Apollo to WunderGraph
+  - Feature flags for router compatibility
+  - Non-clickable customer logos issue
+  - Missing case study links
+  - Matt as smart engineer acknowledgment
+summary: |
+  Stefan and Jens discuss technical migration challenges from Apollo to WunderGraph, including the need for feature flags to maintain compatibility. They critique Apollo's social proof section for having non-clickable customer logos that don't link to case studies, while acknowledging respect for Apollo's engineering team, particularly Matt.
 ---
 
 00:50:17:05 - 00:50:41:09

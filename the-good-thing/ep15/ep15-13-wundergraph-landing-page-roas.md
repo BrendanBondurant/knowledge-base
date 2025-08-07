@@ -1,9 +1,43 @@
-# ep15-13-wundergraph-landing-page-roas
-
-**Time Range:** 00:59:12 - 01:04:01
-
-**Topic:** Roasting the WunderGraph Landing Page: Messaging and Audience Fi
-
+---
+title: WunderGraph Landing Page Self-Critique and Messaging Problems
+slug: ep15-13-wundergraph-landing-page-roast
+series: The Good Thing
+episode: 15
+chunk: 13
+participants:
+  - Stefan
+  - Jens
+segment: WunderGraph Self-Analysis
+timecode: 00:59:12 – 01:04:01
+start_time: 00:59:12
+end_time: 01:04:01
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Self-critique of company landing page
+  - GraphQL Federation terminology confusion
+  - Technical jargon accessibility issues
+  - Target audience mismatch problems
+  - Hero messaging clarity problems
+tags:
+  - wundergraph
+  - self-critique
+  - graphql-federation
+  - technical-messaging
+  - target-audience
+entities:
+  - WunderGraph
+  - Dustin (CTO)
+  - GraphQL
+mentions:
+  - "Open source GraphQL Federation solution" complexity
+  - Full lifecycle API management confusion
+  - Dustin writing problematic copy
+  - German "okay" meaning ambiguity
+  - Technical jargon inaccessibility
+summary: |
+  Stefan and Jens turn their critical lens on their own WunderGraph landing page, acknowledging major messaging problems. They critique their hero text "open source GraphQL Federation solution" as too technical and meaningless to non-experts, and discuss how their technical jargon makes the product inaccessible to potential users who don't already understand GraphQL Federation.
 ---
 
 00:59:14:26 - 00:59:25:20

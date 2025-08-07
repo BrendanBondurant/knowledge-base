@@ -1,9 +1,42 @@
-# ep15-08-posthog-overreach-and-dev-style
-
-**Time Range:** 00:35:11 - 00:40:01
-
-**Topic:** PostHog's Overloaded Feature Set and Developer Appeal
-
+---
+title: PostHog Overloaded Features and Developer-Focused Appeal
+slug: ep15-08-posthog-overreach-and-dev-style
+series: The Good Thing
+episode: 15
+chunk: 8
+participants:
+  - Stefan
+  - Jens
+segment: PostHog Landing Page Analysis
+timecode: 00:35:11 – 00:40:01
+start_time: 00:35:11
+end_time: 00:40:01
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Multiple platform features confusion
+  - Developer-focused product messaging
+  - Feature flag and analytics combination
+  - Product comprehension challenges
+  - Modern developer tooling appeal
+tags:
+  - posthog
+  - feature-flags
+  - analytics
+  - developer-tools
+  - product-complexity
+entities:
+  - PostHog
+  - Apollo
+mentions:
+  - "How developers build successful products"
+  - Single platform for analyze, test, observe, deploy
+  - Modern developer tooling references
+  - Product confusion from feature overload
+  - Developer appeal through technical focus
+summary: |
+  Stefan and Jens examine PostHog's landing page, struggling to understand what the product actually does due to its many features (analytics, testing, observability, deployment). They note that while the messaging appeals to developers with modern references and technical focus, the broad feature set creates confusion about the core value proposition and primary use case.
 ---
 
 00:35:11:02 - 00:35:11:16

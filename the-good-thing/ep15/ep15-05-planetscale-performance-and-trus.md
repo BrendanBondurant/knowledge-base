@@ -1,9 +1,47 @@
-# ep15-05-planetscale-performance-and-trus
-
-**Time Range:** 00:20:38 - 00:25:01
-
-**Topic:** Performance Claims and Visual Proof on PlanetScale
-
+---
+title: PlanetScale Performance Claims and Visual Proof Strategy
+slug: ep15-05-planetscale-performance-and-trust
+series: The Good Thing
+episode: 15
+chunk: 5
+participants:
+  - Stefan
+  - Jens
+segment: PlanetScale Performance Marketing Analysis
+timecode: 00:20:38 – 00:25:01
+start_time: 00:20:38
+end_time: 00:25:01
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Vitess technology and YouTube origins
+  - Performance diagram visualization
+  - PlanetScale Metal product positioning
+  - Cache warmer comparison with Cosmo
+  - Database performance as primary selling point
+tags:
+  - planetscale
+  - performance
+  - vitess
+  - diagrams
+  - technical-marketing
+  - cache-warmer
+entities:
+  - PlanetScale
+  - YouTube
+  - Vitess
+  - Kubernetes
+  - PlanetScale Metal
+  - Cosmo
+mentions:
+  - Vitess open source project takeover
+  - Bare metal performance improvements
+  - Cache warmer screenshot inspiration
+  - Performance diagrams effectiveness
+  - Narrow customer base acknowledgment
+summary: |
+  Stefan and Jens analyze PlanetScale's effective use of performance diagrams and technical proof points. They discuss how PlanetScale leverages Vitess technology from YouTube, their focus on performance as the primary value proposition, and compare PlanetScale's visual cache warmer presentation with their own Cosmo product needs.
 ---
 
 00:20:38:25 - 00:21:03:04

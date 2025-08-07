@@ -1,9 +1,43 @@
-# ep15-02-prisma-business-value-issues
-
-**Time Range:** 00:05:03 - 00:10:19
-
-**Topic:** Critiquing Prisma's Messaging and Lack of Business Value
-
+---
+title: Prisma Business Value Issues - Missing Metrics and Messaging Problems
+slug: ep15-02-prisma-business-value-issues
+series: The Good Thing
+episode: 15
+chunk: 2
+participants:
+  - Stefan
+  - Jens
+segment: Prisma Landing Page Critique
+timecode: 00:05:03 – 00:10:19
+start_time: 00:05:03
+end_time: 00:10:19
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Prisma landing page messaging flaws
+  - Missing business value metrics
+  - Lack of quantifiable improvements
+  - Database ORM positioning issues
+  - Technical vs business buyer disconnect
+tags:
+  - prisma
+  - landing-pages
+  - messaging
+  - business-value
+  - orm
+  - database
+entities:
+  - Prisma
+  - Sentry
+mentions:
+  - Missing KPIs like "40% less bugs"
+  - No measurable improvement metrics
+  - Over $100M revenue reference for Sentry
+  - Developer-first vs business value messaging
+  - Database query performance claims
+summary: |
+  Stefan and Jens critique Prisma's landing page for lacking concrete business value metrics and quantifiable improvements. They note that unlike other tools, Prisma doesn't provide KPIs or measurable benefits, missing opportunities to show value like "40% fewer bugs" or performance improvements that would appeal to business decision makers.
 ---
 
 00:05:03:27 - 00:05:21:09

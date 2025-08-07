@@ -1,9 +1,43 @@
-# ep15-14-wundergraph-feature-highlights-missing
-
-**Time Range:** 01:04:01 - 01:08:14
-
-**Topic:** Misaligned Feature Placement and Understated Impact Areas
-
+---
+title: WunderGraph Feature Highlights Missing Business Impact
+slug: ep15-14-wundergraph-feature-highlights-missing
+series: The Good Thing
+episode: 15
+chunk: 14
+participants:
+  - Stefan
+  - Jens
+segment: WunderGraph Feature Analysis
+timecode: 01:04:01 – 01:08:14
+start_time: 01:04:01
+end_time: 01:08:14
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Cosmo as Apollo GraphOS replacement
+  - Technical features vs business benefits
+  - Schema registry business value unclear
+  - Animation and design elements
+  - Feature positioning precision
+tags:
+  - wundergraph
+  - cosmo
+  - feature-positioning
+  - business-benefits
+  - schema-registry
+entities:
+  - WunderGraph
+  - Cosmo
+  - Apollo GraphOS
+mentions:
+  - "Built for every use case" bold statement
+  - Cosmo as drop-in replacement for Apollo
+  - OSA solution bundling everything
+  - Animation design appreciation
+  - Technical features lacking business context
+summary: |
+  Stefan and Jens analyze WunderGraph's feature presentation, noting that while the positioning of Cosmo as a drop-in Apollo replacement is precise and hits their target market, the features are too technical without clear business benefits. They acknowledge good design elements but critique the lack of business value explanation for technical features like schema registry.
 ---
 
 01:04:01:26 - 01:04:08:00

@@ -1,9 +1,41 @@
-# ep15-16-closing-thoughts-and-next-steps
-
-**Time Range:** 01:13:12 - 01:14:19
-
-**Topic:** Wrap-up and Reflection on Landing Page Improvements
-
+---
+title: Episode Wrap-up and Landing Page Review Reflection
+slug: ep15-16-closing-thoughts-and-next-steps
+series: The Good Thing
+episode: 15
+chunk: 16
+participants:
+  - Stefan
+  - Jens
+segment: Episode Conclusion
+timecode: 01:13:12 – 01:14:19
+start_time: 01:13:12
+end_time: 01:14:19
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Episode wrap-up and thanks to audience
+  - Landing page review format feedback
+  - WunderGraph landing page rating discussion
+  - Future episode plans and improvements
+  - Invitation for audience submissions
+tags:
+  - episode-conclusion
+  - audience-engagement
+  - landing-page-reviews
+  - future-episodes
+  - self-critique
+entities:
+  - WunderGraph
+mentions:
+  - Running over time acknowledgment
+  - Unbiased review promise
+  - Four out of ten rating for WunderGraph
+  - Series A success despite landing page issues
+  - Next week special guest possibility
+summary: |
+  Stefan and Jens wrap up their landing page review episode, acknowledging they ran over time but had fun with the format. Jens rates their own WunderGraph landing page a four out of ten, noting it worked for their Series A but needs improvement. They invite audience submissions for future landing page reviews and tease a potential special guest for the next episode.
 ---
 
 01:13:12:20 - 01:13:30:18
