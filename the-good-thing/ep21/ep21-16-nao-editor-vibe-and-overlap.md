@@ -1,9 +1,55 @@
-# ep21-16-nao-editor-vibe-and-overlap
-
-**Time Range:** 00:48:05 - 00:51:00
-
-**Topic:** Critique of Nao’s VS Code-like UI and weak value prop
-
+---
+title: Nao Editor Vibe and Overlap
+slug: ep21-16-nao-editor-vibe-and-overlap
+series: The Good Thing
+episode: 21
+chunk: 16
+participants:
+  - Stefan
+  - Jens
+segment: Nao Evaluation - Part 2 and Amy Introduction
+timecode: 00:48:05:13 – 00:51:00:00
+start_time: 00:48:05:13
+end_time: 00:51:00:00
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Nao pricing and positioning critique
+  - Data security concerns with "vibing"
+  - Inevitable IDE feature convergence
+  - Amy AI agent introduction
+tags:
+  - nao
+  - pricing-comparison
+  - data-security
+  - feature-convergence
+  - amy
+  - private-market-investors
+  - startup-humility
+entities:
+  - Nao
+  - Cursor
+  - Stefan Avram
+  - Jens Neuse
+  - OpenAI
+  - Windsurf
+  - JetBrains
+  - VS Code
+  - Amy
+  - San Francisco
+mentions:
+  - $30 pricing same as Cursor
+  - "data vibing" security concerns
+  - JetBrains/VS Code database integration
+  - OpenAI's Windsurf acquisition
+  - RIP tier placement
+  - startup evaluation humility
+  - 99% failure rate acknowledgment
+  - Amy's VC fundraising success
+  - private market investor automation
+summary: |
+  Stefan and Jens conclude Nao is "dead in the water" due to Cursor's equivalent capabilities at the same $30 price point. Stefan mocks the "data vibing" terminology as inappropriate for sensitive customer data. They predict major IDEs will soon offer database integration, making Nao's differentiation temporary. After placing Nao in RIP tier, they transition to Amy with humility about their predictions, acknowledging 99% startup failure rates and inviting founders to "roast" their evaluations in future years.
 ---
 
 00:48:05:13 - 00:48:10:29

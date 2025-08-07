@@ -1,9 +1,40 @@
-# ep22-09-learn-to-code-llms-and-dev-evolution
-
-**Time Range:** 00:46:23 - 00:54:20
-
-**Topic:** Learn to code debate, LLMs, and developer role evolution
-
+---
+title: Learn to Code LLMs and Dev Evolution
+slug: ep22-09-learn-to-code-llms-and-dev-evolution
+series: The Good Thing
+episode: 22
+chunk: 9
+participants:
+  - Stefan
+  - Jens
+segment: AI Impact on Developer Education
+timecode: 00:46:23:00 – 00:54:20:00
+start_time: 00:46:23:00
+end_time: 00:54:20:00
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Learning to code debate
+  - LLM impact on programming education
+  - Developer role evolution
+  - AI-assisted development
+tags:
+  - learn-to-code
+  - llm-education
+  - developer-evolution
+  - ai-assisted-development
+  - programming-education
+entities:
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - coding education debate
+  - LLM learning assistance
+  - developer skill evolution
+  - AI impact on programming
+summary: |
+  Stefan and Jens debate the future of learning to code in the LLM era, discussing how AI assistance is changing programming education and the evolution of developer roles. They explore whether traditional coding skills remain essential or if the focus should shift to higher-level problem-solving and AI collaboration.
 ---
 
 00:46:23:07 - 00:46:54:08

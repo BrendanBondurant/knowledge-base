@@ -1,9 +1,42 @@
-# ep21-25-yc-selection-and-funding-insights
-
-**Time Range:** 01:15:12 - 01:17:05
-
-**Topic:** Reflections on YC selection and WunderGraph investors
-
+---
+title: YC Selection and Funding Insights
+slug: ep21-25-yc-selection-and-funding-insights
+series: The Good Thing
+episode: 21
+chunk: 25
+participants:
+  - Stefan
+  - Jens
+segment: Y Combinator and WunderGraph Discussion
+timecode: 01:15:12:06 – 01:17:05:13
+start_time: 01:15:12:06
+end_time: 01:17:05:13
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Y Combinator selection criteria
+  - WunderGraph investor relationships
+  - Startup accelerator insights
+  - Investment pattern analysis
+tags:
+  - y-combinator
+  - wundergraph-investors
+  - selection-criteria
+  - accelerator-insights
+  - investment-patterns
+entities:
+  - Y Combinator
+  - WunderGraph
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - YC selection patterns
+  - WunderGraph investor base
+  - accelerator program insights
+  - startup evaluation criteria
+summary: |
+  Jens and Stefan reflect on Y Combinator's selection patterns and discuss WunderGraph's investor relationships. They analyze how accelerator programs evaluate startups and share insights about the investment landscape, drawing from their own experience with building WunderGraph and observing market trends.
 ---
 
 01:15:12:06 - 01:15:33:17

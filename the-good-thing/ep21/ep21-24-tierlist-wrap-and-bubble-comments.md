@@ -1,9 +1,52 @@
-# ep21-24-tierlist-wrap-and-bubble-comments
-
-**Time Range:** 01:12:27 - 01:15:12
-
-**Topic:** Tier wrap-up and realization of bubble trends
-
+---
+title: Tierlist Wrap and Bubble Comments
+slug: ep21-24-tierlist-wrap-and-bubble-comments
+series: The Good Thing
+episode: 21
+chunk: 24
+participants:
+  - Stefan
+  - Jens
+segment: Tier List Summary and Market Analysis
+timecode: 01:12:27:12 – 01:15:12:00
+start_time: 01:12:27:12
+end_time: 01:15:12:00
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Final tier list results summary
+  - AI startup market bubble discussion
+  - Y Combinator batch quality assessment
+  - Market saturation observations
+tags:
+  - tier-list-summary
+  - ai-bubble
+  - y-combinator-quality
+  - market-saturation
+  - startup-trends
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - Y Combinator
+  - Hyperbound
+  - ThunderCode
+  - Marblism
+  - Klavis
+  - Lumona
+  - Nao
+  - Amy
+  - Ciroos
+  - Mlop
+  - text.ai
+mentions:
+  - final tier placements
+  - AI wrapper prevalence
+  - Y Combinator selection concerns
+  - bubble indicator patterns
+  - market timing analysis
+summary: |
+  Stefan and Jens wrap up their tier list with most startups placed in lower tiers, reflecting concerns about AI market saturation and the prevalence of simple AI wrappers. They discuss whether the high number of similar AI startups in Y Combinator batches indicates a market bubble, questioning the selection criteria and timing of investments in an oversaturated space.
 ---
 
 01:12:27:12 - 01:12:54:21

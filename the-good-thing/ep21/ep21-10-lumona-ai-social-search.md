@@ -1,9 +1,48 @@
-# ep21-10-lumona-ai-social-search
-
-**Time Range:** 00:30:10 - 00:33:15
-
-**Topic:** Evaluating Lumona’s social media search concep
-
+---
+title: Lumona AI Social Search
+slug: ep21-10-lumona-ai-social-search
+series: The Good Thing
+episode: 21
+chunk: 10
+participants:
+  - Stefan
+  - Jens
+segment: Klavis Final Assessment and Lumona Introduction
+timecode: 00:30:10:14 – 00:33:15:00
+start_time: 00:30:10:14
+end_time: 00:33:15:00
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Klavis final tier placement
+  - Lumona social media search introduction
+  - AI-enabled search engine positioning
+  - Slide formatting critique
+tags:
+  - klavis
+  - lumona
+  - social-media-search
+  - ai-search-engine
+  - slide-formatting
+  - presentation-critique
+entities:
+  - Klavis
+  - Lumona
+  - Stefan Avram
+  - Jens Neuse
+  - Jacob (producer)
+  - San Francisco
+  - David (chat participant)
+mentions:
+  - Klavis RIP tier placement
+  - AI-enabled search engine tagline
+  - social media insights focus
+  - search industry market size
+  - Jacob's slide formatting consistency
+  - one-line formatting standard
+summary: |
+  Stefan and Jens place Klavis in the "RIP" tier due to ChatGPT competition. They transition to Lumona, an AI-enabled search engine focusing on social media insights from San Francisco. While acknowledging search as a big industry, they immediately question the differentiation since existing search engines already use AI. Jens also critiques producer Jacob's inconsistent slide formatting.
 ---
 
 00:30:10:14 - 00:30:11:08

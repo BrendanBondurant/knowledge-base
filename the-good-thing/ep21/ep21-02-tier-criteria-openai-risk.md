@@ -1,9 +1,55 @@
-# ep21-02-tier-criteria-openai-risk
-
-**Time Range:** 00:03:18 - 00:06:06
-
-**Topic:** Explaining the tier list criteria and OpenAI risk
-
+---
+title: Tier Criteria and OpenAI Risk
+slug: ep21-02-tier-criteria-openai-risk
+series: The Good Thing
+episode: 21
+chunk: 2
+participants:
+  - Stefan
+  - Jens
+segment: Evaluation Criteria Setup
+timecode: 00:03:18:21 – 00:06:06:21
+start_time: 00:03:18:21
+end_time: 00:06:06:21
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Tier list grading system explanation
+  - Startup evaluation criteria definition
+  - OpenAI competitive threat assessment
+  - Y Combinator company identification
+tags:
+  - tier-list
+  - startup-evaluation
+  - openai-risk
+  - y-combinator
+  - generation-gap
+  - evaluation-criteria
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - Jacob (producer)
+  - OpenAI
+  - Y Combinator
+  - ThunderCode
+  - Marblism
+  - Klavis
+  - Lumona
+  - Hyperbound
+  - Nao
+  - Amy
+  - Ciroos
+  - M:lop
+  - text.ai
+mentions:
+  - S-tier to F-tier grading system
+  - four evaluation criteria
+  - generation gap on tier lists
+  - PowerPoint skills assessment
+  - immediate death prediction for text.ai
+summary: |
+  Stefan explains the tier list grading system (S-tier to F-tier) while Jens admits to being unfamiliar with the concept, highlighting a generation gap. They establish four evaluation criteria: impact, differentiation, gut feeling, and Jens' addition of "will OpenAI kill it." They review the ten startups to be evaluated, with Jens immediately predicting text.ai will fail based on the name alone.
 ---
 
 00:03:18:21 - 00:03:37:21

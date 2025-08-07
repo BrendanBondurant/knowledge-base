@@ -1,9 +1,53 @@
-# ep22-01-emotional-attachment-to-code
-
-**Time Range:** 00:00:25 - 00:07:07
-
-**Topic:** Emotional attachment to code and startup identity
-
+---
+title: Emotional Attachment to Code
+slug: ep22-01-emotional-attachment-to-code
+series: The Good Thing
+episode: 22
+chunk: 1
+participants:
+  - Stefan
+  - Jens
+segment: Introduction and Developer Psychology
+timecode: 00:00:25:17 – 00:07:07:02
+start_time: 00:00:25:17
+end_time: 00:07:07:02
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Developer emotional attachment to code
+  - Startup founder feedback reactions
+  - Product identity vs personal identity
+  - Small startup positioning strategy
+tags:
+  - emotional-attachment
+  - developer-psychology
+  - startup-feedback
+  - product-identity
+  - small-startup-strategy
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - Jacob (producer)
+  - text.ai founder
+  - Dax
+  - PlanetScale CEO
+  - Neon
+  - WunderGraph
+  - Cosmo
+  - Apollo
+mentions:
+  - text.ai founder feedback
+  - Apple Intelligence threat concern
+  - Google outage discussion
+  - PlanetScale vs Neon commentary
+  - developer attachment to code
+  - pull request feedback emotions
+  - WunderGraph SDK shutdown
+  - landing page effectiveness
+  - small startup advantages
+summary: |
+  Stefan and Jens discuss developer emotional attachment to code, triggered by feedback from a text.ai founder who felt "roasted" by their tier list episode. They explore how developers become personally identified with their work, making criticism feel like personal attacks. Jens reflects on WunderGraph's early days and the lesson that small startups should embrace their size rather than trying to behave like big companies, particularly in how they position against larger competitors like Apollo.
 ---
 
 00:00:25:17 - 00:00:34:06

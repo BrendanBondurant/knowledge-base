@@ -1,9 +1,40 @@
-# ep23-07-llm-code-quality-and-productivity
-
-**Time Range:** 00:39:06 - 00:45:01
-
-**Topic:** 50 percent AI code claims and software liability concerns
-
+---
+title: LLM Code Quality and Productivity
+slug: ep23-07-llm-code-quality-and-productivity
+series: The Good Thing
+episode: 23
+chunk: 7
+participants:
+  - Stefan
+  - Jens
+segment: AI Code Quality Assessment
+timecode: 00:39:06:00 – 00:45:01:00
+start_time: 00:39:06:00
+end_time: 00:45:01:00
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - 50% AI code claims analysis
+  - Software liability concerns
+  - AI-generated code quality
+  - Development productivity metrics
+tags:
+  - ai-code-percentage
+  - software-liability
+  - code-quality
+  - productivity-metrics
+  - ai-generated-code
+entities:
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - 50% AI code statistics
+  - liability concerns
+  - code quality assessment
+  - productivity claims
+summary: |
+  Stefan and Jens analyze claims about 50% AI-generated code in software projects, discussing the implications for software liability and questioning the accuracy of productivity metrics while examining code quality concerns.
 ---
 00:39:06:00 - 00:39:08:17
 Jens

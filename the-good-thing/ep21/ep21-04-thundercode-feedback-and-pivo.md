@@ -1,9 +1,46 @@
-# ep21-04-thundercode-feedback-and-pivo
-
-**Time Range:** 00:10:08 - 00:13:06
-
-**Topic:** Lack of clear value and founders’ potential to pivo
-
+---
+title: ThunderCode Feedback and Pivot Potential
+slug: ep21-04-thundercode-feedback-and-pivo
+series: The Good Thing
+episode: 21
+chunk: 4
+participants:
+  - Stefan
+  - Jens
+segment: ThunderCode Evaluation - Part 2
+timecode: 00:10:08:18 – 00:13:06:12
+start_time: 00:10:08:18
+end_time: 00:13:06:12
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - ThunderCode product interface criticism
+  - Target customer messaging issues
+  - Early-stage startup assessment
+  - Pivot potential evaluation
+tags:
+  - thundercode
+  - product-criticism
+  - early-stage
+  - pivot-potential
+  - target-customer
+  - ui-ux
+entities:
+  - ThunderCode
+  - Stefan Avram
+  - Jens Neuse
+  - Y Combinator
+  - Postman
+mentions:
+  - horrible UI criticism
+  - selling to decision makers not developers
+  - book a demo requirement
+  - QA automation comparison
+  - RIP tier placement
+  - smart founders can pivot
+summary: |
+  Stefan and Jens continue their ThunderCode evaluation, criticizing the poor UI and questioning the target customer messaging that focuses on developers rather than decision makers. They note this is a very early-stage startup not part of Y Combinator, ultimately placing it in the "RIP" tier. However, Jens acknowledges that while the current execution is poor, smart founders could potentially pivot with the feedback provided.
 ---
 
 00:10:08:18 - 00:10:11:24

@@ -1,9 +1,42 @@
-# ep21-23-textai-group-chatbot-analysis
-
-**Time Range:** 01:09:08 - 01:12:27
-
-**Topic:** Text.ai walkthrough and concerns about competition
-
+---
+title: TextAI Group Chatbot Analysis
+slug: ep21-23-textai-group-chatbot-analysis
+series: The Good Thing
+episode: 21
+chunk: 23
+participants:
+  - Stefan
+  - Jens
+segment: TextAI Evaluation
+timecode: 01:09:08:12 – 01:12:27:12
+start_time: 01:09:08:12
+end_time: 01:12:27:12
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Text.ai group chatbot platform
+  - AI agent market competition
+  - Platform oversaturation concerns
+  - Immediate dismissal reasoning
+tags:
+  - textai
+  - group-chatbot
+  - ai-agent-competition
+  - market-oversaturation
+  - instant-dismissal
+entities:
+  - text.ai
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - group chatbot functionality
+  - AI agent market flooding
+  - competition concerns
+  - quick evaluation
+  - RIP tier placement
+summary: |
+  Stefan and Jens quickly evaluate text.ai's group chatbot platform, expressing immediate concerns about competition in the oversaturated AI agent market. Consistent with earlier predictions about the company's poor prospects, they dismiss it rapidly due to market oversaturation and place it in the "RIP" tier.
 ---
 
 01:09:08:12 - 01:09:12:23

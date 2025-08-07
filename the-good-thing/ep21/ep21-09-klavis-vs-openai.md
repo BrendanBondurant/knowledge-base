@@ -1,9 +1,51 @@
-# ep21-09-klavis-vs-openai
-
-**Time Range:** 00:27:08 - 00:30:10
-
-**Topic:** Klavis analysis and OpenAI comparison
-
+---
+title: Klavis vs OpenAI
+slug: ep21-09-klavis-vs-openai
+series: The Good Thing
+episode: 21
+chunk: 9
+participants:
+  - Stefan
+  - Jens
+segment: Klavis Evaluation
+timecode: 00:27:08:14 – 00:30:10:14
+start_time: 00:27:08:14
+end_time: 00:30:10:14
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Klavis MCP integration service analysis
+  - Model Context Protocol market assessment
+  - Developer tool bubble discussion
+  - ChatGPT competitive threat
+tags:
+  - klavis
+  - mcp
+  - model-context-protocol
+  - developer-tools
+  - bubble-discussion
+  - chatgpt-competition
+entities:
+  - Klavis
+  - Stefan Avram
+  - Jens Neuse
+  - Y Combinator
+  - San Francisco
+  - Cursor
+  - ChatGPT
+  - OpenAI
+  - Diego (chat participant)
+mentions:
+  - MCP integration platform
+  - Cursor's 17,000 viewer update
+  - developer tool bubble indicators
+  - tiny TAM for MCP services
+  - ChatGPT's one-click MCP connection
+  - API integrations comparison
+  - 40+ application connections
+summary: |
+  Stefan and Jens evaluate Klavis, a Y Combinator company providing MCP integration services. They struggle with unclear messaging and note the tiny market size for MCP tools, comparing it to a bubble where Cursor's major update only reached 17,000 people. Jens concludes the startup is "dead at the beginning" since ChatGPT already provides one-click MCP server connections, making Klavis redundant.
 ---
 
 00:27:08:14 - 00:27:20:04

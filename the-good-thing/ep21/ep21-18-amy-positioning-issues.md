@@ -1,9 +1,46 @@
-# ep21-18-amy-positioning-issues
-
-**Time Range:** 00:54:05 - 00:57:00
-
-**Topic:** Amy’s landing page problems and team reactions
-
+---
+title: Amy Positioning Issues
+slug: ep21-18-amy-positioning-issues
+series: The Good Thing
+episode: 21
+chunk: 18
+participants:
+  - Stefan
+  - Jens
+segment: Amy Evaluation - Part 2
+timecode: 00:54:05:27 – 00:57:00:00
+start_time: 00:54:05:27
+end_time: 00:57:00:00
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - VC industry AI adoption resistance
+  - Personal relationships in venture capital
+  - Amy's problem-solution fit assessment
+  - Tier placement discussion
+tags:
+  - amy
+  - vc-industry
+  - ai-adoption
+  - personal-relationships
+  - problem-solution-fit
+  - tier-placement
+entities:
+  - Amy
+  - Stefan Avram
+  - Jens Neuse
+  - VC industry
+mentions:
+  - humanized AI agent naming
+  - VC process being slow and personal
+  - due diligence relationship importance
+  - associate job performance questions
+  - VC industry AI resistance
+  - coin flip tier placement
+  - problem existence uncertainty
+summary: |
+  Jens expresses skepticism about AI adoption in VC, emphasizing that the venture capital process is inherently slow, personal, and relationship-driven, making it unsuitable for AI automation. They debate whether Amy solves a real problem, with uncertainty about associate performance issues in the VC industry. Stefan acknowledges potential benefits but they ultimately place Amy in the "coin flip" tier due to questions about market acceptance and problem-solution fit.
 ---
 
 00:54:05:27 - 00:54:11:27

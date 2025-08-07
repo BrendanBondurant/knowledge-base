@@ -1,9 +1,52 @@
-# ep21-14-ai-wrappers-and-market-saturation
-
-**Time Range:** 00:42:06 - 00:45:10
-
-**Topic:** Reflections on AI wrappers and market saturation
-
+---
+title: AI Wrappers and Market Saturation
+slug: ep21-14-ai-wrappers-and-market-saturation
+series: The Good Thing
+episode: 21
+chunk: 14
+participants:
+  - Stefan
+  - Jens
+segment: AI Wrapper Discussion and Nao Introduction
+timecode: 00:42:06:18 – 00:45:10:23
+start_time: 00:42:06:18
+end_time: 00:45:10:23
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - AI wrapper startup viability
+  - Market saturation concerns
+  - Nao data editor introduction
+  - Enterprise development pace critique
+tags:
+  - ai-wrappers
+  - market-saturation
+  - nao
+  - data-tools
+  - enterprise-pace
+  - startup-viability
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - ThunderCode
+  - Marblism
+  - Klavis
+  - Nao
+  - San Francisco
+  - SAP
+  - David (chat participant)
+mentions:
+  - AI wrapper survival prospects
+  - "good chance" tier placement
+  - pivot potential discussion
+  - Cursor for data teams positioning
+  - "business pace" messaging critique
+  - SAP development timeline joke
+  - enterprise shipping frequency
+  - VS Code fork observation
+summary: |
+  Stefan and Jens discuss AI wrapper viability, concluding that simple wrappers like ThunderCode, Marblism, and Klavis have "absolutely no chance" of success. They transition to Nao, a "Cursor for data teams" from San Francisco, immediately critiquing the "ship data at business pace" messaging as problematic since enterprises are notoriously slow, joking about SAP-pace development taking years without delivery.
 ---
 
 00:42:06:18 - 00:42:10:29

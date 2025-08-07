@@ -1,9 +1,52 @@
-# ep21-08-klavis-lack-of-clarity
-
-**Time Range:** 00:23:13 - 00:27:08
-
-**Topic:** Reviewing Klavis and misunderstanding of value prop
-
+---
+title: Klavis Lack of Clarity
+slug: ep21-08-klavis-lack-of-clarity
+series: The Good Thing
+episode: 21
+chunk: 8
+participants:
+  - Stefan
+  - Jens
+segment: Marblism Final Evaluation and Klavis Introduction
+timecode: 00:23:13:00 – 00:27:08:12
+start_time: 00:23:13:00
+end_time: 00:27:08:12
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Marblism final evaluation and tier placement
+  - AI agent market saturation concerns
+  - OpenAI competitive threat analysis
+  - Klavis MCP integration introduction
+tags:
+  - marblism
+  - klavis
+  - ai-agents
+  - market-saturation
+  - openai-threat
+  - mcp-integration
+  - coin-flip-tier
+entities:
+  - Marblism
+  - Klavis
+  - Stefan Avram
+  - Jens Neuse
+  - OpenAI
+  - ChatGPT
+  - Google Drive
+  - Instagram
+  - David (chat participant)
+mentions:
+  - comic book style limiting enterprise appeal
+  - AI agent market overcrowding
+  - OpenAI's deep research advantage
+  - ChatGPT tool integrations
+  - social media automation concerns
+  - coin flip tier placement
+  - MCP integration for AI applications
+summary: |
+  Stefan and Jens complete their Marblism evaluation, agreeing on problem-solving but disagreeing on differentiation. Stefan sees unique positioning while Jens considers it a thin AI wrapper. With AI agent market saturation and OpenAI's deep research advantage in tool integrations, they place Marblism in the "coin flip" tier. They transition to Klavis, which focuses on MCP integration for AI applications in the dev tools space.
 ---
 
 00:23:23:15 - 00:23:40:18

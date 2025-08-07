@@ -1,9 +1,40 @@
-# ep22-11-closing-and-hiring-invitation
-
-**Time Range:** 01:03:02 - 01:03:59
-
-**Topic:** Final thoughts and episode closeou
-
+---
+title: Closing and Hiring Invitation
+slug: ep22-11-closing-and-hiring-invitation
+series: The Good Thing
+episode: 22
+chunk: 11
+participants:
+  - Stefan
+  - Jens
+segment: Episode Conclusion
+timecode: 01:03:02:15 – 01:03:59:00
+start_time: 01:03:02:15
+end_time: 01:03:59:00
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Episode wrap-up
+  - WunderGraph hiring
+  - Community engagement
+  - Future episode topics
+tags:
+  - episode-conclusion
+  - hiring-invitation
+  - community-engagement
+  - wundergraph-hiring
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - WunderGraph
+mentions:
+  - episode conclusion
+  - hiring opportunities
+  - community feedback
+  - future topics
+summary: |
+  Stefan and Jens conclude the episode with final thoughts and extend an invitation for talented developers to join WunderGraph. They encourage community engagement and tease future episode topics while wrapping up their discussion on AI's impact on software development.
 ---
 
 01:03:02:15 - 01:03:24:17

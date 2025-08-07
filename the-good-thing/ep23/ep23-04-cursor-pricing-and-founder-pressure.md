@@ -1,9 +1,41 @@
-# ep23-04-cursor-pricing-and-founder-pressure
-
-**Time Range:** 00:20:08 - 00:26:18
-
-**Topic:** Cursor’s pricing backlash and early stage founder pressure
-
+---
+title: Cursor Pricing and Founder Pressure
+slug: ep23-04-cursor-pricing-and-founder-pressure
+series: The Good Thing
+episode: 23
+chunk: 4
+participants:
+  - Stefan
+  - Jens
+segment: AI Tool Pricing and Startup Pressures
+timecode: 00:20:08:15 – 00:26:18:00
+start_time: 00:20:08:15
+end_time: 00:26:18:00
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Cursor pricing controversy
+  - Early-stage founder pressures
+  - AI tool monetization challenges
+  - Developer tool pricing strategies
+tags:
+  - cursor-pricing
+  - founder-pressure
+  - ai-tool-monetization
+  - developer-tools
+  - pricing-strategy
+entities:
+  - Cursor
+  - Stefan Avram
+  - Jens Neuse
+mentions:
+  - pricing backlash
+  - founder pressure dynamics
+  - AI tool economics
+  - monetization challenges
+summary: |
+  Stefan and Jens examine Cursor's pricing backlash and the pressures faced by early-stage founders when monetizing AI tools. They discuss the challenges of pricing developer tools and the balance between user expectations and business sustainability.
 ---
 
 

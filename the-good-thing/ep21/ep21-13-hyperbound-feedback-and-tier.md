@@ -1,9 +1,46 @@
-# ep21-13-hyperbound-feedback-and-tier
-
-**Time Range:** 00:40:00 - 00:42:06
-
-**Topic:** Hyperbound differentiation and market potential
-
+---
+title: Hyperbound Feedback and Tier
+slug: ep21-13-hyperbound-feedback-and-tier
+series: The Good Thing
+episode: 21
+chunk: 13
+participants:
+  - Stefan
+  - Jens
+segment: Hyperbound Evaluation - Part 2
+timecode: 00:40:00:18 – 00:42:06:16
+start_time: 00:40:00:18
+end_time: 00:42:06:16
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - Hyperbound enterprise features evaluation
+  - Sales training differentiation assessment
+  - Market competition analysis
+  - Tier placement decision
+tags:
+  - hyperbound
+  - enterprise-features
+  - differentiation
+  - sales-training
+  - tier-placement
+  - self-service
+entities:
+  - Hyperbound
+  - Stefan Avram
+  - Jens Neuse
+  - OpenAI
+mentions:
+  - enterprise SSO features
+  - mid-market self-service suggestion
+  - sophisticated product development
+  - strong testimonial evidence
+  - OpenAI threat assessment
+  - "will survive" tier placement
+  - unique product differentiation
+summary: |
+  Stefan and Jens complete their Hyperbound evaluation, praising the enterprise features and sophisticated product development that goes beyond simple AI wrappers. They note strong testimonials and believe the company solves real problems with unique differentiation. Both agree OpenAI won't threaten this space, placing Hyperbound in the "will survive" tier due to proven traction and potential for expansion beyond sales playbooks.
 ---
 
 00:40:00:18 - 00:40:01:18

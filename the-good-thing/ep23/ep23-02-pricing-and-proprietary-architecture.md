@@ -1,9 +1,42 @@
-# ep23-02-pricing-and-proprietary-architecture
-
-**Time Range:** 00:06:53 - 00:13:31
-
-**Topic:** NVMe, pricing models, and PlanetScale’s proprietary architecture
-
+---
+title: Pricing and Proprietary Architecture
+slug: ep23-02-pricing-and-proprietary-architecture
+series: The Good Thing
+episode: 23
+chunk: 2
+participants:
+  - Stefan
+  - Jens
+segment: PlanetScale Business Model Analysis
+timecode: 00:06:53:16 – 00:13:31:00
+start_time: 00:06:53:16
+end_time: 00:13:31:00
+speakers:
+  - Stefan
+  - Jens
+topics:
+  - PlanetScale pricing strategy
+  - Proprietary vs open source architecture
+  - NVMe storage technology
+  - Database hosting business models
+tags:
+  - planetscale-pricing
+  - proprietary-architecture
+  - nvme-storage
+  - database-hosting
+  - business-models
+entities:
+  - PlanetScale
+  - Stefan Avram
+  - Jens Neuse
+  - NVMe
+mentions:
+  - pricing model analysis
+  - proprietary technology benefits
+  - NVMe storage advantages
+  - competitive positioning
+summary: |
+  Stefan and Jens analyze PlanetScale's pricing strategy and proprietary architecture decisions, discussing the benefits of NVMe storage technology and how proprietary solutions can create competitive advantages in the database hosting market.
 ---
 
 00:06:53:16 - 00:07:00:12
