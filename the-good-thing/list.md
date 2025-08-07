@@ -344,71 +344,60 @@
 
 24
 
-| Start   | End     | Topic                                                                  | Slug                                         |
-|---------|---------|-------------------------------------------------------------------------|----------------------------------------------|
-| 0:00:04 | 0:03:50 | The origin of “you’re not Google” and overengineering culture           | ep24-01-youre-not-google                     |
-| 0:03:50 | 0:08:01 | Engineers prefer solving interesting problems over shipping             | ep24-02-shipping-vs-interesting-problems     |
-| 0:08:01 | 0:12:25 | MVPs aren’t meant to scale — and that’s okay                            | ep24-03-mvps-dont-scale                      |
-| 0:12:25 | 0:16:35 | Scale is not just infra: it's security, org, compliance                 | ep24-04-what-scale-really-means              |
-| 0:16:35 | 0:21:00 | Conway’s Law explains most internal platform failures                   | ep24-05-conways-law-and-platforms            |
-| 0:21:00 | 0:25:20 | Why internal platforms fail: assumptions, ownership, incentives         | ep24-06-why-platforms-fail                   |
-| 0:25:20 | 0:29:57 | Internal infra isn’t a product — it’s a collaboration surface           | ep24-07-internal-infra-collaboration         |
-| 0:29:57 | 0:33:45 | Developer experience requires clarity, not just abstraction             | ep24-08-clarity-vs-abstraction               |
-| 0:33:45 | 0:38:08 | Nobody thinks their job is interesting — and that’s a problem           | ep24-09-boring-work-mindset                  |
-| 0:38:08 | 0:42:11 | DX is about trust, not preference — teams don’t want to be burned       | ep24-10-devex-is-about-trust                 |
-| 0:42:11 | 0:45:40 | “You’re not Google” is not an insult — it’s a relief                    | ep24-11-not-google-is-a-relief               |
-| 0:45:40 | 0:49:01 | Working on unsexy problems is what makes a company special              | ep24-12-unsexy-problems-are-the-best         |
-| 0:49:01 | 0:52:44 | Good infra is invisible — it removes work instead of adding abstraction | ep24-13-good-infra-is-invisible              |
-| 0:52:44 | 0:56:18 | Why every company ends up building a platform team                      | ep24-14-why-everyone-builds-platforms        |
-| 0:56:18 | 1:00:15 | Platform teams must partner, not posture                                | ep24-15-platform-teams-partnering            |
-| 1:00:15 | 1:04:40 | Engineers want agency — not automation or restriction                   | ep24-16-developer-agency-vs-automation       |
-| 1:04:40 | 1:07:32 | What actually makes teams productive                                    | ep24-17-real-drivers-of-productivity         |
+| Start    | End      | Topic                                                            | Slug                                 |
+| -------- | -------- | ---------------------------------------------------------------- | ------------------------------------ |
+| 00:00:25 | 00:04:05 | Intro, AI hype, and episode overview                             | ep24-01-ai-hype-intro                |
+| 00:04:05 | 00:10:00 | Why gRPC is the future of Federation                             | ep24-02-grpc-federation-future       |
+| 00:10:00 | 00:16:24 | Type safety, N+1 batching, performance gains                     | ep24-03-grpc-type-safety-performance |
+| 00:16:24 | 00:22:01 | Plugins, connectors, and Apollo leadership shift                 | ep24-04-plugins-apollo-leadership    |
+| 00:22:01 | 00:28:16 | LinkedIn post discussion and federation working group skepticism | ep24-05-working-group-doubts         |
+| 00:28:16 | 00:33:06 | Federation vs. GraphQL, solution bias, and batching issues       | ep24-06-federation-vs-graphql        |
+| 00:33:06 | 00:40:14 | AI productivity study critique and media discourse               | ep24-07-ai-productivity-study        |
+| 00:40:14 | 00:46:14 | Personal AI coding experiences and internal bias jokes           | ep24-08-ai-coding-experience         |
+| 00:46:14 | 00:51:18 | Lovable growth, AI scaffolding, and long-term viability          | ep24-09-lovable-ai-scaling           |
+| 00:51:18 | 00:56:25 | Meta’s AI model strategy and geopolitical implications           | ep24-10-meta-open-source-shift       |
+| 00:56:25 | 01:02:53 | Monopolies, branding tactics, and Coldplay incident sign-off     | ep24-11-monopolies-branding-coldplay |
+
 
 25
 
-| Start   | End     | Topic                                                                  | Slug                                         |
-|---------|---------|-------------------------------------------------------------------------|----------------------------------------------|
-| 0:00:22 | 0:03:03 | Kevin’s background: Postman, Apigee, API strategy, and the rise of MCP  | ep25-01-kevin-api-career-and-mcp-focus       |
-| 0:03:03 | 0:06:11 | Working at Apigee and Express Gateway; difference between vendor vs consulting | ep25-02-apigee-consulting-vs-vendor         |
-| 0:06:11 | 0:09:53 | Vendor tunnel vision vs reality of enterprise buyers                    | ep25-03-vendor-tunnel-vision-enterprise-buyers|
-| 0:09:53 | 0:13:03 | Investor interest in AI and relevance anxiety among vendors             | ep25-04-investor-anxiety-and-ai              |
-| 0:13:03 | 0:16:00 | What’s becoming irrelevant vs what’s still “boring but important”       | ep25-05-boring-infra-and-tech-longevity      |
-| 0:16:00 | 0:18:57 | The AI agent pattern vs traditional orchestration                       | ep25-06-ai-agents-vs-orchestration           |
-| 0:18:57 | 0:22:25 | The return of centralized control planes and distributed data planes    | ep25-07-control-plane-patterns-return        |
-| 0:22:25 | 0:25:12 | Plumbing analogy: APIs are infrastructure and here to stay              | ep25-08-apis-as-digital-plumbing             |
-| 0:25:12 | 0:28:10 | GraphQL is still an API; AI doesn’t eliminate API needs                 | ep25-09-ai-and-graphql-still-need-apis       |
-| 0:28:10 | 0:30:58 | Siren and the hypermedia moment for AI                                  | ep25-10-siren-hypermedia-and-ai              |
-| 0:30:58 | 0:34:47 | Chat interfaces changing web behavior; concerns over LLM centralization | ep25-11-llm-search-and-web-behavior          |
-| 0:34:47 | 0:38:45 | Where LLMs break: context, recency, control, and misinformation         | ep25-12-llm-weaknesses-in-infra-context      |
-| 0:38:45 | 0:42:05 | The API industry’s recurring cycle: innovation and old ideas returning  | ep25-13-api-industry-recursion               |
-| 0:42:05 | 0:46:25 | Kevin’s thoughts on open source, commoditization, and community trends  | ep25-14-open-source-and-commoditization      |
-| 0:46:25 | 0:50:03 | How LLMs can help debug APIs — and what they get wrong                  | ep25-15-llm-api-debugging                    |
-| 0:50:03 | 0:53:40 | The future of IDEs, collaboration, and cognitive offloading             | ep25-16-idetools-and-collaborative-future    |
-| 0:53:40 | 0:56:30 | The search layer is changing, but it’s not replacing all interfaces     | ep25-17-search-ui-vs-ai                      |
-| 0:56:30 | 0:59:15 | A cultural shift in how we think about software                         | ep25-18-cultural-shift-in-software-thinking  |
-| 0:59:15 | 1:02:44 | Everyone becomes a programmer; interfaces must adapt                    | ep25-19-programming-democratization          |
-| 1:02:44 | 1:06:09 | Recommendations: build for change, not perfection                       | ep25-20-designing-for-change                 |
-| 1:06:09 | 1:09:35 | Kevin’s advice to API vendors in the age of AI                          | ep25-21-api-vendor-advice-for-ai-era         |
+| Start    | End      | Topic                                                                                         | Slug                                                   |
+| -------- | -------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 00:00:22 | 00:05:11 | Kevin's background in the API world and vendor vs consultant perspective                      | ep25-01-api-background-and-consulting-view             |
+| 00:05:11 | 00:09:53 | Enterprise priorities, vendor limitations, and how AI is affecting investment strategies      | ep25-02-enterprise-priorities-and-ai-investor-interest |
+| 00:09:53 | 00:14:05 | Perception gaps between early adopters and traditional enterprise, and media focus distortion | ep25-03-tech-bubble-vs-enterprise-reality              |
+| 00:14:05 | 00:18:28 | API governance pain, schema sprawl, and process over tools                                    | ep25-04-api-governance-and-process-first-thinking      |
+| 00:18:28 | 00:23:20 | WunderGraph's journey from GraphQL to collaboration tooling focus                             | ep25-05-from-graphql-to-collaboration                  |
+| 00:23:20 | 00:27:14 | Investor criteria, gateway commoditization, and platform differentiation                      | ep25-06-investor-criteria-and-api-gateway-market       |
+| 00:27:14 | 00:31:06 | Analyst ecosystems, Magic Quadrants, and challenges in API vendor selection                   | ep25-07-analyst-influence-and-vendor-complexity        |
+| 00:31:06 | 00:35:12 | Vendor selection heuristics and tradeoffs in tooling                                          | ep25-08-vendor-evaluation-and-tooling-tradeoffs        |
+| 00:35:12 | 00:39:30 | APIs as digital plumbing and their persistence in the MCP/AI era                              | ep25-09-apis-as-plumbing-and-mcp-dependence            |
+| 00:39:30 | 00:44:08 | Hypermedia APIs, Siren, and the missed opportunity in LLM integration                         | ep25-10-hypermedia-apis-and-the-llm-moment             |
+| 00:44:08 | 00:49:51 | How LLMs change user behavior, content ownership, and the future web experience               | ep25-11-llm-behavior-shift-and-web-experience          |
+| 00:49:51 | 00:54:27 | Early enterprise AI adoption patterns and where LLM tools are sticking                        | ep25-12-enterprise-llm-adoption-and-traction           |
+| 00:54:27 | 00:58:02 | ChatGPT ads, accessibility gains, and real market pull for AI tools                           | ep25-13-llm-accessibility-and-enterprise-stickiness    |
+| 00:58:02 | 01:01:19 | GraphQL relevance in the LLM era and the “it depends” consultant mindset                      | ep25-14-graphql-llms-and-pragmatic-consulting          |
+| 01:01:19 | 01:05:30 | Developer maturity, clean code extremism, and vendor skepticism                               | ep25-15-developer-maturity-and-boring-tech             |
+| 01:05:30 | 01:07:23 | Infrastructure reliability, boring tech wins, and closing thoughts                            | ep25-16-infrastructure-reliability-and-wrap-up         |
+
 
 26
 
-| Start   | End     | Topic                                                                  | Slug                                         |
-|---------|---------|------------------------------------------------------------------------|----------------------------------------------|
-| 0:00:04 | 0:04:45 | Schema design is hard, and most people realize it too late             | ep26-01-schema-design-is-hard                |
-| 0:04:45 | 0:08:50 | Why schemas drift toward reflecting org charts                         | ep26-02-schemas-reflect-org-structure        |
-| 0:08:50 | 0:13:03 | Federation adds complexity: ownership, negotiation, alignment          | ep26-03-federation-ownership-negotiation     |
-| 0:13:03 | 0:17:29 | Thinking long-term: schemas as trust infrastructure                    | ep26-04-schemas-as-trust-infrastructure      |
-| 0:17:29 | 0:21:21 | The pain of breaking changes and downstream coordination               | ep26-05-breaking-changes-are-hard            |
-| 0:21:21 | 0:25:28 | A good schema is good communication                                    | ep26-06-good-schema-is-communication         |
-| 0:25:28 | 0:30:07 | Schema evolution, contracts, and how GitHub doesn’t solve alignment    | ep26-07-contracts-vs-coordination            |
-| 0:30:07 | 0:34:30 | GraphQL is not self-documenting — schema readability matters           | ep26-08-graphql-is-not-self-documenting      |
-| 0:34:30 | 0:39:03 | What bad schemas feel like, and what good ones enable                  | ep26-09-bad-vs-good-schema-signals           |
-| 0:39:03 | 0:44:21 | Slow down: why early communication beats early code                    | ep26-10-slow-down-and-talk                   |
-| 0:44:21 | 0:48:30 | Real-world consequences of schema misalignment                         | ep26-11-schema-misalignment-consequences     |
-| 0:48:30 | 0:52:56 | Educating teams on schema best practices                               | ep26-12-educating-teams-on-schemas           |
-| 0:52:56 | 0:56:59 | Tooling helps, but people and process matter more                      | ep26-13-tools-vs-process-in-schemas          |
-| 0:56:59 | 1:01:00 | The role of naming: clarity, stability, and versionability             | ep26-14-schema-naming-and-stability          |
-| 1:01:00 | 1:05:10 | How naming affects consumers and ownership trust                       | ep26-15-naming-consumers-and-trust           |
-| 1:05:10 | 1:09:18 | Coordinating schema across teams and subgraphs                         | ep26-16-cross-team-schema-coordination       |
-| 1:09:18 | 1:14:20 | Human incentives and the politics of schema control                    | ep26-17-schema-politics-and-incentives       |
-| 1:14:20 | 1:18:40 | Advice: reduce ego, increase conversation                              | ep26-18-ego-vs-communication-in-design       |
+| Start    | End      | Topic                                                                      | Slug                                            |
+| -------- | -------- | -------------------------------------------------------------------------- | ----------------------------------------------- |
+| 00:00:22 | 00:05:20 | Introduction to Sam Lambert and PlanetScale’s MySQL and Postgres offerings | ep26-01-intro-and-product-overview              |
+| 00:05:20 | 00:10:15 | Why PlanetScale is investing in Postgres and the evolution of sharding     | ep26-02-postgres-sharding-and-adoption          |
+| 00:10:15 | 00:15:33 | PlanetScale Metal and high availability design explained                   | ep26-03-metal-performance-and-ha                |
+| 00:15:33 | 00:19:02 | Write-heavy workloads, AI usage, and consistency tradeoffs                 | ep26-04-write-optimization-and-tradeoffs        |
+| 00:19:02 | 00:24:16 | Open source challenges, competition, and operational excellence            | ep26-05-open-source-competition-and-reliability |
+| 00:24:16 | 00:29:10 | Small team philosophy, engineering culture, and profitability              | ep26-06-team-efficiency-and-business-model      |
+| 00:29:10 | 00:34:21 | Venture capital pressures, sustainable growth, and investor relations      | ep26-07-funding-growth-and-sustainability       |
+| 00:34:21 | 00:39:45 | Raising large rounds, risk of disintegration, and founder perspective      | ep26-08-venture-risk-and-founder-perspective    |
+| 00:39:45 | 00:45:00 | Trust, customer health signaling, and internal engineering culture         | ep26-09-customer-trust-and-company-culture      |
+| 00:45:00 | 00:51:13 | Open source licensing, maintainership, and CNCF relationship               | ep26-10-licensing-governance-and-contributions  |
+| 00:51:13 | 00:56:07 | Upstream collaboration and safe deployment practices                       | ep26-11-open-source-collaboration-and-safety    |
+| 00:56:07 | 01:01:10 | 29-day node expiry, chaos engineering, and Kubernetes orchestration        | ep26-12-chaos-engineering-and-kubernetes        |
+| 01:01:10 | 01:05:02 | Scale obsession, orchestration pride, and infrastructure passion           | ep26-13-scale-infrastructure-and-orchestration  |
+| 01:05:02 | 01:09:22 | AI's impact on usage patterns, customer data scale, and cursor integration | ep26-14-ai-impact-and-database-usage            |
+| 01:09:22 | 01:10:27 | Final thoughts and closing remarks                                         | ep26-15-closing-reflections-and-farewell        |
+
