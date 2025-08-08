@@ -22,6 +22,13 @@ topics:
   - Pricing models
   - Startup sales
   - Customer requirements
+tags:
+  - usage-based-pricing
+  - enterprise-predictability
+  - pricing-strategy
+  - business-models
+  - startup-revenue
+  - customer-behavior
 summary: |
   Stefan and Jens discuss the pros and cons of usage-based pricing, the needs of enterprise customers, and the importance of predictability in pricing models for successful sales and adoption.
 ---

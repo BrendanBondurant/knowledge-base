@@ -1,20 +1,45 @@
 ---
-title: "Role Evolution and Technical Founder Discussion"
-slug: "ep03-02-role-evolution-technical-founder"
-series: "The Good Thing"
+title: Role Evolution and Technical Founder Discussion
+slug: ep03-02-role-evolution-technical-founder
+series: The Good Thing
 episode: 3
 chunk: 02
-participants: ["Stefan", "Dustin"]
-segment: "Discussion of Dustin's role evolution and the importance of technical founders"
-timecode: "00:05:21:23 - 00:08:30:12"
-start_time: "00:05:21:23"
-end_time: "00:08:30:12"
-speakers: ["Stefan", "Dustin"]
-topics: ["Role Evolution", "Technical Founder", "Startup Lessons", "AI Impact"]
-tags: ["role-evolution", "technical-founder", "startup", "ai", "career-growth"]
-entities: ["Dustin", "Stefan", "Jens", "Y Combinator", "WunderGraph"]
-mentions: ["CTO", "tech lead", "founder", "AI", "MVP", "technical co-founders"]
-summary: "Dustin discusses his evolution from tech lead to CTO and co-founder, emphasizing the importance of technical founders in startups. They debate whether AI tools like Cursor can replace the need for technical founders, concluding that while AI helps with repetitive tasks, domain expertise and passion remain irreplaceable."
+participants:
+  - Stefan
+  - Dustin
+segment: Discussion of Dustin's role evolution and the importance of technical founders
+timecode: 00:05:21:23 - 00:08:30:12
+start_time: 00:05:21:23
+end_time: 00:08:30:12
+speakers:
+  - Stefan
+  - Dustin
+topics:
+  - Role Evolution
+  - Technical Founder
+  - Startup Lessons
+  - AI Impact
+tags:
+  - role-evolution
+  - technical-founder
+  - startup
+  - ai
+  - career-growth
+entities:
+  - Dustin
+  - Stefan
+  - Jens
+  - Y Combinator
+  - WunderGraph
+mentions:
+  - CTO
+  - tech lead
+  - founder
+  - AI
+  - MVP
+  - technical co-founders
+summary: |
+  Dustin discusses his evolution from tech lead to CTO and co-founder, emphasizing the importance of technical founders in startups. They debate whether AI tools like Cursor can replace the need for technical founders, concluding that while AI helps with repetitive tasks, domain expertise and passion remain irreplaceable.
 ---
 
 00:05:21:23 - 00:05:42:00

@@ -24,6 +24,13 @@ topics:
   - Collaboration tools
 summary: |
   Jens and Stefan discuss the role of open source alternatives in the market, different business models, and how product differentiation is achieved beyond just feature parity. They reflect on the importance of positioning and strategy in building a successful company.
+tags:
+  - open-source-alternatives
+  - business-models
+  - product-differentiation
+  - market-positioning
+  - startup-strategy
+  - collaboration-tools
 ---
 
 00:13:56:18 - 00:14:16:03

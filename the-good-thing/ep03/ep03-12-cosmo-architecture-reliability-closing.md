@@ -1,20 +1,46 @@
 ---
-title: "Cosmo Architecture Reliability and Closing"
-slug: "ep03-12-cosmo-architecture-reliability-closing"
-series: "The Good Thing"
+title: Cosmo Architecture Reliability and Closing
+slug: ep03-12-cosmo-architecture-reliability-closing
+series: The Good Thing
 episode: 3
 chunk: 12
-participants: ["Stefan", "Dustin"]
-segment: "Final discussion about Cosmo's architecture reliability and episode closing"
-timecode: "00:53:01:19 - 00:56:45:00"
-start_time: "00:53:01:19"
-end_time: "00:56:45:00"
-speakers: ["Stefan", "Dustin"]
-topics: ["Cosmo Architecture", "Reliability", "Self-Hosting", "Infrastructure", "Closing"]
-tags: ["cosmo-architecture", "reliability", "self-hosting", "infrastructure", "closing"]
-entities: ["Stefan", "Dustin", "Cosmo", "Cloudflare", "CDN"]
-mentions: ["self-hosted router", "control plane", "CDN", "uptime", "SLAs", "autonomous"]
-summary: "Stefan and Dustin discuss Cosmo's architecture where customers self-host the router while interacting with the control plane. They explain the benefits of this design where customers' infrastructure isn't affected if Cosmo goes down, and discuss the two deployment options for router configuration."
+participants:
+  - Stefan
+  - Dustin
+segment: Final discussion about Cosmo's architecture reliability and episode closing
+timecode: 00:53:01:19 - 00:56:45:00
+start_time: 00:53:01:19
+end_time: 00:56:45:00
+speakers:
+  - Stefan
+  - Dustin
+topics:
+  - Cosmo Architecture
+  - Reliability
+  - Self-Hosting
+  - Infrastructure
+  - Closing
+tags:
+  - cosmo-architecture
+  - reliability
+  - self-hosting
+  - infrastructure
+  - closing
+entities:
+  - Stefan
+  - Dustin
+  - Cosmo
+  - Cloudflare
+  - CDN
+mentions:
+  - self-hosted router
+  - control plane
+  - CDN
+  - uptime
+  - SLAs
+  - autonomous
+summary: |
+  Stefan and Dustin discuss Cosmo's architecture where customers self-host the router while interacting with the control plane. They explain the benefits of this design where customers' infrastructure isn't affected if Cosmo goes down, and discuss the two deployment options for router configuration.
 ---
 
 00:53:01:19 - 00:53:26:20

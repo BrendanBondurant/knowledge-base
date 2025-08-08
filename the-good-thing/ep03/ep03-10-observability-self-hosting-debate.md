@@ -1,20 +1,46 @@
 ---
-title: "Observability and Self-Hosting Debate"
-slug: "ep03-10-observability-self-hosting-debate"
-series: "The Good Thing"
+title: Observability and Self-Hosting Debate
+slug: ep03-10-observability-self-hosting-debate
+series: The Good Thing
 episode: 3
 chunk: 10
-participants: ["Stefan", "Dustin"]
-segment: "Debate about self-hosting observability and the importance of managed services"
-timecode: "00:42:32:14 - 00:47:39:16"
-start_time: "00:42:32:14"
-end_time: "00:47:39:16"
-speakers: ["Stefan", "Dustin"]
-topics: ["Observability", "Self-Hosting", "Managed Services", "Datadog", "Business vs Technical"]
-tags: ["observability", "self-hosting", "managed-services", "datadog", "business-vs-technical"]
-entities: ["Stefan", "Dustin", "Datadog", "New Relic", "AWS"]
-mentions: ["observability", "self-hosting", "Datadog", "managed services", "business focus", "technical focus"]
-summary: "Stefan and Dustin debate the merits of self-hosting observability versus using managed services like Datadog. They discuss the paradox of self-hosting observability when infrastructure goes down and the importance of focusing on business value rather than technical coolness."
+participants:
+  - Stefan
+  - Dustin
+segment: Debate about self-hosting observability and the importance of managed services
+timecode: 00:42:32:14 - 00:47:39:16
+start_time: 00:42:32:14
+end_time: 00:47:39:16
+speakers:
+  - Stefan
+  - Dustin
+topics:
+  - Observability
+  - Self-Hosting
+  - Managed Services
+  - Datadog
+  - Business vs Technical
+tags:
+  - observability
+  - self-hosting
+  - managed-services
+  - datadog
+  - business-vs-technical
+entities:
+  - Stefan
+  - Dustin
+  - Datadog
+  - New Relic
+  - AWS
+mentions:
+  - observability
+  - self-hosting
+  - Datadog
+  - managed services
+  - business focus
+  - technical focus
+summary: |
+  Stefan and Dustin debate the merits of self-hosting observability versus using managed services like Datadog. They discuss the paradox of self-hosting observability when infrastructure goes down and the importance of focusing on business value rather than technical coolness.
 ---
 
 00:42:32:14 - 00:42:41:26

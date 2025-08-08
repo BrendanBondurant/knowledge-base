@@ -1,20 +1,48 @@
 ---
-title: "Edge Computing Discussion"
-slug: "ep03-11-edge-computing-discussion"
-series: "The Good Thing"
+title: Edge Computing Discussion
+slug: ep03-11-edge-computing-discussion
+series: The Good Thing
 episode: 3
 chunk: 11
-participants: ["Stefan", "Dustin"]
-segment: "Discussion about edge computing, its use cases, and relevance"
-timecode: "00:47:39:18 - 00:53:01:17"
-start_time: "00:47:39:18"
-end_time: "00:53:01:17"
-speakers: ["Stefan", "Dustin"]
-topics: ["Edge Computing", "Latency", "Performance", "Use Cases", "E-commerce"]
-tags: ["edge-computing", "latency", "performance", "use-cases", "e-commerce", "streaming"]
-entities: ["Stefan", "Dustin", "Vercel", "Cloudflare", "Fastly", "SQLite"]
-mentions: ["edge computing", "latency", "performance", "e-commerce", "streaming", "SQLite in Rust"]
-summary: "Stefan and Dustin discuss edge computing, its benefits for latency and performance, and specific use cases like e-commerce where performance directly impacts revenue. They also touch on the SQLite rewrite in Rust and the evolution of edge computing platforms."
+participants:
+  - Stefan
+  - Dustin
+segment: Discussion about edge computing, its use cases, and relevance
+timecode: 00:47:39:18 - 00:53:01:17
+start_time: 00:47:39:18
+end_time: 00:53:01:17
+speakers:
+  - Stefan
+  - Dustin
+topics:
+  - Edge Computing
+  - Latency
+  - Performance
+  - Use Cases
+  - E-commerce
+tags:
+  - edge-computing
+  - latency
+  - performance
+  - use-cases
+  - e-commerce
+  - streaming
+entities:
+  - Stefan
+  - Dustin
+  - Vercel
+  - Cloudflare
+  - Fastly
+  - SQLite
+mentions:
+  - edge computing
+  - latency
+  - performance
+  - e-commerce
+  - streaming
+  - SQLite in Rust
+summary: |
+  Stefan and Dustin discuss edge computing, its benefits for latency and performance, and specific use cases like e-commerce where performance directly impacts revenue. They also touch on the SQLite rewrite in Rust and the evolution of edge computing platforms.
 ---
 
 00:47:39:18 - 00:47:42:14

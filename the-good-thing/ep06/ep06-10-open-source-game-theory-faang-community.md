@@ -24,6 +24,13 @@ topics:
   - Startup growth
 summary: |
   Jens and Stefan explore the game theory behind open source, the role of FAANG companies, and the importance of community contributions in building successful products and growing startups.
+tags:
+  - open-source-game-theory
+  - faang-companies
+  - community-contributions
+  - open-source-strategy
+  - product-adoption
+  - startup-growth
 ---
 
 00:27:30:06 - 00:31:41:10

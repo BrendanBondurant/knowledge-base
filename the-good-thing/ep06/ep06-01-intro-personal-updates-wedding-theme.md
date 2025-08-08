@@ -26,6 +26,13 @@ topics:
   - Episode structure
 summary: |
   Stefan and Jens open the episode with personal updates, including wedding preparations and team news. They set the stage for the episode's main theme and discuss the mood and energy at the end of the week.
+tags:
+  - personal-updates
+  - wedding-preparation
+  - team-updates
+  - episode-introduction
+  - startup-life
+  - work-life-balance
 ---
 
 00:00:24:18 - 00:00:37:24

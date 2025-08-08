@@ -1,20 +1,46 @@
 ---
-title: "Startup Credits and Business Focus"
-slug: "ep03-09-startup-credits-business-focus"
-series: "The Good Thing"
+title: Startup Credits and Business Focus
+slug: ep03-09-startup-credits-business-focus
+series: The Good Thing
 episode: 3
 chunk: 09
-participants: ["Stefan", "Dustin"]
-segment: "Discussion of startup credits and the importance of business focus over technical coolness"
-timecode: "00:37:00:14 - 00:42:32:14"
-start_time: "00:37:00:14"
-end_time: "00:42:32:14"
-speakers: ["Stefan", "Dustin"]
-topics: ["Startup Credits", "Business Focus", "Technical vs Business", "Customer Value"]
-tags: ["startup-credits", "business-focus", "customer-value", "technical-vs-business", "vc-funding"]
-entities: ["Stefan", "Dustin", "GCP", "AWS", "Railway", "WunderGraph"]
-mentions: ["startup credits", "GCP", "AWS", "business focus", "customer value", "technical coolness"]
-summary: "Dustin mentions GCP startup credits as a motivation for choosing GCP. Stefan shares tips about using cloud provider competition to get more credits and discusses the importance of focusing on business value and customer problems rather than building technically cool solutions."
+participants:
+  - Stefan
+  - Dustin
+segment: Discussion of startup credits and the importance of business focus over technical coolness
+timecode: 00:37:00:14 - 00:42:32:14
+start_time: 00:37:00:14
+end_time: 00:42:32:14
+speakers:
+  - Stefan
+  - Dustin
+topics:
+  - Startup Credits
+  - Business Focus
+  - Technical vs Business
+  - Customer Value
+tags:
+  - startup-credits
+  - business-focus
+  - customer-value
+  - technical-vs-business
+  - vc-funding
+entities:
+  - Stefan
+  - Dustin
+  - GCP
+  - AWS
+  - Railway
+  - WunderGraph
+mentions:
+  - startup credits
+  - GCP
+  - AWS
+  - business focus
+  - customer value
+  - technical coolness
+summary: |
+  Dustin mentions GCP startup credits as a motivation for choosing GCP. Stefan shares tips about using cloud provider competition to get more credits and discusses the importance of focusing on business value and customer problems rather than building technically cool solutions.
 ---
 
 00:37:00:14 - 00:37:19:25
