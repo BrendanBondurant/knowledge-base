@@ -5,42 +5,51 @@ series: The Good Thing
 episode: 9
 chunk: 10
 participants:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 segment: AI testing and validation approaches
 timecode: 00:36:35:05 – 00:40:00:11
 start_time: 00:36:35:05
 end_time: 00:40:00:11
 speakers:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 topics:
-  - AI test generation strategies
-  - Reverse engineering approach to validation
-  - Implementation bias in testing
-  - Edge case discovery through AI
-  - Context management in test writing
-  - Human vs AI testing perspectives
+- AI test generation strategies
+- Reverse engineering approach to validation
+- Implementation bias in testing
+- Edge case discovery through AI
+- Context management in test writing
+- Human vs AI testing perspectives
 tags:
-  - test-generation
-  - edge-cases
-  - validation
-  - ai-testing
-  - implementation-bias
-  - context-management
+- test-generation
+- edge-cases
+- validation
+- ai-testing
+- implementation-bias
+- context-management
+topic_tags:
+- test-generation
+- edge-cases
+- validation
+- ai-testing
+- implementation-bias
+- context-management
 entities:
-  - Cursor
-  - Go
-  - JSON
+- Cursor
+- Go
+- JSON
 mentions:
-  - abstraction layer implementation
-  - hard-coded literals vs dynamic code
-  - AI as second set of eyes
-  - context file selection
-  - test case bias prevention
-  - edge case generation
-summary: |
-  Cameron shares his reverse approach to AI-assisted development, using AI for test generation and validation rather than primary implementation. They discuss how AI can discover edge cases without implementation bias and serve as an unbiased second set of eyes, though context management remains important.
+- abstraction layer implementation
+- hard-coded literals vs dynamic code
+- AI as second set of eyes
+- context file selection
+- test case bias prevention
+- edge case generation
+summary: Cameron shares his reverse approach to AI-assisted development, using AI
+  for test generation and validation rather than primary implementation. They discuss
+  how AI can discover edge cases without implementation bias and serve as an unbiased
+  second set of eyes, though context management remains important.
 ---
 
 00:36:35:05 - 00:36:56:01

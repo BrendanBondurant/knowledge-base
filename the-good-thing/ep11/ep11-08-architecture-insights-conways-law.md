@@ -5,43 +5,52 @@ series: The Good Thing
 episode: 11
 chunk: 8
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Microservices Architecture Analysis
 timecode: 00:43:03:01 – 00:48:14:14
 start_time: 00:43:03:01
 end_time: 00:48:14:14
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Machine learning approach to schema optimization
-  - Conway's Law in practice
-  - Microservices architecture evaluation
-  - Organization structure and service design
-  - Jeff Bezos API mandate
-  - Team communication through APIs
+- Machine learning approach to schema optimization
+- Conway's Law in practice
+- Microservices architecture evaluation
+- Organization structure and service design
+- Jeff Bezos API mandate
+- Team communication through APIs
 tags:
-  - conways-law
-  - microservices-architecture
-  - schema-optimization
-  - organizational-design
-  - api-mandate
-  - team-communication
+- conways-law
+- microservices-architecture
+- schema-optimization
+- organizational-design
+- api-mandate
+- team-communication
+topic_tags:
+- conways-law
+- microservices-architecture
+- schema-optimization
+- organizational-design
+- api-mandate
+- team-communication
 entities:
-  - Conway's Law
-  - Jeff Bezos
-  - Amazon
-  - Stefan Avram
-  - Jens Neuse
+- Conway's Law
+- Jeff Bezos
+- Amazon
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - machine learning schema optimization
-  - questioning architecture decisions
-  - team ownership of domains
-  - API communication mandate
-  - compiler team example
-summary: |
-  Discussion of using machine learning approaches to optimize microservices architecture through schema analysis. Jens explores how Conway's Law affects system design, while Stefan explains Jeff Bezos' API mandate requiring teams to communicate only through APIs, and how federation can enhance this approach.
+- machine learning schema optimization
+- questioning architecture decisions
+- team ownership of domains
+- API communication mandate
+- compiler team example
+summary: Discussion of using machine learning approaches to optimize microservices
+  architecture through schema analysis. Jens explores how Conway's Law affects system
+  design, while Stefan explains Jeff Bezos' API mandate requiring teams to communicate
+  only through APIs, and how federation can enhance this approach.
 ---
 
 00:43:03:01 - 00:43:25:05

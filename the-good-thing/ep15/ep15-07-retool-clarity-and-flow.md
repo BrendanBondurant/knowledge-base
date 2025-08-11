@@ -5,37 +5,46 @@ series: The Good Thing
 episode: 15
 chunk: 7
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Retool Landing Page Design Critique
 timecode: 00:30:17 – 00:35:11
 start_time: 00:30:17
 end_time: 00:35:11
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Clear use case communication
-  - Internal software building positioning
-  - Visual dashboard demonstration
-  - CTA button visibility issues
-  - Animated transitions and distractions
+- Clear use case communication
+- Internal software building positioning
+- Visual dashboard demonstration
+- CTA button visibility issues
+- Animated transitions and distractions
 tags:
-  - retool
-  - internal-tools
-  - visual-design
-  - cta-placement
-  - user-experience
+- retool
+- internal-tools
+- visual-design
+- cta-placement
+- user-experience
+topic_tags:
+- retool
+- internal-tools
+- visual-design
+- cta-placement
+- user-experience
 entities:
-  - Retool
+- Retool
 mentions:
-  - "The best way to build internal software"
-  - Dashboard visual supporting message
-  - Invisible "Book a demo" button
-  - Distracting animated elements
-  - Cool transition effects
-summary: |
-  Stefan and Jens analyze Retool's landing page, praising the immediate clarity of their internal software building use case supported by visual dashboards. However, they critique execution flaws like invisible CTA buttons, distracting animations that pull attention from the main message, and weak claims about being "the best way" without proof.
+- The best way to build internal software
+- Dashboard visual supporting message
+- Invisible "Book a demo" button
+- Distracting animated elements
+- Cool transition effects
+summary: Stefan and Jens analyze Retool's landing page, praising the immediate clarity
+  of their internal software building use case supported by visual dashboards. However,
+  they critique execution flaws like invisible CTA buttons, distracting animations
+  that pull attention from the main message, and weak claims about being "the best
+  way" without proof.
 ---
 
 00:30:17:09 - 00:30:42:16

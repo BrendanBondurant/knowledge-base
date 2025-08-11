@@ -5,48 +5,59 @@ series: The Good Thing
 episode: 21
 chunk: 15
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Nao Evaluation - Part 1
 timecode: 00:45:10:25 – 00:48:05:11
 start_time: 00:45:10:25
 end_time: 00:48:05:11
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Nao vs Cursor feature comparison
-  - VS Code fork identification
-  - Data-specific IDE differentiation
-  - DBT and analytics integration
+- Nao vs Cursor feature comparison
+- VS Code fork identification
+- Data-specific IDE differentiation
+- DBT and analytics integration
 tags:
-  - nao
-  - cursor
-  - vs-code-fork
-  - data-analytics
-  - dbt-integration
-  - feature-overlap
+- nao
+- cursor
+- vs-code-fork
+- data-analytics
+- dbt-integration
+- feature-overlap
+topic_tags:
+- nao
+- cursor
+- vs-code-fork
+- data-analytics
+- dbt-integration
+- feature-overlap
 entities:
-  - Nao
-  - Cursor
-  - VS Code
-  - Stefan Avram
-  - Jens Neuse
-  - Y Combinator
-  - PostHog
-  - DBT
-  - Python
+- Nao
+- Cursor
+- VS Code
+- Stefan Avram
+- Jens Neuse
+- Y Combinator
+- PostHog
+- DBT
+- Python
 mentions:
-  - VS Code fork observation
-  - tiny chat interface
-  - PostHog integration
-  - DBT and Python pipeline support
-  - Cursor notebook capabilities
-  - data indexing and autocompletion
-  - agent terminology overuse
-  - data warehouse connections
-summary: |
-  Stefan and Jens evaluate Nao, identifying it as a VS Code fork with data-specific features. They question its differentiation from Cursor, noting that Cursor already supports notebooks and similar functionality. Jens points out Nao's DBT/analytics integration and data indexing features, but both remain confused about unique value proposition, with Stefan directly asking "why can't you just use cursor?" and expressing doubt about Cursor's inability to handle data workflows.
+- VS Code fork observation
+- tiny chat interface
+- PostHog integration
+- DBT and Python pipeline support
+- Cursor notebook capabilities
+- data indexing and autocompletion
+- agent terminology overuse
+- data warehouse connections
+summary: Stefan and Jens evaluate Nao, identifying it as a VS Code fork with data-specific
+  features. They question its differentiation from Cursor, noting that Cursor already
+  supports notebooks and similar functionality. Jens points out Nao's DBT/analytics
+  integration and data indexing features, but both remain confused about unique value
+  proposition, with Stefan directly asking "why can't you just use cursor?" and expressing
+  doubt about Cursor's inability to handle data workflows.
 ---
 
 00:45:10:25 - 00:45:29:24

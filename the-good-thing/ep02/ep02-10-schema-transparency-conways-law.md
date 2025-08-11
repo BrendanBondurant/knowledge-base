@@ -5,41 +5,50 @@ series: The Good Thing
 episode: 2
 chunk: 10
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Schema Transparency and Organizational Structure
 timecode: 00:39:32:04 – 00:43:16:23
 start_time: 00:39:32:04
 end_time: 00:43:16:23
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Schema transparency benefits
-  - Conway's Law in practice
-  - Team discovery and collaboration
-  - REST API fragmentation
-  - Federation organizational advantages
+- Schema transparency benefits
+- Conway's Law in practice
+- Team discovery and collaboration
+- REST API fragmentation
+- Federation organizational advantages
 tags:
-  - schema-transparency
-  - conways-law
-  - team-discovery
-  - rest-fragmentation
-  - federation-advantages
+- schema-transparency
+- conways-law
+- team-discovery
+- rest-fragmentation
+- federation-advantages
+topic_tags:
+- schema-transparency
+- conways-law
+- team-discovery
+- rest-fragmentation
+- federation-advantages
 entities:
-  - WunderGraph
-  - Conway's Law
-  - GraphQL Federation
-  - REST APIs
-  - Schema Registry
+- WunderGraph
+- Conway's Law
+- GraphQL Federation
+- REST APIs
+- Schema Registry
 mentions:
-  - team discovery
-  - API fragmentation
-  - organizational structure
-  - schema design
-  - team collaboration
-summary: |
-  Jens explains how federation provides schema transparency that helps developers discover teams and understand organizational structure. He discusses Conway's Law - how organizations design systems that mirror their communication structures - and how federation makes this explicit. The conversation covers how REST APIs often lead to fragmentation while federation enables better team discovery and collaboration.
+- team discovery
+- API fragmentation
+- organizational structure
+- schema design
+- team collaboration
+summary: Jens explains how federation provides schema transparency that helps developers
+  discover teams and understand organizational structure. He discusses Conway's Law
+  - how organizations design systems that mirror their communication structures -
+  and how federation makes this explicit. The conversation covers how REST APIs often
+  lead to fragmentation while federation enables better team discovery and collaboration.
 ---
 
 00:39:32:04 - 00:39:37:11

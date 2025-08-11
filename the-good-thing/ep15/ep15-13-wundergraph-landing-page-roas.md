@@ -29,7 +29,7 @@ tags:
 entities:
   - WunderGraph
   - Dustin (CTO)
-  - GraphQL
+  - graphql
 mentions:
   - "Open source GraphQL Federation solution" complexity
   - Full lifecycle API management confusion

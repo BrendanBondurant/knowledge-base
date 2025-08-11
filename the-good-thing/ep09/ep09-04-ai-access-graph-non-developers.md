@@ -5,42 +5,52 @@ series: The Good Thing
 episode: 9
 chunk: 4
 participants:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 segment: AI and GraphQL accessibility
 timecode: 00:13:07:13 – 00:17:04:24
 start_time: 00:13:07:13
 end_time: 00:17:04:24
 speakers:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 topics:
-  - AI-powered GraphQL query generation
-  - Natural language to GraphQL translation
-  - Business user access to APIs
-  - Schema navigation challenges
-  - Developer productivity improvements
-  - Large schema complexity (GitHub example)
+- AI-powered GraphQL query generation
+- Natural language to GraphQL translation
+- Business user access to APIs
+- Schema navigation challenges
+- Developer productivity improvements
+- Large schema complexity (GitHub example)
 tags:
-  - ai-tools
-  - query-generation
-  - developer-experience
-  - schema-complexity
-  - business-users
-  - accessibility
+- ai-tools
+- query-generation
+- developer-experience
+- schema-complexity
+- business-users
+- accessibility
+topic_tags:
+- ai-tools
+- query-generation
+- developer-experience
+- schema-complexity
+- business-users
+- accessibility
 entities:
-  - GitHub
-  - GraphQL
-  - ChatGPT
-  - WunderGraph
+- GitHub
+- GraphQL
+- ChatGPT
+- WunderGraph
 mentions:
-  - business users querying APIs
-  - GitHub schema size (336,000 tokens)
-  - schema documentation challenges
-  - natural language interface
-  - developer schema navigation
-summary: |
-  Cameron discusses exploring AI-powered tools to make GraphQL supergraphs accessible to non-developers and improve developer productivity. Using GitHub's massive schema as an example, they explain the challenges of navigating large GraphQL schemas and how AI can bridge the gap between natural language requests and GraphQL queries.
+- business users querying APIs
+- GitHub schema size (336,000 tokens)
+- schema documentation challenges
+- natural language interface
+- developer schema navigation
+summary: Cameron discusses exploring AI-powered tools to make GraphQL supergraphs
+  accessible to non-developers and improve developer productivity. Using GitHub's
+  massive schema as an example, they explain the challenges of navigating large GraphQL
+  schemas and how AI can bridge the gap between natural language requests and GraphQL
+  queries.
 ---
 
 00:13:07:13 - 00:13:22:13

@@ -5,47 +5,57 @@ series: The Good Thing
 episode: 9
 chunk: 17
 participants:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 segment: Microsoft TypeScript rewrite discussion
 timecode: 01:01:20:10 – 01:04:23:25
 start_time: 01:01:20:10
 end_time: 01:04:23:25
 speakers:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 topics:
-  - Microsoft TypeScript compiler rewrite
-  - Go vs Rust for compiler development
-  - Language characteristics and trade-offs
-  - GitHub's internal Go usage
-  - Garbage collection in compiler context
-  - Function-by-function rewrite approach
+- Microsoft TypeScript compiler rewrite
+- Go vs Rust for compiler development
+- Language characteristics and trade-offs
+- GitHub's internal Go usage
+- Garbage collection in compiler context
+- Function-by-function rewrite approach
 tags:
-  - typescript-rewrite
-  - go-language
-  - rust-language
-  - compiler-development
-  - microsoft
-  - language-tradeoffs
+- typescript-rewrite
+- go-language
+- rust-language
+- compiler-development
+- microsoft
+- language-tradeoffs
+topic_tags:
+- typescript-rewrite
+- go-language
+- rust-language
+- compiler-development
+- microsoft
+- language-tradeoffs
 entities:
-  - Microsoft
-  - TypeScript
-  - Go
-  - Rust
-  - GitHub
-  - C++
-  - Java
-  - Python
+- Microsoft
+- TypeScript
+- Go
+- Rust
+- GitHub
+- C++
+- Java
+- Python
 mentions:
-  - Microsoft language background
-  - C/C++/C#/.NET heritage
-  - Go language characteristics
-  - compiler rewrite strategies
-  - GitHub Go usage
-  - garbage collection benefits
-summary: |
-  Cameron expresses excitement about Microsoft choosing Go over Rust for the TypeScript compiler rewrite, describing Go as combining the best of C++, Java, Python, and TypeScript. Jens explains the practical advantages of Go's similarity to C and how garbage collection actually benefits compiler development, making function-by-function rewriting more straightforward.
+- Microsoft language background
+- C/C++/C#/.NET heritage
+- Go language characteristics
+- compiler rewrite strategies
+- GitHub Go usage
+- garbage collection benefits
+summary: Cameron expresses excitement about Microsoft choosing Go over Rust for the
+  TypeScript compiler rewrite, describing Go as combining the best of C++, Java, Python,
+  and TypeScript. Jens explains the practical advantages of Go's similarity to C and
+  how garbage collection actually benefits compiler development, making function-by-function
+  rewriting more straightforward.
 ---
 
 01:01:20:10 - 01:01:22:26

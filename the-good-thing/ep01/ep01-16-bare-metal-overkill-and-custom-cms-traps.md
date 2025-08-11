@@ -5,43 +5,55 @@ series: The Good Thing
 episode: 1
 chunk: 16
 participants:
-  - Jens
+- Jens
 segment: Self Hosting Distractions and the Real Customer
 timecode: 00:49:40 – 00:53:29
 start_time: 00:49:40
 end_time: 00:53:29
 speakers:
-  - Jens
+- Jens
 topics:
-  - Running Kubernetes on bare metal instead of using cloud
-  - Overengineering internal systems for fun not value
-  - Building own CI CD runners and GitLab setup
-  - Developers far removed from customer problems
-  - Neglecting business priorities in corporate engineering
-  - Choosing to build a custom CMS instead of buying one
+- Running Kubernetes on bare metal instead of using cloud
+- Overengineering internal systems for fun not value
+- Building own CI CD runners and GitLab setup
+- Developers far removed from customer problems
+- Neglecting business priorities in corporate engineering
+- Choosing to build a custom CMS instead of buying one
 tags:
-  - self-hosting
-  - overengineering
-  - custom-cms
-  - business-priorities
-  - build-vs-buy
+- self-hosting
+- overengineering
+- custom-cms
+- business-priorities
+- build-vs-buy
+topic_tags:
+- self-hosting
+- overengineering
+- custom-cms
+- business-priorities
+- build-vs-buy
 entities:
-  - Jens Neuse
-  - Kubernetes
-  - GitLab
-  - Azure
-  - CI CD
-  - CMS
-  - AWS
-  - Kubernetes on bare metal
+- Jens Neuse
+- Kubernetes
+- GitLab
+- Azure
+- CI CD
+- CMS
+- AWS
+- Kubernetes on bare metal
 mentions:
-  - internal developer distraction
-  - overengineering for fun
-  - self hosted infra decisions
-  - custom CMS project
-  - ignoring advertisers and users
-summary: |
-  Jens describes how his team at a news company chose to build and maintain a bare metal Kubernetes cluster, self hosted GitLab, and custom CI CD tooling instead of focusing on improving the core business. Despite how fun it was for the engineers, none of it helped deliver news faster or better serve advertisers. He points out that their real job should have been to attract more readers and optimize ad targeting. Yet like many corporate teams, they built for internal pride. That same mindset led them to reject all available CMS options and start building one from scratch based on the belief they were uniquely different.
+- internal developer distraction
+- overengineering for fun
+- self hosted infra decisions
+- custom CMS project
+- ignoring advertisers and users
+summary: Jens describes how his team at a news company chose to build and maintain
+  a bare metal Kubernetes cluster, self hosted GitLab, and custom CI CD tooling instead
+  of focusing on improving the core business. Despite how fun it was for the engineers,
+  none of it helped deliver news faster or better serve advertisers. He points out
+  that their real job should have been to attract more readers and optimize ad targeting.
+  Yet like many corporate teams, they built for internal pride. That same mindset
+  led them to reject all available CMS options and start building one from scratch
+  based on the belief they were uniquely different.
 ---
 
 

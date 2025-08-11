@@ -5,46 +5,56 @@ series: The Good Thing
 episode: 12
 chunk: 11
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Relay Benefits and Frontend Architecture
 timecode: 00:38:22:29 – 00:42:26:21
 start_time: 00:38:22:29
 end_time: 00:42:26:21
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - JWT validation for trusted requests
-  - Entity authentication vs authorization
-  - Fragment-based component design
-  - Relay's GraphQL dependency
-  - UI component data requirements
-  - Feed overview vs detail patterns
+- JWT validation for trusted requests
+- Entity authentication vs authorization
+- Fragment-based component design
+- Relay's GraphQL dependency
+- UI component data requirements
+- Feed overview vs detail patterns
 tags:
-  - relay-fragments
-  - ui-architecture
-  - jwt-validation
-  - component-design
-  - graphql-dependency
-  - frontend-scaling
+- relay-fragments
+- ui-architecture
+- jwt-validation
+- component-design
+- graphql-dependency
+- frontend-scaling
+topic_tags:
+- relay-fragments
+- ui-architecture
+- jwt-validation
+- component-design
+- graphql-dependency
+- frontend-scaling
 entities:
-  - Relay
-  - Facebook
-  - React
-  - Next.js
-  - GraphQL
-  - Stefan Avram
-  - Jens Neuse
+- Relay
+- Facebook
+- React
+- Next.js
+- GraphQL
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - JWT signature verification
-  - entity call translation
-  - fragment-per-component pattern
-  - Relay open source from Facebook
-  - GraphQL clients comparison
-  - feed component examples
-summary: |
-  Discussion of JWT validation for secure entity requests and Relay's fragment-based architecture. Jens explains how Relay enables component-specific data requirements through fragments, while Stefan questions what makes Relay special compared to other frontend frameworks and why it's not more widely adopted despite being open source from Facebook.
+- JWT signature verification
+- entity call translation
+- fragment-per-component pattern
+- Relay open source from Facebook
+- GraphQL clients comparison
+- feed component examples
+summary: Discussion of JWT validation for secure entity requests and Relay's fragment-based
+  architecture. Jens explains how Relay enables component-specific data requirements
+  through fragments, while Stefan questions what makes Relay special compared to other
+  frontend frameworks and why it's not more widely adopted despite being open source
+  from Facebook.
 ---
 
 00:38:22:29 - 00:38:55:05

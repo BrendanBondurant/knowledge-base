@@ -5,52 +5,62 @@ series: The Good Thing
 episode: 26
 chunk: 1
 participants:
-  - Stefan
-  - Jens
-  - Sam Lambert
+- Stefan
+- Jens
+- Sam Lambert
 segment: Introduction and PlanetScale Product Overview
 timecode: 00:00:22:20 – 00:05:20:08
 start_time: 00:00:22:20
 end_time: 00:05:20:08
 speakers:
-  - Stefan
-  - Jens
-  - Sam Lambert
+- Stefan
+- Jens
+- Sam Lambert
 topics:
-  - PlanetScale introduction and background
-  - MySQL vs Postgres hosting
-  - Sharded vs unsharded database products
-  - Sam Lambert's background at GitHub and Meta
-  - Vitess technology explanation
-  - Database platform positioning
+- PlanetScale introduction and background
+- MySQL vs Postgres hosting
+- Sharded vs unsharded database products
+- Sam Lambert's background at GitHub and Meta
+- Vitess technology explanation
+- Database platform positioning
 tags:
-  - planetscale
-  - mysql
-  - postgres
-  - vitess
-  - database-hosting
-  - sam-lambert
-  - introduction
+- planetscale
+- mysql
+- postgres
+- vitess
+- database-hosting
+- sam-lambert
+- introduction
+topic_tags:
+- planetscale
+- mysql
+- postgres
+- vitess
+- database-hosting
+- sam-lambert
+- introduction
 entities:
-  - PlanetScale
-  - Sam Lambert
-  - GitHub
-  - Meta
-  - Facebook
-  - Vitess
-  - MySQL
-  - Postgres
-  - WunderGraph
+- PlanetScale
+- Sam Lambert
+- GitHub
+- Meta
+- Facebook
+- Vitess
+- MySQL
+- Postgres
+- WunderGraph
 mentions:
-  - CEO of PlanetScale
-  - Years at GitHub and Meta building distributed systems
-  - Technical insights and product vision
-  - Uptime passion
-  - MySQL databases at hyperscale
-  - Sharded vs unsharded products
-  - Postgres world expansion
-summary: |
-  Stefan and Jens welcome Sam Lambert, CEO of PlanetScale, to discuss the database platform. Sam explains PlanetScale's evolution from MySQL-focused to supporting both MySQL and Postgres, covering their sharded and unsharded product offerings built on Vitess technology.
+- CEO of PlanetScale
+- Years at GitHub and Meta building distributed systems
+- Technical insights and product vision
+- Uptime passion
+- MySQL databases at hyperscale
+- Sharded vs unsharded products
+- Postgres world expansion
+summary: Stefan and Jens welcome Sam Lambert, CEO of PlanetScale, to discuss the database
+  platform. Sam explains PlanetScale's evolution from MySQL-focused to supporting
+  both MySQL and Postgres, covering their sharded and unsharded product offerings
+  built on Vitess technology.
 ---
 
 00:00:22:20 - 00:00:33:03

@@ -29,7 +29,7 @@ tags:
   - abstraction-leakage
   - federation-directives
 entities:
-  - GraphQL
+  - graphql
   - Federation
   - SAP
   - SOAP APIs

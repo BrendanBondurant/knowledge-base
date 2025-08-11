@@ -25,6 +25,33 @@ topics:
   - Product success
 summary: |
   Jens and Stefan discuss their introduction to FAANG companies, the Walmart experience, onboarding, customer feedback, and wrap up the episode with reflections on their startup journey and product success.
+tags:
+  - faang-companies
+  - customer-experience
+  - customer-onboarding
+  - customer-feedback
+  - startup-journey
+  - product-success
+topic_tags:
+  - faang-companies
+  - customer-experience
+  - customer-onboarding
+  - customer-feedback
+  - startup-journey
+  - product-success
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - WunderGraph
+  - FAANG companies
+  - Walmart
+mentions:
+  - FAANG company introductions
+  - Walmart partnership experience
+  - customer onboarding process
+  - feedback collection methods
+  - startup journey reflections
+  - product success metrics
 ---
 
 01:03:21:19 - 01:09:27:19

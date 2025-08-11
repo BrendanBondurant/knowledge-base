@@ -5,36 +5,44 @@ series: The Good Thing
 episode: 22
 chunk: 10
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: AI Impact on Software Standards
 timecode: 00:54:20:00 – 01:03:02:15
 start_time: 00:54:20:00
 end_time: 01:03:02:15
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - AI raising software quality standards
-  - Developer value proposition
-  - Engineering complexity evolution
-  - Software development future
+- AI raising software quality standards
+- Developer value proposition
+- Engineering complexity evolution
+- Software development future
 tags:
-  - ai-quality-standards
-  - developer-value
-  - engineering-complexity
-  - software-development-future
-  - ai-impact
+- ai-quality-standards
+- developer-value
+- engineering-complexity
+- software-development-future
+- ai-impact
+topic_tags:
+- ai-quality-standards
+- developer-value
+- engineering-complexity
+- software-development-future
+- ai-impact
 entities:
-  - Stefan Avram
-  - Jens Neuse
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - quality standard improvements
-  - developer value changes
-  - complexity evolution
-  - AI-driven expectations
-summary: |
-  Stefan and Jens explore how AI is raising the bar for software quality and changing the value proposition for developers. They discuss the evolution of engineering complexity and how AI tools are shifting expectations for what constitutes good software engineering practices and developer productivity.
+- quality standard improvements
+- developer value changes
+- complexity evolution
+- AI-driven expectations
+summary: Stefan and Jens explore how AI is raising the bar for software quality and
+  changing the value proposition for developers. They discuss the evolution of engineering
+  complexity and how AI tools are shifting expectations for what constitutes good
+  software engineering practices and developer productivity.
 ---
 
 00:54:20:13 - 00:55:14:12

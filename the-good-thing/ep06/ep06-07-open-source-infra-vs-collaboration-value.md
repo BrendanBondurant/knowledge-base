@@ -24,6 +24,34 @@ topics:
   - Customer needs
 summary: |
   Jens and Stefan explore the differences between infrastructure and collaboration tools, the value perception of each, and how open source plays a role in product strategy and pricing models.
+tags:
+  - open-source-strategy
+  - infrastructure-vs-collaboration
+  - product-strategy
+  - pricing-models
+  - customer-value
+topic_tags:
+  - open-source-strategy
+  - infrastructure-vs-collaboration
+  - product-strategy
+  - pricing-models
+  - customer-value
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - WunderGraph
+  - Cosmo
+  - GraphQL
+  - Federation
+  - Apache
+  - Nginx
+mentions:
+  - infrastructure vs collaboration tools
+  - open source philosophy
+  - enterprise licensing issues
+  - router as open source
+  - community adoption strategy
+  - subscription functionality
 ---
 
 00:16:56:18 - 00:20:15:18

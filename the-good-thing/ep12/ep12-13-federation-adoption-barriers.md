@@ -5,49 +5,59 @@ series: The Good Thing
 episode: 12
 chunk: 13
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Federation Adoption Analysis
 timecode: 00:47:16:25 – 00:51:11:28
 start_time: 00:47:16:25
 end_time: 00:51:11:28
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Limited companies with 100+ frontend developers
-  - Federation adoption challenges
-  - Small team GraphQL experiences
-  - Federation without GraphQL feasibility
-  - RPC vs GraphQL complexity
-  - Uniform API interface value
+- Limited companies with 100+ frontend developers
+- Federation adoption challenges
+- Small team GraphQL experiences
+- Federation without GraphQL feasibility
+- RPC vs GraphQL complexity
+- Uniform API interface value
 tags:
-  - adoption-barriers
-  - scale-requirements
-  - small-team-challenges
-  - federation-without-graphql
-  - rpc-simplicity
-  - uniform-api-interfaces
+- adoption-barriers
+- scale-requirements
+- small-team-challenges
+- federation-without-graphql
+- rpc-simplicity
+- uniform-api-interfaces
+topic_tags:
+- adoption-barriers
+- scale-requirements
+- small-team-challenges
+- federation-without-graphql
+- rpc-simplicity
+- uniform-api-interfaces
 entities:
-  - Meta
-  - Coinbase
-  - Gartner
-  - GraphQL
-  - Federation
-  - Relay
-  - MCP
-  - JSON RPC
-  - Stefan Avram
-  - Jens Neuse
+- Meta
+- Coinbase
+- Gartner
+- GraphQL
+- Federation
+- Relay
+- MCP
+- JSON RPC
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - Twitter GraphQL criticism
-  - under-fetching over-fetching problems
-  - 1-2 engineer teams
-  - Relay complexity concerns
-  - MCP preferring RPC
-  - domain model clarity
-summary: |
-  Discussion of why federation adoption remains limited, with Jens arguing that few companies actually have 100+ frontend developers working on one frontend. Stefan challenges this by noting small teams trying GraphQL and failing, leading to the question of whether federation makes sense without GraphQL/Relay, given RPC's simplicity compared to GraphQL's complexity.
+- Twitter GraphQL criticism
+- under-fetching over-fetching problems
+- 1-2 engineer teams
+- Relay complexity concerns
+- MCP preferring RPC
+- domain model clarity
+summary: Discussion of why federation adoption remains limited, with Jens arguing
+  that few companies actually have 100+ frontend developers working on one frontend.
+  Stefan challenges this by noting small teams trying GraphQL and failing, leading
+  to the question of whether federation makes sense without GraphQL/Relay, given RPC's
+  simplicity compared to GraphQL's complexity.
 ---
 
 00:47:16:25 - 00:47:24:16

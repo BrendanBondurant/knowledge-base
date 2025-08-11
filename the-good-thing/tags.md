@@ -2,15 +2,15 @@
 |- ab-testing
 |- abstraction-leakage
 |- accelerator-insights
-|- accessibility
 |- access-control
+|- accessibility
 |- accuracy
 |- acquisitions
+|- ad-revenue-disruption
 |- adam-frankl
 |- adaptive-sports
 |- adoption-barriers
 |- adoption-ladder
-|- ad-revenue-disruption
 |- advertising
 |- advisor-importance
 |- agent-control
@@ -22,10 +22,8 @@
 |- ai-adoption
 |- ai-adoption-gap
 |- ai-agents
-|- ai-agents
 |- ai-and-careers
 |- ai-arms-race
-|- AI-arms-race
 |- ai-assisted-development
 |- ai-attribution
 |- ai-autonomy
@@ -37,13 +35,12 @@
 |- ai-data-patterns
 |- ai-detection
 |- ai-development
-|- AI-development
 |- ai-development-tools
 |- ai-discovery
 |- ai-economics
 |- ai-ecosystems
-|- ai-empowerment
 |- ai-employees
+|- ai-empowerment
 |- ai-engineer
 |- ai-ethics
 |- ai-first-strategy
@@ -55,20 +52,16 @@
 |- ai-incentives
 |- ai-infrastructure
 |- ai-integration
-|- AI-integration
 |- ai-integrations
 |- ai-investment
 |- ai-investment-trends
 |- ai-investment-wave
 |- ai-languages
 |- ai-limitations
-|- ai-limitations
-|- ai-limitations
 |- ai-mandate
 |- ai-misconceptions
 |- ai-news-analysis
 |- ai-productivity
-|- AI-productivity
 |- ai-quality-standards
 |- ai-research
 |- ai-roleplay
@@ -78,9 +71,7 @@
 |- ai-tool-monetization
 |- ai-tooling
 |- ai-tools
-|- AI-tools
 |- ai-transformation
-|- AI-transformation
 |- ai-trends
 |- ai-trust-issues
 |- ai-valuations
@@ -90,7 +81,6 @@
 |- airbnb
 |- amy
 |- analyst-model
-|- analytics
 |- analytics
 |- analytics-driven-optimization
 |- analytics-integration
@@ -140,7 +130,6 @@
 |- ast-transformation
 |- attack-prevention
 |- audience-engagement
-|- audience-engagement
 |- audits
 |- authenticity
 |- authorization-concerns
@@ -163,7 +152,6 @@
 |- benchmarking
 |- benchmarks
 |- beta-participation
-|- bff-pattern
 |- bff-pattern
 |- blockchain-analogy
 |- bootcamps
@@ -200,7 +188,6 @@
 |- business-value
 |- business-vs-technical
 |- buying-interest
-|- cache-warmer
 |- cache-warmer
 |- cache-warming
 |- capital-allocation
@@ -269,7 +256,6 @@
 |- company-scale
 |- company-strategy
 |- competitive-advantage
-|- competitive-advantage
 |- competitive-dynamics
 |- competitive-ecosystem
 |- competitive-intelligence
@@ -278,7 +264,6 @@
 |- competitive-strategy
 |- compiler-development
 |- compiler-feedback
-|- complexity-management
 |- complexity-management
 |- complexity-scoring
 |- compliance
@@ -306,15 +291,12 @@
 |- conversion-optimization
 |- conversion-rates
 |- conways-law
-|- conways-law
-|- conways-law
 |- copilot
 |- copilot-workflows
 |- copycat-accusations
 |- copying-competitors
 |- corporate-competition
 |- corporate-culture
-|- cosmo
 |- cosmo
 |- cosmo-architecture
 |- cosmo-pivot
@@ -330,12 +312,10 @@
 |- cultural-diversity
 |- cursor
 |- cursor-adoption
-|- cursor-adoption
 |- cursor-growth
 |- cursor-integration
 |- cursor-pricing
 |- custom-cms
-|- customer feedback
 |- customer outage
 |- customer-abandonment
 |- customer-advocacy
@@ -347,9 +327,7 @@
 |- customer-excitement
 |- customer-experience
 |- customer-feedback
-|- customer-feedback
 |- customer-first
-|- customer-focus
 |- customer-focus
 |- customer-listening
 |- customer-logos
@@ -389,7 +367,6 @@
 |- developer-adoption
 |- developer-advocacy
 |- developer-anxiety
-|- developer-evolution
 |- developer-evolution
 |- developer-experience
 |- developer-impact
@@ -457,7 +434,6 @@
 |- enterprise
 |- enterprise deals
 |- enterprise requirements
-|- enterprise sales
 |- enterprise-ai
 |- enterprise-diversity
 |- enterprise-features
@@ -474,9 +450,6 @@
 |- epic-games
 |- episode-closing
 |- episode-conclusion
-|- episode-conclusion
-|- episode-conclusion
-|- episode-conclusion
 |- episode-intro
 |- episode-introduction
 |- episode-wrap
@@ -489,7 +462,6 @@
 |- exit-timelines
 |- expert-leadership
 |- external-apis
-|- faang-companies
 |- faang-companies
 |- family-balance
 |- family-support
@@ -567,7 +539,6 @@
 |- fundraising-process
 |- fundraising-strategy
 |- future-episodes
-|- future-episodes
 |- future-outlook
 |- future-predictions
 |- game-show-format
@@ -590,7 +561,6 @@
 |- government-pressure
 |- graph-composition
 |- graphql
-|- GraphQL
 |- graphql-adoption
 |- graphql-api
 |- graphql-as-sql
@@ -600,17 +570,14 @@
 |- graphql-directives
 |- graphql-engine
 |- graphql-federation
-|- GraphQL-federation
 |- GraphQL-foundation
 |- graphql-go-tools
 |- graphql-guild
 |- graphql-history
-|- GraphQL-HTTP
 |- graphql-limitations
 |- graphql-mapping
 |- graphql-meta-language
 |- graphql-operations
-|- GraphQL-parsing
 |- graphql-spec
 |- graphql-validation
 |- gratitude
@@ -621,7 +588,6 @@
 |- growth-inflection
 |- growth-metrics
 |- grpc
-|- gRPC
 |- guerrilla-marketing
 |- guest-announcements
 |- guest-appearance
@@ -633,7 +599,6 @@
 |- henry-ford-quote
 |- hero text
 |- high-availability
-|- hiring
 |- hiring
 |- hiring-announcement
 |- hiring-invitation
@@ -655,7 +620,6 @@
 |- implementation-guidance
 |- implementation-issues
 |- implicit-behavior
-|- imposter-syndrome
 |- imposter-syndrome
 |- inaccessible-entities
 |- incident-collaboration
@@ -713,7 +677,6 @@
 |- learn-to-code
 |- learning
 |- learning-curve
-|- learning-curve
 |- learning-fundamentals
 |- led-trucks
 |- lee-robinson
@@ -749,9 +712,7 @@
 |- maintainer-responsibilities
 |- maintainership
 |- maintenance-overhead
-|- maintenance-overhead
 |- managed-router-critique
-|- managed-services
 |- managed-services
 |- marathon-runners
 |- marblism
@@ -770,12 +731,10 @@
 |- market-signals
 |- market-size
 |- market-timing
-|- market-timing
 |- marketing-critique
 |- marketing-strategy
 |- marketplace-design
 |- mass-adoption
-|- mcp
 |- mcp
 |- mcp-availability
 |- mcp-benefits
@@ -796,7 +755,6 @@
 |- media-sensationalism
 |- mental-health
 |- mermaid-diagrams
-|- messaging
 |- messaging
 |- messaging-consistency
 |- messaging-critique
@@ -857,7 +815,6 @@
 |- objection-handling
 |- observability
 |- on-call-rotation
-|- open source
 |- open-source
 |- open-source-AI
 |- open-source-alternatives
@@ -869,11 +826,9 @@
 |- open-source-monetization
 |- open-source-philosophy
 |- open-source-strategy
-|- open-source-strategy
 |- openai
 |- openai-advantage
 |- openai-threat
-|- openapi
 |- openapi
 |- openapi-patterns
 |- operation-control
@@ -883,7 +838,6 @@
 |- orchestration-layer
 |- organizational-barriers
 |- organizational-benefits
-|- organizational-design
 |- organizational-design
 |- organizational-problems
 |- organizational-scaling
@@ -904,10 +858,8 @@
 |- peer-review
 |- per-seat-pricing
 |- performance
-|- performance
 |- performance-claims
 |- performance-improvements
-|- performance-monitoring
 |- performance-monitoring
 |- performance-optimization
 |- persistent-operations
@@ -922,7 +874,6 @@
 |- pivot-decisions
 |- pivot-potential
 |- pivot-strategy
-|- planetscale
 |- planetscale
 |- planetscale-metal
 |- planetscale-pricing
@@ -949,7 +900,6 @@
 |- pricing-clarity
 |- pricing-comparison
 |- pricing-strategy
-|- pricing-strategy
 |- principal-architect
 |- principled-graphql
 |- prisma
@@ -965,13 +915,10 @@
 |- product-complexity
 |- product-criticism
 |- product-development
-|- product-development
 |- product-differentiation
 |- product-direction
 |- product-identity
 |- product-iteration
-|- product-market fit
-|- product-market-fit
 |- product-market-fit
 |- product-marketing
 |- product-roadmaps
@@ -990,9 +937,6 @@
 |- project-governance
 |- prompt-driven-development
 |- prompt-engineering
-|- prompt-engineering
-|- prompt-engineering
-|- prompt-engineering
 |- proprietary-architecture
 |- protobuf
 |- protocol-design
@@ -1008,7 +952,6 @@
 |- query-mapping
 |- query-optimization
 |- query-plan-analysis
-|- query-planning
 |- query-planning
 |- query-validation
 |- real-api-integration
@@ -1028,7 +971,6 @@
 |- reliability-engineering
 |- remote-collaboration
 |- remote-tooling
-|- remote-work
 |- remote-work
 |- replication
 |- requires-directive
@@ -1092,7 +1034,6 @@
 |- schema-noise
 |- schema-optimization
 |- schema-proposals
-|- schema-registry
 |- schema-registry
 |- schema-safety
 |- schema-size
@@ -1229,7 +1170,6 @@
 |- team-building
 |- team-collaboration
 |- team-communication
-|- team-communication
 |- team-culture
 |- team-discovery
 |- team-dynamics
@@ -1240,8 +1180,6 @@
 |- team-productivity
 |- team-scale-development
 |- team-size
-|- team-size
-|- team-structure
 |- team-structure
 |- team-updates
 |- tech-obsession
@@ -1267,7 +1205,6 @@
 |- technology-waves
 |- telemetry
 |- temperature-settings
-|- test-driven-development
 |- test-driven-development
 |- test-generation
 |- test-suite
@@ -1295,7 +1232,6 @@
 |- tyk
 |- tyk-technologies
 |- type-safety
-|- type-safety
 |- typescript-rewrite
 |- ui-architecture
 |- unicorn-status
@@ -1320,17 +1256,13 @@
 |- vc-automation
 |- vc-dynamics
 |- vc-funding
-|- vc-funding
 |- vc-industry
 |- vc-relationships
 |- vector-databases
 |- vendor-bias
 |- venture-capital
-|- venture-capital
-|- vercel
 |- vercel
 |- vercel-strategy
-|- vibe-coding
 |- vibe-coding
 |- vibe-coding-limitations
 |- vibe-coding-risks
@@ -1338,7 +1270,6 @@
 |- vision-clarification
 |- vision-funding
 |- visual-design
-|- vitess
 |- vitess
 |- vitess-maintenance
 |- vs-code-fork
@@ -1354,18 +1285,15 @@
 |- workflow
 |- workflow-analysis
 |- workflow-automation
-|- workflow-automation
 |- workflow-design
 |- workflow-enhancement
 |- workflow-iteration
 |- workflow-optimization
 |- workflows
 |- working-group
-|- working-group
 |- working-retreats
 |- workplace-ethics
 |- write-workloads
-|- wundergraph
 |- wundergraph
 |- wundergraph-architecture
 |- wundergraph-hiring

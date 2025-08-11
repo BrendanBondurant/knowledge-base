@@ -33,7 +33,7 @@ tags:
 entities:
   - OpenAI
   - Cloudflare
-  - GraphQL
+  - graphql
   - REST APIs
   - LLMs
   - MCP (Model Context Protocol)

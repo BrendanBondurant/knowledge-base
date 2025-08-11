@@ -23,6 +23,31 @@ topics:
   - Team dynamics
   - Customer feedback
   - Startup growth
+tags:
+  - startup-ideas
+  - product-pivots
+  - learning-from-failure
+  - startup-growth
+  - team-dynamics
+  - customer-feedback
+topic_tags:
+  - startup-ideas
+  - product-pivots
+  - learning-from-failure
+  - startup-growth
+  - team-dynamics
+  - customer-feedback
+entities:
+  - Jens Neuse
+  - Stefan Avram
+  - WunderGraph
+mentions:
+  - startup idea generation
+  - staying in motion
+  - product pivots
+  - team dynamics
+  - customer feedback loops
+  - startup growth strategies
 summary: |
   Jens and Stefan discuss how to generate startup ideas, the importance of staying in motion, learning from failure, and the role of product pivots in startup growth and success.
 ---

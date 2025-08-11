@@ -23,7 +23,7 @@ topics:
   - Media headline-driven narratives
   - Psychology research standards
 tags:
-  - AI-productivity
+  - ai-productivity
   - research-methodology
   - sample-size
   - selection-bias

@@ -5,39 +5,48 @@ series: The Good Thing
 episode: 2
 chunk: 5
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Engineering Hiring and Team Dynamics
 timecode: 00:16:37:24 – 00:20:13:15
 start_time: 00:16:37:24
 end_time: 00:20:13:15
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Engineering hiring priorities
-  - Team player vs 10x engineer mentality
-  - Junior vs senior developer preferences
-  - Marathon runners vs sprinters
-  - Remote team collaboration
+- Engineering hiring priorities
+- Team player vs 10x engineer mentality
+- Junior vs senior developer preferences
+- Marathon runners vs sprinters
+- Remote team collaboration
 tags:
-  - hiring
-  - team-culture
-  - 10x-engineer
-  - marathon-runners
-  - remote-collaboration
+- hiring
+- team-culture
+- 10x-engineer
+- marathon-runners
+- remote-collaboration
+topic_tags:
+- hiring
+- team-culture
+- 10x-engineer
+- marathon-runners
+- remote-collaboration
 entities:
-  - WunderGraph
-  - Stefan Avram
-  - Jens Neuse
+- WunderGraph
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - team player mentality
-  - communication skills
-  - junior developers
-  - senior developers
-  - remote work
-summary: |
-  Stefan and Jens discuss WunderGraph's engineering hiring philosophy, emphasizing their preference for excellent team players over mythical 10x engineers. They explain the "marathon runners vs sprinters" analogy for remote team collaboration and their openness to both junior and senior developers. The conversation highlights the importance of communication skills and compatibility in a remote environment.
+- team player mentality
+- communication skills
+- junior developers
+- senior developers
+- remote work
+summary: Stefan and Jens discuss WunderGraph's engineering hiring philosophy, emphasizing
+  their preference for excellent team players over mythical 10x engineers. They explain
+  the "marathon runners vs sprinters" analogy for remote team collaboration and their
+  openness to both junior and senior developers. The conversation highlights the importance
+  of communication skills and compatibility in a remote environment.
 ---
 
 00:16:37:24 - 00:17:04:02

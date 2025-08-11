@@ -5,42 +5,52 @@ series: The Good Thing
 episode: 17
 chunk: 2
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Customer patterns and organizational structures
 timecode: 00:05:10 – 00:10:29
 start_time: 00:05:10
 end_time: 00:10:29
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Two-team compiler example
-  - Code proximity and change patterns
-  - WunderGraph's internal architecture structure
-  - Customer communication patterns and meeting structures
-  - API styles influence on Conway's Law
-  - Workflow alignment with organizational reality
+- Two-team compiler example
+- Code proximity and change patterns
+- WunderGraph's internal architecture structure
+- Customer communication patterns and meeting structures
+- API styles influence on Conway's Law
+- Workflow alignment with organizational reality
 tags:
-  - customer-patterns
-  - code-organization
-  - team-communication
-  - architecture-design
-  - workflow-optimization
+- customer-patterns
+- code-organization
+- team-communication
+- architecture-design
+- workflow-optimization
+topic_tags:
+- customer-patterns
+- code-organization
+- team-communication
+- architecture-design
+- workflow-optimization
 entities:
-  - Conway's Law
-  - WunderGraph
-  - GraphQL Go tools
-  - Router
-  - Engine
+- Conway's Law
+- WunderGraph
+- GraphQL Go tools
+- Router
+- Engine
 mentions:
-  - compiler with two teams example
-  - code that changes together
-  - limousine booking service example
-  - seven different systems complexity
-  - frontend button change workflow
-summary: |
-  Jens explains Conway's Law through the classic two-team compiler example and discusses how code that changes together should be close together. He examines WunderGraph's own architecture showing the split between engine and router teams, and explores how customer communication patterns reflect their system architectures, questioning whether complex workflows that require changes across multiple systems actually support or hinder engineering productivity.
+- compiler with two teams example
+- code that changes together
+- limousine booking service example
+- seven different systems complexity
+- frontend button change workflow
+summary: Jens explains Conway's Law through the classic two-team compiler example
+  and discusses how code that changes together should be close together. He examines
+  WunderGraph's own architecture showing the split between engine and router teams,
+  and explores how customer communication patterns reflect their system architectures,
+  questioning whether complex workflows that require changes across multiple systems
+  actually support or hinder engineering productivity.
 ---
 
 00:05:10:23 - 00:05:30:14

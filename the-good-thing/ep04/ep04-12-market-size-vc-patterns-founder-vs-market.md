@@ -5,34 +5,56 @@ series: The Good Thing
 episode: 4
 chunk: 12
 participants:
-  - Jens
-  - Stefan
-segment: The role of market size, VC pattern matching, and the debate of founder vs. market in startup success
-
+- Jens
+- Stefan
+segment: The role of market size, VC pattern matching, and the debate of founder vs.
+  market in startup success
 timecode: 00:52:10:20 - 00:59:01:03
 start_time: 00:52:10:20
 end_time: 00:59:01:03
 speakers:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 topics:
-  - Market size
-  - VC pattern matching
-  - Founder vs. market
-  - Startup waves
-  - Investment decisions
-  - Startup advice
-  - Market creation
-  - Timing
+- Market size
+- VC pattern matching
+- Founder vs. market
+- Startup waves
+- Investment decisions
+- Startup advice
+- Market creation
+- Timing
 tags:
-  - market-size
-  - venture-capital
-  - founder-quality
-  - market-timing
-  - startup-success
-  - investment-decisions
-summary: |
-  Jens and Stefan discuss the importance of market size, how VCs use pattern matching to make investment decisions, and the ongoing debate of whether founder quality or market timing is more important for startup success. They share analogies and stories about market creation and riding industry waves.
+- market-size
+- venture-capital
+- founder-quality
+- market-timing
+- startup-success
+- investment-decisions
+topic_tags:
+- market-size
+- venture-capital
+- founder-quality
+- market-timing
+- startup-success
+- investment-decisions
+entities:
+- Jens Neuse
+- Stefan Avram
+- VCs
+mentions:
+- market size importance
+- VC pattern matching
+- founder vs market debate
+- startup waves
+- investment decisions
+- market creation
+- timing advantages
+- first-time founder benefits
+summary: Jens and Stefan discuss the importance of market size, how VCs use pattern
+  matching to make investment decisions, and the ongoing debate of whether founder
+  quality or market timing is more important for startup success. They share analogies
+  and stories about market creation and riding industry waves.
 ---
 
 00:52:10:20 - 00:52:38:20

@@ -5,37 +5,59 @@ series: The Good Thing
 episode: 4
 chunk: 14
 participants:
-  - Stefan
-  - Jens
-segment: Where would you invest as a VC, predictions for the future, peace, green energy, and the future of software
-
+- Stefan
+- Jens
+segment: Where would you invest as a VC, predictions for the future, peace, green
+  energy, and the future of software
 timecode: 01:06:02:25 - 01:13:55:27
 start_time: 01:06:02:25
 end_time: 01:13:55:27
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - VC bets
-  - Future predictions
-  - Peace
-  - Green energy
-  - Future of software
-  - Collaboration
-  - API platforms
-  - Teamwork
-  - Human impact
-  - Company mission
-  - Episode wrap-up
+- VC bets
+- Future predictions
+- Peace
+- Green energy
+- Future of software
+- Collaboration
+- API platforms
+- Teamwork
+- Human impact
+- Company mission
+- Episode wrap-up
 tags:
-  - venture-capital
-  - future-predictions
-  - green-energy
-  - software-impact
-  - collaboration
-  - episode-wrap-up
-summary: |
-  Stefan and Jens discuss where they would invest as VCs, share predictions for the future including peace and green energy, and reflect on the importance of software and collaboration for humanity. They close the episode with thoughts on company mission, teamwork, and encouragement for listeners to pursue their passions.
+- venture-capital
+- future-predictions
+- green-energy
+- software-impact
+- collaboration
+- episode-wrap-up
+topic_tags:
+- venture-capital
+- future-predictions
+- green-energy
+- software-impact
+- collaboration
+- episode-wrap-up
+entities:
+- Stefan Avram
+- Jens Neuse
+- WunderGraph
+mentions:
+- VC investment strategies
+- future predictions
+- peace initiatives
+- green energy transition
+- software impact on humanity
+- collaboration platforms
+- company mission
+- episode wrap-up
+summary: Stefan and Jens discuss where they would invest as VCs, share predictions
+  for the future including peace and green energy, and reflect on the importance of
+  software and collaboration for humanity. They close the episode with thoughts on
+  company mission, teamwork, and encouragement for listeners to pursue their passions.
 ---
 
 01:06:02:25 - 01:06:21:10

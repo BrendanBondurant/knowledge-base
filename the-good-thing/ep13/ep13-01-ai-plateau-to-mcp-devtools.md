@@ -5,41 +5,51 @@ series: The Good Thing
 episode: 13
 chunk: 1
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Episode Introduction and AI Integration Discussion
 timecode: 00:00:24 – 00:04:02
 start_time: 00:00:24
 end_time: 00:04:02
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - AI model plateau and integration focus
-  - MCP (Model Context Protocol) introduction
-  - Software development workflow changes
-  - WunderGraph/Cosmo MCP integration
+- AI model plateau and integration focus
+- MCP (Model Context Protocol) introduction
+- Software development workflow changes
+- WunderGraph/Cosmo MCP integration
 tags:
-  - AI-integration
-  - MCP
-  - devtools
-  - cosmo
-  - workflow-automation
-  - software-development
+- AI-integration
+- MCP
+- devtools
+- cosmo
+- workflow-automation
+- software-development
+topic_tags:
+- AI-integration
+- MCP
+- devtools
+- cosmo
+- workflow-automation
+- software-development
 entities:
-  - MCP (Model Context Protocol)
-  - Cosmo
-  - WunderGraph
-  - Stefan Avram
-  - Jens Neuse
+- MCP (Model Context Protocol)
+- Cosmo
+- WunderGraph
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - AI plateau discussion
-  - elephant in the room (MCP)
-  - sophisticated MCP support in Cosmo
-  - dev tools space transformation
-  - dashboards and user interfaces
-summary: |
-  Stefan and Jens discuss the current AI landscape, noting a plateau in model capabilities but excitement around integration opportunities. They introduce MCP (Model Context Protocol) as a transformative technology and discuss how WunderGraph has added sophisticated MCP support to Cosmo, fundamentally changing software development workflows and the dev tools space.
+- AI plateau discussion
+- elephant in the room (MCP)
+- sophisticated MCP support in Cosmo
+- dev tools space transformation
+- dashboards and user interfaces
+summary: Stefan and Jens discuss the current AI landscape, noting a plateau in model
+  capabilities but excitement around integration opportunities. They introduce MCP
+  (Model Context Protocol) as a transformative technology and discuss how WunderGraph
+  has added sophisticated MCP support to Cosmo, fundamentally changing software development
+  workflows and the dev tools space.
 ---
 Episode 13
 00:00:24:22 - 00:00:33:10

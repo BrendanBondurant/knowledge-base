@@ -5,47 +5,57 @@ series: The Good Thing
 episode: 13
 chunk: 9
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Programming Fundamentals vs AI-Generated Code
 timecode: 00:32:18 – 00:36:09
 start_time: 00:32:18
 end_time: 00:36:09
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Pre-vibe coding era programming education
-  - Real-world SSH/port blocking example in hospital
-  - Fundamental knowledge vs AI dependency
-  - Network troubleshooting skills
-  - Port 22 (SSH) vs port 443 (HTTPS) understanding
+- Pre-vibe coding era programming education
+- Real-world SSH/port blocking example in hospital
+- Fundamental knowledge vs AI dependency
+- Network troubleshooting skills
+- Port 22 (SSH) vs port 443 (HTTPS) understanding
 tags:
-  - programming-fundamentals
-  - ssh-troubleshooting
-  - network-ports
-  - hospital-security
-  - problem-solving
-  - technical-knowledge
-  - vibe-coding-limitations
+- programming-fundamentals
+- ssh-troubleshooting
+- network-ports
+- hospital-security
+- problem-solving
+- technical-knowledge
+- vibe-coding-limitations
+topic_tags:
+- programming-fundamentals
+- ssh-troubleshooting
+- network-ports
+- hospital-security
+- problem-solving
+- technical-knowledge
+- vibe-coding-limitations
 entities:
-  - SSH
-  - GitHub
-  - Git
-  - HTTP/HTTPS
-  - TLS
-  - Port 22
-  - Port 443
+- SSH
+- GitHub
+- Git
+- HTTP/HTTPS
+- TLS
+- Port 22
+- Port 443
 mentions:
-  - colleague in hospital story
-  - SSH timeout errors
-  - hospital network restrictions
-  - Git over HTTPS solution
-  - SSH proxy over TLS option
-  - firewall troubleshooting approach
-  - fundamental vs superficial knowledge
-summary: |
-  Jens reflects on learning programming in the pre-AI era and the importance of fundamentals. He shares a real-time example of a colleague unable to clone repositories from a hospital due to SSH port blocking, demonstrating how fundamental networking knowledge helps solve problems that vibe coders might struggle with.
+- colleague in hospital story
+- SSH timeout errors
+- hospital network restrictions
+- Git over HTTPS solution
+- SSH proxy over TLS option
+- firewall troubleshooting approach
+- fundamental vs superficial knowledge
+summary: Jens reflects on learning programming in the pre-AI era and the importance
+  of fundamentals. He shares a real-time example of a colleague unable to clone repositories
+  from a hospital due to SSH port blocking, demonstrating how fundamental networking
+  knowledge helps solve problems that vibe coders might struggle with.
 ---
 
 00:32:18:12 - 00:32:23:07

@@ -24,6 +24,32 @@ topics:
   - Technical challenges
 summary: |
   Jens and Stefan discuss the N+1 problem, batching strategies, the importance of testing, and their overall engineering philosophy for building robust products.
+tags:
+  - n-plus-one-problem
+  - batching-strategies
+  - testing
+  - engineering-philosophy
+  - product-development
+  - technical-challenges
+topic_tags:
+  - n-plus-one-problem
+  - batching-strategies
+  - testing
+  - engineering-philosophy
+  - product-development
+  - technical-challenges
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - WunderGraph
+  - graphql
+mentions:
+  - N+1 problem solutions
+  - batching implementation strategies
+  - testing methodology importance
+  - engineering best practices
+  - technical problem solving
+  - performance optimization
 ---
 
 00:45:00:15 - 00:50:22:01

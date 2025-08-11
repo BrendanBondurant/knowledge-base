@@ -5,37 +5,45 @@ series: The Good Thing
 episode: 20
 chunk: 3
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Technology Philosophy and Customer Focus
 timecode: 00:12:00:19 – 00:18:25:13
 start_time: 00:12:00:19
 end_time: 00:18:25:13
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Technology obsession vs customer value delivery
-  - Software complexity and business impact
-  - Balancing technical excellence with pragmatism
-  - Customer-focused development approaches
+- Technology obsession vs customer value delivery
+- Software complexity and business impact
+- Balancing technical excellence with pragmatism
+- Customer-focused development approaches
 tags:
-  - tech-obsession
-  - customer-value
-  - software-complexity
-  - business-impact
-  - technical-excellence
-  - pragmatism
+- tech-obsession
+- customer-value
+- software-complexity
+- business-impact
+- technical-excellence
+- pragmatism
+topic_tags:
+- tech-obsession
+- customer-value
+- software-complexity
+- business-impact
+- technical-excellence
+- pragmatism
 entities:
-  - Stefan Avram
-  - Jens Neuse
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - Technology choices and customer impact
-  - Complexity vs simplicity trade-offs
-  - Business value prioritization
-  - Pragmatic development approaches
-summary: |
-  Discussion of the tension between technology obsession and customer value delivery, exploring how software complexity affects business impact and the importance of balancing technical excellence with pragmatic, customer-focused approaches.
+- Technology choices and customer impact
+- Complexity vs simplicity trade-offs
+- Business value prioritization
+- Pragmatic development approaches
+summary: Discussion of the tension between technology obsession and customer value
+  delivery, exploring how software complexity affects business impact and the importance
+  of balancing technical excellence with pragmatic, customer-focused approaches.
 ---
 
 00:12:00:19 - 00:12:21:12

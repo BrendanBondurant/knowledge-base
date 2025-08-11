@@ -5,48 +5,59 @@ series: The Good Thing
 episode: 14
 chunk: 3
 participants:
-  - Stefan
-  - Jens
-  - Dustin
+- Stefan
+- Jens
+- Dustin
 segment: BFF vs Federation for MCP Architecture
 timecode: 00:09:24 – 00:13:10
 start_time: 00:09:24
 end_time: 00:13:10
 speakers:
-  - Jens
-  - Dustin
+- Jens
+- Dustin
 topics:
-  - MCP servers as Backend for Frontend (BFF) pattern
-  - BFF sprawl problems with hundreds of microservices
-  - Federation vs BFF maintenance challenges
-  - Models as new API consumers
-  - Authorization and telemetry duplication issues
+- MCP servers as Backend for Frontend (BFF) pattern
+- BFF sprawl problems with hundreds of microservices
+- Federation vs BFF maintenance challenges
+- Models as new API consumers
+- Authorization and telemetry duplication issues
 tags:
-  - bff-pattern
-  - federation-architecture
-  - microservices-sprawl
-  - api-consumers
-  - authorization
-  - telemetry
-  - maintenance-overhead
+- bff-pattern
+- federation-architecture
+- microservices-sprawl
+- api-consumers
+- authorization
+- telemetry
+- maintenance-overhead
+topic_tags:
+- bff-pattern
+- federation-architecture
+- microservices-sprawl
+- api-consumers
+- authorization
+- telemetry
+- maintenance-overhead
 entities:
-  - BFF (Backend for Frontend)
-  - MCP server
-  - Microservices
-  - Media company
-  - SoundCloud
-  - Super graph
-  - Models (AI)
+- BFF (Backend for Frontend)
+- MCP server
+- Microservices
+- Media company
+- SoundCloud
+- Super graph
+- Models (AI)
 mentions:
-  - streaming services with hundreds of microservices
-  - model overwhelm with too many capabilities
-  - SoundCloud multi-app BFF example
-  - web, iOS, Android BFFs
-  - models as new API consumer type
-  - API sprawl and resource constraints
-  - authorization/authentication re-implementation
-summary: |
-  Jens explains how MCP servers essentially become BFFs and warns about BFF sprawl when dealing with hundreds of microservices. He argues that models are new API consumers requiring specific BFFs, but federation provides a better approach by contributing to a shared super graph rather than maintaining separate BFFs for each use case, avoiding duplication of authorization and telemetry.
+- streaming services with hundreds of microservices
+- model overwhelm with too many capabilities
+- SoundCloud multi-app BFF example
+- web, iOS, Android BFFs
+- models as new API consumer type
+- API sprawl and resource constraints
+- authorization/authentication re-implementation
+summary: Jens explains how MCP servers essentially become BFFs and warns about BFF
+  sprawl when dealing with hundreds of microservices. He argues that models are new
+  API consumers requiring specific BFFs, but federation provides a better approach
+  by contributing to a shared super graph rather than maintaining separate BFFs for
+  each use case, avoiding duplication of authorization and telemetry.
 ---
 
 00:09:24:03 - 00:09:56:21

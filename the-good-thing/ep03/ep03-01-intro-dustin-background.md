@@ -3,45 +3,53 @@ title: Introduction and Dustin's Background
 slug: ep03-01-intro-dustin-background
 series: The Good Thing
 episode: 3
-chunk: 01
+chunk: 1
 participants:
-  - Stefan
-  - Dustin
+- Stefan
+- Dustin
 segment: Introduction and Dustin's career background
 timecode: 00:00:15:27 - 00:05:21:21
 start_time: 00:00:15:27
 end_time: 00:05:21:21
 speakers:
-  - Stefan
-  - Dustin
+- Stefan
+- Dustin
 topics:
-  - Introduction
-  - Career Background
-  - GraphQL
-  - Open Source
+- Introduction
+- Career Background
+- GraphQL
+- Open Source
 tags:
-  - introduction
-  - career
-  - graphql
-  - open-source
-  - wundergraph
+- introduction
+- career
+- graphql
+- open-source
+- wundergraph
+topic_tags:
+- introduction
+- career
+- graphql
+- open-source
+- wundergraph
 entities:
-  - Dustin
-  - Stefan
-  - Jens
-  - WunderGraph
-  - High Graph
-  - RTL
-  - Fastly
+- Dustin
+- Stefan
+- Jens
+- WunderGraph
+- High Graph
+- RTL
+- Fastly
 mentions:
-  - CTO
-  - co-founder
-  - GraphQL federation
-  - content management system
-  - Rust
-  - edge computing
-summary: |
-  Stefan introduces Dustin as the CTO and co-founder of WunderGraph, replacing Jens for this episode. Dustin shares his career journey from computer science studies to working at High Graph on GraphQL content federation and RTL on GraphQL gateways, leading to his role at WunderGraph.
+- CTO
+- co-founder
+- GraphQL federation
+- content management system
+- Rust
+- edge computing
+summary: Stefan introduces Dustin as the CTO and co-founder of WunderGraph, replacing
+  Jens for this episode. Dustin shares his career journey from computer science studies
+  to working at High Graph on GraphQL content federation and RTL on GraphQL gateways,
+  leading to his role at WunderGraph.
 ---
 
 Episode 3

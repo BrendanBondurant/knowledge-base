@@ -5,41 +5,49 @@ series: The Good Thing
 episode: 19
 chunk: 9
 participants:
-  - Stefan
-  - Robert Farr
-  - Jens
+- Stefan
+- Robert Farr
+- Jens
 segment: Query Planning and Graph Architecture
 timecode: 00:42:11 – 00:47:02
 start_time: 00:42:11
 end_time: 00:47:02
 speakers:
-  - Stefan
-  - Robert Farr
-  - Jens
+- Stefan
+- Robert Farr
+- Jens
 topics:
-  - Query planning strategies and complexity
-  - Complexity scoring for query optimization
-  - Supergraph as database conceptual analogy
-  - Federation implementation insights
+- Query planning strategies and complexity
+- Complexity scoring for query optimization
+- Supergraph as database conceptual analogy
+- Federation implementation insights
 tags:
-  - query-planning
-  - complexity-scoring
-  - supergraph
-  - database-analogy
-  - federation
-  - optimization
+- query-planning
+- complexity-scoring
+- supergraph
+- database-analogy
+- federation
+- optimization
+topic_tags:
+- query-planning
+- complexity-scoring
+- supergraph
+- database-analogy
+- federation
+- optimization
 entities:
-  - Robert Farr
-  - Stefan Avram
-  - Jens Neuse
-  - GraphQL Federation
+- Robert Farr
+- Stefan Avram
+- Jens Neuse
+- GraphQL Federation
 mentions:
-  - Query planning algorithms
-  - Complexity analysis methods
-  - Database analogy for supergraphs
-  - Federation optimization strategies
-summary: |
-  Deep dive into query planning mechanics, exploring complexity scoring systems and the conceptual analogy of treating a supergraph like a database for optimization and federation insights.
+- Query planning algorithms
+- Complexity analysis methods
+- Database analogy for supergraphs
+- Federation optimization strategies
+summary: Deep dive into query planning mechanics, exploring complexity scoring systems
+  and the conceptual analogy of treating a supergraph like a database for optimization
+  and federation insights.
 ---
 
 00:42:11:22 - 00:42:38:13

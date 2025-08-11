@@ -5,42 +5,51 @@ series: The Good Thing
 episode: 9
 chunk: 13
 participants:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 segment: Personal style and authenticity
 timecode: 00:46:36:01 – 00:50:33:00
 start_time: 00:46:36:01
 end_time: 00:50:33:00
 speakers:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 topics:
-  - AI content detection by search engines
-  - Human validation of AI output
-  - Personal style and taste in content
-  - Brand identity and authenticity
-  - Non-native speaker identity
-  - AI limitations in creativity
+- AI content detection by search engines
+- Human validation of AI output
+- Personal style and taste in content
+- Brand identity and authenticity
+- Non-native speaker identity
+- AI limitations in creativity
 tags:
-  - personal-style
-  - authenticity
-  - ai-detection
-  - brand-identity
-  - content-quality
-  - human-validation
+- personal-style
+- authenticity
+- ai-detection
+- brand-identity
+- content-quality
+- human-validation
+topic_tags:
+- personal-style
+- authenticity
+- ai-detection
+- brand-identity
+- content-quality
+- human-validation
 entities:
-  - WunderGraph
-  - Search Engines
-  - AI Models
+- WunderGraph
+- Search Engines
+- AI Models
 mentions:
-  - search engine AI content flagging
-  - human touch in validation
-  - probability-based AI thinking
-  - personal writing signatures
-  - vendor content similarity
-  - non-native speaker patterns
-summary: |
-  Cameron and Jens discuss the importance of maintaining personal style and authenticity in an AI-driven world. They explore how search engines detect AI-generated content, the value of human validation, and the significance of personal taste and brand identity. Jens shares how his non-native English patterns contribute to authenticity.
+- search engine AI content flagging
+- human touch in validation
+- probability-based AI thinking
+- personal writing signatures
+- vendor content similarity
+- non-native speaker patterns
+summary: Cameron and Jens discuss the importance of maintaining personal style and
+  authenticity in an AI-driven world. They explore how search engines detect AI-generated
+  content, the value of human validation, and the significance of personal taste and
+  brand identity. Jens shares how his non-native English patterns contribute to authenticity.
 ---
 
 00:46:36:01 - 00:46:57:01

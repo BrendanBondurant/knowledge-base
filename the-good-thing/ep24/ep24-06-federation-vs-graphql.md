@@ -30,7 +30,7 @@ tags:
   - blockchain-analogy
   - team-size
   - governance
-  - GraphQL-HTTP
+  - graphql-http
 entities:
   - Stefan Avram
   - Jens Neuse

@@ -23,6 +23,33 @@ topics:
   - Product strategy
   - Startup mistakes
   - Market entry
+tags:
+  - hasura
+  - apollo
+  - feature-copying
+  - distribution-strategy
+  - product-strategy
+  - competitive-markets
+topic_tags:
+  - hasura
+  - apollo
+  - feature-copying
+  - distribution-strategy
+  - product-strategy
+  - competitive-markets
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - Hasura
+  - Apollo
+  - WunderGraph
+mentions:
+  - feature copying temptation
+  - distribution vs features
+  - competitive market entry
+  - startup mistakes
+  - product strategy decisions
+  - market positioning
 summary: |
   Jens and Stefan discuss the early days of Hasura and Apollo, the temptation to copy features, and the realization that distribution is more important than feature parity. They reflect on startup mistakes and the challenges of entering a competitive market.
 ---

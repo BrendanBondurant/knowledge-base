@@ -5,43 +5,53 @@ series: The Good Thing
 episode: 9
 chunk: 16
 participants:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 segment: MCP ecosystem and business applications
 timecode: 00:58:12:10 – 01:01:20:10
 start_time: 00:58:12:10
 end_time: 01:01:20:10
 speakers:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 topics:
-  - AI model access and control limitations
-  - MCP registry and discovery systems
-  - Authentication and authorization challenges
-  - Official validation and security concerns
-  - Business user tool integration
-  - Multi-service workflow automation
+- AI model access and control limitations
+- MCP registry and discovery systems
+- Authentication and authorization challenges
+- Official validation and security concerns
+- Business user tool integration
+- Multi-service workflow automation
 tags:
-  - mcp-registry
-  - access-control
-  - authentication
-  - business-tools
-  - workflow-automation
-  - security
+- mcp-registry
+- access-control
+- authentication
+- business-tools
+- workflow-automation
+- security
+topic_tags:
+- mcp-registry
+- access-control
+- authentication
+- business-tools
+- workflow-automation
+- security
 entities:
-  - MCP Hub
-  - Docker Registry
-  - Banking APIs
-  - Bookkeeping Software
+- MCP Hub
+- Docker Registry
+- Banking APIs
+- Bookkeeping Software
 mentions:
-  - model access limitations
-  - MCP registry discovery
-  - official connection validation
-  - bookkeeper workflow example
-  - multi-bank integration
-  - business user interfaces
-summary: |
-  Cameron and Jens discuss the ecosystem challenges around MCP, including registry systems, authentication, and security validation. They envision business-focused tools that integrate multiple services through MCP, using bookkeeping as an example where users could query across banks and financial software through natural language interfaces.
+- model access limitations
+- MCP registry discovery
+- official connection validation
+- bookkeeper workflow example
+- multi-bank integration
+- business user interfaces
+summary: Cameron and Jens discuss the ecosystem challenges around MCP, including registry
+  systems, authentication, and security validation. They envision business-focused
+  tools that integrate multiple services through MCP, using bookkeeping as an example
+  where users could query across banks and financial software through natural language
+  interfaces.
 ---
 
 00:58:12:10 - 00:58:43:10

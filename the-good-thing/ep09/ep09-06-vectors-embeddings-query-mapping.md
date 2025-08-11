@@ -5,45 +5,54 @@ series: The Good Thing
 episode: 9
 chunk: 6
 participants:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 segment: Vector databases and embeddings
 timecode: 00:21:04:01 – 00:25:32:08
 start_time: 00:21:04:01
 end_time: 00:25:32:08
 speakers:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 topics:
-  - Root type schema slicing
-  - Vector database implementation
-  - Embeddings model explanation
-  - Semantic similarity mapping
-  - Query-to-schema matching
-  - Natural language processing concepts
+- Root type schema slicing
+- Vector database implementation
+- Embeddings model explanation
+- Semantic similarity mapping
+- Query-to-schema matching
+- Natural language processing concepts
 tags:
-  - vector-databases
-  - embeddings
-  - schema-slicing
-  - nlp
-  - semantic-similarity
-  - query-mapping
+- vector-databases
+- embeddings
+- schema-slicing
+- nlp
+- semantic-similarity
+- query-mapping
+topic_tags:
+- vector-databases
+- embeddings
+- schema-slicing
+- nlp
+- semantic-similarity
+- query-mapping
 entities:
-  - GraphQL
-  - Vector Database
-  - Embeddings Model
-  - Gemini
-  - Claude
-  - ChatGPT
+- GraphQL
+- Vector Database
+- Embeddings Model
+- Gemini
+- Claude
+- ChatGPT
 mentions:
-  - root operation types
-  - user and human similarity
-  - vector distance calculation
-  - tokenization models
-  - schema grouping by return type
-  - WunderGraph Cosmo repository example
-summary: |
-  Cameron explains the technical approach of using vector databases and embeddings to map natural language queries to relevant schema slices. He details how root types are grouped and how semantic similarity through vector distances helps identify the most relevant schema portions, improving both accuracy and performance.
+- root operation types
+- user and human similarity
+- vector distance calculation
+- tokenization models
+- schema grouping by return type
+- WunderGraph Cosmo repository example
+summary: Cameron explains the technical approach of using vector databases and embeddings
+  to map natural language queries to relevant schema slices. He details how root types
+  are grouped and how semantic similarity through vector distances helps identify
+  the most relevant schema portions, improving both accuracy and performance.
 ---
 
 00:21:04:01 - 00:21:14:15

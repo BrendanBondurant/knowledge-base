@@ -31,6 +31,24 @@ tags:
   - copycat-accusations
   - devtools-space
   - wundergraph-origin
+topic_tags:
+  - copying-competitors
+  - startup-strategy
+  - product-differentiation
+  - copycat-accusations
+  - devtools-space
+  - wundergraph-origin
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - WunderGraph
+mentions:
+  - competitor copying debate
+  - copycat accusations
+  - WunderGraph early days
+  - product differentiation
+  - devtools space dynamics
+  - startup strategy
 ---
 
 00:02:32:20 - 00:02:45:19

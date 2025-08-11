@@ -26,8 +26,8 @@ The approved vocabulary for tags and topic_tags lives in the `tags_master.yaml` 
 
 #### To add a new tag:
 
-1. Edit `tags_master.yaml` to include the new kebab-case tag
-2. Run the tag validation script (`/scripts/validate_tags.md`) before committing
+1. Edit `tags_master.yaml` to include the new kebab-case tag (Doesn't exist yet)
+2. Run the tag validation script (`/scripts/validate_tags.md`) before committing (Doesn't exist yet)
 3. Document the addition in the repo changelog
 4. Pre-commit hooks will reject changes that contain invalid or missing tags
 

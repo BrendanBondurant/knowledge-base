@@ -25,7 +25,7 @@ topics:
 tags:
   - lovable
   - unicorn-status
-  - AI-development
+  - ai-development
   - European-tech
   - bubble-speculation
   - defensibility

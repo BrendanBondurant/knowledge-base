@@ -31,7 +31,7 @@ tags:
   - miro-workflows
 entities:
   - WunderGraph
-  - GraphQL
+  - graphql
   - Federation
   - Enterprise accounts
   - Miro boards

@@ -5,36 +5,42 @@ series: The Good Thing
 episode: 9
 chunk: 20
 participants:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 segment: Episode conclusion
 timecode: 01:10:31:22 – 01:11:27:06
 start_time: 01:10:31:22
 end_time: 01:11:27:06
 speakers:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 topics:
-  - Episode wrap-up
-  - Traditional show sign-off
-  - Cameron's first appearance
-  - Return schedule announcement
+- Episode wrap-up
+- Traditional show sign-off
+- Cameron's first appearance
+- Return schedule announcement
 tags:
-  - episode-wrap
-  - show-format
-  - sign-off
-  - guest-appearance
+- episode-wrap
+- show-format
+- sign-off
+- guest-appearance
+topic_tags:
+- episode-wrap
+- show-format
+- sign-off
+- guest-appearance
 entities:
-  - The Good Thing
-  - Cameron
-  - Jens Neuse
+- The Good Thing
+- Cameron
+- Jens Neuse
 mentions:
-  - going over time
-  - traditional episode ending
-  - weekly return schedule
-  - Cameron's introduction to format
-summary: |
-  Jens wraps up the episode with Cameron, introducing him to the traditional "Good Thing" sign-off format. They acknowledge running over time and announce the show's return in a week, marking Cameron's successful first appearance on the podcast.
+- going over time
+- traditional episode ending
+- weekly return schedule
+- Cameron's introduction to format
+summary: Jens wraps up the episode with Cameron, introducing him to the traditional
+  "Good Thing" sign-off format. They acknowledge running over time and announce the
+  show's return in a week, marking Cameron's successful first appearance on the podcast.
 ---
 
 01:10:31:22 - 01:10:45:29

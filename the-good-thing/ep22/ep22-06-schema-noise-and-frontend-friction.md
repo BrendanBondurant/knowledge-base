@@ -5,35 +5,43 @@ series: The Good Thing
 episode: 22
 chunk: 6
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: GraphQL Developer Experience Issues
 timecode: 00:26:23:00 – 00:32:04:00
 start_time: 00:26:23:00
 end_time: 00:32:04:00
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - GraphQL schema complexity
-  - Frontend development friction
-  - Developer experience challenges
-  - Legacy system integration
+- GraphQL schema complexity
+- Frontend development friction
+- Developer experience challenges
+- Legacy system integration
 tags:
-  - schema-noise
-  - frontend-friction
-  - developer-experience
-  - graphql-complexity
-  - legacy-systems
+- schema-noise
+- frontend-friction
+- developer-experience
+- graphql-complexity
+- legacy-systems
+topic_tags:
+- schema-noise
+- frontend-friction
+- developer-experience
+- graphql-complexity
+- legacy-systems
 entities:
-  - Stefan Avram
-  - Jens Neuse
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - schema complexity issues
-  - frontend development challenges
-  - legacy approach problems
-summary: |
-  Stefan and Jens discuss how complex GraphQL schemas create "noise" that adds friction to frontend development. They analyze developer experience challenges and explore how schema design decisions impact the practical usability of GraphQL, particularly when integrating with legacy systems.
+- schema complexity issues
+- frontend development challenges
+- legacy approach problems
+summary: Stefan and Jens discuss how complex GraphQL schemas create "noise" that adds
+  friction to frontend development. They analyze developer experience challenges and
+  explore how schema design decisions impact the practical usability of GraphQL, particularly
+  when integrating with legacy systems.
 ---
 
 00:26:23:16 - 00:26:58:18

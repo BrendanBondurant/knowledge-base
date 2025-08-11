@@ -3,43 +3,66 @@ title: Enterprise Sales, Value Demonstration, and Customer Stories
 slug: ep05-04-enterprise-sales-value-customer-stories
 series: The Good Thing
 episode: 5
-chunk: 04
+chunk: 4
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Demonstrating value in enterprise sales and the power of customer stories
 timecode: 00:15:17:03 - 00:22:31:28
 start_time: 00:15:17:03
 end_time: 00:22:31:28
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Enterprise sales
-  - Value demonstration
-  - Customer stories
-  - Sales negotiation
-  - Emotional investment
-  - Customer relationships
-  - Startup growth
-  - Network effects
-  - Case studies
-  - ARR milestones
-  - B2B vs. B2C
-  - Product love
-  - Indecision in sales
-  - Customer advocacy
-  - Sales process
-  - Startup advice
+- Enterprise sales
+- Value demonstration
+- Customer stories
+- Sales negotiation
+- Emotional investment
+- Customer relationships
+- Startup growth
+- Network effects
+- Case studies
+- ARR milestones
+- B2B vs. B2C
+- Product love
+- Indecision in sales
+- Customer advocacy
+- Sales process
+- Startup advice
 tags:
-  - enterprise-sales
-  - customer-stories
-  - value-demonstration
-  - b2b-sales
-  - customer-advocacy
-  - startup-growth
-summary: |
-  Stefan and Jens discuss the importance of demonstrating value in enterprise sales, the emotional investment of bringing products into organizations, and how customer stories and advocacy drive growth. They share lessons on overcoming indecision, building customer relationships, and the power of network effects and case studies in scaling a startup.
+- enterprise-sales
+- customer-stories
+- value-demonstration
+- b2b-sales
+- customer-advocacy
+- startup-growth
+topic_tags:
+- enterprise-sales
+- customer-stories
+- value-demonstration
+- b2b-sales
+- customer-advocacy
+- startup-growth
+entities:
+- Stefan Avram
+- Jens Neuse
+- WunderGraph
+mentions:
+- enterprise sales tactics
+- value demonstration
+- customer story power
+- sales negotiation
+- emotional investment
+- network effects
+- ARR milestones
+- B2B vs B2C dynamics
+summary: Stefan and Jens discuss the importance of demonstrating value in enterprise
+  sales, the emotional investment of bringing products into organizations, and how
+  customer stories and advocacy drive growth. They share lessons on overcoming indecision,
+  building customer relationships, and the power of network effects and case studies
+  in scaling a startup.
 ---
 
 00:15:17:03 - 00:15:34:08

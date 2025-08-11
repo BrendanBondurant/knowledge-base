@@ -33,7 +33,7 @@ tags:
 entities:
   - HVAC and plumbing convention
   - Bachelor party
-  - GraphQL
+  - graphql
   - MCP (Model Context Protocol)
   - Client-server architecture
   - Network infrastructure

@@ -33,7 +33,7 @@ tags:
 entities:
   - Dunning-Kruger curve
   - Mount Stupid concept
-  - GraphQL
+  - graphql
   - Enterprise architects
   - Design patterns
   - SOLID principles

@@ -26,7 +26,7 @@ tags:
   - meta
   - open-source-AI
   - government-pressure
-  - AI-arms-race
+  - ai-arms-race
   - business-model
   - advertising
 entities:

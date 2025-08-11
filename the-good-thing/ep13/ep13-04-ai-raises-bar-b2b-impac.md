@@ -5,42 +5,52 @@ series: The Good Thing
 episode: 13
 chunk: 4
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: B2B Transformation and Team Efficiency
 timecode: 00:11:22 – 00:14:46
 start_time: 00:11:22
 end_time: 00:14:46
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - B2B SaaS transformation due to AI
-  - Shopify's mandate on demonstrating AI usage before hiring
-  - AI raising the competitive bar
-  - Small team empowerment through AI
-  - Communication complexity vs team size
+- B2B SaaS transformation due to AI
+- Shopify's mandate on demonstrating AI usage before hiring
+- AI raising the competitive bar
+- Small team empowerment through AI
+- Communication complexity vs team size
 tags:
-  - b2b-transformation
-  - team-efficiency
-  - competitive-advantage
-  - hiring-policies
-  - small-teams
-  - ai-empowerment
-  - communication-complexity
+- b2b-transformation
+- team-efficiency
+- competitive-advantage
+- hiring-policies
+- small-teams
+- ai-empowerment
+- communication-complexity
+topic_tags:
+- b2b-transformation
+- team-efficiency
+- competitive-advantage
+- hiring-policies
+- small-teams
+- ai-empowerment
+- communication-complexity
 entities:
-  - Shopify
-  - Cursor
-  - Toby (Tobias Lütke)
+- Shopify
+- Cursor
+- Toby (Tobias Lütke)
 mentions:
-  - self-directed learning mandate
-  - sharing AI learnings
-  - B2B disruption potential
-  - two pizza team concept
-  - existing resources optimization
-  - 7-8 developer teams
-summary: |
-  Stefan and Jens discuss how AI is transforming B2B SaaS by raising competitive bars and enabling smaller, more powerful teams. They analyze Shopify's mandate requiring teams to demonstrate why AI can't accomplish goals before requesting more headcount, emphasizing how AI makes small startups and lean teams more dangerous and effective.
+- self-directed learning mandate
+- sharing AI learnings
+- B2B disruption potential
+- two pizza team concept
+- existing resources optimization
+- 7-8 developer teams
+summary: Stefan and Jens discuss how AI is transforming B2B SaaS by raising competitive
+  bars and enabling smaller, more powerful teams. They analyze Shopify's mandate requiring
+  teams to demonstrate why AI can't accomplish goals before requesting more headcount,
+  emphasizing how AI makes small startups and lean teams more dangerous and effective.
 ---
 
 00:11:22:06 - 00:11:27:24

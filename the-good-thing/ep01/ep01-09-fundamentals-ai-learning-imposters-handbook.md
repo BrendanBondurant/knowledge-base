@@ -5,47 +5,59 @@ series: The Good Thing
 episode: 1
 chunk: 9
 participants:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 segment: Learning Fundamentals and Finding the Right Book
 timecode: 00:26:23 – 00:29:55
 start_time: 00:26:23
 end_time: 00:29:55
 speakers:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 topics:
-  - Importance of understanding fundamentals like HTTP TCP TLS
-  - Using AI tools like Copilot and ChatGPT to learn the basics
-  - Knowledge decay and the lasting value of fundamentals
-  - Book recommendation Imposters Handbook
-  - Startup culture in Germany vs the US
-  - Jens early imposter syndrome in programming
+- Importance of understanding fundamentals like HTTP TCP TLS
+- Using AI tools like Copilot and ChatGPT to learn the basics
+- Knowledge decay and the lasting value of fundamentals
+- Book recommendation Imposters Handbook
+- Startup culture in Germany vs the US
+- Jens early imposter syndrome in programming
 tags:
-  - fundamentals
-  - imposter-syndrome
-  - fundamentals
-  - learning
-  - learning
+- fundamentals
+- imposter-syndrome
+- fundamentals
+- learning
+- learning
+topic_tags:
+- fundamentals
+- imposter-syndrome
+- fundamentals
+- learning
+- learning
 entities:
-  - Jens Neuse
-  - Stefan Avram
-  - WunderGraph
-  - Imposters Handbook
-  - ChatGPT
-  - GitHub Copilot
-  - HTTP
-  - TCP
-  - TLS
+- Jens Neuse
+- Stefan Avram
+- WunderGraph
+- Imposters Handbook
+- ChatGPT
+- GitHub Copilot
+- HTTP
+- TCP
+- TLS
 mentions:
-  - engineering knowledge decay
-  - you can just do things
-  - fundamentals of the internet
-  - book for self-taught programmers
-  - imposter syndrome
-  - startup failure in Europe
-summary: |
-  Jens continues explaining why knowing how things work—like HTTP TLS and TCP—is critical to being a strong engineer even when using AI tools like Copilot. He encourages developers to use these tools to understand code not just generate it. Stefan connects this to the broader idea that technical knowledge becomes obsolete quickly while fundamentals remain constant. He prompts Jens to recall a foundational book from his early career Imposters Handbook which Jens says resonated deeply during times of self-doubt and still shapes how he learns. They transition toward discussing Shakealert's failure and startup culture in Europe.
+- engineering knowledge decay
+- you can just do things
+- fundamentals of the internet
+- book for self-taught programmers
+- imposter syndrome
+- startup failure in Europe
+summary: Jens continues explaining why knowing how things work—like HTTP TLS and TCP—is
+  critical to being a strong engineer even when using AI tools like Copilot. He encourages
+  developers to use these tools to understand code not just generate it. Stefan connects
+  this to the broader idea that technical knowledge becomes obsolete quickly while
+  fundamentals remain constant. He prompts Jens to recall a foundational book from
+  his early career Imposters Handbook which Jens says resonated deeply during times
+  of self-doubt and still shapes how he learns. They transition toward discussing
+  Shakealert's failure and startup culture in Europe.
 ---
 
 

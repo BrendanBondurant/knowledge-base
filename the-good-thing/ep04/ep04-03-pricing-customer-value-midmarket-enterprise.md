@@ -3,39 +3,47 @@ title: Pricing, Customer Value, and Mid-Market vs. Enterprise
 slug: ep04-03-pricing-customer-value-midmarket-enterprise
 series: The Good Thing
 episode: 4
-chunk: 03
+chunk: 3
 participants:
-  - Jens
-  - Stefan
-segment: Exploring pricing models, customer value perception, and the differences between mid-market and enterprise customers
+- Jens
+- Stefan
+segment: Exploring pricing models, customer value perception, and the differences
+  between mid-market and enterprise customers
 timecode: 00:06:56:18 - 00:10:07:25
 start_time: 00:06:56:18
 end_time: 00:10:07:25
 speakers:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 topics:
-  - Pricing models
-  - Customer value
-  - Mid-market vs. enterprise
-  - Customer behavior
-  - Support challenges
+- Pricing models
+- Customer value
+- Mid-market vs. enterprise
+- Customer behavior
+- Support challenges
 tags:
-  - pricing
-  - customer-value
-  - enterprise
-  - mid-market
+- pricing
+- customer-value
+- enterprise
+- mid-market
+topic_tags:
+- pricing
+- customer-value
+- enterprise
+- mid-market
 entities:
-  - Jens
-  - Stefan
-  - Cosmo
+- Jens
+- Stefan
+- Cosmo
 mentions:
-  - $8/month SaaS
-  - support load
-  - enterprise requirements
-  - mid-market pricing
-summary: |
-  Jens and Stefan discuss the challenges of low-cost SaaS pricing, the correlation between what customers pay and their behavior, and why mid-market and enterprise customers are often preferable. They share anecdotes about support burdens and the value of self-serve offerings starting at higher price points.
+- $8/month SaaS
+- support load
+- enterprise requirements
+- mid-market pricing
+summary: Jens and Stefan discuss the challenges of low-cost SaaS pricing, the correlation
+  between what customers pay and their behavior, and why mid-market and enterprise
+  customers are often preferable. They share anecdotes about support burdens and the
+  value of self-serve offerings starting at higher price points.
 ---
 
 00:06:56:18 - 00:07:24:24

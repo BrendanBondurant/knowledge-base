@@ -5,37 +5,46 @@ series: The Good Thing
 episode: 16
 chunk: 6
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Service Delivery and Domain Expertise
 timecode: 00:26:16 – 00:31:23
 start_time: 00:26:16
 end_time: 00:31:23
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Code copying limitations and knowledge gaps
-  - Customer support and education requirements
-  - Domain expertise for effective guidance
-  - Business responsibilities with paying customers
-  - Implementation decision context understanding
+- Code copying limitations and knowledge gaps
+- Customer support and education requirements
+- Domain expertise for effective guidance
+- Business responsibilities with paying customers
+- Implementation decision context understanding
 tags:
-  - managed-services
-  - customer-support
-  - domain-expertise
-  - business-responsibilities
-  - implementation-guidance
+- managed-services
+- customer-support
+- domain-expertise
+- business-responsibilities
+- implementation-guidance
+topic_tags:
+- managed-services
+- customer-support
+- domain-expertise
+- business-responsibilities
+- implementation-guidance
 entities:
-  - Cosmo
+- Cosmo
 mentions:
-  - Following commits creates lag
-  - Missing decision-making context
-  - Trial and error learning curve
-  - Customer support obligations
-  - Education and guidance requirements
-summary: |
-  Stefan and Jens explore why simply copying code commits doesn't create a viable business, focusing on the knowledge gap problem. They discuss how paying customers require support, education, and guidance that demands deep domain expertise - knowledge that can't be copied from commits but must be earned through experience, trial and error, and understanding the reasoning behind technical decisions.
+- Following commits creates lag
+- Missing decision-making context
+- Trial and error learning curve
+- Customer support obligations
+- Education and guidance requirements
+summary: Stefan and Jens explore why simply copying code commits doesn't create a
+  viable business, focusing on the knowledge gap problem. They discuss how paying
+  customers require support, education, and guidance that demands deep domain expertise
+  - knowledge that can't be copied from commits but must be earned through experience,
+  trial and error, and understanding the reasoning behind technical decisions.
 ---
 
 00:26:16:06 - 00:26:33:04

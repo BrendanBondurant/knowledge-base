@@ -5,50 +5,60 @@ series: The Good Thing
 episode: 10
 chunk: 3
 participants:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
+- Stefan
+- Björn
+- Dustin
+- Jens
 segment: Founder dynamics and startup lessons
 timecode: 00:16:10:06 – 00:22:37:08
 start_time: 00:16:10:06
 end_time: 00:22:37:08
 speakers:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
+- Stefan
+- Björn
+- Dustin
+- Jens
 topics:
-  - Founder team trust and decision-making
-  - Netherlands retreat pivot moment
-  - Role specialization and expertise
-  - First-time founder mistakes
-  - Premature team scaling
-  - Imitating successful startups
-  - Product-market fit requirements
+- Founder team trust and decision-making
+- Netherlands retreat pivot moment
+- Role specialization and expertise
+- First-time founder mistakes
+- Premature team scaling
+- Imitating successful startups
+- Product-market fit requirements
 tags:
-  - founder-trust
-  - team-dynamics
-  - startup-mistakes
-  - premature-scaling
-  - product-market-fit
-  - pivot-decisions
+- founder-trust
+- team-dynamics
+- startup-mistakes
+- premature-scaling
+- product-market-fit
+- pivot-decisions
+topic_tags:
+- founder-trust
+- team-dynamics
+- startup-mistakes
+- premature-scaling
+- product-market-fit
+- pivot-decisions
 entities:
-  - WunderGraph
-  - Netherlands
-  - Vercel
-  - Zeit.co
-  - Guillermo Rauch
+- WunderGraph
+- Netherlands
+- Vercel
+- Zeit.co
+- Guillermo Rauch
 mentions:
-  - sheep den retreat location
-  - flip chart strategic sessions
-  - Jens GraphQL expertise
-  - Dustin technical leadership
-  - Stefan customer feedback
-  - Vercel playbook imitation
-  - team scaling before PMF
-summary: |
-  Björn reflects on the trust required during the pivot, describing the Netherlands retreat as a leap of faith based on Stefan and Jens' market insights. Jens shares key lessons including the mistake of imitating successful startups like Vercel without considering funding, timing, and market differences, plus the critical error of scaling the team before achieving product-market fit.
+- sheep den retreat location
+- flip chart strategic sessions
+- Jens GraphQL expertise
+- Dustin technical leadership
+- Stefan customer feedback
+- Vercel playbook imitation
+- team scaling before PMF
+summary: Björn reflects on the trust required during the pivot, describing the Netherlands
+  retreat as a leap of faith based on Stefan and Jens' market insights. Jens shares
+  key lessons including the mistake of imitating successful startups like Vercel without
+  considering funding, timing, and market differences, plus the critical error of
+  scaling the team before achieving product-market fit.
 ---
 
 00:16:10:06 - 00:16:30:25

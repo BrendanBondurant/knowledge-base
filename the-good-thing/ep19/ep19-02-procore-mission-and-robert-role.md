@@ -5,40 +5,48 @@ series: The Good Thing
 episode: 19
 chunk: 2
 participants:
-  - Stefan
-  - Robert Farr
+- Stefan
+- Robert Farr
 segment: Procore Overview and Company Mission
 timecode: 00:05:01 – 00:10:10
 start_time: 00:05:01
 end_time: 00:10:10
 speakers:
-  - Stefan
-  - Robert Farr
+- Stefan
+- Robert Farr
 topics:
-  - Procore's mission in construction technology
-  - Construction industry digital transformation
-  - Robert's role as Principal Architect
-  - Post-IPO growth and scaling challenges
+- Procore's mission in construction technology
+- Construction industry digital transformation
+- Robert's role as Principal Architect
+- Post-IPO growth and scaling challenges
 tags:
-  - procore
-  - construction-tech
-  - principal-architect
-  - ipo
-  - scaling
-  - digital-transformation
+- procore
+- construction-tech
+- principal-architect
+- ipo
+- scaling
+- digital-transformation
+topic_tags:
+- procore
+- construction-tech
+- principal-architect
+- ipo
+- scaling
+- digital-transformation
 entities:
-  - Procore
-  - Robert Farr
-  - Stefan Avram
-  - Construction industry
+- Procore
+- Robert Farr
+- Stefan Avram
+- Construction industry
 mentions:
-  - General contractor focus
-  - Project management and quality/safety
-  - Schools, hospitals, roads and bridges projects
-  - Workforce management and field solutions
-  - Post-IPO company dynamics
-summary: |
-  Robert explains Procore's mission in construction technology, focusing on project management for general contractors building schools, hospitals, and infrastructure. He discusses his role as Principal Architect and the company's evolution post-IPO.
+- General contractor focus
+- Project management and quality/safety
+- Schools, hospitals, roads and bridges projects
+- Workforce management and field solutions
+- Post-IPO company dynamics
+summary: Robert explains Procore's mission in construction technology, focusing on
+  project management for general contractors building schools, hospitals, and infrastructure.
+  He discusses his role as Principal Architect and the company's evolution post-IPO.
 ---
 
 00:05:01:17 - 00:05:26:26

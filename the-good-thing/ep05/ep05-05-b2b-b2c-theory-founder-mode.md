@@ -3,38 +3,62 @@ title: B2B/B2C Theory and Founder Mode
 slug: ep05-05-b2b-b2c-theory-founder-mode
 series: The Good Thing
 episode: 5
-chunk: 05
+chunk: 5
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Theories on B2B vs. B2C and the definition and scalability of founder mode
 timecode: 00:22:32:03 - 00:27:37:24
 start_time: 00:22:32:03
 end_time: 00:27:37:24
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - B2B vs. B2C
-  - Company evolution
-  - Founder mode
-  - Startup scalability
-  - Team dynamics
-  - Paul Graham's essay
-  - Startup leadership
-  - Company culture
-  - Product for enterprise vs. individual
-  - App store success
-  - Hypotheses in business
+- B2B vs. B2C
+- Company evolution
+- Founder mode
+- Startup scalability
+- Team dynamics
+- Paul Graham's essay
+- Startup leadership
+- Company culture
+- Product for enterprise vs. individual
+- App store success
+- Hypotheses in business
 tags:
-  - b2b-theory
-  - b2c-evolution
-  - founder-mode
-  - startup-leadership
-  - company-culture
-  - scalability
-summary: |
-  Stefan and Jens discuss the theory that successful B2B companies eventually become B2C, share examples from Salesforce and their own product, and transition to the topic of founder mode. They define founder mode, discuss its scalability, and reflect on the importance of leadership and team dynamics in startups.
+- b2b-theory
+- b2c-evolution
+- founder-mode
+- startup-leadership
+- company-culture
+- scalability
+topic_tags:
+- b2b-theory
+- b2c-evolution
+- founder-mode
+- startup-leadership
+- company-culture
+- scalability
+entities:
+- Stefan Avram
+- Jens Neuse
+- Paul Graham
+- Salesforce
+- WunderGraph
+mentions:
+- B2B to B2C evolution
+- founder mode definition
+- Paul Graham's essay
+- startup scalability
+- company culture
+- enterprise vs individual products
+- app store success
+- team dynamics
+summary: Stefan and Jens discuss the theory that successful B2B companies eventually
+  become B2C, share examples from Salesforce and their own product, and transition
+  to the topic of founder mode. They define founder mode, discuss its scalability,
+  and reflect on the importance of leadership and team dynamics in startups.
 ---
 
 00:22:32:03 - 00:22:50:09

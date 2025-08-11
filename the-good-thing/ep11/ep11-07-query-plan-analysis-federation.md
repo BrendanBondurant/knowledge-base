@@ -5,43 +5,52 @@ series: The Good Thing
 episode: 11
 chunk: 7
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Static Analysis and Future Tooling
 timecode: 00:36:28:22 – 00:43:02:29
 start_time: 00:36:28:22
 end_time: 00:43:02:29
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Static query plan analysis
-  - CI system for schema testing
-  - AST statistics and insights
-  - Federation directive impacts
-  - Schema change analysis
-  - Query planning optimization
+- Static query plan analysis
+- CI system for schema testing
+- AST statistics and insights
+- Federation directive impacts
+- Schema change analysis
+- Query planning optimization
 tags:
-  - query-planning
-  - static-analysis
-  - federation-analysis
-  - ast-statistics
-  - ci-testing
-  - schema-optimization
+- query-planning
+- static-analysis
+- federation-analysis
+- ast-statistics
+- ci-testing
+- schema-optimization
+topic_tags:
+- query-planning
+- static-analysis
+- federation-analysis
+- ast-statistics
+- ci-testing
+- schema-optimization
 entities:
-  - Stefan Avram
-  - Jens Neuse
-  - WunderGraph
-  - GraphQL
+- Stefan Avram
+- Jens Neuse
+- WunderGraph
+- GraphQL
 mentions:
-  - CI system for schema validation
-  - query plan AST analysis
-  - federation directives impact
-  - schema change testing
-  - open source tooling
-  - reliability improvements
-summary: |
-  Jens describes WunderGraph's new static analysis tooling that analyzes query plans for all customer schemas and queries. The system generates AST statistics and can detect how federation directive changes impact query planning, enabling insights into schema optimization and reliability improvements.
+- CI system for schema validation
+- query plan AST analysis
+- federation directives impact
+- schema change testing
+- open source tooling
+- reliability improvements
+summary: Jens describes WunderGraph's new static analysis tooling that analyzes query
+  plans for all customer schemas and queries. The system generates AST statistics
+  and can detect how federation directive changes impact query planning, enabling
+  insights into schema optimization and reliability improvements.
 ---
 00:36:28:22 - 00:36:56:22
 Jens

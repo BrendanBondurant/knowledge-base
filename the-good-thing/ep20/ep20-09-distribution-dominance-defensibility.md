@@ -5,38 +5,46 @@ series: The Good Thing
 episode: 20
 chunk: 9
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Startup Strategy and Market Position
 timecode: 00:47:02:27 – 00:51:10:03
 start_time: 00:47:02:27
 end_time: 00:51:10:03
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Distribution channels and market dominance
-  - Startup defensibility strategies
-  - Competitive moats and market position
-  - Platform advantages and network effects
+- Distribution channels and market dominance
+- Startup defensibility strategies
+- Competitive moats and market position
+- Platform advantages and network effects
 tags:
-  - distribution
-  - market-dominance
-  - startup-defensibility
-  - competitive-moats
-  - platform-advantages
-  - network-effects
+- distribution
+- market-dominance
+- startup-defensibility
+- competitive-moats
+- platform-advantages
+- network-effects
+topic_tags:
+- distribution
+- market-dominance
+- startup-defensibility
+- competitive-moats
+- platform-advantages
+- network-effects
 entities:
-  - Stefan Avram
-  - Jens Neuse
-  - Startup ecosystem
+- Stefan Avram
+- Jens Neuse
+- Startup ecosystem
 mentions:
-  - Distribution strategy importance
-  - Defensibility mechanisms
-  - Market positioning tactics
-  - Competitive advantage building
-summary: |
-  Discussion of how distribution dominance creates defensibility for startups, exploring competitive moats, platform advantages, and strategies for building sustainable market positions.
+- Distribution strategy importance
+- Defensibility mechanisms
+- Market positioning tactics
+- Competitive advantage building
+summary: Discussion of how distribution dominance creates defensibility for startups,
+  exploring competitive moats, platform advantages, and strategies for building sustainable
+  market positions.
 ---
 
 00:47:02:27 - 00:47:05:07

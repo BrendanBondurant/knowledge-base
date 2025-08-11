@@ -5,42 +5,51 @@ series: The Good Thing
 episode: 17
 chunk: 4
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Problem-solving vs technology obsession
 timecode: 00:15:20 – 00:20:22
 start_time: 00:15:20
 end_time: 00:20:22
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Understanding business problems behind code
-  - Customer-focused engineering approach
-  - Form follows function in software design
-  - Developer obsession with technology over problems
-  - Windsurf vs technical implementation focus
+- Understanding business problems behind code
+- Customer-focused engineering approach
+- Form follows function in software design
+- Developer obsession with technology over problems
+- Windsurf vs technical implementation focus
 tags:
-  - resume-driven-development
-  - customer-focus
-  - problem-solving
-  - business-understanding
-  - developer-mindset
+- resume-driven-development
+- customer-focus
+- problem-solving
+- business-understanding
+- developer-mindset
+topic_tags:
+- resume-driven-development
+- customer-focus
+- problem-solving
+- business-understanding
+- developer-mindset
 entities:
-  - Cursor
-  - Windsurf
-  - VS Code
-  - Hacker News
-  - Twitter
+- Cursor
+- Windsurf
+- VS Code
+- Hacker News
+- Twitter
 mentions:
-  - form follows function principle
-  - customer problem solving
-  - microservices premature optimization
-  - Hacker News comments on Cursor
-  - Windsurf acquisition discussion
-  - technology vs problem focus
-summary: |
-  Jens emphasizes that successful engineers understand business problems and customer needs, not just code, advocating for a "form follows function" approach. Stefan discusses how developers often get obsessed with technical implementations rather than problem-solving, using the example of Windsurf being criticized for being "just a VS Code fork" despite effectively solving customer problems.
+- form follows function principle
+- customer problem solving
+- microservices premature optimization
+- Hacker News comments on Cursor
+- Windsurf acquisition discussion
+- technology vs problem focus
+summary: Jens emphasizes that successful engineers understand business problems and
+  customer needs, not just code, advocating for a "form follows function" approach.
+  Stefan discusses how developers often get obsessed with technical implementations
+  rather than problem-solving, using the example of Windsurf being criticized for
+  being "just a VS Code fork" despite effectively solving customer problems.
 ---
 
 00:15:20:25 - 00:15:43:19

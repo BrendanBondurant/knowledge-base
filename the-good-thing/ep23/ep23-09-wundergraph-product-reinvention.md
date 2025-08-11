@@ -5,36 +5,42 @@ series: The Good Thing
 episode: 23
 chunk: 9
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Company Evolution and Product Strategy
 timecode: 00:50:04:00 – 00:57:07:00
 start_time: 00:50:04:00
 end_time: 00:57:07:00
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - WunderGraph new product direction
-  - Company reinvention strategy
-  - Product evolution decisions
-  - Strategic positioning changes
+- WunderGraph new product direction
+- Company reinvention strategy
+- Product evolution decisions
+- Strategic positioning changes
 tags:
-  - wundergraph-reinvention
-  - product-direction
-  - company-strategy
-  - strategic-positioning
+- wundergraph-reinvention
+- product-direction
+- company-strategy
+- strategic-positioning
+topic_tags:
+- wundergraph-reinvention
+- product-direction
+- company-strategy
+- strategic-positioning
 entities:
-  - WunderGraph
-  - Stefan Avram
-  - Jens Neuse
+- WunderGraph
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - new product direction
-  - company reinvention
-  - strategic decisions
-  - positioning evolution
-summary: |
-  Stefan and Jens discuss WunderGraph's new product direction and company reinvention strategy, exploring the strategic decisions behind evolving their positioning and the challenges of transforming a company's core direction.
+- new product direction
+- company reinvention
+- strategic decisions
+- positioning evolution
+summary: Stefan and Jens discuss WunderGraph's new product direction and company reinvention
+  strategy, exploring the strategic decisions behind evolving their positioning and
+  the challenges of transforming a company's core direction.
 ---
 00:50:04:15 - 00:50:32:00
 Jens

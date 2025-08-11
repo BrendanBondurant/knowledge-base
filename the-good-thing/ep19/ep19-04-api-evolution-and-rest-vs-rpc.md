@@ -5,41 +5,49 @@ series: The Good Thing
 episode: 19
 chunk: 4
 participants:
-  - Stefan
-  - Robert Farr
-  - Jens
+- Stefan
+- Robert Farr
+- Jens
 segment: API Patterns and Evolution Strategies
 timecode: 00:15:13 – 00:21:20
 start_time: 00:15:13
 end_time: 00:21:20
 speakers:
-  - Stefan
-  - Robert Farr
-  - Jens
+- Stefan
+- Robert Farr
+- Jens
 topics:
-  - Evolution of Robert's thinking on API design
-  - Monolithic database pain points and lessons
-  - REST vs RPC architectural trade-offs
-  - Practical implementation considerations
+- Evolution of Robert's thinking on API design
+- Monolithic database pain points and lessons
+- REST vs RPC architectural trade-offs
+- Practical implementation considerations
 tags:
-  - api-evolution
-  - rest
-  - rpc
-  - monolithic-database
-  - architecture
-  - trade-offs
+- api-evolution
+- rest
+- rpc
+- monolithic-database
+- architecture
+- trade-offs
+topic_tags:
+- api-evolution
+- rest
+- rpc
+- monolithic-database
+- architecture
+- trade-offs
 entities:
-  - Robert Farr
-  - Stefan Avram
-  - Jens Neuse
-  - Procore
+- Robert Farr
+- Stefan Avram
+- Jens Neuse
+- Procore
 mentions:
-  - API design evolution over time
-  - Monolithic database challenges
-  - REST vs RPC decision factors
-  - Real-world implementation trade-offs
-summary: |
-  Robert shares his evolving perspective on API design, discussing lessons learned from monolithic database pain points and the practical trade-offs between REST and RPC architectural patterns.
+- API design evolution over time
+- Monolithic database challenges
+- REST vs RPC decision factors
+- Real-world implementation trade-offs
+summary: Robert shares his evolving perspective on API design, discussing lessons
+  learned from monolithic database pain points and the practical trade-offs between
+  REST and RPC architectural patterns.
 ---
 
 00:15:13:26 - 00:15:19:04

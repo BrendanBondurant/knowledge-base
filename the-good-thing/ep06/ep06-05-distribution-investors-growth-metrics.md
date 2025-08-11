@@ -25,6 +25,32 @@ topics:
   - Fundraising
 summary: |
   Jens and Stefan discuss the importance of distribution in startup success, the kinds of questions investors ask, and the need for growth metrics beyond feature parity. They reflect on the challenges of fundraising and the pitfalls of simply copying competitors.
+tags:
+  - distribution-strategy
+  - investor-relations
+  - growth-metrics
+  - startup-strategy
+  - fundraising
+  - product-differentiation
+topic_tags:
+  - distribution-strategy
+  - investor-relations
+  - growth-metrics
+  - startup-strategy
+  - fundraising
+  - product-differentiation
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - WunderGraph
+  - Apollo
+mentions:
+  - distribution importance
+  - investor conversations
+  - growth metrics necessity
+  - fundraising challenges
+  - competitor roadmap copying
+  - customer acquisition strategy
 ---
 
 00:10:42:27 - 00:11:05:10

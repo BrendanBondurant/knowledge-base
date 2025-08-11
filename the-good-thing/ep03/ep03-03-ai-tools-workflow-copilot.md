@@ -3,47 +3,56 @@ title: AI Tools and Workflow Discussion
 slug: ep03-03-ai-tools-workflow-copilot
 series: The Good Thing
 episode: 3
-chunk: 03
+chunk: 3
 participants:
-  - Stefan
-  - Dustin
+- Stefan
+- Dustin
 segment: Discussion of AI tools in development workflow and Stefan's sister's experience
 timecode: 00:08:30:15 - 00:13:26:21
 start_time: 00:08:30:15
 end_time: 00:13:26:21
 speakers:
-  - Stefan
-  - Dustin
+- Stefan
+- Dustin
 topics:
-  - AI Tools
-  - Development Workflow
-  - Copilot
-  - Cursor
-  - Learning
+- AI Tools
+- Development Workflow
+- Copilot
+- Cursor
+- Learning
 tags:
-  - ai-tools
-  - workflow
-  - copilot
-  - cursor
-  - learning
-  - development
+- ai-tools
+- workflow
+- copilot
+- cursor
+- learning
+- development
+topic_tags:
+- ai-tools
+- workflow
+- copilot
+- cursor
+- learning
+- development
 entities:
-  - Stefan
-  - Dustin
-  - GitHub Copilot
-  - Cursor
-  - Claude
-  - Next.js
+- Stefan
+- Dustin
+- GitHub Copilot
+- Cursor
+- Claude
+- Next.js
 mentions:
-  - Copilot
-  - Cursor
-  - Claude
-  - Next.js
-  - WordPress
-  - Wix
-  - blog
-summary: |
-  Dustin shares his AI tool usage including Copilot for code completion and ChatGPT for documentation. Stefan discusses his experience with Cursor and shares a story about his sister building a Next.js blog with no programming experience using AI tools, raising questions about what makes someone an engineer.
+- Copilot
+- Cursor
+- Claude
+- Next.js
+- WordPress
+- Wix
+- blog
+summary: Dustin shares his AI tool usage including Copilot for code completion and
+  ChatGPT for documentation. Stefan discusses his experience with Cursor and shares
+  a story about his sister building a Next.js blog with no programming experience
+  using AI tools, raising questions about what makes someone an engineer.
 ---
 
 00:08:30:15 - 00:08:50:03

@@ -3,46 +3,55 @@ title: Sales, Rejection, Indecision, and Customer Focus
 slug: ep05-03-sales-rejection-indecision-customer-focus
 series: The Good Thing
 episode: 5
-chunk: 03
+chunk: 3
 participants:
-  - Jens
-  - Stefan
-segment: Embracing rejection in sales, the danger of indecision, and the importance of customer focus
+- Jens
+- Stefan
+segment: Embracing rejection in sales, the danger of indecision, and the importance
+  of customer focus
 timecode: 00:11:00:11 - 00:15:17:01
 start_time: 00:11:00:11
 end_time: 00:15:17:01
 speakers:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 topics:
-  - Sales mindset
-  - Rejection
-  - Indecision in sales
-  - Customer focus
-  - Negotiation
-  - Enterprise sales
-  - Value demonstration
-  - Emotional aspect of sales
-  - Startup lessons
-  - Customer relationships
+- Sales mindset
+- Rejection
+- Indecision in sales
+- Customer focus
+- Negotiation
+- Enterprise sales
+- Value demonstration
+- Emotional aspect of sales
+- Startup lessons
+- Customer relationships
 tags:
-  - sales
-  - rejection
-  - indecision
-  - customer-focus
-  - startup
+- sales
+- rejection
+- indecision
+- customer-focus
+- startup
+topic_tags:
+- sales
+- rejection
+- indecision
+- customer-focus
+- startup
 entities:
-  - Jens
-  - Stefan
-  - WunderGraph
+- Jens
+- Stefan
+- WunderGraph
 mentions:
-  - sales negotiation
-  - feature requests
-  - enterprise customers
-  - value proposition
-  - emotional investment
-summary: |
-  Jens and Stefan discuss how embracing rejection in sales leads to better outcomes, the danger of indecision and endless "maybes," and why focusing on customer value is critical. They share stories about negotiation, enterprise sales, and the emotional aspects of bringing products into organizations.
+- sales negotiation
+- feature requests
+- enterprise customers
+- value proposition
+- emotional investment
+summary: Jens and Stefan discuss how embracing rejection in sales leads to better
+  outcomes, the danger of indecision and endless "maybes," and why focusing on customer
+  value is critical. They share stories about negotiation, enterprise sales, and the
+  emotional aspects of bringing products into organizations.
 ---
 
 00:11:00:11 - 00:11:22:02

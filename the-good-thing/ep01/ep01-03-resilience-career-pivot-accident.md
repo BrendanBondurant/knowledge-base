@@ -5,38 +5,48 @@ series: The Good Thing
 episode: 1
 chunk: 3
 participants:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 segment: Injury, Adaptation, and Entry into Programming
 timecode: 00:06:42:11 – 00:10:02:17
 start_time: 00:06:42:11
 end_time: 00:10:02:17
 speakers:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 topics:
-  - Psychological resilience from near-death experience
-  - How injury reframed startup stress
-  - Career rehabilitation after trauma
-  - Learning programming during recovery
-  - Early career as a systems administrator
+- Psychological resilience from near-death experience
+- How injury reframed startup stress
+- Career rehabilitation after trauma
+- Learning programming during recovery
+- Early career as a systems administrator
 tags:
-  - resilience
-  - startup-lessons
-  - injury-recovery
-  - career-growth
+- resilience
+- startup-lessons
+- injury-recovery
+- career-growth
+topic_tags:
+- resilience
+- startup-lessons
+- injury-recovery
+- career-growth
 entities:
-  - Jens Neuse
-  - Stefan Avram
-  - WunderGraph
-  - Windows Server
-  - Germany
+- Jens Neuse
+- Stefan Avram
+- WunderGraph
+- Windows Server
+- Germany
 mentions:
-  - "the accident"
-  - "career rehabilitation"
-  - "YouTube videos on programming"
-summary: |
-  Jens reflects on how a traumatic motorcycle accident gave him perspective that shaped his emotional resilience as a founder. He recounts how recovery challenges—like relearning to walk—dwarfed startup stress, making failures like losing a deal seem manageable. Stefan relates with his own injury experience, prompting Jens to share how he discovered programming during his bedridden recovery. A German career rehabilitation program helped him retrain into IT, starting as a Windows Server administrator before moving on to more fulfilling paths.
+- the accident
+- career rehabilitation
+- YouTube videos on programming
+summary: Jens reflects on how a traumatic motorcycle accident gave him perspective
+  that shaped his emotional resilience as a founder. He recounts how recovery challenges—like
+  relearning to walk—dwarfed startup stress, making failures like losing a deal seem
+  manageable. Stefan relates with his own injury experience, prompting Jens to share
+  how he discovered programming during his bedridden recovery. A German career rehabilitation
+  program helped him retrain into IT, starting as a Windows Server administrator before
+  moving on to more fulfilling paths.
 ---
 
 00:06:42:11 - 00:07:08:16

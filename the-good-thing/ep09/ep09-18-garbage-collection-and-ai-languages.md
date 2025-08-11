@@ -5,46 +5,57 @@ series: The Good Thing
 episode: 9
 chunk: 18
 participants:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 segment: Programming languages for AI development
 timecode: 01:04:23:27 – 01:08:05:29
 start_time: 01:04:23:27
 end_time: 01:08:05:29
 speakers:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 topics:
-  - Rust borrow checker complexity
-  - AST transformation challenges
-  - Garbage collection advantages
-  - TypeScript to Go migration
-  - AI development language preferences
-  - TypeScript compiler integration
-  - Kotlin for backend development
+- Rust borrow checker complexity
+- AST transformation challenges
+- Garbage collection advantages
+- TypeScript to Go migration
+- AI development language preferences
+- TypeScript compiler integration
+- Kotlin for backend development
 tags:
-  - garbage-collection
-  - rust-borrow-checker
-  - ast-transformation
-  - ai-languages
-  - typescript
-  - kotlin
-  - compiler-feedback
+- garbage-collection
+- rust-borrow-checker
+- ast-transformation
+- ai-languages
+- typescript
+- kotlin
+- compiler-feedback
+topic_tags:
+- garbage-collection
+- rust-borrow-checker
+- ast-transformation
+- ai-languages
+- typescript
+- kotlin
+- compiler-feedback
 entities:
-  - Rust
-  - Go
-  - TypeScript
-  - Kotlin
-  - TSC Compiler
+- Rust
+- Go
+- TypeScript
+- Kotlin
+- TSC Compiler
 mentions:
-  - borrow checker lifetime management
-  - AST rewriting complexity
-  - stop-the-world GC scenarios
-  - compiler memory management
-  - TypeScript compiler feedback loops
-  - backend language preferences
-summary: |
-  Jens compares language complexity for compiler development, highlighting how Rust's borrow checker creates challenges for AST transformations that Go and TypeScript avoid. He discusses garbage collection benefits in compiler contexts and suggests TypeScript as ideal for AI development due to immediate compiler feedback, while noting Kotlin's popularity for backend AI applications.
+- borrow checker lifetime management
+- AST rewriting complexity
+- stop-the-world GC scenarios
+- compiler memory management
+- TypeScript compiler feedback loops
+- backend language preferences
+summary: Jens compares language complexity for compiler development, highlighting
+  how Rust's borrow checker creates challenges for AST transformations that Go and
+  TypeScript avoid. He discusses garbage collection benefits in compiler contexts
+  and suggests TypeScript as ideal for AI development due to immediate compiler feedback,
+  while noting Kotlin's popularity for backend AI applications.
 ---
 
 01:04:23:27 - 01:04:59:24

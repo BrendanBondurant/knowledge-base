@@ -29,8 +29,26 @@ tags:
   - business-models
   - startup-revenue
   - customer-behavior
+topic_tags:
+  - usage-based-pricing
+  - enterprise-predictability
+  - pricing-strategy
+  - business-models
+  - startup-revenue
+  - customer-behavior
 summary: |
   Stefan and Jens discuss the pros and cons of usage-based pricing, the needs of enterprise customers, and the importance of predictability in pricing models for successful sales and adoption.
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - WunderGraph
+mentions:
+  - usage-based pricing challenges
+  - enterprise cost predictability
+  - scaling traffic costs
+  - employee count vs usage
+  - pricing model evolution
+  - customer acquisition costs
 ---
 
 00:36:26:27 - 00:36:41:28

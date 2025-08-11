@@ -31,6 +31,26 @@ tags:
   - open-source-strategy
   - product-adoption
   - startup-growth
+topic_tags:
+  - open-source-game-theory
+  - faang-companies
+  - community-contributions
+  - open-source-strategy
+  - product-adoption
+  - startup-growth
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - FAANG companies
+  - Meta
+  - WunderGraph
+mentions:
+  - open source game theory
+  - FAANG company strategies
+  - community contributions value
+  - code quality in public
+  - security auditing benefits
+  - procurement advantages
 ---
 
 00:27:30:06 - 00:31:41:10

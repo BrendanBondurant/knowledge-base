@@ -5,41 +5,49 @@ series: The Good Thing
 episode: 21
 chunk: 1
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Introduction and Game Setup
 timecode: 00:00:18:28 – 00:03:18:19
 start_time: 00:00:18:28
 end_time: 00:03:18:19
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - AI startup tier list game introduction
-  - Venture capital evaluation methodology
-  - Startup categorization framework
-  - Five-tier ranking system explanation
+- AI startup tier list game introduction
+- Venture capital evaluation methodology
+- Startup categorization framework
+- Five-tier ranking system explanation
 tags:
-  - ai-startups
-  - tier-list
-  - venture-capital
-  - startup-evaluation
-  - game-show-format
+- ai-startups
+- tier-list
+- venture-capital
+- startup-evaluation
+- game-show-format
+topic_tags:
+- ai-startups
+- tier-list
+- venture-capital
+- startup-evaluation
+- game-show-format
 entities:
-  - Stefan Avram
-  - Jens Neuse
-  - The Good Thing
-  - Jacob (producer)
-  - OpenAI
+- Stefan Avram
+- Jens Neuse
+- The Good Thing
+- Jacob (producer)
+- OpenAI
 mentions:
-  - landing page roasting episode
-  - 2025 startup tier list
-  - content producer Jacob
-  - ten AI startups
-  - Thunder code
-  - five-year prediction validation
-summary: |
-  Stefan and Jens introduce a new game format where they'll evaluate ten unknown AI startups using a five-tier ranking system, from "unicorn/next OpenAI" to "RIP/will die". They plan to revisit their predictions in five years to see how accurate their VC-style evaluations were.
+- landing page roasting episode
+- 2025 startup tier list
+- content producer Jacob
+- ten AI startups
+- Thunder code
+- five-year prediction validation
+summary: Stefan and Jens introduce a new game format where they'll evaluate ten unknown
+  AI startups using a five-tier ranking system, from "unicorn/next OpenAI" to "RIP/will
+  die". They plan to revisit their predictions in five years to see how accurate their
+  VC-style evaluations were.
 ---
 Episode 21
 00:00:18:28 - 00:00:19:13

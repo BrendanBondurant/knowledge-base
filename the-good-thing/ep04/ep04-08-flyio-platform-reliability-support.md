@@ -5,43 +5,51 @@ series: The Good Thing
 episode: 4
 chunk: 08
 participants:
-  - Stefan
-  - Jens
-segment: Experiences with Fly.io, building on platforms, reliability issues, and support challenges
+- Stefan
+- Jens
+segment: Experiences with Fly.io, building on platforms, reliability issues, and support
+  challenges
 timecode: 00:22:00:14 - 00:25:32:21
 start_time: 00:22:00:14
 end_time: 00:25:32:21
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Fly.io
-  - Platform building
-  - Reliability
-  - Support
-  - Product focus
-  - Vendor relationships
-  - API integration
-  - Customer support
+- Fly.io
+- Platform building
+- Reliability
+- Support
+- Product focus
+- Vendor relationships
+- API integration
+- Customer support
 tags:
-  - flyio
-  - platform
-  - reliability
-  - support
+- flyio
+- platform
+- reliability
+- support
+topic_tags:
+- flyio
+- platform
+- reliability
+- support
 entities:
-  - Stefan
-  - Jens
-  - Fly.io
-  - Apollo
-  - Calendly
+- Stefan
+- Jens
+- Fly.io
+- Apollo
+- Calendly
 mentions:
-  - fly machines
-  - firecracker
-  - CI workflows
-  - support tiers
-  - API spec
-summary: |
-  Stefan and Jens discuss their experiences building on Fly.io, the promise and challenges of the platform, reliability issues, and the lack of support. They compare Fly.io to other vendors and reflect on the importance of listening to customers and providing robust support.
+- fly machines
+- firecracker
+- CI workflows
+- support tiers
+- API spec
+summary: Stefan and Jens discuss their experiences building on Fly.io, the promise
+  and challenges of the platform, reliability issues, and the lack of support. They
+  compare Fly.io to other vendors and reflect on the importance of listening to customers
+  and providing robust support.
 ---
 
 00:22:00:14 - 00:22:17:24

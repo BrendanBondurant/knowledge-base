@@ -30,7 +30,7 @@ tags:
   - requires-directive
   - override-directive
 entities:
-  - GraphQL
+  - graphql
   - Federation
   - Apollo
   - Sergiy

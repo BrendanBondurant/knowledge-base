@@ -5,44 +5,55 @@ series: The Good Thing
 episode: 21
 chunk: 11
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Lumona Evaluation
 timecode: 00:33:15:00 – 00:36:02:03
 start_time: 00:33:15:00
 end_time: 00:36:02:03
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Lumona social media search differentiation
-  - Reddit integration comparison
-  - ChatGPT search competition
-  - OpenAI competitive advantage
+- Lumona social media search differentiation
+- Reddit integration comparison
+- ChatGPT search competition
+- OpenAI competitive advantage
 tags:
-  - lumona
-  - social-media-search
-  - reddit-integration
-  - chatgpt-competition
-  - openai-advantage
-  - search-differentiation
+- lumona
+- social-media-search
+- reddit-integration
+- chatgpt-competition
+- openai-advantage
+- search-differentiation
+topic_tags:
+- lumona
+- social-media-search
+- reddit-integration
+- chatgpt-competition
+- openai-advantage
+- search-differentiation
 entities:
-  - Lumona
-  - Stefan Avram
-  - Jens Neuse
-  - Reddit
-  - ChatGPT
-  - OpenAI
+- Lumona
+- Stefan Avram
+- Jens Neuse
+- Reddit
+- ChatGPT
+- OpenAI
 mentions:
-  - social media vs web search distinction
-  - Reddit query workaround
-  - ChatGPT search adoption
-  - OpenAI compute advantage
-  - Lumona founding in 2023
-  - platform attribution features
-  - RIP tier placement
-summary: |
-  Stefan and Jens analyze Lumona's differentiation as social media-focused search versus general web search. They note users can already add "Reddit" to queries for social insights and that ChatGPT increasingly handles search needs. With OpenAI's superior compute resources and market position, they conclude Lumona faces insurmountable competition and place it in the "RIP" tier, transitioning to Hyperbound for their next evaluation.
+- social media vs web search distinction
+- Reddit query workaround
+- ChatGPT search adoption
+- OpenAI compute advantage
+- Lumona founding in 2023
+- platform attribution features
+- RIP tier placement
+summary: Stefan and Jens analyze Lumona's differentiation as social media-focused
+  search versus general web search. They note users can already add "Reddit" to queries
+  for social insights and that ChatGPT increasingly handles search needs. With OpenAI's
+  superior compute resources and market position, they conclude Lumona faces insurmountable
+  competition and place it in the "RIP" tier, transitioning to Hyperbound for their
+  next evaluation.
 ---
 
 00:33:14:24 - 00:33:18:26

@@ -24,6 +24,33 @@ topics:
   - Startup competition
 summary: |
   Stefan and Jens discuss the challenges of copying competitors, the technical evaluation of REST connectors, and the importance of thoughtful engineering and product strategy in a competitive landscape.
+tags:
+  - competitor-analysis
+  - rest-connectors
+  - technical-evaluation
+  - product-strategy
+  - engineering-philosophy
+  - startup-competition
+topic_tags:
+  - competitor-analysis
+  - rest-connectors
+  - technical-evaluation
+  - product-strategy
+  - engineering-philosophy
+  - startup-competition
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - WunderGraph
+  - Apollo
+  - graphql
+mentions:
+  - REST connectors evaluation
+  - competitor copying decisions
+  - N+1 problem identification
+  - technical architecture review
+  - customer migration compatibility
+  - engineering philosophy
 ---
 
 00:41:07:19 - 00:45:00:15

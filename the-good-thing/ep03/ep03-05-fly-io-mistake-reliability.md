@@ -3,48 +3,58 @@ title: Fly.io Mistake and Reliability Lessons
 slug: ep03-05-fly-io-mistake-reliability
 series: The Good Thing
 episode: 3
-chunk: 05
+chunk: 5
 participants:
-  - Stefan
-  - Dustin
+- Stefan
+- Dustin
 segment: Discussion of the Fly.io mistake and lessons about reliability in cloud infrastructure
 timecode: 00:16:34:08 - 00:21:40:10
 start_time: 00:16:34:08
 end_time: 00:21:40:10
 speakers:
-  - Stefan
-  - Dustin
+- Stefan
+- Dustin
 topics:
-  - Fly.io
-  - Cloud Infrastructure
-  - Reliability
-  - Startup Lessons
-  - AWS
+- Fly.io
+- Cloud Infrastructure
+- Reliability
+- Startup Lessons
+- AWS
 tags:
-  - fly-io
-  - cloud-infrastructure
-  - reliability
-  - startup-lessons
-  - aws
-  - mistakes
+- fly-io
+- cloud-infrastructure
+- reliability
+- startup-lessons
+- aws
+- mistakes
+topic_tags:
+- fly-io
+- cloud-infrastructure
+- reliability
+- startup-lessons
+- aws
+- mistakes
 entities:
-  - Stefan
-  - Dustin
-  - Fly.io
-  - AWS
-  - Vercel
-  - Tercer
-  - WunderGraph Cloud
+- Stefan
+- Dustin
+- Fly.io
+- AWS
+- Vercel
+- Tercer
+- WunderGraph Cloud
 mentions:
-  - Fly.io
-  - firecracker VMs
-  - AWS
-  - Vercel
-  - ARR
-  - cloud market
-  - reliability
-summary: |
-  Stefan and Dustin discuss their mistake of choosing Fly.io for WunderGraph Cloud, sharing lessons about reliability in cloud infrastructure. They explain why they moved away from Fly.io due to support and API stability issues, and discuss the broader cloud market dynamics including AWS dominance and the challenges of competing with established providers.
+- Fly.io
+- firecracker VMs
+- AWS
+- Vercel
+- ARR
+- cloud market
+- reliability
+summary: Stefan and Dustin discuss their mistake of choosing Fly.io for WunderGraph
+  Cloud, sharing lessons about reliability in cloud infrastructure. They explain why
+  they moved away from Fly.io due to support and API stability issues, and discuss
+  the broader cloud market dynamics including AWS dominance and the challenges of
+  competing with established providers.
 ---
 
 00:16:34:08 - 00:16:58:00

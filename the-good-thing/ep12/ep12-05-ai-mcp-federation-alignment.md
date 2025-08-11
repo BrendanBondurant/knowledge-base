@@ -5,43 +5,53 @@ series: The Good Thing
 episode: 12
 chunk: 5
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Federation and MCP Integration
 timecode: 00:14:14:10 – 00:18:23:24
 start_time: 00:14:14:10
 end_time: 00:18:23:24
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Federation and AI alignment
-  - Supergraph as unified protocol
-  - MCP challenges with multiple APIs
-  - API gateway territory for MCP
-  - Microservices and MCP server scaling
-  - Authorization and observability concerns
+- Federation and AI alignment
+- Supergraph as unified protocol
+- MCP challenges with multiple APIs
+- API gateway territory for MCP
+- Microservices and MCP server scaling
+- Authorization and observability concerns
 tags:
-  - federation-ai-alignment
-  - supergraph-benefits
-  - mcp-challenges
-  - api-gateway-patterns
-  - microservices-scaling
-  - authorization-concerns
+- federation-ai-alignment
+- supergraph-benefits
+- mcp-challenges
+- api-gateway-patterns
+- microservices-scaling
+- authorization-concerns
+topic_tags:
+- federation-ai-alignment
+- supergraph-benefits
+- mcp-challenges
+- api-gateway-patterns
+- microservices-scaling
+- authorization-concerns
 entities:
-  - Stefan Avram
-  - Jens Neuse
-  - JSON Schema
-  - MCP
+- Stefan Avram
+- Jens Neuse
+- JSON Schema
+- MCP
 mentions:
-  - politician message delivery joke
-  - AI struggling with multiple protocols
-  - SOAP REST OpenAPI Postgres protocols
-  - uniform interface benefits
-  - MCP server per team challenges
-  - AI mutation protection needs
-summary: |
-  Jens explains how federation aligns with AI needs by providing a unified protocol for all APIs, making it easier for AI to work with complex systems. He discusses MCP challenges in microservices architectures where every team would need MCP servers, leading back to API gateway patterns for authorization, observability, and protection against AI going rogue.
+- politician message delivery joke
+- AI struggling with multiple protocols
+- SOAP REST OpenAPI Postgres protocols
+- uniform interface benefits
+- MCP server per team challenges
+- AI mutation protection needs
+summary: Jens explains how federation aligns with AI needs by providing a unified
+  protocol for all APIs, making it easier for AI to work with complex systems. He
+  discusses MCP challenges in microservices architectures where every team would need
+  MCP servers, leading back to API gateway patterns for authorization, observability,
+  and protection against AI going rogue.
 ---
 
 00:14:14:10 - 00:14:17:29

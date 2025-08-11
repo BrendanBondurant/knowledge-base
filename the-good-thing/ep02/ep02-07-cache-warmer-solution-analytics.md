@@ -5,41 +5,51 @@ series: The Good Thing
 episode: 2
 chunk: 7
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Cache Warming Implementation
 timecode: 00:25:15:16 – 00:29:35:13
 start_time: 00:25:15:16
 end_time: 00:29:35:13
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Cache warmer implementation
-  - Analytics data analysis
-  - Query plan pre-computation
-  - CDN integration
-  - Federation complexity limitations
+- Cache warmer implementation
+- Analytics data analysis
+- Query plan pre-computation
+- CDN integration
+- Federation complexity limitations
 tags:
-  - cache-warmer
-  - analytics
-  - query-planning
-  - cdn
-  - federation-complexity
+- cache-warmer
+- analytics
+- query-planning
+- cdn
+- federation-complexity
+topic_tags:
+- cache-warmer
+- analytics
+- query-planning
+- cdn
+- federation-complexity
 entities:
-  - WunderGraph
-  - GraphQL Federation
-  - CDN
-  - Analytics Data
-  - Query Planning Cache
+- WunderGraph
+- GraphQL Federation
+- CDN
+- Analytics Data
+- Query Planning Cache
 mentions:
-  - 30-day analytics data
-  - query plan ranking
-  - CDN storage
-  - persistent operations
-  - federation directives
-summary: |
-  Jens explains their cache warmer solution that analyzes 30 days of analytics data to identify the most expensive queries and pre-compute their query plans. The system stores this data on a CDN and loads it when routers start up, ensuring they're immediately capable of serving queries without delays. He discusses the limitations of federation complexity and how this solution addresses the fundamental challenge of query planning performance.
+- 30-day analytics data
+- query plan ranking
+- CDN storage
+- persistent operations
+- federation directives
+summary: Jens explains their cache warmer solution that analyzes 30 days of analytics
+  data to identify the most expensive queries and pre-compute their query plans. The
+  system stores this data on a CDN and loads it when routers start up, ensuring they're
+  immediately capable of serving queries without delays. He discusses the limitations
+  of federation complexity and how this solution addresses the fundamental challenge
+  of query planning performance.
 ---
 
 00:25:15:16 - 00:25:41:09

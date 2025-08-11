@@ -5,44 +5,56 @@ series: The Good Thing
 episode: 1
 chunk: 18
 participants:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 segment: Lessons from Building Cosmo and Avoiding Rewrites
 timecode: 00:57:05 – 01:00:23
 start_time: 00:57:05
 end_time: 01:00:23
 speakers:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 topics:
-  - Build versus buy mistakes from inexperience
-  - Federation platform complexity misunderstood
-  - Cosmo as an evolving system with real depth
-  - Danger of building feature by feature rewrites
-  - Lightweight replacements that spiral into bad clones
-  - Vendor trust and relying on infrastructure partners
-  - Prioritizing customer value over internal engineering
+- Build versus buy mistakes from inexperience
+- Federation platform complexity misunderstood
+- Cosmo as an evolving system with real depth
+- Danger of building feature by feature rewrites
+- Lightweight replacements that spiral into bad clones
+- Vendor trust and relying on infrastructure partners
+- Prioritizing customer value over internal engineering
 tags:
-  - graphql
-  - product-strategy
-  - customer-feedback
-  - api-design
-  - pitfalls
+- graphql
+- product-strategy
+- customer-feedback
+- api-design
+- pitfalls
+topic_tags:
+- graphql
+- product-strategy
+- customer-feedback
+- api-design
+- pitfalls
 entities:
-  - Jens Neuse
-  - Stefan Avram
-  - WunderGraph
-  - Cosmo
-  - Federation
-  - Linear
+- Jens Neuse
+- Stefan Avram
+- WunderGraph
+- Cosmo
+- Federation
+- Linear
 mentions:
-  - federation trap of rebuilding
-  - customer focus over internal systems
-  - vendor partnerships
-  - schema registry and router minimalism
-  - garbage rewrites of complete platforms
-summary: |
-  Jens explains how many engineers reject vendor solutions like Cosmo because they seem too big or complex at first glance. But over time, as business requirements pile up, teams realize they are slowly recreating every feature they once thought they did not need. He emphasizes that federation systems like Cosmo reflect deep lessons gained over years of experience, and trying to replace them with a lightweight version typically results in failure. Instead of rebuilding, teams should partner with vendors and focus on what matters. For developers, that means prioritizing the customer over the thrill of internal systems work.
+- federation trap of rebuilding
+- customer focus over internal systems
+- vendor partnerships
+- schema registry and router minimalism
+- garbage rewrites of complete platforms
+summary: Jens explains how many engineers reject vendor solutions like Cosmo because
+  they seem too big or complex at first glance. But over time, as business requirements
+  pile up, teams realize they are slowly recreating every feature they once thought
+  they did not need. He emphasizes that federation systems like Cosmo reflect deep
+  lessons gained over years of experience, and trying to replace them with a lightweight
+  version typically results in failure. Instead of rebuilding, teams should partner
+  with vendors and focus on what matters. For developers, that means prioritizing
+  the customer over the thrill of internal systems work.
 ---
 
 

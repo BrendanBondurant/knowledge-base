@@ -33,6 +33,25 @@ tags:
   - episode-introduction
   - startup-life
   - work-life-balance
+topic_tags:
+  - personal-updates
+  - wedding-preparation
+  - team-updates
+  - episode-introduction
+  - startup-life
+  - work-life-balance
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - The Good Thing
+  - WunderGraph
+mentions:
+  - wedding preparations
+  - team news
+  - episode theme
+  - startup life balance
+  - weekend mood
+  - personal updates
 ---
 
 00:00:24:18 - 00:00:37:24

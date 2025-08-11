@@ -31,6 +31,26 @@ tags:
   - market-positioning
   - startup-strategy
   - collaboration-tools
+topic_tags:
+  - open-source-alternatives
+  - business-models
+  - product-differentiation
+  - market-positioning
+  - startup-strategy
+  - collaboration-tools
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - WunderGraph
+  - Supabase
+  - Firebase
+mentions:
+  - open source alternatives strategy
+  - business model differentiation
+  - market positioning importance
+  - Supabase vs Firebase example
+  - product strategy evolution
+  - collaboration tools market
 ---
 
 00:13:56:18 - 00:14:16:03

@@ -30,7 +30,7 @@ tags:
   - legacy-apis
 entities:
   - Apollo
-  - GraphQL
+  - graphql
   - REST APIs
   - Stripe
   - OpenAPI

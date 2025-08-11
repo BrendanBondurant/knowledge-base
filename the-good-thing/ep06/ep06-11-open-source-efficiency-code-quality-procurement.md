@@ -24,6 +24,31 @@ topics:
   - Startup operations
 summary: |
   Jens and Stefan discuss the efficiency benefits of open source, the impact on code quality, and how open source can streamline procurement and sales processes for startups.
+tags:
+  - open-source-strategy
+  - code-quality
+  - enterprise-procurement
+  - sales-process
+  - product-adoption
+  - startup-operations
+topic_tags:
+  - open-source-strategy
+  - code-quality
+  - enterprise-procurement
+  - sales-process
+  - product-adoption
+  - startup-operations
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - WunderGraph
+mentions:
+  - open source efficiency benefits
+  - code quality improvements
+  - procurement process streamlining
+  - sales cycle acceleration
+  - developer adoption patterns
+  - enterprise evaluation criteria
 ---
 
 00:31:41:11 - 00:36:26:27

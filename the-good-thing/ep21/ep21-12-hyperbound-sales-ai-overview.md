@@ -5,48 +5,59 @@ series: The Good Thing
 episode: 21
 chunk: 12
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Hyperbound Evaluation - Part 1
 timecode: 00:36:02:03 – 00:40:00:16
 start_time: 00:36:02:03
 end_time: 00:40:00:16
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Hyperbound AI sales roleplay platform
-  - Sales training and coaching technology
-  - Social proof and testimonials analysis
-  - Enterprise integration capabilities
+- Hyperbound AI sales roleplay platform
+- Sales training and coaching technology
+- Social proof and testimonials analysis
+- Enterprise integration capabilities
 tags:
-  - hyperbound
-  - sales-training
-  - ai-roleplay
-  - social-proof
-  - enterprise-integration
-  - sales-enablement
+- hyperbound
+- sales-training
+- ai-roleplay
+- social-proof
+- enterprise-integration
+- sales-enablement
+topic_tags:
+- hyperbound
+- sales-training
+- ai-roleplay
+- social-proof
+- enterprise-integration
+- sales-enablement
 entities:
-  - Hyperbound
-  - Stefan Avram
-  - Jens Neuse
-  - Y Combinator
-  - San Francisco
-  - Hypermode
-  - Salesforce
-  - HubSpot
-  - YouTube
+- Hyperbound
+- Stefan Avram
+- Jens Neuse
+- Y Combinator
+- San Francisco
+- Hypermode
+- Salesforce
+- HubSpot
+- YouTube
 mentions:
-  - simulated AI sales roleplay platform
-  - top rep behavior replication
-  - European style sales calls
-  - 7000+ company testimonials
-  - wall of love social proof
-  - Salesforce/HubSpot integration
-  - enterprise SSO features
-  - free vs mid-market pricing
-summary: |
-  Stefan and Jens review Hyperbound, a Y Combinator AI sales roleplay platform from San Francisco. They appreciate the clear value proposition of replicating top sales rep behaviors and are impressed by strong social proof including testimonials from 7000+ companies and YouTube presence. The platform offers various call types including "European style" and integrates with enterprise tools like Salesforce and HubSpot, though pricing transparency could be improved.
+- simulated AI sales roleplay platform
+- top rep behavior replication
+- European style sales calls
+- 7000+ company testimonials
+- wall of love social proof
+- Salesforce/HubSpot integration
+- enterprise SSO features
+- free vs mid-market pricing
+summary: Stefan and Jens review Hyperbound, a Y Combinator AI sales roleplay platform
+  from San Francisco. They appreciate the clear value proposition of replicating top
+  sales rep behaviors and are impressed by strong social proof including testimonials
+  from 7000+ companies and YouTube presence. The platform offers various call types
+  including "European style" and integrates with enterprise tools like Salesforce
+  and HubSpot, though pricing transparency could be improved.
 ---
 
 00:36:02:03 - 00:36:14:22

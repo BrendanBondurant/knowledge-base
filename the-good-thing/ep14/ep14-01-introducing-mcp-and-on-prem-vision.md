@@ -1,9 +1,61 @@
-# ep14-01-introducing-mcp-and-on-prem-vision
-
-**Time Range:** 00:00:00 - 00:05:15
-
-**Topic:** Introducing MCP, on-prem focus, and Cosmo integration vision
-
+---
+title: Introducing MCP and On-Prem Vision
+slug: ep14-01-introducing-mcp-and-on-prem-vision
+series: The Good Thing
+episode: 14
+chunk: 1
+participants:
+- Stefan
+- Jens
+- Dustin
+segment: Introduction, MCP overview, and on-prem focus
+timecode: 00:00:00 - 00:05:15
+start_time: 00:00:00
+end_time: 00:05:15
+speakers:
+- Stefan
+- Jens
+- Dustin
+topics:
+- MCP introduction
+- On-premise solutions
+- Easter weekend recording
+- AI integration
+- Cosmo vision
+- Episode format
+tags:
+- mcp
+- on-premise
+- ai-integration
+- cosmo
+- episode-intro
+- product-demo
+topic_tags:
+- mcp
+- on-premise
+- ai-integration
+- cosmo
+- episode-intro
+- product-demo
+entities:
+- Stefan Avram
+- Jens Neuse
+- Dustin
+- The Good Thing
+- MCP
+- Cosmo
+- WunderGraph
+mentions:
+- Easter weekend
+- recording schedule
+- AI MCP integration
+- product demo
+- co-founder introduction
+- live format
+summary: Stefan introduces episode 14, explaining they're recording instead of going
+  live due to Easter weekend. He introduces the topic of MCP (Model Context Protocol)
+  and on-premise solutions, setting up for a demo with co-founder Dustin joining the
+  discussion.
 ---
 Episode 14
 00:00:00:00 - 00:00:41:06

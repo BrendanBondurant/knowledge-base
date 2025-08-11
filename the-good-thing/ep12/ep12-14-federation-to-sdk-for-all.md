@@ -5,46 +5,56 @@ series: The Good Thing
 episode: 12
 chunk: 14
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: SDK Generation Strategy
 timecode: 00:51:12:00 – 00:54:11:25
 start_time: 00:51:12:00
 end_time: 00:54:11:25
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Uniform schema and entity clarity
-  - SDK generation from supergraphs
-  - Opening federation beyond Relay users
-  - OpenAPI to SDK generation patterns
-  - GraphQL operations as SDK functions
-  - JSON schema for input/output
+- Uniform schema and entity clarity
+- SDK generation from supergraphs
+- Opening federation beyond Relay users
+- OpenAPI to SDK generation patterns
+- GraphQL operations as SDK functions
+- JSON schema for input/output
 tags:
-  - sdk-generation
-  - entity-clarity
-  - federation-expansion
-  - openapi-patterns
-  - graphql-operations
-  - json-schema
+- sdk-generation
+- entity-clarity
+- federation-expansion
+- openapi-patterns
+- graphql-operations
+- json-schema
+topic_tags:
+- sdk-generation
+- entity-clarity
+- federation-expansion
+- openapi-patterns
+- graphql-operations
+- json-schema
 entities:
-  - GraphQL
-  - OpenAPI
-  - SDK
-  - MCP
-  - JSON Schema
-  - Stefan Avram
-  - Jens Neuse
+- GraphQL
+- OpenAPI
+- SDK
+- MCP
+- JSON Schema
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - domain model clarity
-  - REST API integration challenges
-  - SDK vs API consumer preferences
-  - operation collections organization
-  - uniform platform vision
-  - generated code functions
-summary: |
-  Jens proposes expanding federation's reach by generating SDKs from supergraphs, moving beyond Relay-only users. He explains how GraphQL operations can become SDK functions with JSON schema definitions, similar to the OpenAPI-to-SDK generation pattern, creating a uniform platform that opens federation to a much broader developer audience.
+- domain model clarity
+- REST API integration challenges
+- SDK vs API consumer preferences
+- operation collections organization
+- uniform platform vision
+- generated code functions
+summary: Jens proposes expanding federation's reach by generating SDKs from supergraphs,
+  moving beyond Relay-only users. He explains how GraphQL operations can become SDK
+  functions with JSON schema definitions, similar to the OpenAPI-to-SDK generation
+  pattern, creating a uniform platform that opens federation to a much broader developer
+  audience.
 ---
 
 00:51:12:00 - 00:51:40:12
