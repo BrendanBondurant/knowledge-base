@@ -1,4 +1,3 @@
-
 ---
 title: GraphQL LLMs and Pragmatic Consulting
 slug: ep25-14-graphql-llms-and-pragmatic-consulting
@@ -24,15 +23,9 @@ topics:
   - Mount Stupid concept and humbling experiences
   - Knowledge breadth vs depth trade-offs
 tags:
-- graphql
-- ai
-- rust
-  - pragmatic-consulting
-  - developer-maturity
-  - dunning-kruger-effect
-  - mount-stupid
-  - knowledge-breadth-depth
-  - consulting-philosophy
+  - graphql
+  - ai
+  - rust
 entities:
   - Dunning-Kruger curve
   - Mount Stupid concept

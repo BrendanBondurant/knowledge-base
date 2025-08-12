@@ -5,49 +5,49 @@ series: The Good Thing
 episode: 22
 chunk: 1
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Introduction and Developer Psychology
 timecode: 00:00:25:17 – 00:07:07:02
 start_time: 00:00:25:17
 end_time: 00:07:07:02
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Developer emotional attachment to code
-- Startup founder feedback reactions
-- Product identity vs personal identity
-- Small startup positioning strategy
+  - Developer emotional attachment to code
+  - Startup founder feedback reactions
+  - Product identity vs personal identity
+  - Small startup positioning strategy
 tags:
-- startup
+  - startup
 topic_tags:
-- emotional-attachment
-- developer-psychology
-- startup-feedback
-- product-identity
-- small-startup-strategy
+  - emotional-attachment
+  - developer-psychology
+  - startup-feedback
+  - product-identity
+  - small-startup-strategy
 entities:
-- Stefan Avram
-- Jens Neuse
-- Jacob (producer)
-- text.ai founder
-- Dax
-- PlanetScale CEO
-- Neon
-- WunderGraph
-- Cosmo
-- Apollo
+  - Stefan Avram
+  - Jens Neuse
+  - Jacob (producer)
+  - text.ai founder
+  - Dax
+  - PlanetScale CEO
+  - Neon
+  - WunderGraph
+  - Cosmo
+  - Apollo
 mentions:
-- text.ai founder feedback
-- Apple Intelligence threat concern
-- Google outage discussion
-- PlanetScale vs Neon commentary
-- developer attachment to code
-- pull request feedback emotions
-- WunderGraph SDK shutdown
-- landing page effectiveness
-- small startup advantages
+  - text.ai founder feedback
+  - Apple Intelligence threat concern
+  - Google outage discussion
+  - PlanetScale vs Neon commentary
+  - developer attachment to code
+  - pull request feedback emotions
+  - WunderGraph SDK shutdown
+  - landing page effectiveness
+  - small startup advantages
 summary: Stefan and Jens discuss developer emotional attachment to code, triggered
   by feedback from a text.ai founder who felt "roasted" by their tier list episode.
   They explore how developers become personally identified with their work, making

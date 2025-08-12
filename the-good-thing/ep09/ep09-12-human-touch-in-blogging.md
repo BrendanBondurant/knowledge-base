@@ -5,37 +5,37 @@ series: The Good Thing
 episode: 9
 chunk: 12
 participants:
-- Jens
-- Cameron
+  - Jens
+  - Cameron
 segment: Content creation and authenticity
 timecode: 00:43:03:19 – 00:46:35:29
 start_time: 00:43:03:19
 end_time: 00:46:35:29
 speakers:
-- Jens
-- Cameron
+  - Jens
+  - Cameron
 topics:
-- AI for documentation and research
-- Non-developer AI use cases
-- Blogging as an art form
-- Authenticity in AI-generated content
-- Agent mode vs autocompletion for writing
-- Human touch in content creation
+  - AI for documentation and research
+  - Non-developer AI use cases
+  - Blogging as an art form
+  - Authenticity in AI-generated content
+  - Agent mode vs autocompletion for writing
+  - Human touch in content creation
 tags:
-- authenticity
+  - authenticity
 topic_tags:
-- authenticity
+  - authenticity
 entities:
-- Cursor
-- Wikipedia
-- GraphQL Federation
+  - Cursor
+  - Wikipedia
+  - GraphQL Federation
 mentions:
-- federation specification research
-- composite schema working group
-- reporter research workflows
-- agent tab organization
-- blog post writing patterns
-- structured vs human content
+  - federation specification research
+  - composite schema working group
+  - reporter research workflows
+  - agent tab organization
+  - blog post writing patterns
+  - structured vs human content
 summary: Cameron and Jens explore Cursor's applications beyond coding, including documentation,
   research, and content creation. Jens emphasizes the importance of authenticity in
   blogging, preferring autocompletion over agent mode for writing to maintain human

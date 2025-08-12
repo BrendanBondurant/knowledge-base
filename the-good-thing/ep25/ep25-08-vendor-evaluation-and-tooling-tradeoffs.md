@@ -1,4 +1,3 @@
-
 ---
 title: Vendor Evaluation and Tooling Tradeoffs
 slug: ep25-08-vendor-evaluation-and-tooling-tradeoffs
@@ -24,16 +23,9 @@ topics:
   - Open source vs commercial gateway options
   - SaaS control plane with distributed data plane architecture
 tags:
-- ai
-- api-design
-- open-source
-  - cto-decisions
-  - risk-management
-  - tool-recommendations
-  - open-source-gateways
-  - saas-control-plane
-  - distributed-architecture
-  - gitops-approach
+  - ai
+  - api-design
+  - open-source
 entities:
   - Fortune 100 companies
   - Kong

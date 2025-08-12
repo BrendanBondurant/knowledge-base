@@ -1,4 +1,3 @@
-
 ---
 title: From GraphQL to Collaboration
 slug: ep25-05-from-graphql-to-collaboration
@@ -23,15 +22,10 @@ topics:
   - Discovery of collaboration as core customer value
   - Miro board API design workflows
 tags:
-- federation
-- graphql-federation
-- ai
-  - wundergraph-evolution
+  - federation
   - graphql-federation
-  - enterprise-sales
-  - collaboration-focus
-  - api-design-process
-  - miro-workflows
+  - ai
+  - graphql-federation
 entities:
   - WunderGraph
   - graphql

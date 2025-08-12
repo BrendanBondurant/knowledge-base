@@ -25,11 +25,7 @@ topics:
   - Venture math and dilution risks
 tags:
   - startup
-  - database-companies
-  - exit-timelines
-  - funding-rounds
   - founder
-  - capital-efficiency
 entities:
   - PlanetScale
   - Figma

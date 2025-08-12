@@ -5,41 +5,41 @@ series: The Good Thing
 episode: 9
 chunk: 5
 participants:
-- Jens
-- Cameron
+  - Jens
+  - Cameron
 segment: LLM optimization strategies
 timecode: 00:17:04:26 – 00:21:03:29
 start_time: 00:17:04:26
 end_time: 00:21:03:29
 speakers:
-- Jens
-- Cameron
+  - Jens
+  - Cameron
 topics:
-- Schema slicing techniques
-- LLM token limitations and costs
-- Performance optimization strategies
-- Context window management
-- Query accuracy improvements
-- Cost scaling considerations
+  - Schema slicing techniques
+  - LLM token limitations and costs
+  - Performance optimization strategies
+  - Context window management
+  - Query accuracy improvements
+  - Cost scaling considerations
 tags:
-- llm
+  - llm
 topic_tags:
-- llm-optimization
-- schema-slicing
-- performance
-- cost-management
-- token-limits
-- accuracy
+  - llm-optimization
+  - schema-slicing
+  - performance
+  - cost-management
+  - token-limits
+  - accuracy
 entities:
-- GitHub
-- GraphQL
+  - GitHub
+  - GraphQL
 mentions:
-- 400,000 token schemas
-- speed and cost considerations
-- model token limits
-- query accuracy problems
-- organizational cost scaling
-- thousands of dollars per month
+  - 400,000 token schemas
+  - speed and cost considerations
+  - model token limits
+  - query accuracy problems
+  - organizational cost scaling
+  - thousands of dollars per month
 summary: Cameron explains the challenges of using large GraphQL schemas with LLMs,
   including speed, cost, and accuracy issues. He discusses schema slicing techniques
   to optimize performance by reducing context size, preventing token limit overflows,

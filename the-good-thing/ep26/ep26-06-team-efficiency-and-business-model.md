@@ -24,15 +24,10 @@ topics:
   - Enterprise customer concerns about company size
   - Profitability and business sustainability
 tags:
-- ai
-- database
-- founder
-  - team-structure
-  - marketing-strategy
+  - ai
+  - database
   - founder
-  - technical-content
-  - enterprise-sales
-  - profitability
+  - founder
 entities:
   - PlanetScale
   - Ben

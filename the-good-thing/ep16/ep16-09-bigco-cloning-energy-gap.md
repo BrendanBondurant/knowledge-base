@@ -21,13 +21,11 @@ topics:
   - Energy and commitment differences
   - Corporate employee motivation misalignment
 tags:
-- graphql
-- ai
-- cosmo-router
-  - founder
-  - corporate-competition
+  - graphql
   - ai
-  - energy-mismatch
+  - cosmo-router
+  - founder
+  - ai
   - startup
 entities:
   - KubeCon

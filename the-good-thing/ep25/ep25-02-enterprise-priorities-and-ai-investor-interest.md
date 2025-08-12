@@ -1,4 +1,3 @@
-
 ---
 title: Enterprise Priorities and AI Investor Interest
 slug: ep25-02-enterprise-priorities-and-ai-investor-interest
@@ -24,15 +23,11 @@ topics:
   - Investor interest in AI and API companies
   - Changing priorities and decision-making processes
 tags:
-- mcp
-- ai
-- rest
-  - vendor-consulting-difference
-  - enterprise-customers
-  - platform-teams
-  - investor-perspective
-  - ai-impact
-  - customer-priorities
+  - mcp
+  - ai
+  - rest
+  - ai
+  - startup
 entities:
   - Tyk Technologies
   - WunderGraph

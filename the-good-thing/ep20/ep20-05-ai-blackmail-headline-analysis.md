@@ -5,41 +5,41 @@ series: The Good Thing
 episode: 20
 chunk: 5
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: AI News Analysis and LLM Understanding
 timecode: 00:23:08:01 – 00:29:01:09
 start_time: 00:23:08:01
 end_time: 00:29:01:09
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- AI blackmail headlines and media sensationalism
-- LLM behavior misunderstanding and misconceptions
-- AI intelligence vs pattern matching
-- Critical analysis of AI news coverage
+  - AI blackmail headlines and media sensationalism
+  - LLM behavior misunderstanding and misconceptions
+  - AI intelligence vs pattern matching
+  - Critical analysis of AI news coverage
 tags:
-- ai
-- llm
+  - ai
+  - llm
 topic_tags:
-- ai-blackmail
-- media-sensationalism
-- llm-behavior
-- ai-misconceptions
-- pattern-matching
-- ai-news-analysis
+  - ai-blackmail
+  - media-sensationalism
+  - llm-behavior
+  - ai-misconceptions
+  - pattern-matching
+  - ai-news-analysis
 entities:
-- Stefan Avram
-- Jens Neuse
-- Anthropic
-- Claude AI
-- LLM systems
+  - Stefan Avram
+  - Jens Neuse
+  - Anthropic
+  - Claude AI
+  - LLM systems
 mentions:
-- AI blackmail news story
-- LLM behavior patterns
-- Media sensationalism issues
-- AI intelligence misconceptions
+  - AI blackmail news story
+  - LLM behavior patterns
+  - Media sensationalism issues
+  - AI intelligence misconceptions
 summary: Critical analysis of sensationalized AI blackmail headlines, with Jens explaining
   how media misunderstands LLM behavior and the difference between pattern matching
   and true intelligence in AI systems.

@@ -5,42 +5,42 @@ series: The Good Thing
 episode: 17
 chunk: 7
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: AI as research tool and problem-solving assistant
 timecode: 00:30:28 – 00:34:58
 start_time: 00:30:28
 end_time: 00:34:58
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Using ChatGPT Deep Research for RFC development
-- AI as research assistant vs code generator
-- Reimagining developer role as problem solver
-- Evolution from code writing to prompt engineering
-- Internet adoption parallels with AI adoption
+  - Using ChatGPT Deep Research for RFC development
+  - AI as research assistant vs code generator
+  - Reimagining developer role as problem solver
+  - Evolution from code writing to prompt engineering
+  - Internet adoption parallels with AI adoption
 tags:
-- ai
+  - ai
 topic_tags:
-- ai-research
-- prompt-engineering
-- problem-solving
-- rfc-development
-- developer-evolution
+  - ai-research
+  - prompt-engineering
+  - problem-solving
+  - rfc-development
+  - developer-evolution
 entities:
-- ChatGPT
-- Cursor
-- Deep Research mode
-- Amazon
+  - ChatGPT
+  - Cursor
+  - Deep Research mode
+  - Amazon
 mentions:
-- RFC requirements research
-- ten minutes prompt articulation
-- well-researched paper output
-- senior developer conversation analogy
-- LLMs as token generators
-- typing every character vs problem solving
-- Amazon internet fad skepticism
+  - RFC requirements research
+  - ten minutes prompt articulation
+  - well-researched paper output
+  - senior developer conversation analogy
+  - LLMs as token generators
+  - typing every character vs problem solving
+  - Amazon internet fad skepticism
 summary: Jens describes using ChatGPT's Deep Research mode to gather insights for
   RFC development, investing time in careful prompting to get well-researched analysis
   rather than using AI to write code directly. He emphasizes that developers should

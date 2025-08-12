@@ -20,15 +20,12 @@ topics:
   - Nao data editor introduction
   - Enterprise development pace critique
 tags:
-- ai
-- websocket
-- startup
-  - ai-wrappers
-  - market-saturation
-  - nao
-  - data-tools
-  - enterprise-pace
-  - startup-viability
+  - ai
+  - websocket
+  - startup
+  - ai
+  - startup
+  - startup
 entities:
   - Stefan Avram
   - Jens Neuse

@@ -21,14 +21,11 @@ topics:
   - Brand messaging alignment issues
   - Marketing buzzword overuse
 tags:
-- federation
-- graphql-federation
-- ai
-  - apollo-graphql
-  - messaging-consistency
-  - low-code
+  - federation
+  - graphql-federation
   - ai
-  - landing-page-analysis
+  - apollo-graphql
+  - ai
 entities:
   - Apollo
   - Kong

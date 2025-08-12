@@ -5,41 +5,41 @@ series: The Good Thing
 episode: 16
 chunk: 3
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Open Source Business Model Discussion
 timecode: 00:09:15 – 00:14:09
 start_time: 00:09:15
 end_time: 00:14:09
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Developer tools requiring open source approach
-- Nginx enterprise model challenges
-- Tyk API gateway business strategy
-- Open source vs closed source decision criteria
-- Enterprise feature separation strategies
+  - Developer tools requiring open source approach
+  - Nginx enterprise model challenges
+  - Tyk API gateway business strategy
+  - Open source vs closed source decision criteria
+  - Enterprise feature separation strategies
 tags:
-- open-source
-- api-gateway
+  - open-source
+  - api-gateway
 topic_tags:
-- open-source-business
-- developer-tools
-- nginx
-- tyk
-- enterprise-features
-- api-gateway
+  - open-source-business
+  - developer-tools
+  - nginx
+  - tyk
+  - enterprise-features
+  - api-gateway
 entities:
-- Nginx
-- Tyk
-- WunderGraph
+  - Nginx
+  - Tyk
+  - WunderGraph
 mentions:
-- Developer tool companies needing open source
-- Nginx Pro adoption challenges
-- Tyk's core gateway vs management dashboard strategy
-- Open source collaboration invitation
-- Long-term planning requirements for open source
+  - Developer tool companies needing open source
+  - Nginx Pro adoption challenges
+  - Tyk's core gateway vs management dashboard strategy
+  - Open source collaboration invitation
+  - Long-term planning requirements for open source
 summary: Stefan and Jens discuss how successful developer tool companies often need
   open source strategies to invite collaboration. They analyze different approaches
   like Nginx's failed enterprise model and Tyk's successful separation of open source

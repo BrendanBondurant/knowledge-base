@@ -5,46 +5,46 @@ series: The Good Thing
 episode: 26
 chunk: 14
 participants:
-- Stefan
-- Jens
-- Sam Lambert
+  - Stefan
+  - Jens
+  - Sam Lambert
 segment: AI's Impact on Database Infrastructure
 timecode: 01:05:02:27 – 01:09:22:10
 start_time: 01:05:02:27
 end_time: 01:09:22:10
 speakers:
-- Stefan
-- Jens
-- Sam Lambert
+  - Stefan
+  - Jens
+  - Sam Lambert
 topics:
-- Scale orchestration satisfaction
-- AI impact on database industry
-- Cursor as customer and tool
-- AI-specific database constraints
-- Data generation for AI training
-- Development tool integration
+  - Scale orchestration satisfaction
+  - AI impact on database industry
+  - Cursor as customer and tool
+  - AI-specific database constraints
+  - Data generation for AI training
+  - Development tool integration
 tags:
-- ai
+  - ai
 topic_tags:
-- ai-impact
-- database-usage
-- cursor-integration
-- ai-data-patterns
-- development-tools
+  - ai-impact
+  - database-usage
+  - cursor-integration
+  - ai-data-patterns
+  - development-tools
 entities:
-- AI
-- Cursor
-- PlanetScale
-- GitHub
-- Facebook
-- MCP
+  - AI
+  - Cursor
+  - PlanetScale
+  - GitHub
+  - Facebook
+  - MCP
 mentions:
-- 500-node orchestration beauty
-- Deploying to billions of users
-- Serverless databases for AI
-- Cursor as customer relationship
-- AI companies generating data
-- New usage patterns and concurrency
+  - 500-node orchestration beauty
+  - Deploying to billions of users
+  - Serverless databases for AI
+  - Cursor as customer relationship
+  - AI companies generating data
+  - New usage patterns and concurrency
 summary: Final technical discussion covering the aesthetic satisfaction of large-scale
   infrastructure orchestration and AI's transformative impact on database usage patterns,
   including PlanetScale's relationship with Cursor and the new constraints AI applications

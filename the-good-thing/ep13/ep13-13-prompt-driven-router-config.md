@@ -5,45 +5,45 @@ series: The Good Thing
 episode: 13
 chunk: 13
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: AI-Powered Router Configuration and MCP Workflows
 timecode: 00:50:04 – 00:54:22
 start_time: 00:50:04
 end_time: 00:54:22
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- MCP tool ecosystem overview
-- AI workflow iteration capabilities
-- Schema verification and composition checks
-- JSON schema embedding for router config
-- OTEL metrics and tracing setup
+  - MCP tool ecosystem overview
+  - AI workflow iteration capabilities
+  - Schema verification and composition checks
+  - JSON schema embedding for router config
+  - OTEL metrics and tracing setup
 tags:
-- router-configuration
-- json-schema
-- composition-checks
+  - router-configuration
+  - json-schema
+  - composition-checks
 topic_tags:
-- router-configuration
-- json-schema
-- composition-checks
+  - router-configuration
+  - json-schema
+  - composition-checks
 entities:
-- MCP tools
-- JSON schema
-- Cosmo router
-- OTEL
-- Datadog
-- Router config
+  - MCP tools
+  - JSON schema
+  - Cosmo router
+  - OTEL
+  - Datadog
+  - Router config
 mentions:
-- subgraph tools suite
-- schema change proposal workflow
-- AI playbook instructions
-- composition library checks
-- JSON schema specification embedding
-- router config reference documentation
-- OTEL metrics and tracing request
-- Datadog integration inquiry
+  - subgraph tools suite
+  - schema change proposal workflow
+  - AI playbook instructions
+  - composition library checks
+  - JSON schema specification embedding
+  - router config reference documentation
+  - OTEL metrics and tracing request
+  - Datadog integration inquiry
 summary: Jens provides an overview of the comprehensive MCP tool ecosystem, explaining
   how AI can iterate through workflows using verification checks and composition validation.
   He demonstrates how JSON schema embedding enables prompt-driven router configuration,

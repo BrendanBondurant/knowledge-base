@@ -21,13 +21,9 @@ topics:
   - Product positioning prioritization
   - AI-powered optimization features
 tags:
-- ai
-- postgres
-- rest
-  - prisma
-  - unikernel
-  - messaging
-  - technical-positioning
+  - ai
+  - postgres
+  - rest
   - startup
 entities:
   - Prisma

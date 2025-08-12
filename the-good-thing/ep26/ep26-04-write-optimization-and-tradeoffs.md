@@ -24,15 +24,10 @@ topics:
   - Physics constraints in database systems
   - Pragmatic approach to proven architectures
 tags:
-- ai
-- database
-- computer-science
-  - write-workloads
   - ai
-  - consistency-tradeoffs
-  - performance
-  - multiple-writers
-  - physics-constraints
+  - database
+  - computer-science
+  - ai
 entities:
   - AI
   - PlanetScale

@@ -1,4 +1,3 @@
-
 ---
 title: Investor Criteria and API Gateway Market
 slug: ep25-06-investor-criteria-and-api-gateway-market
@@ -23,15 +22,10 @@ topics:
   - Company differentiation requirements
   - Cloud provider utility impact on market
 tags:
-- ai
-- rest
-- api-design
-  - field-cto
-  - investment-criteria
-  - gateway-commoditization
-  - company-differentiation
-  - cloud-utilities
-  - customer-success
+  - ai
+  - rest
+  - api-design
+  - startup
 entities:
   - Field CTO role
   - Postman

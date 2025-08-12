@@ -25,19 +25,15 @@ topics:
 summary: |
   Jens and Stefan discuss strategies for driving down infrastructure costs, the importance of collaboration features, and how companies like Vercel and AWS approach these challenges in the startup ecosystem.
 tags:
-- federation
-- ai
-- cosmo-router
-  - cost-optimization
-  - infrastructure-strategy
-  - collaboration-features
-  - cloud-providers
-  - startup-strategy
-  - product-differentiation
+  - federation
+  - ai
+  - cosmo-router
+  - startup
+  - startup
 topic_tags:
-- federation
-- ai
-- cosmo-router
+  - federation
+  - ai
+  - cosmo-router
   - cost-optimization
   - infrastructure-strategy
   - collaboration-features

@@ -1,4 +1,3 @@
-
 ---
 title: API Governance and Process-First Thinking
 slug: ep25-04-api-governance-and-process-first-thinking
@@ -24,16 +23,10 @@ topics:
   - API sprawl and duplication problems
   - Autonomous teams vs visibility trade-offs
 tags:
-- ai
-- microservices
-- rest
-  - api-governance
-  - process-first
-  - microservices-complexity
+  - ai
+  - microservices
+  - rest
   - api-sprawl
-  - autonomous-teams
-  - enterprise-architecture
-  - vendor-duplication
 entities:
   - Fortune 500 companies
   - Enterprise architects

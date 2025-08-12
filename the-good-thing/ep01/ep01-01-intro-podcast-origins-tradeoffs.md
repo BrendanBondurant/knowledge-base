@@ -5,41 +5,41 @@ series: The Good Thing
 episode: 1
 chunk: 1
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Introduction and Show Philosophy
 timecode: 00:00:01:18 – 00:02:32:04
 start_time: 00:00:01:18
 end_time: 00:02:32:04
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Why the podcast is called "The Good Thing"
-- Engineering as tradeoffs
-- Co-host dynamic and format
-- First intro to Jens
+  - Why the podcast is called "The Good Thing"
+  - Engineering as tradeoffs
+  - Co-host dynamic and format
+  - First intro to Jens
 tags:
-- graphql
+  - graphql
 topic_tags:
-- podcast-intro
-- engineering-philosophy
-- tradeoffs
-- GraphQL
+  - podcast-intro
+  - engineering-philosophy
+  - tradeoffs
+  - GraphQL
 entities:
-- The Good Thing
-- WunderGraph
-- GraphQL
-- Federation
-- Jens Neuse
-- Stefan Avram
-- Bjorn
+  - The Good Thing
+  - WunderGraph
+  - GraphQL
+  - Federation
+  - Jens Neuse
+  - Stefan Avram
+  - Bjorn
 mentions:
-- the sales call intro
-- technical questions
-- tradeoffs in life and engineering
-- techno music
-- mono skier
+  - the sales call intro
+  - technical questions
+  - tradeoffs in life and engineering
+  - techno music
+  - mono skier
 summary: Stefan introduces the podcast and its central theme of tradeoffs in engineering
   and life. The episode title is inspired by cofounder Bjorn’s optimism. Jens is introduced
   as the co-host, with Stefan playing the facilitator role for technical discussions.

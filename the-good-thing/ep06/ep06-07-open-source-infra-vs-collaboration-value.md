@@ -25,18 +25,16 @@ topics:
 summary: |
   Jens and Stefan explore the differences between infrastructure and collaboration tools, the value perception of each, and how open source plays a role in product strategy and pricing models.
 tags:
-- federation
-- graphql-federation
-- ai
+  - federation
+  - graphql-federation
+  - ai
   - open-source
-  - infrastructure-vs-collaboration
-  - product-strategy
-  - pricing-models
+  - startup
   - startup
 topic_tags:
-- federation
-- graphql-federation
-- ai
+  - federation
+  - graphql-federation
+  - ai
   - open-source-strategy
   - infrastructure-vs-collaboration
   - product-strategy

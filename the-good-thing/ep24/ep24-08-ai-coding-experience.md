@@ -1,4 +1,3 @@
-
 ---
 title: AI Coding Experience and Personal Observations
 slug: ep24-08-ai-coding-experience
@@ -23,16 +22,10 @@ topics:
   - Research bias and methodology critique
   - WunderGraph employee survey satire
 tags:
-- graphql
-- ai
-- cosmo-router
-  - ai-tools
-  - cursor
-  - claude-coder
-  - personal-experience
-  - code-quality
-  - research-bias
-  - survey-methodology
+  - graphql
+  - ai
+  - cosmo-router
+  - ai
 entities:
   - Stefan Avram
   - Jens Neuse

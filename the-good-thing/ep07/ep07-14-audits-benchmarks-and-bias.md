@@ -5,47 +5,47 @@ series: The Good Thing
 episode: 7
 chunk: 14
 participants:
-- Jens
-- Sergiy
-- David
+  - Jens
+  - Sergiy
+  - David
 segment: Third-party audits and benchmark reliability
 timecode: 01:14:15:10 – 01:20:04:28
 start_time: 01:14:15:10
 end_time: 01:20:04:28
 speakers:
-- Jens
-- Sergiy
-- David
+  - Jens
+  - Sergiy
+  - David
 topics:
-- Third-party audit value and limitations
-- Vendor benchmark bias and marketing purposes
-- Federation complexity and edge case discovery
-- Customer-driven importance vs vendor priorities
-- Infinite directive combinations and testing challenges
+  - Third-party audit value and limitations
+  - Vendor benchmark bias and marketing purposes
+  - Federation complexity and edge case discovery
+  - Customer-driven importance vs vendor priorities
+  - Infinite directive combinations and testing challenges
 tags:
-- startup
+  - startup
 topic_tags:
-- audits
-- benchmarks
-- vendor-bias
-- federation-complexity
-- customer-experience
-- third-party-evaluation
+  - audits
+  - benchmarks
+  - vendor-bias
+  - federation-complexity
+  - customer-experience
+  - third-party-evaluation
 entities:
-- Federation
-- Apollo
-- WunderGraph
-- Sergiy
-- David
-- Jens Neuse
+  - Federation
+  - Apollo
+  - WunderGraph
+  - Sergiy
+  - David
+  - Jens Neuse
 mentions:
-- third-party audit benefits
-- vendor marketing motivations
-- infinite directive combinations
-- customer experience focus
-- edge case discovery challenges
-- reliable customer solutions
-- downtime prevention
+  - third-party audit benefits
+  - vendor marketing motivations
+  - infinite directive combinations
+  - customer experience focus
+  - edge case discovery challenges
+  - reliable customer solutions
+  - downtime prevention
 summary: Critical discussion of federation audits and benchmarks, with Sergiy highlighting
   the value of third-party perspectives while David emphasizes that vendor-created
   benchmarks serve marketing purposes. Both agree that the only trustworthy benchmarks

@@ -5,46 +5,46 @@ series: The Good Thing
 episode: 8
 chunk: 1
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Personal reflections on marriage and cofounder relationships
 timecode: 00:00:22:11 – 00:09:03:15
 start_time: 00:00:22:11
 end_time: 00:09:03:15
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Stefan's wedding celebration and marriage insights
-- Cofounder relationships as life partnerships
-- Yin and yang complementary dynamics
-- Y Combinator cofounder advice
-- Work-life balance through partnerships
+  - Stefan's wedding celebration and marriage insights
+  - Cofounder relationships as life partnerships
+  - Yin and yang complementary dynamics
+  - Y Combinator cofounder advice
+  - Work-life balance through partnerships
 tags:
-- startup
+  - startup
 topic_tags:
-- marriage
-- cofounders
-- relationships
-- work-life-balance
-- y-combinator
-- startup-advice
+  - marriage
+  - cofounders
+  - relationships
+  - work-life-balance
+  - y-combinator
+  - startup-advice
 entities:
-- Stefan Avram
-- Jens Neuse
-- Sofia (Stefan's wife)
-- WunderGraph
-- Y Combinator
-- Dustin (CTO)
+  - Stefan Avram
+  - Jens Neuse
+  - Sofia (Stefan's wife)
+  - WunderGraph
+  - Y Combinator
+  - Dustin (CTO)
 mentions:
-- 27 years old marriage
-- three-day destination wedding
-- six-year relationship foundation
-- yin and yang opposites philosophy
-- bad cofounder worse than no cofounder
-- wife as garbage collector metaphor
-- quality control and QA filtering
-- hard disk defragmentation analogy
+  - 27 years old marriage
+  - three-day destination wedding
+  - six-year relationship foundation
+  - yin and yang opposites philosophy
+  - bad cofounder worse than no cofounder
+  - wife as garbage collector metaphor
+  - quality control and QA filtering
+  - hard disk defragmentation analogy
 summary: Stefan returns from his wedding and draws parallels between marriage and
   cofounder relationships. He discusses how complementary partners (yin and yang)
   provide balance, with both marriage and cofounding requiring shared values while

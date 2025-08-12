@@ -5,48 +5,48 @@ series: The Good Thing
 episode: 14
 chunk: 4
 participants:
-- Stefan
-- Jens
-- Dustin
+  - Stefan
+  - Jens
+  - Dustin
 segment: Schema Safety and Query Plan Analysis
 timecode: 00:13:10 – 00:17:11
 start_time: 00:13:10
 end_time: 00:17:11
 speakers:
-- Jens
-- Stefan
-- Dustin
+  - Jens
+  - Stefan
+  - Dustin
 topics:
-- Schema usage tracking and breaking change detection
-- MCP hallucination prevention through checks
-- Serverless router for batch query plan generation
-- Complexity scoring algorithm for query plans
-- Performance impact analysis of schema changes
+  - Schema usage tracking and breaking change detection
+  - MCP hallucination prevention through checks
+  - Serverless router for batch query plan generation
+  - Complexity scoring algorithm for query plans
+  - Performance impact analysis of schema changes
 tags:
-- federation
-- mcp
-- ai
+  - federation
+  - mcp
+  - ai
 topic_tags:
-- federation
-- mcp
-- ai
+  - federation
+  - mcp
+  - ai
 entities:
-- Federation
-- Schema usage
-- MCP clients
-- BrowserBase
-- Cosmo router
-- Query plans
-- Serverless router
+  - Federation
+  - Schema usage
+  - MCP clients
+  - BrowserBase
+  - Cosmo router
+  - Query plans
+  - Serverless router
 mentions:
-- real-time map of client-backend communication
-- BrowserBase CEO's 80/20 MCP tweet
-- federation's core power being checks
-- eliminating hallucination through validation
-- serverless router batch processing
-- open source query plan generation
-- sequence vs parallel fetch scoring
-- 100 MCP clients complexity analysis
+  - real-time map of client-backend communication
+  - BrowserBase CEO's 80/20 MCP tweet
+  - federation's core power being checks
+  - eliminating hallucination through validation
+  - serverless router batch processing
+  - open source query plan generation
+  - sequence vs parallel fetch scoring
+  - 100 MCP clients complexity analysis
 summary: Stefan and Jens discuss how federation's core strength lies in checks and
   breaking change detection, addressing the 20% of MCP use cases where hallucination
   could cause problems. Jens reveals a new product featuring serverless router batch

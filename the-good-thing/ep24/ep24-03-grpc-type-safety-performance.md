@@ -1,4 +1,3 @@
-
 ---
 title: gRPC Type Safety and Performance Benefits
 slug: ep24-03-grpc-type-safety-performance
@@ -23,15 +22,11 @@ topics:
   - Apollo ecosystem lock-in concerns
   - Code-first vs schema-first approaches
 tags:
-- federation
-- graphql-federation
-- grpc
+  - federation
+  - graphql-federation
   - grpc
-  - type-safety
-  - performance-optimization
-  - n-plus-one
-  - graphql-parsing
-  - Apollo-ecosystem
+  - grpc
+  - apollo-graphql
   - schema-first
 entities:
   - WunderGraph

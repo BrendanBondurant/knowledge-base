@@ -22,12 +22,9 @@ topics:
   - Future episode scheduling
   - Gratitude and final thoughts
 tags:
-- ai
-- database
-  - episode-closing
   - ai
-  - future-episodes
-  - gratitude
+  - database
+  - ai
 entities:
   - PlanetScale
   - AI

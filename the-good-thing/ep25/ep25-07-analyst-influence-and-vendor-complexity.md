@@ -1,4 +1,3 @@
-
 ---
 title: Analyst Influence and Vendor Complexity
 slug: ep25-07-analyst-influence-and-vendor-complexity
@@ -24,15 +23,9 @@ topics:
   - Trusted third-party evaluation needs
   - Purchase decision support systems
 tags:
-- ai
-- rust
-- rest
-  - magic-quadrant
-  - gartner-forrester
-  - analyst-model
-  - vendor-complexity
-  - api-space-complexity
-  - trusted-third-party
+  - ai
+  - rust
+  - rest
 entities:
   - Kong
   - Apogee

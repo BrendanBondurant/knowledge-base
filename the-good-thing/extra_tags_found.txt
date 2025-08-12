@@ -1,0 +1,67 @@
+Tags found in files but not in tags_master.yaml:
+
+acquisitions
+ai - faang-companies - startup
+ai - open-source - code-quality - enterprise-procurement - sales-process - startup
+ai - open-source - infrastructure-vs-collaboration - product-strategy - pricing-models - startup
+apollo-graphql - competitor-analysis - rest-connectors - technical-evaluation - product-strategy - engineering-philosophy - startup-competition
+apollo-graphql - open-source - business-models - product-differentiation - startup - collaboration-tools
+apollo-graphql - open-source - faang-companies - community-contributions - startup
+aws-competition
+bare-metal
+battle-hardening
+capital-allocation
+capital-efficiency
+chaos-engineering
+cluster-orchestration
+company-culture
+competitive-advantage
+computer-science - write-workloads - ai - consistency-tradeoffs - performance - multiple-writers - physics-constraints
+cosmo - copying-competitors - startup-strategy - product-differentiation - copycat-accusations - devtools-space - wundergraph-origin
+cosmo-router - cost-optimization - infrastructure-strategy - collaboration-features - cloud-providers - startup-strategy - product-differentiation
+customer-relationships
+database - episode-closing - ai - future-episodes - gratitude
+database-companies
+database-engineering
+ephemeral-infrastructure
+exit-timelines
+expert-leadership
+founder - team-structure - marketing-strategy - founder - technical-content - enterprise-sales - profitability
+funding-rounds
+funding-strategy
+graphql - n-plus-one-problem - batching-strategies - testing - engineering-philosophy - product-development - technical-challenges
+graphql-federation - grpc - graphql-federation - type-safety - router-architecture - data-loading - WunderGraph
+growth-metrics
+high-availability
+infrastructure-companies
+maintainership
+market-timing
+node-expiry
+nvme
+open-source - open-source - vitess-maintenance - community-contributions - upstream-collaboration - project-governance
+operational-expertise
+performance
+planetscale-metal
+postgres - cost-structure - infrastructure-vs-collaboration - startup
+profitability
+real-world-scale
+reliability
+reliability-engineering
+replication
+scale-fascination
+sharding
+shared-nothing-architecture
+startup - competitor-analysis - startup - product-vision - product-differentiation
+startup - distribution-strategy - investor-relations - growth-metrics - startup-strategy - fundraising - product-differentiation
+startup - hasura - apollo - feature-copying - distribution-strategy - product-strategy - competitive-markets
+startup - personal-updates - wedding-preparation - team-updates - episode-introduction - startup - work-life-balance
+startup - startup - learning-from-failure - team-dynamics
+startup - team-dynamics - startup - product-pivot - product-evolution
+startup - usage-based-pricing - enterprise-predictability - startup - business-models
+stateful-workloads
+sustainable-growth
+team-building
+team-size
+trust-based-management
+vc-dynamics
+websocket - company-culture - ceo-coding - open-source - cncf - bsl-licensing - apache-license

@@ -1,4 +1,3 @@
-
 ---
 title: Federation vs GraphQL Philosophy and Team Size
 slug: ep24-06-federation-vs-graphql
@@ -24,16 +23,10 @@ topics:
   - Navy SEALs team size principles
   - Governance and foundation overhead
 tags:
-- federation
-- graphql-federation
-- grpc
-  - technology-philosophy
-  - problem-focus
-  - solution-obsession
-  - blockchain-analogy
-  - team-size
+  - federation
+  - graphql-federation
+  - grpc
   - governance
-  - graphql-http
 entities:
   - Stefan Avram
   - Jens Neuse

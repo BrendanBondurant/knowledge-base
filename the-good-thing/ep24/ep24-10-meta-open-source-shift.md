@@ -1,4 +1,3 @@
-
 ---
 title: Meta's Open Source Strategy Shift and AI Arms Race
 slug: ep24-10-meta-open-source-shift
@@ -23,15 +22,10 @@ topics:
   - Meta's business model evolution
   - User behavior changes affecting advertising
 tags:
-- ai
-- cosmo-router
-- rest
-  - meta
-  - open-source-AI
-  - government-pressure
-  - ai-arms-race
-  - business-model
-  - advertising
+  - ai
+  - cosmo-router
+  - rest
+  - ai
 entities:
   - Meta
   - Alexander Wang

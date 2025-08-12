@@ -1,4 +1,3 @@
-
 ---
 title: Monopolies, Market Positioning, and Coldplay Controversy
 slug: ep24-11-monopolies-branding-coldplay
@@ -23,15 +22,11 @@ topics:
   - WunderGraph's market positioning
   - Coldplay concert workplace controversy
 tags:
-- federation
-- ai
-- open-source
-  - CEO-leadership
-  - strategic-investments
-  - monopoly-theory
-  - market-positioning
-  - workplace-ethics
-  - coldplay
+  - federation
+  - ai
+  - open-source
+  - startup
+  - startup
 entities:
   - Mark Zuckerberg
   - Meta

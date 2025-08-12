@@ -5,43 +5,43 @@ series: The Good Thing
 episode: 1
 chunk: 12
 participants:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 segment: Why Marketplaces Are Hard to Scale
 timecode: 00:36:30 – 00:39:17
 start_time: 00:36:30
 end_time: 00:39:17
 speakers:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 topics:
-- Flywheel dynamics and local network effects
-- Chicken egg problem in marketplace growth
-- Scaling failure from city to city
-- Lessons from Airbnb early go to market
-- Doing things that dont scale
-- Learning programming through failure
+  - Flywheel dynamics and local network effects
+  - Chicken egg problem in marketplace growth
+  - Scaling failure from city to city
+  - Lessons from Airbnb early go to market
+  - Doing things that dont scale
+  - Learning programming through failure
 tags:
-- startup
+  - startup
 topic_tags:
-- airbnb
-- marketplace-design
-- flywheels
-- economic-incentives
-- startup-lessons
+  - airbnb
+  - marketplace-design
+  - flywheels
+  - economic-incentives
+  - startup-lessons
 entities:
-- Jens Neuse
-- Stefan Avram
-- WunderGraph
-- Airbnb
-- Paul Graham
+  - Jens Neuse
+  - Stefan Avram
+  - WunderGraph
+  - Airbnb
+  - Paul Graham
 mentions:
-- flywheel strategy
-- chicken egg problem
-- marketplace app challenges
-- things that dont scale
-- city by city growth
-- go to market pain
+  - flywheel strategy
+  - chicken egg problem
+  - marketplace app challenges
+  - things that dont scale
+  - city by city growth
+  - go to market pain
 summary: Jens explains how the core problem with his first startup was the need to
   manually spin up a flywheel in each new city, since neither merchants nor students
   would engage without the other. This lack of transferability made scaling impossible.

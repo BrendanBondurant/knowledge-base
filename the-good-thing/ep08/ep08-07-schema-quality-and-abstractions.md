@@ -1,4 +1,3 @@
-
 ---
 title: Schema Quality and REST API Abstraction Leakage
 slug: ep08-07-schema-quality-and-abstractions
@@ -22,15 +21,9 @@ topics:
   - REST API abstraction leakage into GraphQL schemas
   - Federation directive complexity (@provides, @requires)
 tags:
-- federation
-- graphql-federation
-- ai
-  - schema-design
-  - type-safety
-  - subgraph-quality
-  - developer-experience
-  - abstraction-leakage
-  - federation-directives
+  - federation
+  - graphql-federation
+  - ai
 entities:
   - graphql
   - Federation

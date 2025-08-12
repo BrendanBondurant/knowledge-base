@@ -5,35 +5,35 @@ series: The Good Thing
 episode: 4
 chunk: 1
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Introduction, feedback from listeners, and the origins of the devtools startup
 timecode: 00:00:24:00 - 00:03:15:20
 start_time: 00:00:24:00
 end_time: 00:03:15:20
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Podcast feedback
-- Show tone
-- Devtools startup origins
-- Early team
-- Company beginnings
+  - Podcast feedback
+  - Show tone
+  - Devtools startup origins
+  - Early team
+  - Company beginnings
 tags:
-- startup
+  - startup
 topic_tags:
-- startup
+  - startup
 entities:
-- Stefan
-- Jens
-- Sergei
-- Dustin
+  - Stefan
+  - Jens
+  - Sergei
+  - Dustin
 mentions:
-- podcast feedback
-- casual tone
-- founding engineer
-- foxy beer
+  - podcast feedback
+  - casual tone
+  - founding engineer
+  - foxy beer
 summary: Stefan and Jens open the episode with a more casual tone, responding to feedback
   from Stefan's sister. They discuss the origins of their devtools startup, the recruitment
   of their first engineer Sergei, and set the stage for a relaxed, conversational

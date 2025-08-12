@@ -1,4 +1,3 @@
-
 ---
 title: LLM Behavior Shift and Web Experience
 slug: ep25-11-llm-behavior-shift-and-web-experience
@@ -24,15 +23,9 @@ topics:
   - LLM experience vs web experience trade-offs
   - Ad revenue disruption in LLM world
 tags:
-- ai
-- rust
-- rest
-  - web-evolution
-  - search-behavior-change
-  - chatgpt-adoption
-  - web-experience-tradeoffs
-  - ad-revenue-disruption
-  - user-behavior-shift
+  - ai
+  - rust
+  - rest
 entities:
   - Web directories
   - Google Search

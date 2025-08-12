@@ -1722,6 +1722,6 @@ Topics sorted by frequency (highest to lowest):
 ---
 
 tags:
-  - topic-analysis
-  - knowledge-base
-  - frequency-analysis
+- topic-analysis
+- knowledge-base
+- frequency-analysis

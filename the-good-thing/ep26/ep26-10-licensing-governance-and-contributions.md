@@ -24,15 +24,10 @@ topics:
   - BSL vs true open source licenses
   - Apache 2.0 vs other licensing models
 tags:
-- ai
-- open-source
-- websocket
-  - company-culture
-  - ceo-coding
+  - ai
   - open-source
-  - cncf
-  - bsl-licensing
-  - apache-license
+  - websocket
+  - open-source
 entities:
   - PlanetScale
   - CNCF

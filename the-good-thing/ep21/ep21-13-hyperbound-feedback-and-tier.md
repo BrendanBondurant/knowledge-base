@@ -20,15 +20,9 @@ topics:
   - Market competition analysis
   - Tier placement decision
 tags:
-- ai
-- websocket
-- startup
-  - hyperbound
-  - enterprise-features
-  - differentiation
-  - sales-training
-  - tier-placement
-  - self-service
+  - ai
+  - websocket
+  - startup
 entities:
   - Hyperbound
   - Stefan Avram

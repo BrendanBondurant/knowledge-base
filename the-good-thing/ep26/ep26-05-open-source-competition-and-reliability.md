@@ -26,11 +26,6 @@ topics:
 tags:
   - open-source
   - vitess
-  - aws-competition
-  - operational-expertise
-  - reliability
-  - team-size
-  - maintainership
 entities:
   - Vitess
   - Google

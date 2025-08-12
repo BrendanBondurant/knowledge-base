@@ -5,33 +5,33 @@ series: The Good Thing
 episode: 22
 chunk: 5
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Apollo Connector Critique
 timecode: 00:19:26:27 – 00:26:23:00
 start_time: 00:19:26:27
 end_time: 00:26:23:00
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Apollo connectors abstraction issues
-- GraphQL complexity problems
-- Federation implementation challenges
-- Technical architecture critique
+  - Apollo connectors abstraction issues
+  - GraphQL complexity problems
+  - Federation implementation challenges
+  - Technical architecture critique
 tags:
-- apollo-connectors
+  - apollo-connectors
 topic_tags:
-- apollo-connectors
+  - apollo-connectors
 entities:
-- Apollo
-- Stefan Avram
-- Jens Neuse
+  - Apollo
+  - Stefan Avram
+  - Jens Neuse
 mentions:
-- connector abstraction problems
-- federation complexity
-- implementation challenges
-- technical architecture issues
+  - connector abstraction problems
+  - federation complexity
+  - implementation challenges
+  - technical architecture issues
 summary: Jens and Stefan critique Apollo's connector approach, discussing how it breaks
   abstraction layers and creates unnecessary complexity in GraphQL federation. They
   analyze the technical challenges and architectural decisions that impact developer

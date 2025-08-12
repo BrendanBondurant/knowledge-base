@@ -5,37 +5,37 @@ series: The Good Thing
 episode: 15
 chunk: 7
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Retool Landing Page Design Critique
 timecode: 00:30:17 – 00:35:11
 start_time: 00:30:17
 end_time: 00:35:11
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Clear use case communication
-- Internal software building positioning
-- Visual dashboard demonstration
-- CTA button visibility issues
-- Animated transitions and distractions
+  - Clear use case communication
+  - Internal software building positioning
+  - Visual dashboard demonstration
+  - CTA button visibility issues
+  - Animated transitions and distractions
 tags:
-- graphql
-- ai
-- database
+  - graphql
+  - ai
+  - database
 topic_tags:
-- graphql
-- ai
-- database
+  - graphql
+  - ai
+  - database
 entities:
-- Retool
+  - Retool
 mentions:
-- The best way to build internal software
-- Dashboard visual supporting message
-- Invisible "Book a demo" button
-- Distracting animated elements
-- Cool transition effects
+  - The best way to build internal software
+  - Dashboard visual supporting message
+  - Invisible "Book a demo" button
+  - Distracting animated elements
+  - Cool transition effects
 summary: Stefan and Jens analyze Retool's landing page, praising the immediate clarity
   of their internal software building use case supported by visual dashboards. However,
   they critique execution flaws like invisible CTA buttons, distracting animations

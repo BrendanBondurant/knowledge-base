@@ -1,4 +1,3 @@
-
 ---
 title: Plugins, Connectors and Apollo Leadership Changes
 slug: ep24-04-plugins-apollo-leadership
@@ -23,16 +22,14 @@ topics:
   - Matt DeBergalis as new CEO
   - Customer experience improvements
 tags:
-- grpc
-- plugin-system
-- llm
-- apollo-graphql
+  - grpc
   - plugin-system
-  - co-processor
-  - LLM-automation
-  - legacy-integration
-  - Apollo-leadership
-  - CEO-transition
+  - llm
+  - apollo-graphql
+  - plugin-system
+  - llm
+  - apollo-graphql
+  - startup
 entities:
   - WunderGraph
   - Cosmo Router

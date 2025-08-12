@@ -5,44 +5,44 @@ series: The Good Thing
 episode: 9
 chunk: 6
 participants:
-- Jens
-- Cameron
+  - Jens
+  - Cameron
 segment: Vector databases and embeddings
 timecode: 00:21:04:01 – 00:25:32:08
 start_time: 00:21:04:01
 end_time: 00:25:32:08
 speakers:
-- Jens
-- Cameron
+  - Jens
+  - Cameron
 topics:
-- Root type schema slicing
-- Vector database implementation
-- Embeddings model explanation
-- Semantic similarity mapping
-- Query-to-schema matching
-- Natural language processing concepts
+  - Root type schema slicing
+  - Vector database implementation
+  - Embeddings model explanation
+  - Semantic similarity mapping
+  - Query-to-schema matching
+  - Natural language processing concepts
 tags:
-- graphql
-- ai
-- cosmo
+  - graphql
+  - ai
+  - cosmo
 topic_tags:
-- graphql
-- ai
-- cosmo
+  - graphql
+  - ai
+  - cosmo
 entities:
-- GraphQL
-- Vector Database
-- Embeddings Model
-- Gemini
-- Claude
-- ChatGPT
+  - GraphQL
+  - Vector Database
+  - Embeddings Model
+  - Gemini
+  - Claude
+  - ChatGPT
 mentions:
-- root operation types
-- user and human similarity
-- vector distance calculation
-- tokenization models
-- schema grouping by return type
-- WunderGraph Cosmo repository example
+  - root operation types
+  - user and human similarity
+  - vector distance calculation
+  - tokenization models
+  - schema grouping by return type
+  - WunderGraph Cosmo repository example
 summary: Cameron explains the technical approach of using vector databases and embeddings
   to map natural language queries to relevant schema slices. He details how root types
   are grouped and how semantic similarity through vector distances helps identify

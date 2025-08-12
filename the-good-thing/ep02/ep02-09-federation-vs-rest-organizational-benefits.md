@@ -5,37 +5,37 @@ series: The Good Thing
 episode: 2
 chunk: 9
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Federation vs REST Comparison
 timecode: 00:33:43:26 – 00:39:32:04
 start_time: 00:33:43:26
 end_time: 00:39:32:04
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Federation vs REST comparison
-- BFF pattern limitations
-- Organizational benefits of federation
-- Team collaboration advantages
-- Schema transparency
+  - Federation vs REST comparison
+  - BFF pattern limitations
+  - Organizational benefits of federation
+  - Team collaboration advantages
+  - Schema transparency
 tags:
-- bff-pattern
+  - bff-pattern
 topic_tags:
-- bff-pattern
+  - bff-pattern
 entities:
-- WunderGraph
-- GraphQL Federation
-- REST APIs
-- BFF Pattern
-- Schema Registry
+  - WunderGraph
+  - GraphQL Federation
+  - REST APIs
+  - BFF Pattern
+  - Schema Registry
 mentions:
-- backend for frontend
-- team independence
-- schema design
-- organizational structure
-- collaboration tools
+  - backend for frontend
+  - team independence
+  - schema design
+  - organizational structure
+  - collaboration tools
 summary: Jens explains how federation provides organizational benefits over REST APIs,
   highlighting the limitations of the BFF pattern and how federation enables better
   team collaboration. He discusses how federation enforces schema transparency and

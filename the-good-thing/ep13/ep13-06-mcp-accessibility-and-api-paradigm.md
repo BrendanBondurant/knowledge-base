@@ -21,16 +21,10 @@ topics:
   - "Turtles all the way down" - APIs everywhere
   - Evolution from HTML/CSS to JavaScript complexity
 tags:
-- mcp
-- ai
-- api-design
   - mcp
-  - user-abstraction
-  - web-crawling
-  - api-paradigm
-  - javascript-complexity
-  - accessibility
-  - infinite-regress
+  - ai
+  - api-design
+  - mcp
 entities:
   - MCP
   - Cursor

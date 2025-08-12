@@ -24,12 +24,6 @@ topics:
   - Expert-led leadership philosophy
   - Low management overhead
 tags:
-  - company-culture
-  - capital-allocation
-  - trust-based-management
-  - expert-leadership
-  - team-building
-  - acquisitions
 entities:
   - PlanetScale
   - Neon

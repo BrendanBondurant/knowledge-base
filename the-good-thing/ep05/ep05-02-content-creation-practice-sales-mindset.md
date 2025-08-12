@@ -5,40 +5,40 @@ series: The Good Thing
 episode: 5
 chunk: 2
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: The value of content creation, practicing skills, and evolving a sales mindset
 timecode: 00:07:12:25 - 00:11:00:09
 start_time: 00:07:12:25
 end_time: 00:11:00:09
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Content creation
-- Practice and improvement
-- Blog writing
-- Sales mindset
-- Overcoming fear of rejection
-- Startup beginnings
-- Learning by doing
-- Customer feedback
-- Sales calls
-- Building confidence
+  - Content creation
+  - Practice and improvement
+  - Blog writing
+  - Sales mindset
+  - Overcoming fear of rejection
+  - Startup beginnings
+  - Learning by doing
+  - Customer feedback
+  - Sales calls
+  - Building confidence
 tags:
-- startup
+  - startup
 topic_tags:
-- startup
+  - startup
 entities:
-- Stefan
-- Jens
-- WunderGraph
+  - Stefan
+  - Jens
+  - WunderGraph
 mentions:
-- blog posts
-- sales calls
-- spaghetti analogy
-- YC advice
-- customer feedback
+  - blog posts
+  - sales calls
+  - spaghetti analogy
+  - YC advice
+  - customer feedback
 summary: Stefan and Jens discuss the importance of practicing content creation, whether
   through video or blog posts, and how repeated effort leads to improvement. They
   reflect on their early days at WunderGraph, the value of learning by doing, and

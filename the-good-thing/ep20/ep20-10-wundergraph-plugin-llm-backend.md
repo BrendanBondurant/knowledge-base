@@ -5,45 +5,45 @@ series: The Good Thing
 episode: 20
 chunk: 10
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Product Development and Company Updates
 timecode: 00:51:10:06 – 01:01:08:19
 start_time: 00:51:10:06
 end_time: 01:01:08:19
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- WunderGraph's new plugin system architecture
-- LLM-optimized backend development approach
-- GraphQL vs REST API integration strategies
-- Product development and federation evolution
+  - WunderGraph's new plugin system architecture
+  - LLM-optimized backend development approach
+  - GraphQL vs REST API integration strategies
+  - Product development and federation evolution
 tags:
-- plugin-system
-- llm
-- graphql
-- rest
-- federation
+  - plugin-system
+  - llm
+  - graphql
+  - rest
+  - federation
 topic_tags:
-- wundergraph
-- plugin-system
-- llm-optimization
-- backend-development
-- graphql
-- rest
-- federation
+  - wundergraph
+  - plugin-system
+  - llm-optimization
+  - backend-development
+  - graphql
+  - rest
+  - federation
 entities:
-- WunderGraph
-- Stefan Avram
-- Jens Neuse
-- GraphQL Federation
-- Plugin system
+  - WunderGraph
+  - Stefan Avram
+  - Jens Neuse
+  - GraphQL Federation
+  - Plugin system
 mentions:
-- New plugin architecture
-- LLM-optimized development
-- GraphQL adoption challenges
-- Federation without GraphQL
+  - New plugin architecture
+  - LLM-optimized development
+  - GraphQL adoption challenges
+  - Federation without GraphQL
 summary: Introduction of WunderGraph's new plugin system designed for LLM-optimized
   backend development, discussing how it addresses GraphQL adoption challenges while
   maintaining federation benefits through alternative approaches.

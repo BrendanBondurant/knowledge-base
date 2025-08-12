@@ -21,13 +21,10 @@ topics:
   - Animation and design elements
   - Feature positioning precision
 tags:
-- federation
-- graphql-federation
-- ai
-  - wundergraph
+  - federation
+  - graphql-federation
+  - ai
   - cosmo
-  - feature-positioning
-  - business-benefits
   - schema-registry
 entities:
   - WunderGraph

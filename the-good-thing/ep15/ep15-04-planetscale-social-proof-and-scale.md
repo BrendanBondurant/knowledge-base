@@ -21,14 +21,10 @@ topics:
   - Social proof through case studies
   - Performance benchmarking links
 tags:
-- ai
-- database
-- api-design
-  - planetscale
+  - ai
   - database
-  - performance-claims
-  - case-studies
-  - technical-marketing
+  - api-design
+  - database
 entities:
   - PlanetScale
   - eBay

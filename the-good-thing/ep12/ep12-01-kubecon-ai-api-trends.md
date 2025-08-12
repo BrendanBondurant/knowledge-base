@@ -5,41 +5,41 @@ series: The Good Thing
 episode: 12
 chunk: 1
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Episode Introduction and KubeCon Observations
 timecode: 00:00:10:15 – 00:02:13:19
 start_time: 00:00:10:15
 end_time: 00:02:13:19
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- KubeCon 2024 trends
-- AI hype vs practical API needs
-- Conference positioning for API companies
-- Episode format changes with guests
-- Technology wave cycles
+  - KubeCon 2024 trends
+  - AI hype vs practical API needs
+  - Conference positioning for API companies
+  - Episode format changes with guests
+  - Technology wave cycles
 tags:
-- ai
+  - ai
 topic_tags:
-- kubecon
-- ai-trends
-- conference-strategy
-- api-positioning
-- technology-waves
+  - kubecon
+  - ai-trends
+  - conference-strategy
+  - api-positioning
+  - technology-waves
 entities:
-- KubeCon
-- Stefan Avram
-- Jens Neuse
-- Jacob
-- WunderGraph
+  - KubeCon
+  - Stefan Avram
+  - Jens Neuse
+  - Jacob
+  - WunderGraph
 mentions:
-- 13000 people at KubeCon
-- AI wave dominance
-- barbecue weather in Germany
-- upcoming podcast guests
-- Jacob sourcing guests
+  - 13000 people at KubeCon
+  - AI wave dominance
+  - barbecue weather in Germany
+  - upcoming podcast guests
+  - Jacob sourcing guests
 summary: Stefan introduces episode 12 covering KubeCon observations, AI trends, and
   GraphQL Federation. Jens shares friend's observations that KubeCon had 13,000 people
   focused on AI, questioning whether API companies should attend AI-dominated conferences

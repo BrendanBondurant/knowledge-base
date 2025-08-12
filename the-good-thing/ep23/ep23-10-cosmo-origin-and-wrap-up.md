@@ -5,38 +5,38 @@ series: The Good Thing
 episode: 23
 chunk: 10
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Product Origin Story and Episode Conclusion
 timecode: 00:57:07:00 – 00:59:35:00
 start_time: 00:57:07:00
 end_time: 00:59:35:00
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Cosmo pivot story
-- Product origin narrative
-- Episode closing thoughts
-- Strategic reflection
+  - Cosmo pivot story
+  - Product origin narrative
+  - Episode closing thoughts
+  - Strategic reflection
 tags:
-- ai
-- cosmo
-- open-source
+  - ai
+  - cosmo
+  - open-source
 topic_tags:
-- ai
-- cosmo
-- open-source
+  - ai
+  - cosmo
+  - open-source
 entities:
-- Cosmo
-- WunderGraph
-- Stefan Avram
-- Jens Neuse
+  - Cosmo
+  - WunderGraph
+  - Stefan Avram
+  - Jens Neuse
 mentions:
-- Cosmo creation story
-- pivot decisions
-- closing reflections
-- strategic insights
+  - Cosmo creation story
+  - pivot decisions
+  - closing reflections
+  - strategic insights
 summary: Stefan and Jens share the Cosmo pivot story and origin narrative, concluding
   the episode with reflections on strategic product decisions and the journey from
   their original vision to their current platform positioning.

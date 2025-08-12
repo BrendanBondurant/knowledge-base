@@ -25,15 +25,10 @@ topics:
 summary: |
   Jens and Stefan discuss the N+1 problem, batching strategies, the importance of testing, and their overall engineering philosophy for building robust products.
 tags:
-- graphql
-  - n-plus-one-problem
-  - batching-strategies
-  - testing
-  - engineering-philosophy
-  - product-development
-  - technical-challenges
+  - graphql
+  - startup
 topic_tags:
-- graphql
+  - graphql
   - n-plus-one-problem
   - batching-strategies
   - testing

@@ -1,4 +1,3 @@
-
 ---
 title: Developer Maturity and Boring Tech
 slug: ep25-15-developer-maturity-and-boring-tech
@@ -24,15 +23,9 @@ topics:
   - Boring technology preferences for reliability
   - Infrastructure stability over novelty
 tags:
-- ai
-- postgres
-- kubernetes
-  - clean-code-evolution
-  - pragmatic-technology
-  - developer-experience
-  - boring-tech-preference
-  - infrastructure-stability
-  - reliability-focus
+  - ai
+  - postgres
+  - kubernetes
 entities:
   - Clean Code book
   - Digital Ocean

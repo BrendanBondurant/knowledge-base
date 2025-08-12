@@ -5,50 +5,50 @@ series: The Good Thing
 episode: 14
 chunk: 10
 participants:
-- Stefan
-- Jens
-- Dustin
+  - Stefan
+  - Jens
+  - Dustin
 segment: Documentation Integration and LLM Context Enhancement
 timecode: 00:38:24 – 00:43:18
 start_time: 00:38:24
 end_time: 00:43:18
 speakers:
-- Dustin
-- Jens
-- Stefan
+  - Dustin
+  - Jens
+  - Stefan
 topics:
-- GraphQL schema comment processing
-- Automatic documentation integration into JSON schema
-- Tool description generation from comments
-- Claude Desktop configuration for MCP
-- Next.js employee dashboard demo preparation
+  - GraphQL schema comment processing
+  - Automatic documentation integration into JSON schema
+  - Tool description generation from comments
+  - Claude Desktop configuration for MCP
+  - Next.js employee dashboard demo preparation
 tags:
-- graphql
-- mcp
-- ai
+  - graphql
+  - mcp
+  - ai
 topic_tags:
-- graphql
-- mcp
-- ai
+  - graphql
+  - mcp
+  - ai
 entities:
-- GraphQL schema
-- JSON schema
-- MCP introspection endpoint
-- Claude Desktop
-- Next.js
-- Employee dashboard
-- OSS repository
+  - GraphQL schema
+  - JSON schema
+  - MCP introspection endpoint
+  - Claude Desktop
+  - Next.js
+  - Employee dashboard
+  - OSS repository
 mentions:
-- update availability operation
-- mood update functionality
-- comment walking through GraphQL documents
-- field description incorporation
-- OpenAPI spec exposure
-- documentation importance for AI
-- multiple root fields combination
-- developer-focused MCP integration
-- JSON configuration copy-paste
-- employee management dashboard
+  - update availability operation
+  - mood update functionality
+  - comment walking through GraphQL documents
+  - field description incorporation
+  - OpenAPI spec exposure
+  - documentation importance for AI
+  - multiple root fields combination
+  - developer-focused MCP integration
+  - JSON configuration copy-paste
+  - employee management dashboard
 summary: Dustin explains how GraphQL schema comments are automatically processed and
   incorporated into JSON schemas for MCP tools, with Jens emphasizing the critical
   importance of good documentation for LLM precision. They demonstrate Claude Desktop

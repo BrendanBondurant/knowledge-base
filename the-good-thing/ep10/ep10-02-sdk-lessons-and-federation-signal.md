@@ -5,49 +5,49 @@ series: The Good Thing
 episode: 10
 chunk: 2
 participants:
-- Stefan
-- Björn
-- Dustin
-- Jens
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
 segment: Product strategy and market signals
 timecode: 00:09:15:19 – 00:16:10:04
 start_time: 00:09:15:19
 end_time: 00:16:10:04
 speakers:
-- Stefan
-- Björn
-- Dustin
-- Jens
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
 topics:
-- First paying customer in three weeks
-- SDK limitations for enterprise
-- Customer feedback and market signals
-- SDK to Cosmo technology transfer
-- GraphQL engine architecture
-- Stefan's sales call documentation
+  - First paying customer in three weeks
+  - SDK limitations for enterprise
+  - Customer feedback and market signals
+  - SDK to Cosmo technology transfer
+  - GraphQL engine architecture
+  - Stefan's sales call documentation
 tags:
-- startup
-- graphql-engine
+  - startup
+  - graphql-engine
 topic_tags:
-- sdk-lessons
-- market-signals
-- customer-feedback
-- technology-transfer
-- graphql-engine
-- sales-documentation
+  - sdk-lessons
+  - market-signals
+  - customer-feedback
+  - technology-transfer
+  - graphql-engine
+  - sales-documentation
 entities:
-- WunderGraph SDK
-- Cosmo
-- GraphQL Go Tools
-- Apollo Federation
-- Netherlands Retreat
+  - WunderGraph SDK
+  - Cosmo
+  - GraphQL Go Tools
+  - Apollo Federation
+  - Netherlands Retreat
 mentions:
-- three weeks to first customer
-- hair on fire problem analysis
-- federation capabilities request
-- GraphQL go engine reuse
-- Stefan's notebook documentation
-- boring monolith architecture
+  - three weeks to first customer
+  - hair on fire problem analysis
+  - federation capabilities request
+  - GraphQL go engine reuse
+  - Stefan's notebook documentation
+  - boring monolith architecture
 summary: Stefan discusses the rapid customer acquisition but notes the SDK wasn't
   solving urgent enterprise problems. Björn explains how customer feedback pointing
   toward federation capabilities became a pivotal market signal. Jens details how

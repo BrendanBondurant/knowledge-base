@@ -21,14 +21,10 @@ topics:
   - Target audience mismatch problems
   - Hero messaging clarity problems
 tags:
-- federation
-- graphql-federation
-- ai
-  - wundergraph
-  - self-critique
+  - federation
   - graphql-federation
-  - technical-messaging
-  - target-audience
+  - ai
+  - graphql-federation
 entities:
   - WunderGraph
   - Dustin (CTO)
@@ -37,7 +33,7 @@ mentions:
   - "Open source GraphQL Federation solution" complexity
   - Full lifecycle API management confusion
   - Dustin writing problematic copy
-  - German "okay" meaning ambiguity
+  - "German "okay" meaning ambiguity"
   - Technical jargon inaccessibility
 summary: |
   Stefan and Jens turn their critical lens on their own WunderGraph landing page, acknowledging major messaging problems. They critique their hero text "open source GraphQL Federation solution" as too technical and meaningless to non-experts, and discuss how their technical jargon makes the product inaccessible to potential users who don't already understand GraphQL Federation.

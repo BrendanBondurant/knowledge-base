@@ -5,56 +5,56 @@ series: The Good Thing
 episode: 5
 chunk: 08
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: The pitfalls of benchmarks, performance considerations, and the importance
   of real-world use cases
 timecode: 00:45:06:11 - 00:51:27:12
 start_time: 00:45:06:11
 end_time: 00:51:27:12
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Benchmarks
-- Performance
-- Real-world use cases
-- Synthetic benchmarks
-- Cache warming
-- Super Bowl traffic
-- Autoscaling
-- Cold starts
-- Customer needs
-- Product improvement
-- Macro vs. micro benchmarks
-- Code optimization
-- Developer experience
-- Product marketing
+  - Benchmarks
+  - Performance
+  - Real-world use cases
+  - Synthetic benchmarks
+  - Cache warming
+  - Super Bowl traffic
+  - Autoscaling
+  - Cold starts
+  - Customer needs
+  - Product improvement
+  - Macro vs. micro benchmarks
+  - Code optimization
+  - Developer experience
+  - Product marketing
 tags:
-- graphql
-- startup
+  - graphql
+  - startup
 topic_tags:
-- benchmarks
-- performance
-- real-world-testing
-- graphql
-- technical-validation
-- customer-education
+  - benchmarks
+  - performance
+  - real-world-testing
+  - graphql
+  - technical-validation
+  - customer-education
 entities:
-- Stefan Avram
-- Jens Neuse
-- GraphQL
-- Super Bowl
-- WunderGraph
+  - Stefan Avram
+  - Jens Neuse
+  - GraphQL
+  - Super Bowl
+  - WunderGraph
 mentions:
-- benchmark pitfalls
-- synthetic vs real-world performance
-- cache warming
-- Super Bowl traffic
-- autoscaling challenges
-- cold starts
-- macro vs micro benchmarks
-- customer-driven optimization
+  - benchmark pitfalls
+  - synthetic vs real-world performance
+  - cache warming
+  - Super Bowl traffic
+  - autoscaling challenges
+  - cold starts
+  - macro vs micro benchmarks
+  - customer-driven optimization
 summary: Stefan and Jens discuss the pitfalls of benchmarks, the difference between
   synthetic and real-world performance, and how customer needs drive product improvement.
   They share stories about cache warming for Super Bowl traffic, the importance of

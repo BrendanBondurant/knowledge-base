@@ -1,4 +1,3 @@
-
 ---
 title: AI Productivity Study Critique and Sample Size Issues
 slug: ep24-07-ai-productivity-study
@@ -23,16 +22,10 @@ topics:
   - Media headline-driven narratives
   - Psychology research standards
 tags:
-- ai
-- open-source
-- founder
-  - ai-productivity
-  - research-methodology
-  - sample-size
-  - selection-bias
-  - peer-review
-  - media-criticism
-  - psychology
+  - ai
+  - open-source
+  - founder
+  - ai
 entities:
   - Stefan Avram
   - Jens Neuse

@@ -1,4 +1,3 @@
-
 ---
 title: Lovable AI Scaling and Bubble Concerns
 slug: ep24-09-lovable-ai-scaling
@@ -23,16 +22,11 @@ topics:
   - Long-term viability questions
   - Dot-com bubble comparisons
 tags:
-- ai
-- rest
-- websocket
-  - lovable
-  - unicorn-status
-  - ai-development
-  - European-tech
-  - bubble-speculation
-  - defensibility
-  - scalability
+  - ai
+  - rest
+  - websocket
+  - ai
+  - startup
 entities:
   - Lovable
   - Crandham

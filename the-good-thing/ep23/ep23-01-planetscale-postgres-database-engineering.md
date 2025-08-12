@@ -5,47 +5,47 @@ series: The Good Thing
 episode: 23
 chunk: 1
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Introduction and PlanetScale Analysis
 timecode: 00:00:23:21 – 00:06:53:16
 start_time: 00:00:23:21
 end_time: 00:06:53:16
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- PlanetScale Postgres announcement
-- Database sharding and Vitess technology
-- YouTube's database scaling challenges
-- PlanetScale business strategy and layoffs
+  - PlanetScale Postgres announcement
+  - Database sharding and Vitess technology
+  - YouTube's database scaling challenges
+  - PlanetScale business strategy and layoffs
 tags:
-- postgres
-- vitess
+  - postgres
+  - vitess
 topic_tags:
-- postgres
-- vitess
+  - postgres
+  - vitess
 entities:
-- PlanetScale
-- Stefan Avram
-- Jens Neuse
-- Sam (PlanetScale CEO)
-- YouTube
-- Vitess
-- MySQL
-- Postgres
-- Neon
-- Aurora
-- Supabase
-- Heroku
+  - PlanetScale
+  - Stefan Avram
+  - Jens Neuse
+  - Sam (PlanetScale CEO)
+  - YouTube
+  - Vitess
+  - MySQL
+  - Postgres
+  - Neon
+  - Aurora
+  - Supabase
+  - Heroku
 mentions:
-- PlanetScale Forever blog post
-- database engineering competition
-- Vitess sharding technology
-- YouTube scaling origins
-- company layoffs and focus
-- Postgres sharding implementation
-- competitive landscape analysis
+  - PlanetScale Forever blog post
+  - database engineering competition
+  - Vitess sharding technology
+  - YouTube scaling origins
+  - company layoffs and focus
+  - Postgres sharding implementation
+  - competitive landscape analysis
 summary: Stefan and Jens discuss PlanetScale's major Postgres announcement after a
   hiatus, exploring the technical underpinnings of Vitess sharding technology originally
   developed by YouTube. They analyze PlanetScale's strategic focus following layoffs,

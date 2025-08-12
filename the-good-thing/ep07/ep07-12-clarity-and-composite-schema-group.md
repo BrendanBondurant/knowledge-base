@@ -5,45 +5,45 @@ series: The Good Thing
 episode: 7
 chunk: 12
 participants:
-- Jens
-- Sergiy
-- David
+  - Jens
+  - Sergiy
+  - David
 segment: GraphQL Federation working group participation
 timecode: 01:03:00:00 – 01:08:14:07
 start_time: 01:03:00:00
 end_time: 01:08:14:07
 speakers:
-- Jens
-- Sergiy
-- David
+  - Jens
+  - Sergiy
+  - David
 topics:
-- GraphQL Composite Schema working group goals
-- Eliminating subgraph library requirements
-- Federation evolution and adoption timeline
-- Subgraph-level schema clarity for developers
-- Federated graph size challenges (100,000+ lines)
+  - GraphQL Composite Schema working group goals
+  - Eliminating subgraph library requirements
+  - Federation evolution and adoption timeline
+  - Subgraph-level schema clarity for developers
+  - Federated graph size challenges (100,000+ lines)
 tags:
-- composite-schema
-- subgraph-libraries
+  - composite-schema
+  - subgraph-libraries
 topic_tags:
-- composite-schema
-- subgraph-libraries
+  - composite-schema
+  - subgraph-libraries
 entities:
-- GraphQL Foundation
-- Composite Schema Working Group
-- Apollo Federation
-- Marc-Andre (Netflix)
-- Sergiy
-- David
-- Jens Neuse
+  - GraphQL Foundation
+  - Composite Schema Working Group
+  - Apollo Federation
+  - Marc-Andre (Netflix)
+  - Sergiy
+  - David
+  - Jens Neuse
 mentions:
-- Netflix Federation feedback
-- 100,000+ line federated schemas
-- subgraph library elimination
-- 2018-2019 Federation origins
-- 6-7 year adoption period
-- regular GraphQL API usage
-- composition validation approach
+  - Netflix Federation feedback
+  - 100,000+ line federated schemas
+  - subgraph library elimination
+  - 2018-2019 Federation origins
+  - 6-7 year adoption period
+  - regular GraphQL API usage
+  - composition validation approach
 summary: Discussion of the GraphQL Composite Schema working group's goal to eliminate
   subgraph libraries by enabling regular GraphQL APIs in federation. Sergiy explains
   the benefits for developers reading subgraph schemas without needing massive federated

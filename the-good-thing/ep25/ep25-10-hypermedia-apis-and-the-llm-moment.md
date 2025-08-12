@@ -1,4 +1,3 @@
-
 ---
 title: Hypermedia APIs and the LLM Moment
 slug: ep25-10-hypermedia-apis-and-the-llm-moment
@@ -24,16 +23,10 @@ topics:
   - LLM and agent API interaction potential
   - MCP UI track and hypermedia patterns
 tags:
-- mcp
-- ai
-- rest
-  - distributed-cloud
-  - siren-hypermedia
-  - html-comparison
-  - llm-agents
-  - mcp-ui-track
-  - hypermedia-patterns
-  - dynamic-api-interactions
+  - mcp
+  - ai
+  - rest
+  - ai-agents
 entities:
   - Siren hypermedia type
   - HTML

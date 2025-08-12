@@ -27,19 +27,14 @@ topics:
 summary: |
   Stefan and Jens open the episode with personal updates, including wedding preparations and team news. They set the stage for the episode's main theme and discuss the mood and energy at the end of the week.
 tags:
-- ai
-- websocket
-- startup
-  - personal-updates
-  - wedding-preparation
-  - team-updates
-  - episode-introduction
+  - ai
+  - websocket
   - startup
-  - work-life-balance
+  - startup
 topic_tags:
-- ai
-- websocket
-- startup
+  - ai
+  - websocket
+  - startup
   - personal-updates
   - wedding-preparation
   - team-updates

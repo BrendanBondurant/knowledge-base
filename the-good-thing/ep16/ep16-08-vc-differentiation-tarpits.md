@@ -21,12 +21,10 @@ topics:
   - Current AI investment wave vs previous trends
   - First-time founder competition misunderstanding
 tags:
-- graphql
-- ai
-- database
-  - vc-funding
+  - graphql
+  - ai
+  - database
   - startup
-  - competition-analysis
   - ai
 entities:
   - WunderGraph

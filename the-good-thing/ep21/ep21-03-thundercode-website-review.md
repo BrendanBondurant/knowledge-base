@@ -20,14 +20,9 @@ topics:
   - European startup location disadvantage
   - Generic AI marketing language criticism
 tags:
-- ai
-- startup
-  - thundercode
-  - website-review
   - ai
-  - marketing-critique
-  - location-bias
-  - generic-messaging
+  - startup
+  - ai
 entities:
   - ThunderCode
   - Stefan Avram

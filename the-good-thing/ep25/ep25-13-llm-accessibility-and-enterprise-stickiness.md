@@ -1,4 +1,3 @@
-
 ---
 title: LLM Accessibility and Enterprise Stickiness
 slug: ep25-13-llm-accessibility-and-enterprise-stickiness
@@ -24,15 +23,11 @@ topics:
   - GraphQL vs REST with LLM query capabilities
   - Technology adoption lifecycle and persistence
 tags:
-- graphql
-- mcp
-- ai
-  - ai-attribution
-  - data-scraping-ethics
-  - cloudflare-blocking
-  - graphql-rest-llm
-  - technology-persistence
-  - ai-ethics
+  - graphql
+  - mcp
+  - ai
+  - ai
+  - ai
 entities:
   - OpenAI
   - Cloudflare

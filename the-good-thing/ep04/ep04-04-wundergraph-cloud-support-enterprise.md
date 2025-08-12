@@ -5,38 +5,38 @@ series: The Good Thing
 episode: 4
 chunk: 4
 participants:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 segment: Experiences with WunderGraph Cloud, challenges with low-cost customers, and
   the shift toward enterprise
 timecode: 00:10:07:25 - 00:13:12:27
 start_time: 00:10:07:25
 end_time: 00:13:12:27
 speakers:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 topics:
-- WunderGraph Cloud
-- Low-cost customers
-- Support challenges
-- Enterprise focus
-- Pricing anecdotes
+  - WunderGraph Cloud
+  - Low-cost customers
+  - Support challenges
+  - Enterprise focus
+  - Pricing anecdotes
 tags:
-- startup
-- founder
+  - startup
+  - founder
 topic_tags:
-- startup
-- founder
+  - startup
+  - founder
 entities:
-- Jens
-- Stefan
-- WunderGraph
-- Fly.io
+  - Jens
+  - Stefan
+  - WunderGraph
+  - Fly.io
 mentions:
-- $25/month plan
-- customer outage
-- SLA
-- premium packages
+  - $25/month plan
+  - customer outage
+  - SLA
+  - premium packages
 summary: Jens and Stefan share stories from WunderGraph Cloud, highlighting the difficulties
   of supporting low-cost customers and the realization that enterprise customers are
   more sustainable. They discuss pricing, customer expectations, and the importance

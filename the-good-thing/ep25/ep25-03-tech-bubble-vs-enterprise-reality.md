@@ -1,4 +1,3 @@
-
 ---
 title: Tech Bubble vs Enterprise Reality
 slug: ep25-03-tech-bubble-vs-enterprise-reality
@@ -24,16 +23,10 @@ topics:
   - Media focus on bleeding edge vs actual enterprise usage
   - Mainframe computing persistence example
 tags:
-- ai
-- rest
-- websocket
-  - tech-relevance
-  - infrastructure-boring
-  - tech-bubble
-  - enterprise-reality
-  - mainframe-computing
-  - bleeding-edge
-  - ai-adoption-gap
+  - ai
+  - rest
+  - websocket
+  - ai
 entities:
   - TechCrunch
   - ChatGPT

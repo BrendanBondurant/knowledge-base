@@ -1,4 +1,3 @@
-
 ---
 title: APIs as Plumbing and MCP Dependence
 slug: ep25-09-apis-as-plumbing-and-mcp-dependence
@@ -24,15 +23,9 @@ topics:
   - MCP and API relationship misconceptions
   - Distributed systems and API inevitability
 tags:
-- graphql
-- mcp
-- ai
-  - api-plumbing-analogy
-  - digital-infrastructure
-  - mcp-apis
-  - distributed-systems
-  - client-server-model
-  - api-proliferation
+  - graphql
+  - mcp
+  - ai
 entities:
   - HVAC and plumbing convention
   - Bachelor party

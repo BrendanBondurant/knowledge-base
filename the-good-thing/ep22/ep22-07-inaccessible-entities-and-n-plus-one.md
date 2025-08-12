@@ -5,36 +5,36 @@ series: The Good Thing
 episode: 22
 chunk: 7
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: GraphQL Performance Issues
 timecode: 00:32:04:00 – 00:39:26:00
 start_time: 00:32:04:00
 end_time: 00:39:26:00
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- GraphQL entity accessibility
-- N+1 query performance problems
-- Federation implementation issues
-- Query optimization challenges
+  - GraphQL entity accessibility
+  - N+1 query performance problems
+  - Federation implementation issues
+  - Query optimization challenges
 tags:
-- federation
-- graphql-federation
-- grpc
+  - federation
+  - graphql-federation
+  - grpc
 topic_tags:
-- federation
-- graphql-federation
-- grpc
+  - federation
+  - graphql-federation
+  - grpc
 entities:
-- Stefan Avram
-- Jens Neuse
+  - Stefan Avram
+  - Jens Neuse
 mentions:
-- entity accessibility problems
-- N+1 query patterns
-- implementation challenges
-- performance optimization
+  - entity accessibility problems
+  - N+1 query patterns
+  - implementation challenges
+  - performance optimization
 summary: Stefan and Jens explore GraphQL federation's entity accessibility issues
   and the persistent N+1 query problems that plague federated systems. They discuss
   performance optimization challenges and implementation issues that arise when scaling

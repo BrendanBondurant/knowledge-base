@@ -5,48 +5,48 @@ series: The Good Thing
 episode: 12
 chunk: 7
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: GraphQL Federation Origins
 timecode: 00:22:42:25 – 00:26:19:26
 start_time: 00:22:42:25
 end_time: 00:26:19:26
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- AI startup waves and SDK generation
-- Federation concept history
-- Apollo's entity and key innovations
-- Universal data graph attempts
-- Federation adoption challenges
-- Apollo's mistakes and success
+  - AI startup waves and SDK generation
+  - Federation concept history
+  - Apollo's entity and key innovations
+  - Universal data graph attempts
+  - Federation adoption challenges
+  - Apollo's mistakes and success
 tags:
-- startup
-- universal-data-graph
+  - startup
+  - universal-data-graph
 topic_tags:
-- federation-history
-- apollo-innovations
-- entity-concept
-- startup-waves
-- universal-data-graph
-- graphql-adoption
+  - federation-history
+  - apollo-innovations
+  - entity-concept
+  - startup-waves
+  - universal-data-graph
+  - graphql-adoption
 entities:
-- Apollo
-- GraphQL Federation
-- Universal Data Graph
-- Tyk
-- Dax
-- Nvidia
-- Stefan Avram
-- Jens Neuse
+  - Apollo
+  - GraphQL Federation
+  - Universal Data Graph
+  - Tyk
+  - Dax
+  - Nvidia
+  - Stefan Avram
+  - Jens Neuse
 mentions:
-- SDK startup wave comparison
-- WunderGraph's SDK pivot
-- AI company rebranding trend
-- Apollo Federation 2019 release
-- entity key concept innovation
-- microservices architecture approach
+  - SDK startup wave comparison
+  - WunderGraph's SDK pivot
+  - AI company rebranding trend
+  - Apollo Federation 2019 release
+  - entity key concept innovation
+  - microservices architecture approach
 summary: Discussion of federation's history, with Stefan noting AI company rebranding
   trends and comparing to previous SDK startup waves. Jens explains Apollo's key innovation
   of entities and composite keys for jumping between subgraphs, while reflecting on

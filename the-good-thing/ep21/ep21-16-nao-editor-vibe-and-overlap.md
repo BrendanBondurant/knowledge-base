@@ -20,16 +20,10 @@ topics:
   - Inevitable IDE feature convergence
   - Amy AI agent introduction
 tags:
-- ai
-- database
-- founder
-  - nao
-  - pricing-comparison
-  - data-security
-  - feature-convergence
-  - amy
-  - private-market-investors
-  - startup-humility
+  - ai
+  - database
+  - founder
+  - startup
 entities:
   - Nao
   - Cursor

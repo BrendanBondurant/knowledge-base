@@ -24,12 +24,7 @@ topics:
   - Kubernetes for stateful workloads
   - Virtualization layer choices
 tags:
-  - chaos-engineering
   - kubernetes
-  - reliability-engineering
-  - shared-nothing-architecture
-  - node-expiry
-  - stateful-workloads
 entities:
   - PlanetScale
   - Kubernetes

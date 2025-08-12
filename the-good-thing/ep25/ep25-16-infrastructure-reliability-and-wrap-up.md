@@ -1,4 +1,3 @@
-
 ---
 title: Infrastructure Reliability and Wrap-up
 slug: ep25-16-infrastructure-reliability-and-wrap-up
@@ -24,15 +23,9 @@ topics:
   - Next episode preview with Sam Lambert
   - PlanetScale uptime superiority discussion
 tags:
-- ai
-- database
-- rust
-  - boring-infrastructure
-  - vendor-reliability
-  - episode-wrap-up
-  - planetscale-preview
-  - infrastructure-uptime
-  - vendor-notifications
+  - ai
+  - database
+  - rust
 entities:
   - GCP Kubernetes
   - Vendor Slack notifications

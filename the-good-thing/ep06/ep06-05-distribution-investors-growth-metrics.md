@@ -26,19 +26,15 @@ topics:
 summary: |
   Jens and Stefan discuss the importance of distribution in startup success, the kinds of questions investors ask, and the need for growth metrics beyond feature parity. They reflect on the challenges of fundraising and the pitfalls of simply copying competitors.
 tags:
-- ai
-- apollo-graphql
-- startup
-  - distribution-strategy
-  - investor-relations
-  - growth-metrics
-  - startup-strategy
-  - fundraising
-  - product-differentiation
+  - ai
+  - apollo-graphql
+  - startup
+  - startup
+  - startup
 topic_tags:
-- ai
-- apollo-graphql
-- startup
+  - ai
+  - apollo-graphql
+  - startup
   - distribution-strategy
   - investor-relations
   - growth-metrics

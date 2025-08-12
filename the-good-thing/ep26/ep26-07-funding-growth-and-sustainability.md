@@ -24,12 +24,6 @@ topics:
   - Free tier economics and sustainability
   - Small companies defeating large competitors
 tags:
-  - funding-strategy
-  - sustainable-growth
-  - vc-dynamics
-  - profitability
-  - growth-metrics
-  - competitive-advantage
 entities:
   - PlanetScale
   - Amazon

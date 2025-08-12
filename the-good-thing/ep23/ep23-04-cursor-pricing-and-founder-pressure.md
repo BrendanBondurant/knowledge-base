@@ -5,37 +5,37 @@ series: The Good Thing
 episode: 23
 chunk: 4
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: AI Tool Pricing and Startup Pressures
 timecode: 00:20:08:15 – 00:26:18:00
 start_time: 00:20:08:15
 end_time: 00:26:18:00
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Cursor pricing controversy
-- Early-stage founder pressures
-- AI tool monetization challenges
-- Developer tool pricing strategies
+  - Cursor pricing controversy
+  - Early-stage founder pressures
+  - AI tool monetization challenges
+  - Developer tool pricing strategies
 tags:
-- ai
-- github-copilot
-- websocket
+  - ai
+  - github-copilot
+  - websocket
 topic_tags:
-- ai
-- github-copilot
-- websocket
+  - ai
+  - github-copilot
+  - websocket
 entities:
-- Cursor
-- Stefan Avram
-- Jens Neuse
+  - Cursor
+  - Stefan Avram
+  - Jens Neuse
 mentions:
-- pricing backlash
-- founder pressure dynamics
-- AI tool economics
-- monetization challenges
+  - pricing backlash
+  - founder pressure dynamics
+  - AI tool economics
+  - monetization challenges
 summary: Stefan and Jens examine Cursor's pricing backlash and the pressures faced
   by early-stage founders when monetizing AI tools. They discuss the challenges of
   pricing developer tools and the balance between user expectations and business sustainability.

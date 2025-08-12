@@ -22,9 +22,9 @@ topics:
   - "Just do things" mindset in engineering
   - Programming compared to learning soccer
 tags:
-- go
-- resilience
-- founder
+  - go
+  - resilience
+  - founder
 entities:
   - Jens Neuse
   - Stefan Avram

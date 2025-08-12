@@ -5,48 +5,48 @@ series: The Good Thing
 episode: 21
 chunk: 6
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Marblism Evaluation - Part 2
 timecode: 00:16:08:14 – 00:20:06:05
 start_time: 00:16:08:14
 end_time: 00:20:06:05
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Marblism website design and UX analysis
-- AI employee humanization strategy
-- Interactive demo experience
-- User onboarding and conversion tactics
+  - Marblism website design and UX analysis
+  - AI employee humanization strategy
+  - Interactive demo experience
+  - User onboarding and conversion tactics
 tags:
-- ai
-- websocket
-- founder
+  - ai
+  - websocket
+  - founder
 topic_tags:
-- ai
-- websocket
-- founder
+  - ai
+  - websocket
+  - founder
 entities:
-- Marblism
-- Stefan Avram
-- Jens Neuse
-- Linda (AI employee)
-- Sunny (AI employee)
-- Eva (AI employee)
-- Kara (AI employee)
-- Superhuman
-- Brendan
-- Dustin
+  - Marblism
+  - Stefan Avram
+  - Jens Neuse
+  - Linda (AI employee)
+  - Sunny (AI employee)
+  - Eva (AI employee)
+  - Kara (AI employee)
+  - Superhuman
+  - Brendan
+  - Dustin
 mentions:
-- Andy Warhol comic book design
-- 7820 businesses onboarded
-- humanized AI employee names
-- interactive chat demo
-- discount code for engaged users
-- experienced founders execution
-- 92% satisfaction rate
-- 10,000 weekly AI tasks
+  - Andy Warhol comic book design
+  - 7820 businesses onboarded
+  - humanized AI employee names
+  - interactive chat demo
+  - discount code for engaged users
+  - experienced founders execution
+  - 92% satisfaction rate
+  - 10,000 weekly AI tasks
 summary: Stefan and Jens praise Marblism's creative Andy Warhol-inspired design and
   humanization strategy of giving AI employees names like Linda and Sunny. They appreciate
   the interactive demo that filters for engaged users with a discount code, noting

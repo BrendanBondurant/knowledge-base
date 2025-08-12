@@ -1,4 +1,3 @@
-
 ---
 title: Enterprise LLM Adoption and Traction
 slug: ep25-12-enterprise-llm-adoption-and-traction
@@ -24,15 +23,10 @@ topics:
   - Digital native vs traditional company differences
   - MCP early adoption by newer companies
 tags:
-- mcp
-- ai
-- github-copilot
-  - netflix-ad-model
-  - llm-accessibility
-  - enterprise-ai-adoption
-  - digital-native-companies
-  - mcp-early-adoption
-  - copilot-to-cursor-progression
+  - mcp
+  - ai
+  - github-copilot
+  - ai
 entities:
   - Netflix
   - ChatGPT premium/free tiers
