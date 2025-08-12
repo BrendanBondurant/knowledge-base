@@ -27,11 +27,6 @@ tags:
   - graphql-federation
   - ai
   - federation
-  - graphql-directives
-  - query-optimization
-  - provides-directive
-  - requires-directive
-  - override-directive
 entities:
   - graphql
   - Federation

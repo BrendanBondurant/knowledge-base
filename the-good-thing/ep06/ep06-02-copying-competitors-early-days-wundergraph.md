@@ -28,12 +28,8 @@ tags:
   - federation
   - ai
   - cosmo
-  - copying-competitors
   - startup
   - startup
-  - copycat-accusations
-  - devtools-space
-  - wundergraph-origin
 topic_tags:
   - federation
   - ai

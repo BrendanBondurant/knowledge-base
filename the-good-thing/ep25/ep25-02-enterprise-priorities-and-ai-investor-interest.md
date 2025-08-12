@@ -26,10 +26,6 @@ tags:
   - mcp
   - ai
   - rest
-  - vendor-consulting-difference
-  - enterprise-customers
-  - platform-teams
-  - investor-perspective
   - ai
   - startup
 entities:

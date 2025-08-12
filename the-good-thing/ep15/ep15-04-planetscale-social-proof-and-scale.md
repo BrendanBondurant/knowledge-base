@@ -24,11 +24,7 @@ tags:
   - ai
   - database
   - api-design
-  - planetscale
   - database
-  - performance-claims
-  - case-studies
-  - technical-marketing
 entities:
   - PlanetScale
   - eBay

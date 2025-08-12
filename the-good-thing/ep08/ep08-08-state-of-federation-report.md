@@ -24,11 +24,7 @@ tags:
   - federation
   - graphql-federation
   - ai
-  - state-of-federation
   - startup
-  - enterprise-adoption
-  - gartner-predictions
-  - competitive-ecosystem
   - graphql-federation
 entities:
   - State of GraphQL Federation Report

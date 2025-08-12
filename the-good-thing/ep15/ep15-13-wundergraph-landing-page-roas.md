@@ -24,11 +24,7 @@ tags:
   - federation
   - graphql-federation
   - ai
-  - wundergraph
-  - self-critique
   - graphql-federation
-  - technical-messaging
-  - target-audience
 entities:
   - WunderGraph
   - Dustin (CTO)

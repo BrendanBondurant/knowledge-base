@@ -28,10 +28,6 @@ tags:
   - federation
   - ai
   - cosmo-router
-  - cost-optimization
-  - infrastructure-strategy
-  - collaboration-features
-  - cloud-providers
   - startup
   - startup
 topic_tags:

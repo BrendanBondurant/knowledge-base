@@ -26,13 +26,6 @@ tags:
   - ai
   - api-design
   - open-source
-  - cto-decisions
-  - risk-management
-  - tool-recommendations
-  - open-source-gateways
-  - saas-control-plane
-  - distributed-architecture
-  - gitops-approach
 entities:
   - Fortune 100 companies
   - Kong

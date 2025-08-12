@@ -24,12 +24,6 @@ tags:
   - mcp
   - websocket
   - mcp
-  - stdio-implementation
-  - sse-vulnerabilities
-  - hacker-news
-  - cli-security
-  - network-attacks
-  - local-vulnerabilities
 entities:
   - MCP
   - Hacker News

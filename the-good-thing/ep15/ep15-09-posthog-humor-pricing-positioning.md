@@ -24,11 +24,7 @@ tags:
   - graphql
   - ai
   - kubernetes
-  - posthog
   - startup
-  - humor-marketing
-  - objection-handling
-  - reverse-psychology
 entities:
   - PostHog
 mentions:

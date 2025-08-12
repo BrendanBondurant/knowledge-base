@@ -22,7 +22,6 @@ topics:
   - Tool descriptions and accessibility
 tags:
   - mcp
-  - metaphors
   - federation
 topic_tags:
   - mcp

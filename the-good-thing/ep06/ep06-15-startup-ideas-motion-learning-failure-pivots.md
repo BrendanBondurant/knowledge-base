@@ -27,8 +27,6 @@ tags:
   - ai
   - startup
   - startup
-  - learning-from-failure
-  - team-dynamics
 topic_tags:
   - ai
   - startup

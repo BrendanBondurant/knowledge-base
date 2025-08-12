@@ -24,10 +24,6 @@ tags:
   - ai
   - postgres
   - rest
-  - prisma
-  - unikernel
-  - messaging
-  - technical-positioning
   - startup
 entities:
   - Prisma

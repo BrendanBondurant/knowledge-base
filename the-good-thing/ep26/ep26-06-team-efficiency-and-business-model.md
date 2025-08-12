@@ -27,12 +27,7 @@ tags:
   - ai
   - database
   - founder
-  - team-structure
-  - marketing-strategy
   - founder
-  - technical-content
-  - enterprise-sales
-  - profitability
 entities:
   - PlanetScale
   - Ben

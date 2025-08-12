@@ -26,12 +26,6 @@ tags:
   - graphql
   - ai
   - rust
-  - pragmatic-consulting
-  - developer-maturity
-  - dunning-kruger-effect
-  - mount-stupid
-  - knowledge-breadth-depth
-  - consulting-philosophy
 entities:
   - Dunning-Kruger curve
   - Mount Stupid concept

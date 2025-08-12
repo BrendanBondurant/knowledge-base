@@ -25,10 +25,7 @@ tags:
   - graphql-federation
   - ai
   - apollo-graphql
-  - messaging-consistency
-  - low-code
   - ai
-  - landing-page-analysis
 entities:
   - Apollo
   - Kong

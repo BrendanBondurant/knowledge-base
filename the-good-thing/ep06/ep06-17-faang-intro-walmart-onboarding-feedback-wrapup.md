@@ -29,7 +29,6 @@ tags:
   - federation
   - graphql-federation
   - ai
-  - faang-companies
   - startup
 topic_tags:
   - federation

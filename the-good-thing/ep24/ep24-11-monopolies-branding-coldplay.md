@@ -26,11 +26,7 @@ tags:
   - ai
   - open-source
   - startup
-  - strategic-investments
-  - monopoly-theory
   - startup
-  - workplace-ethics
-  - coldplay
 entities:
   - Mark Zuckerberg
   - Meta

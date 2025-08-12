@@ -25,10 +25,6 @@ tags:
   - graphql-federation
   - ai
   - open-source
-  - discord-support
-  - pull-requests
-  - community-management
-  - maintainer-responsibilities
 entities:
   - Discord
   - Cosmo

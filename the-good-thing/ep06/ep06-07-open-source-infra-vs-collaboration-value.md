@@ -29,9 +29,7 @@ tags:
   - graphql-federation
   - ai
   - open-source
-  - infrastructure-vs-collaboration
   - startup
-  - pricing-models
   - startup
 topic_tags:
   - federation

@@ -27,9 +27,7 @@ tags:
   - llm
   - apollo-graphql
   - plugin-system
-  - co-processor
   - llm
-  - legacy-integration
   - apollo-graphql
   - startup
 entities:

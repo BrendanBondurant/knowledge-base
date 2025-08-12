@@ -24,11 +24,6 @@ tags:
   - ai
   - rust
   - startup
-  - landing-pages
-  - sentry
-  - design-review
-  - developer-marketing
-  - cta-strategy
 entities:
   - Sentry
   - GitHub

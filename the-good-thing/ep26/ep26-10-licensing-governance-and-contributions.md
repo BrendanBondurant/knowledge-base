@@ -27,12 +27,7 @@ tags:
   - ai
   - open-source
   - websocket
-  - company-culture
-  - ceo-coding
   - open-source
-  - cncf
-  - bsl-licensing
-  - apache-license
 entities:
   - PlanetScale
   - CNCF

@@ -23,11 +23,8 @@ tags:
   - ai
   - startup
   - founder
-  - marblism
   - founder
-  - y-combinator
   - ai
-  - branding
   - startup
 entities:
   - Stefan Avram

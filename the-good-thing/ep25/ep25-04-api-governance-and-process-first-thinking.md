@@ -26,13 +26,7 @@ tags:
   - ai
   - microservices
   - rest
-  - api-governance
-  - process-first
-  - microservices-complexity
   - api-sprawl
-  - autonomous-teams
-  - enterprise-architecture
-  - vendor-duplication
 entities:
   - Fortune 500 companies
   - Enterprise architects

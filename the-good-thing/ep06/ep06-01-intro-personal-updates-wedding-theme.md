@@ -30,12 +30,7 @@ tags:
   - ai
   - websocket
   - startup
-  - personal-updates
-  - wedding-preparation
-  - team-updates
-  - episode-introduction
   - startup
-  - work-life-balance
 topic_tags:
   - ai
   - websocket

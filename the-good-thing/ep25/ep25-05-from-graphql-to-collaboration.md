@@ -25,12 +25,7 @@ tags:
   - federation
   - graphql-federation
   - ai
-  - wundergraph-evolution
   - graphql-federation
-  - enterprise-sales
-  - collaboration-focus
-  - api-design-process
-  - miro-workflows
 entities:
   - WunderGraph
   - graphql

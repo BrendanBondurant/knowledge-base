@@ -26,12 +26,7 @@ tags:
   - mcp
   - ai
   - github-copilot
-  - netflix-ad-model
-  - llm-accessibility
   - ai
-  - digital-native-companies
-  - mcp-early-adoption
-  - copilot-to-cursor-progression
 entities:
   - Netflix
   - ChatGPT premium/free tiers

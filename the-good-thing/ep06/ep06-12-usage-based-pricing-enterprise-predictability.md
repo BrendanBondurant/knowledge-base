@@ -26,10 +26,7 @@ tags:
   - ai
   - open-source
   - startup
-  - usage-based-pricing
-  - enterprise-predictability
   - startup
-  - business-models
 topic_tags:
   - ai
   - open-source

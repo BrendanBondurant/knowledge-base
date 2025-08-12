@@ -26,10 +26,6 @@ tags:
   - ai
   - rest-connectors
   - graphql-federation
-  - api-integration
-  - testing-challenges
-  - graphql-directives
-  - legacy-apis
 entities:
   - Apollo
   - graphql

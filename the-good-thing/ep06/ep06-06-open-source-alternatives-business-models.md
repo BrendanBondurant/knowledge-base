@@ -29,10 +29,8 @@ tags:
   - postgres
   - apollo-graphql
   - open-source
-  - business-models
   - startup
   - startup
-  - collaboration-tools
 topic_tags:
   - ai
   - postgres

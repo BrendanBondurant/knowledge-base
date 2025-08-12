@@ -24,12 +24,7 @@ tags:
   - federation
   - ai
   - cosmo-router
-  - business-model
   - startup
-  - collaboration-tools
-  - infrastructure
-  - enterprise-sales
-  - per-seat-pricing
 entities:
   - Prisma
   - Vercel

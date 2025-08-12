@@ -22,12 +22,7 @@ topics:
 tags:
   - ai
   - startup
-  - thundercode
-  - website-review
   - ai
-  - marketing-critique
-  - location-bias
-  - generic-messaging
 entities:
   - ThunderCode
   - Stefan Avram

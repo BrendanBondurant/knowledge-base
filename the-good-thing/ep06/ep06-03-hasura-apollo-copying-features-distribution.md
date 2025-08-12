@@ -27,12 +27,7 @@ tags:
   - graphql
   - apollo-graphql
   - startup
-  - hasura
-  - apollo
-  - feature-copying
-  - distribution-strategy
   - startup
-  - competitive-markets
 topic_tags:
   - graphql
   - apollo-graphql

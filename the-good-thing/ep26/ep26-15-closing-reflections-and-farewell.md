@@ -24,10 +24,7 @@ topics:
 tags:
   - ai
   - database
-  - episode-closing
   - ai
-  - future-episodes
-  - gratitude
 entities:
   - PlanetScale
   - AI

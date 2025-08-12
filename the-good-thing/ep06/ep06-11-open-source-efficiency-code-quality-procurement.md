@@ -29,9 +29,6 @@ tags:
   - graphql-federation
   - ai
   - open-source
-  - code-quality
-  - enterprise-procurement
-  - sales-process
   - startup
 topic_tags:
   - federation

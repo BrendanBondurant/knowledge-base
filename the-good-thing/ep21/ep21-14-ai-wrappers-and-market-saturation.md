@@ -25,9 +25,6 @@ tags:
   - startup
   - ai
   - startup
-  - nao
-  - data-tools
-  - enterprise-pace
   - startup
 entities:
   - Stefan Avram

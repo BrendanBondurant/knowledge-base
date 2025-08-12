@@ -26,12 +26,6 @@ tags:
   - ai
   - database
   - rust
-  - boring-infrastructure
-  - vendor-reliability
-  - episode-wrap-up
-  - planetscale-preview
-  - infrastructure-uptime
-  - vendor-notifications
 entities:
   - GCP Kubernetes
   - Vendor Slack notifications

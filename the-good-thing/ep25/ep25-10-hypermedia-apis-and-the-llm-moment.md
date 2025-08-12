@@ -26,13 +26,7 @@ tags:
   - mcp
   - ai
   - rest
-  - distributed-cloud
-  - siren-hypermedia
-  - html-comparison
   - ai-agents
-  - mcp-ui-track
-  - hypermedia-patterns
-  - dynamic-api-interactions
 entities:
   - Siren hypermedia type
   - HTML

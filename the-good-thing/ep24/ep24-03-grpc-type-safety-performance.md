@@ -26,10 +26,6 @@ tags:
   - graphql-federation
   - grpc
   - grpc
-  - type-safety
-  - performance-optimization
-  - n-plus-one
-  - graphql-parsing
   - apollo-graphql
   - schema-first
 entities:

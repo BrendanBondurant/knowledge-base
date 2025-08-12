@@ -28,11 +28,8 @@ tags:
   - graphql
   - ai
   - apollo-graphql
-  - competitor-analysis
   - rest-connectors
-  - technical-evaluation
   - startup
-  - engineering-philosophy
   - startup
 topic_tags:
   - graphql

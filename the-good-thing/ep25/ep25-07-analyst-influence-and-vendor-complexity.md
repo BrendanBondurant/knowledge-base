@@ -26,12 +26,6 @@ tags:
   - ai
   - rust
   - rest
-  - magic-quadrant
-  - gartner-forrester
-  - analyst-model
-  - vendor-complexity
-  - api-space-complexity
-  - trusted-third-party
 entities:
   - Kong
   - Apogee

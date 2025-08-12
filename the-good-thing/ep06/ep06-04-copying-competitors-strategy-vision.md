@@ -29,7 +29,6 @@ tags:
   - ai
   - apollo-graphql
   - startup
-  - competitor-analysis
   - startup
   - startup
   - startup

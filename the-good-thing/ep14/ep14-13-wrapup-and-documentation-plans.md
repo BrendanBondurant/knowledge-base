@@ -26,12 +26,6 @@ tags:
   - mcp
   - ai
   - cosmo
-  - internal-app-building
-  - retool-comparison
-  - super-graph-advantages
-  - documentation-planning
-  - easter-weekend
-  - feature-release
   - startup
 entities:
   - Retool

@@ -23,11 +23,7 @@ topics:
   - 500-node cluster orchestration
   - Real-world scale deployment satisfaction
 tags:
-  - scale-fascination
-  - infrastructure-companies
   - startup
-  - cluster-orchestration
-  - real-world-scale
 entities:
   - PlanetScale
   - Amazon

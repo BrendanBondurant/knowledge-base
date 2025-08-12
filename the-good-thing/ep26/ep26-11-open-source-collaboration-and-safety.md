@@ -28,10 +28,6 @@ tags:
   - postgres
   - open-source
   - open-source
-  - vitess-maintenance
-  - community-contributions
-  - upstream-collaboration
-  - project-governance
 entities:
   - Vitess
   - PlanetScale

@@ -25,12 +25,7 @@ tags:
   - ai
   - cosmo-router
   - rest
-  - meta
-  - open-source-ai
-  - government-pressure
   - ai
-  - business-model
-  - advertising
 entities:
   - Meta
   - Alexander Wang

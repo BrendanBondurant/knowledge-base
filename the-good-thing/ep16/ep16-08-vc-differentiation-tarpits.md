@@ -24,9 +24,7 @@ tags:
   - graphql
   - ai
   - database
-  - vc-funding
   - startup
-  - competition-analysis
   - ai
 entities:
   - WunderGraph

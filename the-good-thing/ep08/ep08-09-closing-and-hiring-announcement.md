@@ -24,12 +24,6 @@ tags:
   - federation
   - graphql-federation
   - ai
-  - episode-wrap
-  - hiring-announcement
-  - upcoming-content
-  - team-growth
-  - feature-updates
-  - transparency
 entities:
   - WunderGraph
   - Stefan Avram

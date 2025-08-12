@@ -27,10 +27,6 @@ tags:
   - mcp
   - ai
   - ai
-  - data-scraping-ethics
-  - cloudflare-blocking
-  - graphql-rest-llm
-  - technology-persistence
   - ai
 entities:
   - OpenAI

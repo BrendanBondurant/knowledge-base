@@ -25,13 +25,8 @@ tags:
   - ai
   - rest
   - websocket
-  - lovable
-  - unicorn-status
   - ai
   - startup
-  - bubble-speculation
-  - defensibility
-  - scalability
 entities:
   - Lovable
   - Crandham

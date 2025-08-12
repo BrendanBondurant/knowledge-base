@@ -29,8 +29,6 @@ tags:
   - ai
   - apollo-graphql
   - open-source
-  - faang-companies
-  - community-contributions
   - startup
 topic_tags:
   - graphql

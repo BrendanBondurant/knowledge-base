@@ -26,13 +26,7 @@ tags:
   - federation
   - graphql-federation
   - grpc
-  - technology-philosophy
-  - problem-focus
-  - solution-obsession
-  - blockchain-analogy
-  - team-size
   - governance
-  - graphql-http
 entities:
   - Stefan Avram
   - Jens Neuse

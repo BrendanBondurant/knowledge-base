@@ -25,9 +25,7 @@ tags:
   - ai
   - cosmo-router
   - founder
-  - corporate-competition
   - ai
-  - energy-mismatch
   - startup
 entities:
   - KubeCon

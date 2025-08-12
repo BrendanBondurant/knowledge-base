@@ -26,12 +26,6 @@ tags:
   - ai
   - rest
   - websocket
-  - tech-relevance
-  - infrastructure-boring
-  - tech-bubble
-  - enterprise-reality
-  - mainframe-computing
-  - bleeding-edge
   - ai
 entities:
   - TechCrunch

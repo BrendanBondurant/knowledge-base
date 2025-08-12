@@ -25,11 +25,6 @@ tags:
   - ai
   - rest
   - api-design
-  - field-cto
-  - investment-criteria
-  - gateway-commoditization
-  - company-differentiation
-  - cloud-utilities
   - startup
 entities:
   - Field CTO role

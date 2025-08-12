@@ -26,12 +26,6 @@ tags:
   - ai
   - cosmo-router
   - ai
-  - cursor
-  - claude-coder
-  - personal-experience
-  - code-quality
-  - research-bias
-  - survey-methodology
 entities:
   - Stefan Avram
   - Jens Neuse

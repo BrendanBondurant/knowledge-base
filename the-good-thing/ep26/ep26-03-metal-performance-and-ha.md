@@ -24,13 +24,6 @@ topics:
   - Ephemeral machines and replication strategy
   - Semi-synchronous replication
 tags:
-  - planetscale-metal
-  - performance
-  - high-availability
-  - bare-metal
-  - nvme
-  - replication
-  - ephemeral-infrastructure
 entities:
   - PlanetScale
   - AWS

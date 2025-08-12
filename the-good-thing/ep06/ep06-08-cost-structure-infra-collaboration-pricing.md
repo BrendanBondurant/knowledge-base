@@ -28,8 +28,6 @@ tags:
   - ai
   - cosmo-router
   - postgres
-  - cost-structure
-  - infrastructure-vs-collaboration
   - startup
 topic_tags:
   - ai

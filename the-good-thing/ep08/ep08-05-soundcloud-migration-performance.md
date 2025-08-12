@@ -24,12 +24,6 @@ tags:
   - federation
   - graphql-federation
   - ai
-  - performance-optimization
-  - nodejs-migration
-  - golang-architecture
-  - cpu-scaling
-  - query-caching
-  - analytics-integration
 entities:
   - SoundCloud
   - Node.js

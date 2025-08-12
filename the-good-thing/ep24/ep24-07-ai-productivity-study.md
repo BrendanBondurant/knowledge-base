@@ -26,12 +26,6 @@ tags:
   - open-source
   - founder
   - ai
-  - research-methodology
-  - sample-size
-  - selection-bias
-  - peer-review
-  - media-criticism
-  - psychology
 entities:
   - Stefan Avram
   - Jens Neuse

@@ -29,11 +29,7 @@ tags:
   - ai
   - apollo-graphql
   - startup
-  - distribution-strategy
-  - investor-relations
-  - growth-metrics
   - startup
-  - fundraising
   - startup
 topic_tags:
   - ai

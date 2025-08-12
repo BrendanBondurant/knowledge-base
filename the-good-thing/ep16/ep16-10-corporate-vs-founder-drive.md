@@ -24,11 +24,8 @@ tags:
   - ai
   - cosmo
   - apollo-graphql
-  - corporate-culture
   - founder
-  - faang-companies
   - startup
-  - work-tradeoffs
 entities:
   - Google
   - FAANG

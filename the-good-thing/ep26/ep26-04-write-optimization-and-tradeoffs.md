@@ -27,12 +27,7 @@ tags:
   - ai
   - database
   - computer-science
-  - write-workloads
   - ai
-  - consistency-tradeoffs
-  - performance
-  - multiple-writers
-  - physics-constraints
 entities:
   - AI
   - PlanetScale

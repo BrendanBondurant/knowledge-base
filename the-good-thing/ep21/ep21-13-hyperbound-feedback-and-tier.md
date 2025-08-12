@@ -23,12 +23,6 @@ tags:
   - ai
   - websocket
   - startup
-  - hyperbound
-  - enterprise-features
-  - differentiation
-  - sales-training
-  - tier-placement
-  - self-service
 entities:
   - Hyperbound
   - Stefan Avram

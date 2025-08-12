@@ -23,11 +23,6 @@ tags:
   - ai
   - database
   - founder
-  - nao
-  - pricing-comparison
-  - data-security
-  - feature-convergence
-  - amy
   - startup
 entities:
   - Nao

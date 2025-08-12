@@ -26,12 +26,6 @@ tags:
   - ai
   - postgres
   - kubernetes
-  - clean-code-evolution
-  - pragmatic-technology
-  - developer-experience
-  - boring-tech-preference
-  - infrastructure-stability
-  - reliability-focus
 entities:
   - Clean Code book
   - Digital Ocean

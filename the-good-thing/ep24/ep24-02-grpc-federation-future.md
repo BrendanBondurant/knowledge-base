@@ -27,8 +27,6 @@ tags:
   - graphql-federation
   - grpc
   - graphql-federation
-  - type-safety
-  - router-architecture
   - data-loading
   - graphql
 entities:

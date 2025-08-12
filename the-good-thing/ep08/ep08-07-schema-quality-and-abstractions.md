@@ -24,12 +24,6 @@ tags:
   - federation
   - graphql-federation
   - ai
-  - schema-design
-  - type-safety
-  - subgraph-quality
-  - developer-experience
-  - abstraction-leakage
-  - federation-directives
 entities:
   - graphql
   - Federation

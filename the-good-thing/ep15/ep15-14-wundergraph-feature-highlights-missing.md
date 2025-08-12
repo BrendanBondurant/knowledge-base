@@ -24,10 +24,7 @@ tags:
   - federation
   - graphql-federation
   - ai
-  - wundergraph
   - cosmo
-  - feature-positioning
-  - business-benefits
   - schema-registry
 entities:
   - WunderGraph

@@ -25,12 +25,6 @@ tags:
   - ai
   - api-design
   - mcp
-  - user-abstraction
-  - web-crawling
-  - api-paradigm
-  - javascript-complexity
-  - accessibility
-  - infinite-regress
 entities:
   - MCP
   - Cursor

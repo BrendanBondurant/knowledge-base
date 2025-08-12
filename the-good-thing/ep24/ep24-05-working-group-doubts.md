@@ -25,9 +25,6 @@ tags:
   - federation
   - graphql-federation
   - grpc
-  - graphql-foundation
-  - federation-spec
-  - working-group
   - graphql
   - graphql
   - startup

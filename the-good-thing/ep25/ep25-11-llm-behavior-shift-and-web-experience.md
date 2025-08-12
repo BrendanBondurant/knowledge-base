@@ -26,12 +26,6 @@ tags:
   - ai
   - rust
   - rest
-  - web-evolution
-  - search-behavior-change
-  - chatgpt-adoption
-  - web-experience-tradeoffs
-  - ad-revenue-disruption
-  - user-behavior-shift
 entities:
   - Web directories
   - Google Search

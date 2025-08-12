@@ -26,12 +26,6 @@ tags:
   - graphql
   - mcp
   - ai
-  - api-plumbing-analogy
-  - digital-infrastructure
-  - mcp-apis
-  - distributed-systems
-  - client-server-model
-  - api-proliferation
 entities:
   - HVAC and plumbing convention
   - Bachelor party

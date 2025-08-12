@@ -25,10 +25,7 @@ topics:
   - GitHub and Meta background
 tags:
   - postgres
-  - sharding
   - startup
-  - database-engineering
-  - battle-hardening
   - open-source
 entities:
   - Postgres

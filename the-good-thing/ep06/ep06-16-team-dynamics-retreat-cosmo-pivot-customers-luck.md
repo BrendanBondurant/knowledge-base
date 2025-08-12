@@ -28,7 +28,6 @@ summary: |
 tags:
   - cosmo
   - startup
-  - team-dynamics
   - startup
   - startup
   - startup
