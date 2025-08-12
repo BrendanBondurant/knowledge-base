@@ -5,48 +5,54 @@ series: The Good Thing
 episode: 7
 chunk: 9
 participants:
-  - Jens
-  - Sergiy
-  - David
+- Jens
+- Sergiy
+- David
 segment: Education and continuous learning discussion
 timecode: 00:45:32:06 – 00:51:06:19
 start_time: 00:45:32:06
 end_time: 00:51:06:19
 speakers:
-  - Jens
-  - Sergiy
-  - David
+- Jens
+- Sergiy
+- David
 topics:
-  - Computer science education value in practice
-  - Continuous learning in fast-changing tech landscape
-  - Git migration from SVN experience
-  - Apollo Federation specification critique
-  - GraphQL Federation working group participation
+- Computer science education value in practice
+- Continuous learning in fast-changing tech landscape
+- Git migration from SVN experience
+- Apollo Federation specification critique
+- GraphQL Federation working group participation
 tags:
-  - education
-  - continuous-learning
-  - computer-science
-  - git-migration
-  - apollo-federation
-  - specifications
+- computer-science
+- graphql-federation
+- specifications
+topic_tags:
+- education
+- continuous-learning
+- computer-science
+- git-migration
+- apollo-federation
+- specifications
 entities:
-  - Computer Science
-  - Git
-  - SVN
-  - Apollo Federation
-  - GraphQL
-  - Jens Neuse
-  - Sergiy
-  - David
+- Computer Science
+- Git
+- SVN
+- Apollo Federation
+- GraphQL
+- Jens Neuse
+- Sergiy
+- David
 mentions:
-  - university computer science education
-  - graph theory and mathematics
-  - SVN to Git transition experience
-  - Apollo Federation directive criticism
-  - GraphQL Federation working group
-  - mathematical foundation of directives
-summary: |
-  Discussion shifts to education and continuous learning, with Sergiy reflecting on university computer science education and his experience migrating from SVN to Git. Jens introduces a critique of Apollo Federation directives, suggesting they lack mathematical foundation and may create inefficient or impossible planning scenarios.
+- university computer science education
+- graph theory and mathematics
+- SVN to Git transition experience
+- Apollo Federation directive criticism
+- GraphQL Federation working group
+- mathematical foundation of directives
+summary: Discussion shifts to education and continuous learning, with Sergiy reflecting
+  on university computer science education and his experience migrating from SVN to
+  Git. Jens introduces a critique of Apollo Federation directives, suggesting they
+  lack mathematical foundation and may create inefficient or impossible planning scenarios.
 ---
 
 00:45:32:06 - 00:45:36:06

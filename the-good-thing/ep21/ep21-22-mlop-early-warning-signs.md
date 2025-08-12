@@ -5,39 +5,44 @@ series: The Good Thing
 episode: 21
 chunk: 22
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Mlop Evaluation - Part 2
 timecode: 01:06:14:00 – 01:09:08:00
 start_time: 01:06:14:00
 end_time: 01:09:08:00
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Mlop GitHub activity concerns
-  - Open source commitment questions
-  - Early stage development issues
-  - Investment justification debate
+- Mlop GitHub activity concerns
+- Open source commitment questions
+- Early stage development issues
+- Investment justification debate
 tags:
-  - mlop
-  - github-activity
-  - open-source-commitment
-  - early-stage-concerns
-  - investment-debate
+- ai
+- cosmo
+- open-source
+topic_tags:
+- ai
+- cosmo
+- open-source
 entities:
-  - Mlop
-  - Stefan Avram
-  - Jens Neuse
-  - GitHub
+- Mlop
+- Stefan Avram
+- Jens Neuse
+- GitHub
 mentions:
-  - minimal GitHub commits
-  - open source strategy questions
-  - early stage development
-  - $21M investment rationale
-  - coin flip vs RIP tier debate
-summary: |
-  Stefan and Jens discover concerning GitHub activity patterns for Mlop, questioning their open source commitment and development progress. Despite the significant $21M funding round suggesting investor confidence, they debate the early warning signs of minimal public development activity and unclear open source strategy, ultimately struggling between "coin flip" and "RIP" tier placement.
+- minimal GitHub commits
+- open source strategy questions
+- early stage development
+- $21M investment rationale
+- coin flip vs RIP tier debate
+summary: Stefan and Jens discover concerning GitHub activity patterns for Mlop, questioning
+  their open source commitment and development progress. Despite the significant $21M
+  funding round suggesting investor confidence, they debate the early warning signs
+  of minimal public development activity and unclear open source strategy, ultimately
+  struggling between "coin flip" and "RIP" tier placement.
 ---
 
 01:06:15:01 - 01:06:20:29

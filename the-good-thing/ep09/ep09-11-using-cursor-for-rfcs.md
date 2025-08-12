@@ -5,44 +5,43 @@ series: The Good Thing
 episode: 9
 chunk: 11
 participants:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 segment: RFC writing and documentation workflows
 timecode: 00:40:00:13 – 00:43:03:19
 start_time: 00:40:00:13
 end_time: 00:43:03:19
 speakers:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 topics:
-  - RFC refactoring with AI assistance
-  - Root concept changes in documentation
-  - Comment integration and feedback application
-  - Document indexing capabilities
-  - GraphQL specification research
-  - Non-coding AI applications
+- RFC refactoring with AI assistance
+- Root concept changes in documentation
+- Comment integration and feedback application
+- Document indexing capabilities
+- GraphQL specification research
+- Non-coding AI applications
 tags:
-  - rfc-writing
-  - documentation
-  - feedback-integration
-  - document-indexing
-  - graphql-spec
-  - research-tools
+- graphql-spec
+topic_tags:
+- graphql-spec
 entities:
-  - Cursor
-  - WunderGraph
-  - GraphQL
-  - GitHub
-  - GraphQL Composite Schema Working Group
+- Cursor
+- WunderGraph
+- GraphQL
+- GitHub
+- GraphQL Composite Schema Working Group
 mentions:
-  - RFC refactoring workflows
-  - pull request comment processing
-  - documentation indexing
-  - GraphQL specification reference
-  - composite schema federation
-  - markdown documentation
-summary: |
-  Jens demonstrates practical applications of Cursor for RFC writing, including automated refactoring of root concepts throughout documents and integrating pull request feedback. He also shows how document indexing enables research by cross-referencing against GraphQL specifications and working group documentation.
+- RFC refactoring workflows
+- pull request comment processing
+- documentation indexing
+- GraphQL specification reference
+- composite schema federation
+- markdown documentation
+summary: Jens demonstrates practical applications of Cursor for RFC writing, including
+  automated refactoring of root concepts throughout documents and integrating pull
+  request feedback. He also shows how document indexing enables research by cross-referencing
+  against GraphQL specifications and working group documentation.
 ---
 
 00:40:00:13 - 00:40:27:09

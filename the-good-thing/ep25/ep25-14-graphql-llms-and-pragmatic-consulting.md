@@ -24,6 +24,9 @@ topics:
   - Mount Stupid concept and humbling experiences
   - Knowledge breadth vs depth trade-offs
 tags:
+- graphql
+- ai
+- rust
   - pragmatic-consulting
   - developer-maturity
   - dunning-kruger-effect
@@ -33,7 +36,7 @@ tags:
 entities:
   - Dunning-Kruger curve
   - Mount Stupid concept
-  - GraphQL
+  - graphql
   - Enterprise architects
   - Design patterns
   - SOLID principles

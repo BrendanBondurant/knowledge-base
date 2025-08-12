@@ -5,46 +5,49 @@ series: The Good Thing
 episode: 21
 chunk: 17
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Amy Evaluation - Part 1
 timecode: 00:51:00:00 – 00:54:05:27
 start_time: 00:51:00:00
 end_time: 00:54:05:27
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Amy's VC associate automation platform
-  - Private market investor tooling
-  - Due diligence and portfolio management
-  - Landing page messaging critique
+- Amy's VC associate automation platform
+- Private market investor tooling
+- Due diligence and portfolio management
+- Landing page messaging critique
 tags:
-  - amy
-  - vc-automation
-  - private-market-investors
-  - due-diligence
-  - portfolio-management
-  - messaging-critique
+- ai
+- startup
+topic_tags:
+- ai
+- startup
 entities:
-  - Amy
-  - Stefan Avram
-  - Jens Neuse
-  - LinkedIn
-  - VC firms
+- Amy
+- Stefan Avram
+- Jens Neuse
+- LinkedIn
+- VC firms
 mentions:
-  - watch list monitoring
-  - deep due diligence
-  - exit planning
-  - portfolio data analysis
-  - market mapping
-  - team evaluations
-  - meeting preparation
-  - associate task automation
-  - LinkedIn video content
-  - humanized AI naming
-summary: |
-  Stefan explains Amy's functionality based on LinkedIn videos, describing how it automates VC associate tasks including due diligence, portfolio management, and market mapping. Jens questions the unclear landing page messaging, suggesting they should explicitly state "Amy does all the stuff that a sales associate does at a VC firm." They discuss the humanization strategy of giving the AI agent a personal name.
+- watch list monitoring
+- deep due diligence
+- exit planning
+- portfolio data analysis
+- market mapping
+- team evaluations
+- meeting preparation
+- associate task automation
+- LinkedIn video content
+- humanized AI naming
+summary: Stefan explains Amy's functionality based on LinkedIn videos, describing
+  how it automates VC associate tasks including due diligence, portfolio management,
+  and market mapping. Jens questions the unclear landing page messaging, suggesting
+  they should explicitly state "Amy does all the stuff that a sales associate does
+  at a VC firm." They discuss the humanization strategy of giving the AI agent a personal
+  name.
 ---
 
 00:50:51:06 - 00:51:02:10

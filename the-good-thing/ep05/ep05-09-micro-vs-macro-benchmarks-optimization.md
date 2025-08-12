@@ -5,36 +5,49 @@ series: The Good Thing
 episode: 5
 chunk: 09
 participants:
-  - Jens
-  - Stefan
-segment: The difference between micro and macro benchmarks, and the tradeoffs in code optimization
-
+- Jens
+- Stefan
+segment: The difference between micro and macro benchmarks, and the tradeoffs in code
+  optimization
 timecode: 00:51:27:14 - 00:56:04:15
 start_time: 00:51:27:14
 end_time: 00:56:04:15
 speakers:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 topics:
-  - Micro benchmarks
-  - Macro benchmarks
-  - Code optimization
-  - Performance tradeoffs
-  - Readability vs. speed
-  - Garbage collection
-  - Developer experience
-  - Product improvement
-  - Benchmarking tools
-  - Real-world performance
+- Micro benchmarks
+- Macro benchmarks
+- Code optimization
+- Performance tradeoffs
+- Readability vs. speed
+- Garbage collection
+- Developer experience
+- Product improvement
+- Benchmarking tools
+- Real-world performance
 tags:
-  - micro-benchmarks
-  - macro-benchmarks
-  - code-optimization
-  - performance
-  - developer-experience
-  - technical-validation
-summary: |
-  Jens and Stefan discuss the difference between micro and macro benchmarks, the dangers of over-optimizing code, and the tradeoffs between readability and speed. They share insights on garbage collection, benchmarking tools, and why real-world performance matters more than synthetic tests.
+- micro-benchmarks
+- macro-benchmarks
+topic_tags:
+- micro-benchmarks
+- macro-benchmarks
+entities:
+- Jens Neuse
+- Stefan Avram
+- WunderGraph
+mentions:
+- micro vs macro benchmarks
+- code optimization tradeoffs
+- readability vs speed
+- garbage collection impact
+- benchmarking tools
+- real-world performance
+- developer experience priorities
+summary: Jens and Stefan discuss the difference between micro and macro benchmarks,
+  the dangers of over-optimizing code, and the tradeoffs between readability and speed.
+  They share insights on garbage collection, benchmarking tools, and why real-world
+  performance matters more than synthetic tests.
 ---
 
 00:51:27:14 - 00:51:51:03

@@ -22,6 +22,9 @@ topics:
   - REST API abstraction leakage into GraphQL schemas
   - Federation directive complexity (@provides, @requires)
 tags:
+- federation
+- graphql-federation
+- ai
   - schema-design
   - type-safety
   - subgraph-quality
@@ -29,7 +32,7 @@ tags:
   - abstraction-leakage
   - federation-directives
 entities:
-  - GraphQL
+  - graphql
   - Federation
   - SAP
   - SOAP APIs

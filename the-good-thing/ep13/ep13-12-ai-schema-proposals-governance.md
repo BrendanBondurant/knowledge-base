@@ -5,47 +5,55 @@ series: The Good Thing
 episode: 13
 chunk: 12
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Automated Schema Change Proposals and Governance
 timecode: 00:45:02 – 00:50:04
 start_time: 00:45:02
 end_time: 00:50:04
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Dream query workflow execution
-  - AI-generated schema change proposals
-  - Automatic field addition to GraphQL types
-  - Frontend-backend workflow transformation
-  - MCP tool marketplace vision
+- Dream query workflow execution
+- AI-generated schema change proposals
+- Automatic field addition to GraphQL types
+- Frontend-backend workflow transformation
+- MCP tool marketplace vision
 tags:
-  - schema-proposals
-  - ai-governance
-  - dream-query
-  - frontend-backend
-  - workflow-automation
-  - mcp-marketplace
-  - schema-evolution
+- ai
+- dream-query
+- mcp
+- schema-evolution
+topic_tags:
+- schema-proposals
+- ai-governance
+- dream-query
+- frontend-backend
+- workflow-automation
+- mcp-marketplace
+- schema-evolution
 entities:
-  - Iron Man/Jarvis
-  - GraphQL
-  - Employee type
-  - Family service
-  - Cosmo Studio
-  - MCP tools
+- Iron Man/Jarvis
+- GraphQL
+- Employee type
+- Family service
+- Cosmo Studio
+- MCP tools
 mentions:
-  - Iron Man Jarvis comparison
-  - in-memory schema verification
-  - schema change proposal workflow
-  - age field addition to employee type
-  - family service modification
-  - MCP tools marketplace concept
-  - frontend developer workflow improvement
-  - backend approval governance
-summary: |
-  Jens demonstrates the dream query workflow where AI automatically creates schema change proposals. The system successfully adds an age field to the employee type in the family service through prompting alone. Stefan envisions how this transforms frontend-backend workflows, eliminating the need for manual coordination, while maintaining governance through approval processes.
+- Iron Man Jarvis comparison
+- in-memory schema verification
+- schema change proposal workflow
+- age field addition to employee type
+- family service modification
+- MCP tools marketplace concept
+- frontend developer workflow improvement
+- backend approval governance
+summary: Jens demonstrates the dream query workflow where AI automatically creates
+  schema change proposals. The system successfully adds an age field to the employee
+  type in the family service through prompting alone. Stefan envisions how this transforms
+  frontend-backend workflows, eliminating the need for manual coordination, while
+  maintaining governance through approval processes.
 ---
 
 00:45:03:00 - 00:45:05:04

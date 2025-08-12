@@ -21,7 +21,10 @@ topics:
   - Pull request maintenance responsibilities
   - External contribution quality challenges
 tags:
-  - open-source-community
+- federation
+- graphql-federation
+- ai
+  - open-source
   - discord-support
   - pull-requests
   - community-management

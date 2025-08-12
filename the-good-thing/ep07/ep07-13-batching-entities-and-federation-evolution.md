@@ -5,47 +5,55 @@ series: The Good Thing
 episode: 7
 chunk: 13
 participants:
-  - Jens
-  - Sergiy
-  - David
+- Jens
+- Sergiy
+- David
 segment: Entity batching and composite schema evolution
 timecode: 01:08:14:09 – 01:14:15:10
 start_time: 01:08:14:09
 end_time: 01:14:15:10
 speakers:
-  - Jens
-  - Sergiy
-  - David
+- Jens
+- Sergiy
+- David
 topics:
-  - _entities field batching in Apollo Federation
-  - Regular GraphQL fields vs entity representations
-  - Composite schema spec batching approaches
-  - Benchmark bias and methodology challenges
-  - Query planning performance considerations
+- _entities field batching in Apollo Federation
+- Regular GraphQL fields vs entity representations
+- Composite schema spec batching approaches
+- Benchmark bias and methodology challenges
+- Query planning performance considerations
 tags:
-  - entity-batching
-  - apollo-federation
-  - composite-schema
-  - benchmarking
-  - query-planning
-  - performance
+- graphql-federation
+- composite-schema
+- benchmarking
+- query-planning
+topic_tags:
+- entity-batching
+- apollo-federation
+- composite-schema
+- benchmarking
+- query-planning
+- performance
 entities:
-  - Apollo Federation
-  - GraphQL
-  - Composite Schema Spec
-  - Jens Neuse
-  - Sergiy
-  - David
+- Apollo Federation
+- GraphQL
+- Composite Schema Spec
+- Jens Neuse
+- Sergiy
+- David
 mentions:
-  - _entities field as array of any
-  - JSON representations
-  - batch root fields approach
-  - data loader patterns
-  - n+1 problem solutions
-  - cold query performance
-  - P95 metrics
-summary: |
-  Discussion of the love-hate relationship with Apollo Federation's _entities batching mechanism using JSON representations. Sergiy explains potential solutions in the composite schema spec, while the conversation shifts to benchmark bias, cold start performance, and the challenges of measuring real-world federation performance across different scenarios.
+- _entities field as array of any
+- JSON representations
+- batch root fields approach
+- data loader patterns
+- n+1 problem solutions
+- cold query performance
+- P95 metrics
+summary: Discussion of the love-hate relationship with Apollo Federation's _entities
+  batching mechanism using JSON representations. Sergiy explains potential solutions
+  in the composite schema spec, while the conversation shifts to benchmark bias, cold
+  start performance, and the challenges of measuring real-world federation performance
+  across different scenarios.
 ---
 
 01:08:14:09 - 01:08:25:22

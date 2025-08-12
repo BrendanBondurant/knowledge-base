@@ -5,43 +5,49 @@ series: The Good Thing
 episode: 9
 chunk: 3
 participants:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 segment: Federation benefits and schema registry
 timecode: 00:08:36:13 – 00:13:07:13
 start_time: 00:08:36:13
 end_time: 00:13:07:13
 speakers:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 topics:
-  - Schema registry and supergraph coordination
-  - Client query analytics and monitoring
-  - Breaking change prevention
-  - QA time savings through contract testing
-  - Schema mapping and team coordination
-  - Federation flywheel effect
+- Schema registry and supergraph coordination
+- Client query analytics and monitoring
+- Breaking change prevention
+- QA time savings through contract testing
+- Schema mapping and team coordination
+- Federation flywheel effect
 tags:
-  - schema-registry
-  - observability
-  - breaking-changes
-  - contract-testing
-  - team-coordination
-  - cosmo
+- schema-registry
+- observability
+- contract-testing
+- cosmo
+topic_tags:
+- schema-registry
+- observability
+- contract-testing
+- cosmo
 entities:
-  - Cosmo
-  - WunderGraph
-  - GraphQL Federation
-  - Schema Registry
+- Cosmo
+- WunderGraph
+- GraphQL Federation
+- Schema Registry
 mentions:
-  - supergraph and subgraph schemas
-  - client query analytics
-  - 30% QA time savings
-  - WGC check command
-  - 20 clients and 2000 queries
-  - schema-to-people mapping
-summary: |
-  Jens explains how federation provides schema coordination through Cosmo's registry, which tracks supergraph schemas, subgraphs, and client usage patterns. This enables breaking change prevention, team coordination, and significant QA time savings. He discusses the federation flywheel effect where more users create more use cases, attracting even more users.
+- supergraph and subgraph schemas
+- client query analytics
+- 30% QA time savings
+- WGC check command
+- 20 clients and 2000 queries
+- schema-to-people mapping
+summary: Jens explains how federation provides schema coordination through Cosmo's
+  registry, which tracks supergraph schemas, subgraphs, and client usage patterns.
+  This enables breaking change prevention, team coordination, and significant QA time
+  savings. He discusses the federation flywheel effect where more users create more
+  use cases, attracting even more users.
 ---
 
 00:08:36:13 - 00:08:59:22

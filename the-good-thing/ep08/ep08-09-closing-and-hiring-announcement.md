@@ -22,6 +22,9 @@ topics:
   - February feature update compilation
   - Team growth and recruiting expansion
 tags:
+- federation
+- graphql-federation
+- ai
   - episode-wrap
   - hiring-announcement
   - upcoming-content

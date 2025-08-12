@@ -5,37 +5,38 @@ series: The Good Thing
 episode: 15
 chunk: 15
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: WunderGraph Feature Benefits Analysis
 timecode: 01:08:14 – 01:13:12
 start_time: 01:08:14
 end_time: 01:13:12
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Schema checks and graph pruning capabilities
-  - Feature flags underrepresentation on landing page
-  - Missing customer success metrics
-  - QA time reduction benefits
-  - Contract testing replacement value
+- Schema checks and graph pruning capabilities
+- Feature flags underrepresentation on landing page
+- Missing customer success metrics
+- QA time reduction benefits
+- Contract testing replacement value
 tags:
-  - wundergraph
-  - schema-checks
-  - feature-flags
-  - customer-success
-  - qa-efficiency
+- schema-checks
+topic_tags:
+- schema-checks
 entities:
-  - WunderGraph
+- WunderGraph
 mentions:
-  - Schema checks reducing QA time by 30%
-  - Feature flags enabling 68% QA time reduction
-  - Graph pruning and proposal checks
-  - Contract testing replacement benefits
-  - Customer use case presentation needs
-summary: |
-  Stefan and Jens discuss WunderGraph's powerful but underrepresented features like schema checks and feature flags. They emphasize the need to showcase customer success stories, such as 30% QA time reduction through schema checks replacing contract testing, rather than just listing technical features without business context and quantified benefits.
+- Schema checks reducing QA time by 30%
+- Feature flags enabling 68% QA time reduction
+- Graph pruning and proposal checks
+- Contract testing replacement benefits
+- Customer use case presentation needs
+summary: Stefan and Jens discuss WunderGraph's powerful but underrepresented features
+  like schema checks and feature flags. They emphasize the need to showcase customer
+  success stories, such as 30% QA time reduction through schema checks replacing contract
+  testing, rather than just listing technical features without business context and
+  quantified benefits.
 ---
 
 01:08:14:21 - 01:08:38:15

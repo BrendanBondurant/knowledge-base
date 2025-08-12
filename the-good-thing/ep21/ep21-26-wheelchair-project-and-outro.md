@@ -5,38 +5,41 @@ series: The Good Thing
 episode: 21
 chunk: 26
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Personal Story and Episode Conclusion
 timecode: 01:17:05:13 – 01:20:15:00
 start_time: 01:17:05:13
 end_time: 01:20:15:00
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Jens' Tanzania wheelchair project
-  - Social impact technology
-  - Episode conclusion and reflections
-  - Community engagement
+- Jens' Tanzania wheelchair project
+- Social impact technology
+- Episode conclusion and reflections
+- Community engagement
 tags:
-  - tanzania-project
-  - wheelchair-technology
-  - social-impact
-  - episode-conclusion
-  - community-engagement
+- ai
+- founder
+topic_tags:
+- ai
+- founder
 entities:
-  - Stefan Avram
-  - Jens Neuse
-  - Tanzania
+- Stefan Avram
+- Jens Neuse
+- Tanzania
 mentions:
-  - Tanzanian wheelchair initiative
-  - technology for social good
-  - personal project sharing
-  - episode wrap-up
-  - audience engagement
-summary: |
-  Jens shares a personal story about a wheelchair project in Tanzania, providing a meaningful contrast to the commercial startup evaluations. The episode concludes with reflections on technology's potential for social impact beyond venture-backed startups, ending on a note that emphasizes purpose-driven innovation and community engagement.
+- Tanzanian wheelchair initiative
+- technology for social good
+- personal project sharing
+- episode wrap-up
+- audience engagement
+summary: Jens shares a personal story about a wheelchair project in Tanzania, providing
+  a meaningful contrast to the commercial startup evaluations. The episode concludes
+  with reflections on technology's potential for social impact beyond venture-backed
+  startups, ending on a note that emphasizes purpose-driven innovation and community
+  engagement.
 ---
 
 01:17:05:13 - 01:17:28:27

@@ -5,41 +5,50 @@ series: The Good Thing
 episode: 2
 chunk: 11
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Hypermedia APIs and AI Agents
 timecode: 00:43:16:25 – 00:47:02:28
 start_time: 00:43:16:25
 end_time: 00:47:02:28
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Hypermedia APIs and REST
-  - LLM agents and API design
-  - OpenAPI specifications
-  - GraphQL vs hypermedia
-  - Future of API design
+- Hypermedia APIs and REST
+- LLM agents and API design
+- OpenAPI specifications
+- GraphQL vs hypermedia
+- Future of API design
 tags:
-  - hypermedia-apis
-  - llm-agents
-  - rest-apis
-  - openapi
-  - api-design
+- hypermedia-apis
+- ai-agents
+- rest-apis
+- openapi
+- api-design
+topic_tags:
+- hypermedia-apis
+- llm-agents
+- rest-apis
+- openapi
+- api-design
 entities:
-  - WunderGraph
-  - GraphQL Federation
-  - REST APIs
-  - Hypermedia APIs
-  - LLM Agents
+- WunderGraph
+- GraphQL Federation
+- REST APIs
+- Hypermedia APIs
+- LLM Agents
 mentions:
-  - OpenAPI spec
-  - hypermedia links
-  - self-describing APIs
-  - agent collaboration
-  - API documentation
-summary: |
-  Jens discusses hypermedia APIs and their potential resurgence with LLM agents. He explains how hypermedia APIs provide self-describing capabilities that are perfect for AI agents to navigate, while acknowledging that for human developers, structured specifications like OpenAPI or GraphQL schemas are more practical. The conversation explores the future of API design in the age of AI agents.
+- OpenAPI spec
+- hypermedia links
+- self-describing APIs
+- agent collaboration
+- API documentation
+summary: Jens discusses hypermedia APIs and their potential resurgence with LLM agents.
+  He explains how hypermedia APIs provide self-describing capabilities that are perfect
+  for AI agents to navigate, while acknowledging that for human developers, structured
+  specifications like OpenAPI or GraphQL schemas are more practical. The conversation
+  explores the future of API design in the age of AI agents.
 ---
 
 00:43:16:25 - 00:43:20:11

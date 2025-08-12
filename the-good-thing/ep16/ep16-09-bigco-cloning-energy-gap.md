@@ -21,11 +21,14 @@ topics:
   - Energy and commitment differences
   - Corporate employee motivation misalignment
 tags:
-  - founder-advantage
+- graphql
+- ai
+- cosmo-router
+  - founder
   - corporate-competition
-  - ai-investment-trends
+  - ai
   - energy-mismatch
-  - startup-advantages
+  - startup
 entities:
   - KubeCon
   - VCs

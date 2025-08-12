@@ -5,41 +5,47 @@ series: The Good Thing
 episode: 16
 chunk: 11
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Enterprise Requirements and Brand Assets
 timecode: 00:51:18 – 00:56:51
 start_time: 00:51:18
 end_time: 00:56:51
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Enterprise SLA requirements and complexity
-  - Brand building through content marketing
-  - Customer logos and social proof value
-  - Market maturity and competitive positioning
-  - Startup innovation versus big company resources
+- Enterprise SLA requirements and complexity
+- Brand building through content marketing
+- Customer logos and social proof value
+- Market maturity and competitive positioning
+- Startup innovation versus big company resources
 tags:
-  - sla-requirements
-  - brand-building
-  - customer-logos
-  - market-maturity
-  - content-marketing
+- startup
+topic_tags:
+- sla-requirements
+- brand-building
+- customer-logos
+- market-maturity
+- content-marketing
 entities:
-  - WunderGraph
-  - eBay
-  - SoundCloud
-  - Apollo
-  - Frankelly
+- WunderGraph
+- eBay
+- SoundCloud
+- Apollo
+- Frankelly
 mentions:
-  - 200+ blog posts building brand and knowledge base
-  - eBay and SoundCloud customer stories
-  - Enterprise SLA complexity and learning curve
-  - Market maturity making competition tough
-  - Frankelly's message about startup innovation
-summary: |
-  Jens concludes the forking discussion by highlighting additional competitive moats: enterprise SLA complexity, brand momentum from 200+ blog posts, and valuable customer logos like eBay and SoundCloud. He emphasizes how brand recognition in the GraphQL space and proven customer stories create significant barriers for competitors, while acknowledging the market's maturity makes any new entrant's path challenging regardless of their approach.
+- 200+ blog posts building brand and knowledge base
+- eBay and SoundCloud customer stories
+- Enterprise SLA complexity and learning curve
+- Market maturity making competition tough
+- Frankelly's message about startup innovation
+summary: 'Jens concludes the forking discussion by highlighting additional competitive
+  moats: enterprise SLA complexity, brand momentum from 200+ blog posts, and valuable
+  customer logos like eBay and SoundCloud. He emphasizes how brand recognition in
+  the GraphQL space and proven customer stories create significant barriers for competitors,
+  while acknowledging the market''s maturity makes any new entrant''s path challenging
+  regardless of their approach.'
 ---
 
 00:51:18:05 - 00:51:45:14

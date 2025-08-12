@@ -5,42 +5,46 @@ series: The Good Thing
 episode: 9
 chunk: 7
 participants:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 segment: Query validation and feedback loops
 timecode: 00:25:32:11 – 00:30:07:10
 start_time: 00:25:32:11
 end_time: 00:30:07:10
 speakers:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 topics:
-  - Vector similarity search process
-  - Query validation techniques
-  - Hallucination prevention
-  - Multi-step validation approach
-  - Linter-style feedback loops
-  - Cursor AI development patterns
+- Vector similarity search process
+- Query validation techniques
+- Hallucination prevention
+- Multi-step validation approach
+- Linter-style feedback loops
+- Cursor AI development patterns
 tags:
-  - query-validation
-  - feedback-loops
-  - hallucination-prevention
-  - ai-development
-  - linting
-  - cursor
+- ai
+topic_tags:
+- query-validation
+- feedback-loops
+- hallucination-prevention
+- ai-development
+- linting
+- cursor
 entities:
-  - GraphQL
-  - GitHub
-  - Cursor
+- GraphQL
+- GitHub
+- Cursor
 mentions:
-  - WunderGraph repository stars query
-  - validate query tool
-  - AST parsing and validation
-  - linter feedback integration
-  - 60% accuracy rate
-  - cursor code generation
-summary: |
-  Cameron and Jens discuss the technical implementation of query validation, including vector similarity search, multi-step validation processes, and preventing AI hallucinations. They explore using linter-style feedback loops, similar to Cursor's approach, to improve query accuracy and provide immediate validation feedback.
+- WunderGraph repository stars query
+- validate query tool
+- AST parsing and validation
+- linter feedback integration
+- 60% accuracy rate
+- cursor code generation
+summary: Cameron and Jens discuss the technical implementation of query validation,
+  including vector similarity search, multi-step validation processes, and preventing
+  AI hallucinations. They explore using linter-style feedback loops, similar to Cursor's
+  approach, to improve query accuracy and provide immediate validation feedback.
 ---
 
 00:25:32:11 - 00:26:05:27

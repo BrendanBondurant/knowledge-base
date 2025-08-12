@@ -5,40 +5,49 @@ series: The Good Thing
 episode: 1
 chunk: 11
 participants:
-  - Jens
+- Jens
 segment: Why the First Startup Failed
 timecode: 00:32:55 – 00:36:29
 start_time: 00:32:55
 end_time: 00:36:29
 speakers:
-  - Jens
+- Jens
 topics:
-  - Starting with a product instead of a problem
-  - Building an app without a business model
-  - Common startup trap of AI without clear value
-  - Sales reluctance and founder skill mismatch
-  - Failed assumption about user generated content
-  - Difficulty of local merchant sales and scaling
+- Starting with a product instead of a problem
+- Building an app without a business model
+- Common startup trap of AI without clear value
+- Sales reluctance and founder skill mismatch
+- Failed assumption about user generated content
+- Difficulty of local merchant sales and scaling
 tags:
-  - startup-lessons
-  - team-culture
-  - founder-mindset
-  - lessons-learned
-  - career-growth
+- startup
+- founder
+topic_tags:
+- startup-lessons
+- team-culture
+- founder-mindset
+- lessons-learned
+- career-growth
 entities:
-  - Jens Neuse
-  - WunderGraph
-  - Shakealert
-  - Instagram
+- Jens Neuse
+- WunderGraph
+- Shakealert
+- Instagram
 mentions:
-  - building apps without problem validation
-  - students and local deals
-  - subscription sales to restaurants
-  - go to market friction
-  - founder skill mismatch
-  - flywheel failure
-summary: |
-  Jens shares why his first startup failed. He admits he built an app just to build an app rather than starting with a clear customer problem. The goal was to connect students with local deals via restaurants and shops, but he avoided direct sales, which turned out to be critical. When the team finally tried selling, it proved nearly impossible to get local merchants to pay even 25 dollars per month. They also assumed merchants would post deals themselves like on Instagram, but technical and behavioral friction killed that idea. Despite getting small traction in one city, the business was not scalable.
+- building apps without problem validation
+- students and local deals
+- subscription sales to restaurants
+- go to market friction
+- founder skill mismatch
+- flywheel failure
+summary: Jens shares why his first startup failed. He admits he built an app just
+  to build an app rather than starting with a clear customer problem. The goal was
+  to connect students with local deals via restaurants and shops, but he avoided direct
+  sales, which turned out to be critical. When the team finally tried selling, it
+  proved nearly impossible to get local merchants to pay even 25 dollars per month.
+  They also assumed merchants would post deals themselves like on Instagram, but technical
+  and behavioral friction killed that idea. Despite getting small traction in one
+  city, the business was not scalable.
 ---
 
 

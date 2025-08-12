@@ -5,51 +5,55 @@ series: The Good Thing
 episode: 10
 chunk: 4
 participants:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
+- Stefan
+- Björn
+- Dustin
+- Jens
 segment: Marketing strategy and conference tactics
 timecode: 00:22:37:11 – 00:29:05:17
 start_time: 00:22:37:11
 end_time: 00:29:05:17
 speakers:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
+- Stefan
+- Björn
+- Dustin
+- Jens
 topics:
-  - Technical vs business thinking transition
-  - Cosmo cold start challenges
-  - Competing against well-funded incumbents
-  - GraphQL Conf marketing creativity
-  - Cosmonaut spacesuit branding
-  - GraphQL-shaped pretzel innovation
-  - Guerrilla marketing tactics
+- Technical vs business thinking transition
+- Cosmo cold start challenges
+- Competing against well-funded incumbents
+- GraphQL Conf marketing creativity
+- Cosmonaut spacesuit branding
+- GraphQL-shaped pretzel innovation
+- Guerrilla marketing tactics
 tags:
-  - cold-start
-  - conference-marketing
-  - guerrilla-marketing
-  - apollo-competition
-  - brand-creativity
-  - pretzel-marketing
+- federation
+- graphql-federation
+- ai
+topic_tags:
+- federation
+- graphql-federation
+- ai
 entities:
-  - Cosmo
-  - Apollo
-  - GraphQL Conf
-  - San Francisco
-  - Berkeley
-  - Walmart
+- Cosmo
+- Apollo
+- GraphQL Conf
+- San Francisco
+- Berkeley
+- Walmart
 mentions:
-  - Apollo's $100M funding advantage
-  - orange spacesuit cosmonaut
-  - TV rental workaround
-  - GraphQL logo pretzels
-  - Mario Kart booth strategy
-  - graveyard shift talk
-  - 35 calls in one week
-summary: |
-  Stefan and Jens discuss the transition from technical to business thinking and the extreme cold start challenges facing Cosmo against well-funded Apollo. Stefan details their creative GraphQL Conf strategy including the cosmonaut spacesuit, GraphQL-shaped pretzels, Mario Kart booth, and social engineering tactics that led to 35 customer calls the following week.
+- Apollo's $100M funding advantage
+- orange spacesuit cosmonaut
+- TV rental workaround
+- GraphQL logo pretzels
+- Mario Kart booth strategy
+- graveyard shift talk
+- 35 calls in one week
+summary: Stefan and Jens discuss the transition from technical to business thinking
+  and the extreme cold start challenges facing Cosmo against well-funded Apollo. Stefan
+  details their creative GraphQL Conf strategy including the cosmonaut spacesuit,
+  GraphQL-shaped pretzels, Mario Kart booth, and social engineering tactics that led
+  to 35 customer calls the following week.
 ---
 
 00:22:37:11 - 00:22:40:03

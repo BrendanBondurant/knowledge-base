@@ -5,44 +5,49 @@ series: The Good Thing
 episode: 12
 chunk: 2
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: AI Market Analysis and API Necessity
 timecode: 00:02:13:24 – 00:06:13:28
 start_time: 00:02:13:24
 end_time: 00:06:13:28
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Technology waves and history repeating
-  - AI companies rebranding trend
-  - MCP (Model Context Protocol) significance
-  - AI uselessness without API access
-  - Trust issues with AI systems
+- Technology waves and history repeating
+- AI companies rebranding trend
+- MCP (Model Context Protocol) significance
+- AI uselessness without API access
+- Trust issues with AI systems
 tags:
-  - mcp
-  - ai-limitations
-  - technology-cycles
-  - api-dependency
-  - ai-trust-issues
+- mcp
+- ai
+topic_tags:
+- mcp
+- ai-limitations
+- technology-cycles
+- api-dependency
+- ai-trust-issues
 entities:
-  - Anthropic
-  - ChatGPT
-  - OpenAI
-  - Cursor
-  - Nvidia
-  - Stefan Avram
-  - Jens Neuse
+- Anthropic
+- ChatGPT
+- OpenAI
+- Cursor
+- Nvidia
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - dotcom boom comparison
-  - cloud and mobile shifts
-  - AI rebranding wave
-  - MCP as AI needing APIs
-  - AI in a box is useless
-  - Cursor with file system access
-summary: |
-  Discussion of technology wave patterns from dotcom to cloud to mobile to AI, with every company rebranding as AI. Jens explains MCP (Model Context Protocol) as proof that AI is useless without API access, comparing ChatGPT in a box to how Cursor gains power through file system access.
+- dotcom boom comparison
+- cloud and mobile shifts
+- AI rebranding wave
+- MCP as AI needing APIs
+- AI in a box is useless
+- Cursor with file system access
+summary: Discussion of technology wave patterns from dotcom to cloud to mobile to
+  AI, with every company rebranding as AI. Jens explains MCP (Model Context Protocol)
+  as proof that AI is useless without API access, comparing ChatGPT in a box to how
+  Cursor gains power through file system access.
 ---
 
 00:02:13:24 - 00:02:33:20

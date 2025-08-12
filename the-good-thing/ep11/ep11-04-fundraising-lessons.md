@@ -5,44 +5,47 @@ series: The Good Thing
 episode: 11
 chunk: 4
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Early Fundraising Mistakes and Learning
 timecode: 00:18:09:21 – 00:24:36:05
 start_time: 00:18:09:21
 end_time: 00:24:36:05
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Don't try to impress VCs
-  - Pitch decks don't matter much
-  - Bootstrap to revenue before fundraising
-  - Importance of experienced advisors
-  - First-time founder advantages vs disadvantages
-  - Fundraising like dating
+- Don't try to impress VCs
+- Pitch decks don't matter much
+- Bootstrap to revenue before fundraising
+- Importance of experienced advisors
+- First-time founder advantages vs disadvantages
+- Fundraising like dating
 tags:
-  - fundraising-lessons
-  - first-time-founders
-  - pitch-decks
-  - bootstrapping
-  - advisor-importance
-  - rookie-mistakes
+- ai
+- rest
+- websocket
+topic_tags:
+- ai
+- rest
+- websocket
 entities:
-  - Stefan Avram
-  - Jens Neuse
-  - Mark Zuckerberg
-  - Peter Thiel
-  - WunderGraph
+- Stefan Avram
+- Jens Neuse
+- Mark Zuckerberg
+- Peter Thiel
+- WunderGraph
 mentions:
-  - pitch deck obsession
-  - revenue growth slide importance
-  - bootstrap before fundraising
-  - experienced founder advisors
-  - fundraising like dating
-  - naivety as strength
-summary: |
-  Jens shares early fundraising lessons including not trying to impress VCs, focusing on revenue growth over pitch decks, and the importance of experienced advisors. Stefan compares fundraising to dating and argues that first-time founder naivety can be a strength, while Jens emphasizes the value of experienced guidance.
+- pitch deck obsession
+- revenue growth slide importance
+- bootstrap before fundraising
+- experienced founder advisors
+- fundraising like dating
+- naivety as strength
+summary: Jens shares early fundraising lessons including not trying to impress VCs,
+  focusing on revenue growth over pitch decks, and the importance of experienced advisors.
+  Stefan compares fundraising to dating and argues that first-time founder naivety
+  can be a strength, while Jens emphasizes the value of experienced guidance.
 ---
 
 00:18:09:21 - 00:18:25:10

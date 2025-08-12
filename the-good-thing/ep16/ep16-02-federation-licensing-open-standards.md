@@ -5,43 +5,45 @@ series: The Good Thing
 episode: 16
 chunk: 2
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Licensing Strategy and Enterprise Adoption
 timecode: 00:04:30 – 00:09:15
 start_time: 00:04:30
 end_time: 00:09:15
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Federation as long-term business bet
-  - Licensing constraints for enterprise adoption
-  - FAANG company adoption barriers
-  - Netflix custom gateway development
-  - Dual licensing problems for adoption
+- Federation as long-term business bet
+- Licensing constraints for enterprise adoption
+- FAANG company adoption barriers
+- Netflix custom gateway development
+- Dual licensing problems for adoption
 tags:
-  - federation
-  - licensing
-  - enterprise-adoption
-  - faang
-  - netflix
-  - cosmo
+- federation
+- cosmo
+topic_tags:
+- federation
+- cosmo
 entities:
-  - Cosmo
-  - Federation
-  - GraphQL
-  - Netflix
-  - Apollo
-  - FAANG companies
+- Cosmo
+- Federation
+- GraphQL
+- Netflix
+- Apollo
+- FAANG companies
 mentions:
-  - Ten-year Cosmo adoption vision
-  - Large bank and FAANG licensing restrictions
-  - Netflix building custom federation gateway
-  - Apollo Rust router adoption questions
-  - JVM vs Rust technology choices
-summary: |
-  Jens explains WunderGraph's long-term federation strategy, emphasizing how restrictive licensing prevents FAANG companies and large enterprises from adopting tools. He uses Netflix's decision to build their own federation gateway instead of using Apollo's Rust router as an example of how licensing barriers can force companies to create competing solutions rather than contribute to existing standards.
+- Ten-year Cosmo adoption vision
+- Large bank and FAANG licensing restrictions
+- Netflix building custom federation gateway
+- Apollo Rust router adoption questions
+- JVM vs Rust technology choices
+summary: Jens explains WunderGraph's long-term federation strategy, emphasizing how
+  restrictive licensing prevents FAANG companies and large enterprises from adopting
+  tools. He uses Netflix's decision to build their own federation gateway instead
+  of using Apollo's Rust router as an example of how licensing barriers can force
+  companies to create competing solutions rather than contribute to existing standards.
 ---
 
 00:04:30:14 - 00:05:00:12

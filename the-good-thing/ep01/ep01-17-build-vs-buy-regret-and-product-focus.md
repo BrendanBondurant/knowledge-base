@@ -5,43 +5,51 @@ series: The Good Thing
 episode: 1
 chunk: 17
 participants:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 segment: When Building Becomes a Burden
 timecode: 00:53:29 – 00:57:05
 start_time: 00:53:29
 end_time: 00:57:05
 speakers:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 topics:
-  - Business pressure exposing engineering distractions
-  - Building cool things vs building the right things
-  - Abandoning custom systems midstream
-  - Real cost of internal platform ownership
-  - Importance of build versus buy discipline
-  - Engineers aligning with product and customer goals
+- Business pressure exposing engineering distractions
+- Building cool things vs building the right things
+- Abandoning custom systems midstream
+- Real cost of internal platform ownership
+- Importance of build versus buy discipline
+- Engineers aligning with product and customer goals
 tags:
-  - build-vs-buy
-  - product-strategy
-  - startup-lessons
-  - engineering-decisions
-  - focus
+- startup
+topic_tags:
+- build-vs-buy
+- product-strategy
+- startup-lessons
+- engineering-decisions
+- focus
 entities:
-  - Jens Neuse
-  - Stefan Avram
-  - WunderGraph
-  - Kubernetes
-  - GitLab
-  - Content Management Systems
+- Jens Neuse
+- Stefan Avram
+- WunderGraph
+- Kubernetes
+- GitLab
+- Content Management Systems
 mentions:
-  - build versus buy
-  - platform abandonment
-  - customer centric engineering
-  - ARR impact
-  - product alignment
-summary: |
-  Jens shares how the bare metal Kubernetes effort and the custom CMS project eventually became unsustainable under real business pressure. He admits that while it was fun and technically impressive, it did not support revenue or user growth. Stefan expands on this with an observation common across companies building internal platforms that go unfinished and leave teams burdened. The lesson is not just technical but organizational. Jens emphasizes that experienced engineers should get close to product owners and customers to understand what really moves the business forward. Building something for fun is not the same as building what matters.
+- build versus buy
+- platform abandonment
+- customer centric engineering
+- ARR impact
+- product alignment
+summary: Jens shares how the bare metal Kubernetes effort and the custom CMS project
+  eventually became unsustainable under real business pressure. He admits that while
+  it was fun and technically impressive, it did not support revenue or user growth.
+  Stefan expands on this with an observation common across companies building internal
+  platforms that go unfinished and leave teams burdened. The lesson is not just technical
+  but organizational. Jens emphasizes that experienced engineers should get close
+  to product owners and customers to understand what really moves the business forward.
+  Building something for fun is not the same as building what matters.
 ---
 
 

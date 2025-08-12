@@ -5,47 +5,54 @@ series: The Good Thing
 episode: 9
 chunk: 19
 participants:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 segment: Programming language preferences
 timecode: 01:08:06:01 – 01:10:31:19
 start_time: 01:08:06:01
 end_time: 01:10:31:19
 speakers:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 topics:
-  - Go language advantages for AI
-  - TypeScript for web development
-  - Python and C++ for AI backends
-  - Ecosystem tool availability
-  - Model tracking and monitoring
-  - JVM language alternatives
+- Go language advantages for AI
+- TypeScript for web development
+- Python and C++ for AI backends
+- Ecosystem tool availability
+- Model tracking and monitoring
+- JVM language alternatives
 tags:
-  - go-language
-  - typescript
-  - python
-  - cpp
-  - ai-ecosystems
-  - language-preferences
+- go
+- typescript
+- python
+- ai
+topic_tags:
+- go-language
+- typescript
+- python
+- cpp
+- ai-ecosystems
+- language-preferences
 entities:
-  - Go
-  - TypeScript
-  - Python
-  - C++
-  - Kotlin
-  - Scala
-  - Spring Boot
-  - Java
+- Go
+- TypeScript
+- Python
+- C++
+- Kotlin
+- Scala
+- Spring Boot
+- Java
 mentions:
-  - Go simplicity and readability
-  - TypeScript type safety
-  - AI ecosystem tool availability
-  - model tracking limitations
-  - Kotlin and Scala usage
-  - Java avoidance preference
-summary: |
-  Jens advocates for Go's simplicity and readability in AI code generation, while Cameron agrees on TypeScript for web development but prefers Python or C++ for AI backends due to ecosystem tool availability. They discuss the limitations of Go in the AI space and touch on JVM alternatives like Kotlin and Scala.
+- Go simplicity and readability
+- TypeScript type safety
+- AI ecosystem tool availability
+- model tracking limitations
+- Kotlin and Scala usage
+- Java avoidance preference
+summary: Jens advocates for Go's simplicity and readability in AI code generation,
+  while Cameron agrees on TypeScript for web development but prefers Python or C++
+  for AI backends due to ecosystem tool availability. They discuss the limitations
+  of Go in the AI space and touch on JVM alternatives like Kotlin and Scala.
 ---
 
 01:08:06:01 - 01:08:35:00

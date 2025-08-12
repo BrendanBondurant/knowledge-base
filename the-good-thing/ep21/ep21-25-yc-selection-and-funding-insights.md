@@ -5,38 +5,40 @@ series: The Good Thing
 episode: 21
 chunk: 25
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Y Combinator and WunderGraph Discussion
 timecode: 01:15:12:06 – 01:17:05:13
 start_time: 01:15:12:06
 end_time: 01:17:05:13
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Y Combinator selection criteria
-  - WunderGraph investor relationships
-  - Startup accelerator insights
-  - Investment pattern analysis
+- Y Combinator selection criteria
+- WunderGraph investor relationships
+- Startup accelerator insights
+- Investment pattern analysis
 tags:
-  - y-combinator
-  - wundergraph-investors
-  - selection-criteria
-  - accelerator-insights
-  - investment-patterns
+- ai
+- startup
+topic_tags:
+- ai
+- startup
 entities:
-  - Y Combinator
-  - WunderGraph
-  - Stefan Avram
-  - Jens Neuse
+- Y Combinator
+- WunderGraph
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - YC selection patterns
-  - WunderGraph investor base
-  - accelerator program insights
-  - startup evaluation criteria
-summary: |
-  Jens and Stefan reflect on Y Combinator's selection patterns and discuss WunderGraph's investor relationships. They analyze how accelerator programs evaluate startups and share insights about the investment landscape, drawing from their own experience with building WunderGraph and observing market trends.
+- YC selection patterns
+- WunderGraph investor base
+- accelerator program insights
+- startup evaluation criteria
+summary: Jens and Stefan reflect on Y Combinator's selection patterns and discuss
+  WunderGraph's investor relationships. They analyze how accelerator programs evaluate
+  startups and share insights about the investment landscape, drawing from their own
+  experience with building WunderGraph and observing market trends.
 ---
 
 01:15:12:06 - 01:15:33:17

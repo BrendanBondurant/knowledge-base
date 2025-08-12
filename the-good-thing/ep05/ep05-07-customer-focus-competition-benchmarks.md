@@ -3,41 +3,58 @@ title: Customer Focus, Competition, and Benchmarks
 slug: ep05-07-customer-focus-competition-benchmarks
 series: The Good Thing
 episode: 5
-chunk: 07
+chunk: 7
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Focusing on customers, handling competition, and the pitfalls of benchmarks
 timecode: 00:36:27:06 - 00:45:06:08
 start_time: 00:36:27:06
 end_time: 00:45:06:08
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Customer focus
-  - Competition
-  - Benchmarks
-  - Company values
-  - Product differentiation
-  - Support culture
-  - Copycat competitors
-  - False marketing
-  - Drama in tech
-  - Benchmark manipulation
-  - Real-world use cases
-  - Synthetic benchmarks
-  - Performance
-  - Product improvement
+- Customer focus
+- Competition
+- Benchmarks
+- Company values
+- Product differentiation
+- Support culture
+- Copycat competitors
+- False marketing
+- Drama in tech
+- Benchmark manipulation
+- Real-world use cases
+- Synthetic benchmarks
+- Performance
+- Product improvement
 tags:
-  - customer-focus
-  - competition
-  - benchmarks
-  - technical-validation
-  - startup-strategy
-  - market-positioning
-summary: |
-  Stefan and Jens discuss the importance of focusing on customers rather than competitors, share stories about copycat competitors and false marketing, and debate the value and pitfalls of benchmarks. They reflect on how benchmarks can be manipulated, why real-world use cases matter more, and how customer focus drives product improvement.
+- startup
+topic_tags:
+- customer-focus
+- competition
+- benchmarks
+- technical-validation
+- startup-strategy
+- market-positioning
+entities:
+- Stefan Avram
+- Jens Neuse
+- WunderGraph
+mentions:
+- customer-first philosophy
+- copycat competitors
+- benchmark manipulation
+- false marketing claims
+- tech drama
+- real-world use cases
+- synthetic benchmarks
+- performance validation
+summary: Stefan and Jens discuss the importance of focusing on customers rather than
+  competitors, share stories about copycat competitors and false marketing, and debate
+  the value and pitfalls of benchmarks. They reflect on how benchmarks can be manipulated,
+  why real-world use cases matter more, and how customer focus drives product improvement.
 ---
 
 00:36:27:06 - 00:36:51:27

@@ -25,6 +25,9 @@ topics:
   - Small team achieving high reliability
   - Team composition and expertise
 tags:
+- ai
+- postgres
+- open-source
   - open-source
   - vitess
   - aws-competition

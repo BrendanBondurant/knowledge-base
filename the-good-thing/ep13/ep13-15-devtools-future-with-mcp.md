@@ -5,47 +5,51 @@ series: The Good Thing
 episode: 13
 chunk: 15
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Future of Development Tools and IDE Integration
 timecode: 00:59:01 – 01:01:31
 start_time: 00:59:01
 end_time: 01:01:31
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - IDE-native workflow revolution
-  - Shift from UI to prompt-driven development
-  - Copilot as workflow manager
-  - DevTool automation opportunities
-  - MCP availability in WunderGraph/Cosmo
+- IDE-native workflow revolution
+- Shift from UI to prompt-driven development
+- Copilot as workflow manager
+- DevTool automation opportunities
+- MCP availability in WunderGraph/Cosmo
 tags:
-  - devtools-future
-  - ide-integration
-  - workflow-automation
-  - prompt-driven-development
-  - copilot-workflows
-  - mcp-availability
+- mcp
+- ai
+- github-copilot
+topic_tags:
+- mcp
+- ai
+- github-copilot
 entities:
-  - IDE
-  - Copilot
-  - Cosmo Schema Registry
-  - WunderGraph
-  - Cosmo
-  - Easter
-  - LinkedIn
+- IDE
+- Copilot
+- Cosmo Schema Registry
+- WunderGraph
+- Cosmo
+- Easter
+- LinkedIn
 mentions:
-  - never leaving IDE workflow
-  - schema proposal visualization in studio
-  - shift from UI to CLI/Terraform
-  - IDE as workflow manager
-  - dev tool makers opportunities
-  - Easter schedule discussion
-  - MCP availability announcement
-  - Jarvis reference
-summary: |
-  Stefan and Jens reflect on the revolutionary shift in development workflows, noting how MCP enables powerful IDE-native automation without leaving the development environment. Jens observes the evolution from UI-based to prompt-driven development tools, positioning IDEs as workflow managers. They conclude with announcing MCP availability in WunderGraph/Cosmo and discuss upcoming episodes around Easter.
+- never leaving IDE workflow
+- schema proposal visualization in studio
+- shift from UI to CLI/Terraform
+- IDE as workflow manager
+- dev tool makers opportunities
+- Easter schedule discussion
+- MCP availability announcement
+- Jarvis reference
+summary: Stefan and Jens reflect on the revolutionary shift in development workflows,
+  noting how MCP enables powerful IDE-native automation without leaving the development
+  environment. Jens observes the evolution from UI-based to prompt-driven development
+  tools, positioning IDEs as workflow managers. They conclude with announcing MCP
+  availability in WunderGraph/Cosmo and discuss upcoming episodes around Easter.
 ---
 
 00:59:01:07 - 00:59:09:03

@@ -5,42 +5,51 @@ series: The Good Thing
 episode: 1
 chunk: 21
 participants:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 segment: Teamwork Federation and Where We Are Headed
 timecode: 01:07:15 – 01:10:10
 start_time: 01:07:15
 end_time: 01:10:10
 speakers:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 topics:
-  - Team dynamics and working with people you like
-  - Collaboration as key to successful projects and startups
-  - Federation enabling API collaboration at scale
-  - Hinting at future plans for 2025
-  - Podcast schedule and community engagement
-  - Social media clips and audience feedback
+- Team dynamics and working with people you like
+- Collaboration as key to successful projects and startups
+- Federation enabling API collaboration at scale
+- Hinting at future plans for 2025
+- Podcast schedule and community engagement
+- Social media clips and audience feedback
 tags:
-  - team-culture
-  - graphql
-  - api-governance
-  - podcast-schedule
-  - wundergraph
+- graphql
+- startup
+topic_tags:
+- team-culture
+- graphql
+- api-governance
+- podcast-schedule
+- wundergraph
 entities:
-  - Jens Neuse
-  - Stefan Avram
-  - WunderGraph
-  - Federation
-  - TYK
+- Jens Neuse
+- Stefan Avram
+- WunderGraph
+- Federation
+- TYK
 mentions:
-  - collaboration in tech
-  - API schema teamwork
-  - podcast schedule
-  - 2025 product direction
-  - audience interaction on LinkedIn and Twitter
-summary: |
-  Jens closes by emphasizing that the key to building successful products is collaboration. Whether it is a startup or a corporate project, you need a team of people who enjoy working together. He ties this directly to WunderGraph and their focus on enabling collaboration through tools like Federation. Stefan wraps the episode by previewing the next one, which will cover TYK, early product challenges, raising money, and WunderGraph's evolution. They announce a weekly schedule for the podcast and encourage the audience to engage with social media clips and suggest future topics.
+- collaboration in tech
+- API schema teamwork
+- podcast schedule
+- 2025 product direction
+- audience interaction on LinkedIn and Twitter
+summary: Jens closes by emphasizing that the key to building successful products is
+  collaboration. Whether it is a startup or a corporate project, you need a team of
+  people who enjoy working together. He ties this directly to WunderGraph and their
+  focus on enabling collaboration through tools like Federation. Stefan wraps the
+  episode by previewing the next one, which will cover TYK, early product challenges,
+  raising money, and WunderGraph's evolution. They announce a weekly schedule for
+  the podcast and encourage the audience to engage with social media clips and suggest
+  future topics.
 ---
 
 

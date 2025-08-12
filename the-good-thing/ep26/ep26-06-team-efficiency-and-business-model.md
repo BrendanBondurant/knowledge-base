@@ -1,4 +1,3 @@
-
 ---
 title: Team Efficiency and Business Model
 slug: ep26-06-team-efficiency-and-business-model
@@ -25,9 +24,12 @@ topics:
   - Enterprise customer concerns about company size
   - Profitability and business sustainability
 tags:
+- ai
+- database
+- founder
   - team-structure
   - marketing-strategy
-  - founder-led-sales
+  - founder
   - technical-content
   - enterprise-sales
   - profitability

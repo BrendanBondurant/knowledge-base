@@ -3,41 +3,42 @@ title: Hiring Practices and AI-Generated Code
 slug: ep03-04-hiring-ai-generated-code
 series: The Good Thing
 episode: 3
-chunk: 04
+chunk: 4
 participants:
-  - Stefan
-  - Dustin
+- Stefan
+- Dustin
 segment: Discussion of hiring practices and AI-generated code in applications
 timecode: 00:13:26:23 - 00:16:34:06
 start_time: 00:13:26:23
 end_time: 00:16:34:06
 speakers:
-  - Stefan
-  - Dustin
+- Stefan
+- Dustin
 topics:
-  - Hiring
-  - AI-Generated Code
-  - Interview Process
-  - Technical Skills
+- Hiring
+- AI-Generated Code
+- Interview Process
+- Technical Skills
 tags:
-  - hiring
-  - ai-generated-code
-  - interviews
-  - technical-skills
-  - recruitment
+- ai-generated-code
+topic_tags:
+- ai-generated-code
 entities:
-  - Stefan
-  - Dustin
-  - WunderGraph
+- Stefan
+- Dustin
+- WunderGraph
 mentions:
-  - AI-generated code
-  - interviews
-  - peer review
-  - technical bar
-  - passion
-  - open mindset
-summary: |
-  Stefan and Dustin discuss hiring practices, particularly around AI-generated code in applications. Dustin emphasizes that he doesn't care if candidates use AI as long as they understand the code and can explain their thought process. They discuss what makes a good hire: passion, open mindset, willingness to learn, and domain expertise.
+- AI-generated code
+- interviews
+- peer review
+- technical bar
+- passion
+- open mindset
+summary: 'Stefan and Dustin discuss hiring practices, particularly around AI-generated
+  code in applications. Dustin emphasizes that he doesn''t care if candidates use
+  AI as long as they understand the code and can explain their thought process. They
+  discuss what makes a good hire: passion, open mindset, willingness to learn, and
+  domain expertise.'
 ---
 
 00:13:26:23 - 00:13:53:15

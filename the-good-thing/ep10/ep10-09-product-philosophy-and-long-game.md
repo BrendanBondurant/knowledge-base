@@ -5,54 +5,60 @@ series: The Good Thing
 episode: 10
 chunk: 9
 participants:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
+- Stefan
+- Björn
+- Dustin
+- Jens
 segment: Future vision and product strategy
 timecode: 00:55:13:11 – 01:01:55:12
 start_time: 00:55:13:11
 end_time: 01:01:55:12
 speakers:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
+- Stefan
+- Björn
+- Dustin
+- Jens
 topics:
-  - Team growth and personal impact
-  - Federation beyond GraphQL
-  - AI as newest client type
-  - Multi-protocol federation vision
-  - Open source commitment
-  - GitHub for APIs vision
-  - Customer-driven product development
-  - Vision validation through enterprise feedback
+- Team growth and personal impact
+- Federation beyond GraphQL
+- AI as newest client type
+- Multi-protocol federation vision
+- Open source commitment
+- GitHub for APIs vision
+- Customer-driven product development
+- Vision validation through enterprise feedback
 tags:
-  - federation-evolution
-  - ai-integration
-  - multi-protocol
-  - open-source-commitment
-  - github-for-apis
-  - customer-validation
+- ai
+- startup
+topic_tags:
+- federation-evolution
+- ai-integration
+- multi-protocol
+- open-source-commitment
+- github-for-apis
+- customer-validation
 entities:
-  - WunderGraph
-  - Cosmo
-  - GraphQL
-  - REST
-  - gRPC
-  - GitHub
-  - Apache 2 License
+- WunderGraph
+- Cosmo
+- GraphQL
+- REST
+- gRPC
+- GitHub
+- Apache 2 License
 mentions:
-  - Frankfurt working space growth
-  - AI as new client type
-  - federation protocol agnostic
-  - search services integration
-  - enterprise version rejection
-  - 3 million seed funding
-  - API collaboration platform
-  - customer workflow research
-summary: |
-  Stefan reflects on the team's growth from internet strangers to a conference room full of people. Jens outlines WunderGraph's evolution beyond GraphQL toward protocol-agnostic federation, with AI as a key new client type. He reaffirms their open source commitment and reveals their "GitHub for APIs" vision, explaining how they validate this through customer workflow research rather than direct pitching.
+- Frankfurt working space growth
+- AI as new client type
+- federation protocol agnostic
+- search services integration
+- enterprise version rejection
+- 3 million seed funding
+- API collaboration platform
+- customer workflow research
+summary: Stefan reflects on the team's growth from internet strangers to a conference
+  room full of people. Jens outlines WunderGraph's evolution beyond GraphQL toward
+  protocol-agnostic federation, with AI as a key new client type. He reaffirms their
+  open source commitment and reveals their "GitHub for APIs" vision, explaining how
+  they validate this through customer workflow research rather than direct pitching.
 ---
 
 00:55:13:11 - 00:55:39:28

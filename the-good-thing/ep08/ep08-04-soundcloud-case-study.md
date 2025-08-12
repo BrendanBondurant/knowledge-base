@@ -5,48 +5,53 @@ series: The Good Thing
 episode: 8
 chunk: 4
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: SoundCloud partnership and competitive advantages
 timecode: 00:27:51:12 – 00:36:18:11
 start_time: 00:27:51:12
 end_time: 00:36:18:11
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Jeff Bezos "your margin is my opportunity" principle
-  - Open source as competitive moat strategy
-  - SoundCloud engineering partnership
-  - Customer knowledge transfer and experience
-  - Multipart file upload customization
+- Jeff Bezos "your margin is my opportunity" principle
+- Open source as competitive moat strategy
+- SoundCloud engineering partnership
+- Customer knowledge transfer and experience
+- Multipart file upload customization
 tags:
-  - soundcloud
-  - case-study
-  - competitive-moats
-  - customer-partnerships
-  - open-source-strategy
-  - engineering-collaboration
+- startup
+- open-source
+topic_tags:
+- soundcloud
+- case-study
+- competitive-moats
+- customer-partnerships
+- open-source-strategy
+- engineering-collaboration
 entities:
-  - SoundCloud
-  - Prometheus
-  - BFF Framework
-  - Matthew Druker (former CTO)
-  - Brendan (technical content writer)
-  - WunderGraph
-  - Stefan Avram
-  - Jens Neuse
+- SoundCloud
+- Prometheus
+- BFF Framework
+- Matthew Druker (former CTO)
+- Brendan (technical content writer)
+- WunderGraph
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - Prometheus creation by SoundCloud
-  - BFF framework development
-  - former CTO podcast appearance
-  - 86% cost reduction headline
-  - $265,000 annual AWS Fargate savings
-  - multipart upload customization
-  - business goal vs hosting goals
-  - Suit Supply retail business example
-summary: |
-  Discussion of competitive advantages through open source and customer partnerships, featuring SoundCloud as a premier case study. Stefan highlights SoundCloud's strong engineering team and their impressive cost savings, while Jens explains how customer knowledge and experience create sustainable moats beyond just software licensing.
+- Prometheus creation by SoundCloud
+- BFF framework development
+- former CTO podcast appearance
+- 86% cost reduction headline
+- $265,000 annual AWS Fargate savings
+- multipart upload customization
+- business goal vs hosting goals
+- Suit Supply retail business example
+summary: Discussion of competitive advantages through open source and customer partnerships,
+  featuring SoundCloud as a premier case study. Stefan highlights SoundCloud's strong
+  engineering team and their impressive cost savings, while Jens explains how customer
+  knowledge and experience create sustainable moats beyond just software licensing.
 ---
 
 00:27:51:12 - 00:28:26:10

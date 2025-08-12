@@ -21,6 +21,9 @@ topics:
   - Target audience mismatch problems
   - Hero messaging clarity problems
 tags:
+- federation
+- graphql-federation
+- ai
   - wundergraph
   - self-critique
   - graphql-federation
@@ -29,7 +32,7 @@ tags:
 entities:
   - WunderGraph
   - Dustin (CTO)
-  - GraphQL
+  - graphql
 mentions:
   - "Open source GraphQL Federation solution" complexity
   - Full lifecycle API management confusion

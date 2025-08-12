@@ -5,38 +5,38 @@ series: The Good Thing
 episode: 22
 chunk: 8
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: WunderGraph Plugin Architecture
 timecode: 00:39:26:00 – 00:46:23:00
 start_time: 00:39:26:00
 end_time: 00:46:23:00
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - WunderGraph plugin-based architecture
-  - Alternative to Apollo connectors
-  - Modular federation design
-  - Plugin system benefits
+- WunderGraph plugin-based architecture
+- Alternative to Apollo connectors
+- Modular federation design
+- Plugin system benefits
 tags:
-  - plugin-federation
-  - wundergraph-architecture
-  - connector-alternative
-  - modular-design
-  - plugin-system
+- plugin-system
+topic_tags:
+- plugin-system
 entities:
-  - Stefan Avram
-  - Jens Neuse
-  - WunderGraph
-  - Apollo
+- Stefan Avram
+- Jens Neuse
+- WunderGraph
+- Apollo
 mentions:
-  - plugin-based alternatives
-  - connector system critique
-  - modular approach benefits
-  - WunderGraph differentiation
-summary: |
-  Stefan and Jens discuss WunderGraph's plugin-based approach as an alternative to Apollo's connector system. They explore how plugin architecture provides modularity and flexibility while addressing some of the complexity issues inherent in traditional GraphQL federation implementations.
+- plugin-based alternatives
+- connector system critique
+- modular approach benefits
+- WunderGraph differentiation
+summary: Stefan and Jens discuss WunderGraph's plugin-based approach as an alternative
+  to Apollo's connector system. They explore how plugin architecture provides modularity
+  and flexibility while addressing some of the complexity issues inherent in traditional
+  GraphQL federation implementations.
 ---
 
 

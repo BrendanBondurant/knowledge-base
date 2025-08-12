@@ -5,40 +5,43 @@ series: The Good Thing
 episode: 19
 chunk: 13
 participants:
-  - Stefan
-  - Robert Farr
-  - Jens
+- Stefan
+- Robert Farr
+- Jens
 segment: Episode Conclusion and Future Outlook
 timecode: 01:03:09 – 01:05:33
 start_time: 01:03:09
 end_time: 01:05:33
 speakers:
-  - Stefan
-  - Robert Farr
-  - Jens
+- Stefan
+- Robert Farr
+- Jens
 topics:
-  - AI boom acceleration and industry impact
-  - Value delivery pressure in AI adoption
-  - Future outlook for AI in enterprise
-  - Closing thoughts and takeaways
+- AI boom acceleration and industry impact
+- Value delivery pressure in AI adoption
+- Future outlook for AI in enterprise
+- Closing thoughts and takeaways
 tags:
-  - ai-boom
-  - value-delivery
-  - future-outlook
-  - enterprise-ai
-  - episode-conclusion
+- ai
+topic_tags:
+- ai-boom
+- value-delivery
+- future-outlook
+- enterprise-ai
+- episode-conclusion
 entities:
-  - Robert Farr
-  - Stefan Avram
-  - Jens Neuse
-  - Procore
+- Robert Farr
+- Stefan Avram
+- Jens Neuse
+- Procore
 mentions:
-  - AI industry acceleration
-  - Pressure to deliver AI value
-  - Future AI adoption trends
-  - Episode wrap-up insights
-summary: |
-  Concluding discussion on the accelerating AI boom, pressure to deliver value through AI adoption, and future outlook for AI in enterprise environments, with closing thoughts from the conversation.
+- AI industry acceleration
+- Pressure to deliver AI value
+- Future AI adoption trends
+- Episode wrap-up insights
+summary: Concluding discussion on the accelerating AI boom, pressure to deliver value
+  through AI adoption, and future outlook for AI in enterprise environments, with
+  closing thoughts from the conversation.
 ---
 
 01:03:09:19 - 01:03:30:04

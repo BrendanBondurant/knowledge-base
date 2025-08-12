@@ -5,42 +5,43 @@ series: The Good Thing
 episode: 11
 chunk: 3
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Fundraising as Sales Process
 timecode: 00:12:14:02 – 00:18:09:19
 start_time: 00:12:14:02
 end_time: 00:18:09:19
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Fundraising as selling tickets on your ship
-  - VCs vs customers have different needs
-  - Building VC relationships over time
-  - Pivoting and learning from failure
-  - Series A vs seed stage differences
-  - Early fundraising mistakes
+- Fundraising as selling tickets on your ship
+- VCs vs customers have different needs
+- Building VC relationships over time
+- Pivoting and learning from failure
+- Series A vs seed stage differences
+- Early fundraising mistakes
 tags:
-  - fundraising-strategy
-  - vc-relationships
-  - sales-process
-  - seed-vs-series-a
-  - pivot-strategy
-  - fundraising-mistakes
+- ai
+- founder
+topic_tags:
+- ai
+- founder
 entities:
-  - Stefan Avram
-  - Jens Neuse
-  - Bjorn
-  - WunderGraph
+- Stefan Avram
+- Jens Neuse
+- Bjorn
+- WunderGraph
 mentions:
-  - ship to gold metaphor
-  - VC lead qualification
-  - relationship building pre-fundraising
-  - founder confidence vs desperation
-  - seed vs series a evaluation criteria
-summary: |
-  Jens explains fundraising as selling tickets on your ship to find gold, emphasizing that VCs care about different features than customers. They discuss building VC relationships over time, the importance of learning from pivots, and early mistakes in trying to impress rather than demonstrate confidence.
+- ship to gold metaphor
+- VC lead qualification
+- relationship building pre-fundraising
+- founder confidence vs desperation
+- seed vs series a evaluation criteria
+summary: Jens explains fundraising as selling tickets on your ship to find gold, emphasizing
+  that VCs care about different features than customers. They discuss building VC
+  relationships over time, the importance of learning from pivots, and early mistakes
+  in trying to impress rather than demonstrate confidence.
 ---
 
 00:12:14:02 - 00:12:39:27

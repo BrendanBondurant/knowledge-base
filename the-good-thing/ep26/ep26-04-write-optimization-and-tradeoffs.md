@@ -1,4 +1,3 @@
-
 ---
 title: Write Optimization and Tradeoffs
 slug: ep26-04-write-optimization-and-tradeoffs
@@ -25,8 +24,11 @@ topics:
   - Physics constraints in database systems
   - Pragmatic approach to proven architectures
 tags:
+- ai
+- database
+- computer-science
   - write-workloads
-  - ai-boom
+  - ai
   - consistency-tradeoffs
   - performance
   - multiple-writers

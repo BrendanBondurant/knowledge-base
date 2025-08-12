@@ -27,12 +27,37 @@ topics:
 summary: |
   Stefan and Jens open the episode with personal updates, including wedding preparations and team news. They set the stage for the episode's main theme and discuss the mood and energy at the end of the week.
 tags:
+- ai
+- websocket
+- startup
+  - personal-updates
+  - wedding-preparation
+  - team-updates
+  - episode-introduction
+  - startup
+  - work-life-balance
+topic_tags:
+- ai
+- websocket
+- startup
   - personal-updates
   - wedding-preparation
   - team-updates
   - episode-introduction
   - startup-life
   - work-life-balance
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - The Good Thing
+  - WunderGraph
+mentions:
+  - wedding preparations
+  - team news
+  - episode theme
+  - startup life balance
+  - weekend mood
+  - personal updates
 ---
 
 00:00:24:18 - 00:00:37:24

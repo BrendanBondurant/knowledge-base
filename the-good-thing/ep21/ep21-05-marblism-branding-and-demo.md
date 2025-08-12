@@ -20,12 +20,15 @@ topics:
   - Marblism introduction and Y Combinator status
   - AI employees branding and positioning
 tags:
+- ai
+- startup
+- founder
   - marblism
-  - founder-empathy
+  - founder
   - y-combinator
-  - ai-employees
+  - ai
   - branding
-  - startup-advice
+  - startup
 entities:
   - Stefan Avram
   - Jens Neuse

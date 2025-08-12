@@ -5,43 +5,45 @@ series: The Good Thing
 episode: 19
 chunk: 3
 participants:
-  - Stefan
-  - Robert Farr
-  - Jens
+- Stefan
+- Robert Farr
+- Jens
 segment: API Architecture and Design Patterns
 timecode: 00:10:10 – 00:15:13
 start_time: 00:10:10
 end_time: 00:15:13
 speakers:
-  - Stefan
-  - Robert Farr
-  - Jens
+- Stefan
+- Robert Farr
+- Jens
 topics:
-  - Role of APIs at Procore in large-scale systems
-  - Internal vs external API design considerations
-  - API contracts and governance in enterprise environments
-  - Architectural patterns for system integration
+- Role of APIs at Procore in large-scale systems
+- Internal vs external API design considerations
+- API contracts and governance in enterprise environments
+- Architectural patterns for system integration
 tags:
-  - api-design
-  - contracts
-  - architecture
-  - enterprise
-  - governance
-  - internal-apis
-  - external-apis
-  - procore
+- api-design
+- contracts
+- governance
+- internal-apis
+topic_tags:
+- api-design
+- contracts
+- governance
+- internal-apis
 entities:
-  - Procore
-  - Robert Farr
-  - Stefan Avram
-  - Jens Neuse
+- Procore
+- Robert Farr
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - API contract design strategies
-  - Internal vs external API considerations
-  - Large system integration challenges
-  - Enterprise API governance
-summary: |
-  Discussion of API architecture at Procore, focusing on the role of APIs in large systems, differences between internal and external API design approaches, and the challenges of maintaining contracts in enterprise environments.
+- API contract design strategies
+- Internal vs external API considerations
+- Large system integration challenges
+- Enterprise API governance
+summary: Discussion of API architecture at Procore, focusing on the role of APIs in
+  large systems, differences between internal and external API design approaches,
+  and the challenges of maintaining contracts in enterprise environments.
 ---
 
 00:10:10:26 - 00:10:30:01

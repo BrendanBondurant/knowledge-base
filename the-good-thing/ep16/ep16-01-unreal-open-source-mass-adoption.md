@@ -5,44 +5,50 @@ series: The Good Thing
 episode: 16
 chunk: 1
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Open Source Strategy Discussion Introduction
 timecode: 00:00:12 – 00:04:30
 start_time: 00:00:12
 end_time: 00:04:30
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Unreal Engine free distribution strategy
-  - Epic Games founder business philosophy
-  - Open source for mass volume adoption
-  - Competitive advantage through ubiquity
-  - Ten-year horizon thinking for Federation
+- Unreal Engine free distribution strategy
+- Epic Games founder business philosophy
+- Open source for mass volume adoption
+- Competitive advantage through ubiquity
+- Ten-year horizon thinking for Federation
 tags:
-  - unreal-engine
-  - open-source-strategy
-  - mass-adoption
-  - epic-games
-  - federation
-  - competitive-strategy
+- open-source
+- federation
+topic_tags:
+- unreal-engine
+- open-source-strategy
+- mass-adoption
+- epic-games
+- federation
+- competitive-strategy
 entities:
-  - Epic Games
-  - Unreal Engine
-  - Fortnite
-  - Lex Friedman
-  - WunderGraph
-  - Federation
-  - GraphQL
+- Epic Games
+- Unreal Engine
+- Fortnite
+- Lex Friedman
+- WunderGraph
+- Federation
+- GraphQL
 mentions:
-  - Lex Friedman podcast with Epic Games founder
-  - "If everyone uses our engine, they're not using competitors"
-  - Ten-year Federation business bet
-  - Global distribution and indie gamer access
-  - Leadership resistance to open licensing
-summary: |
-  Stefan introduces the episode's focus on open source strategy, referencing a Lex Friedman podcast with Epic Games' founder. They discuss how Epic made Unreal Engine free to achieve mass adoption, ensuring developers choose their platform over competitors. Jens connects this to WunderGraph's ten-year bet on Federation, emphasizing the value of widespread adoption over short-term revenue.
+- Lex Friedman podcast with Epic Games founder
+- If everyone uses our engine, they're not using competitors
+- Ten-year Federation business bet
+- Global distribution and indie gamer access
+- Leadership resistance to open licensing
+summary: Stefan introduces the episode's focus on open source strategy, referencing
+  a Lex Friedman podcast with Epic Games' founder. They discuss how Epic made Unreal
+  Engine free to achieve mass adoption, ensuring developers choose their platform
+  over competitors. Jens connects this to WunderGraph's ten-year bet on Federation,
+  emphasizing the value of widespread adoption over short-term revenue.
 ---
 Episode 16
 00:00:12:22 - 00:00:22:06

@@ -22,6 +22,9 @@ topics:
   - Query planning cache performance
   - Analytics integration during migration
 tags:
+- federation
+- graphql-federation
+- ai
   - performance-optimization
   - nodejs-migration
   - golang-architecture

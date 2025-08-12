@@ -5,44 +5,43 @@ series: The Good Thing
 episode: 12
 chunk: 6
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: MCP Implementation Strategy
 timecode: 00:18:23:27 – 00:22:42:22
 start_time: 00:18:23:27
 end_time: 00:22:42:22
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - MCP as GraphQL query collections
-  - Fine-grained access control for AI
-  - No-code MCP interface creation
-  - Cosmo router proxy capabilities
-  - Unified API approach benefits
+- MCP as GraphQL query collections
+- Fine-grained access control for AI
+- No-code MCP interface creation
+- Cosmo router proxy capabilities
+- Unified API approach benefits
 tags:
-  - mcp-implementation
-  - graphql-collections
-  - access-control
-  - no-code-interfaces
-  - cosmo-router
-  - api-unification
+- cosmo-router
+topic_tags:
+- cosmo-router
 entities:
-  - GraphQL
-  - MCP
-  - Cosmo Router
-  - JSON Schema
-  - Stefan Avram
-  - Jens Neuse
+- GraphQL
+- MCP
+- Cosmo Router
+- JSON Schema
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - GraphQL queries as MCP functions
-  - JSON schema transformation
-  - mutation control and observability
-  - no-code query collection creation
-  - API gateway limitations
-  - federation investment strategy
-summary: |
-  Jens explains WunderGraph's approach to implementing MCP through GraphQL query collections, providing fine-grained access control and observability. He describes creating no-code MCP interfaces where backend developers build subgraphs and create query collections that become MCP instances with built-in protection and analytics.
+- GraphQL queries as MCP functions
+- JSON schema transformation
+- mutation control and observability
+- no-code query collection creation
+- API gateway limitations
+- federation investment strategy
+summary: Jens explains WunderGraph's approach to implementing MCP through GraphQL
+  query collections, providing fine-grained access control and observability. He describes
+  creating no-code MCP interfaces where backend developers build subgraphs and create
+  query collections that become MCP instances with built-in protection and analytics.
 ---
 
 00:18:23:27 - 00:18:52:18

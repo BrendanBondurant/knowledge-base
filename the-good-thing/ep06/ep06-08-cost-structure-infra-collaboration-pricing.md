@@ -24,6 +24,42 @@ topics:
   - Customer value
 summary: |
   Jens and Stefan discuss the cost structure of infrastructure and collaboration tools, pricing strategies, and the importance of aligning value with customer needs in the startup landscape.
+tags:
+- ai
+- cosmo-router
+- postgres
+  - cost-structure
+  - infrastructure-vs-collaboration
+  - startup
+topic_tags:
+- ai
+- cosmo-router
+- postgres
+  - cost-structure
+  - infrastructure-vs-collaboration
+  - pricing-strategy
+  - customer-value
+  - startup-strategy
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - IBM
+  - Apache
+  - Mark Zuckerberg
+  - Meta
+  - OpenAI
+  - Llama
+  - Monday.com
+  - Miro
+  - Postgres
+  - S3
+mentions:
+  - open source history
+  - SaaS vs open source cycles
+  - infrastructure ownership vs collaboration
+  - cost correlation with success
+  - data center deployment
+  - enterprise licensing models
 ---
 
 00:20:15:18 - 00:23:31:29

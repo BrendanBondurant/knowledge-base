@@ -24,6 +24,9 @@ topics:
   - API sprawl and duplication problems
   - Autonomous teams vs visibility trade-offs
 tags:
+- ai
+- microservices
+- rest
   - api-governance
   - process-first
   - microservices-complexity

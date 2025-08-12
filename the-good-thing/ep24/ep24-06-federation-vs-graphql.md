@@ -24,13 +24,16 @@ topics:
   - Navy SEALs team size principles
   - Governance and foundation overhead
 tags:
+- federation
+- graphql-federation
+- grpc
   - technology-philosophy
   - problem-focus
   - solution-obsession
   - blockchain-analogy
   - team-size
   - governance
-  - GraphQL-HTTP
+  - graphql-http
 entities:
   - Stefan Avram
   - Jens Neuse

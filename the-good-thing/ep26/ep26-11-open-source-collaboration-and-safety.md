@@ -1,4 +1,3 @@
-
 ---
 title: Open Source Collaboration and Safety
 slug: ep26-11-open-source-collaboration-and-safety
@@ -25,7 +24,10 @@ topics:
   - Collaboration without contracts
   - Large scale open source project governance
 tags:
-  - open-source-philosophy
+- ai
+- postgres
+- open-source
+  - open-source
   - vitess-maintenance
   - community-contributions
   - upstream-collaboration

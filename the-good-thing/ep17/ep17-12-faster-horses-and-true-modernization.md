@@ -5,40 +5,46 @@ series: The Good Thing
 episode: 17
 chunk: 12
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Episode conclusion with Henry Ford analogy
 timecode: 00:56:05 – 00:57:02
 start_time: 00:56:05
 end_time: 00:57:02
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Henry Ford faster horses quote
-  - Customer requests vs actual needs
-  - Developer speed vs modernization
-  - Cosmo as the "car" solution
-  - True collaboration and modernization
-  - Episode format feedback request
+- Henry Ford faster horses quote
+- Customer requests vs actual needs
+- Developer speed vs modernization
+- Cosmo as the "car" solution
+- True collaboration and modernization
+- Episode format feedback request
 tags:
-  - henry-ford-quote
-  - customer-needs
-  - modernization
-  - product-vision
-  - episode-conclusion
+- startup
+topic_tags:
+- henry-ford-quote
+- customer-needs
+- modernization
+- product-vision
+- episode-conclusion
 entities:
-  - Henry Ford
-  - Cosmo
+- Henry Ford
+- Cosmo
 mentions:
-  - faster horses vs car analogy
-  - companies wanting faster developers
-  - move faster and break less
-  - modernize stack requests
-  - live vs recorded format
-  - episode wrap-up
-summary: |
-  Stefan concludes with Henry Ford's famous quote about customers wanting faster horses instead of cars, drawing a parallel to how companies ask for faster developers when they actually need true modernization through Cosmo's collaboration platform. He emphasizes that customers don't realize they want comprehensive modernization—they just know they want to move faster and break less, similar to wanting faster horses rather than revolutionary transportation.
+- faster horses vs car analogy
+- companies wanting faster developers
+- move faster and break less
+- modernize stack requests
+- live vs recorded format
+- episode wrap-up
+summary: Stefan concludes with Henry Ford's famous quote about customers wanting faster
+  horses instead of cars, drawing a parallel to how companies ask for faster developers
+  when they actually need true modernization through Cosmo's collaboration platform.
+  He emphasizes that customers don't realize they want comprehensive modernization—they
+  just know they want to move faster and break less, similar to wanting faster horses
+  rather than revolutionary transportation.
 ---
 
 00:56:05:00 - 00:56:20:22

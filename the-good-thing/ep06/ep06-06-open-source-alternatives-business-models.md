@@ -25,12 +25,37 @@ topics:
 summary: |
   Jens and Stefan discuss the role of open source alternatives in the market, different business models, and how product differentiation is achieved beyond just feature parity. They reflect on the importance of positioning and strategy in building a successful company.
 tags:
+- ai
+- postgres
+- apollo-graphql
+  - open-source
+  - business-models
+  - product-differentiation
+  - startup
+  - collaboration-tools
+topic_tags:
+- ai
+- postgres
+- apollo-graphql
   - open-source-alternatives
   - business-models
   - product-differentiation
   - market-positioning
   - startup-strategy
   - collaboration-tools
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - WunderGraph
+  - Supabase
+  - Firebase
+mentions:
+  - open source alternatives strategy
+  - business model differentiation
+  - market positioning importance
+  - Supabase vs Firebase example
+  - product strategy evolution
+  - collaboration tools market
 ---
 
 00:13:56:18 - 00:14:16:03

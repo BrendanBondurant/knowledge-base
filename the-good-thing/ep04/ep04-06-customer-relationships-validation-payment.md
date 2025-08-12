@@ -3,43 +3,48 @@ title: Building Relationships, Customer Validation, and Payment
 slug: ep04-06-customer-relationships-validation-payment
 series: The Good Thing
 episode: 4
-chunk: 06
+chunk: 6
 participants:
-  - Jens
-  - Stefan
-segment: The importance of building relationships with customers, validating problems, and ensuring willingness to pay
+- Jens
+- Stefan
+segment: The importance of building relationships with customers, validating problems,
+  and ensuring willingness to pay
 timecode: 00:16:17:07 - 00:19:11:09
 start_time: 00:16:17:07
 end_time: 00:19:11:09
 speakers:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 topics:
-  - Customer relationships
-  - Problem validation
-  - Willingness to pay
-  - Startup lessons
-  - Open source
-  - Procurement
-  - Customer feedback
-  - Early sales
-  - Product-market fit
+- Customer relationships
+- Problem validation
+- Willingness to pay
+- Startup lessons
+- Open source
+- Procurement
+- Customer feedback
+- Early sales
+- Product-market fit
 tags:
-  - customer-development
-  - validation
-  - payment
-  - startup
+- startup
+topic_tags:
+- customer-development
+- validation
+- payment
+- startup
 entities:
-  - Jens
-  - Stefan
-  - WunderGraph
+- Jens
+- Stefan
+- WunderGraph
 mentions:
-  - open source
-  - procurement
-  - feature requests
-  - customer feedback
-summary: |
-  Jens and Stefan discuss the importance of building relationships with the right customers, validating that a problem is worth solving, and ensuring that customers are willing to pay. They share stories about open source users, procurement hurdles, and the dangers of building for customers who won't commit financially.
+- open source
+- procurement
+- feature requests
+- customer feedback
+summary: Jens and Stefan discuss the importance of building relationships with the
+  right customers, validating that a problem is worth solving, and ensuring that customers
+  are willing to pay. They share stories about open source users, procurement hurdles,
+  and the dangers of building for customers who won't commit financially.
 ---
 
 00:16:17:07 - 00:16:51:03

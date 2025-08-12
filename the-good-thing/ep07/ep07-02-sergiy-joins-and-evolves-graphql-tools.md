@@ -5,44 +5,46 @@ series: The Good Thing
 episode: 7
 chunk: 2
 participants:
-  - Jens
-  - Sergiy
+- Jens
+- Sergiy
 segment: Sergiy's background and GraphQL Go tools evolution
 timecode: 00:05:06:09 – 00:10:23:15
 start_time: 00:05:06:09
 end_time: 00:10:23:15
 speakers:
-  - Jens
-  - Sergiy
+- Jens
+- Sergiy
 topics:
-  - Sergiy's 5-year journey with WunderGraph
-  - Origins at Tyk Technologies
-  - GraphQL Go tools development
-  - Evolution from 10,000-line files to maintainable structure
-  - GraphQL spec compliance efforts
+- Sergiy's 5-year journey with WunderGraph
+- Origins at Tyk Technologies
+- GraphQL Go tools development
+- Evolution from 10,000-line files to maintainable structure
+- GraphQL spec compliance efforts
 tags:
-  - career-journey
-  - graphql-go-tools
-  - open-source
-  - code-organization
-  - tyk-technologies
+- graphql-go-tools
+- open-source
+topic_tags:
+- graphql-go-tools
+- open-source
 entities:
-  - Sergiy
-  - Jens Neuse
-  - WunderGraph
-  - Tyk Technologies
-  - GraphQL Go Tools
-  - Ukraine
-  - Germany
-  - London
+- Sergiy
+- Jens Neuse
+- WunderGraph
+- Tyk Technologies
+- GraphQL Go Tools
+- Ukraine
+- Germany
+- London
 mentions:
-  - first engineer hire
-  - 14 years of development experience
-  - splitting large files into manageable modules
-  - GraphQL reference implementation alignment
-  - JavaScript GraphQL compliance
-summary: |
-  Jens and Sergiy discuss their 5-year working relationship, starting at Tyk Technologies where Jens created GraphQL Go tools. Sergiy became the first engineer hire and evolved the codebase from massive files to a well-structured, GraphQL spec-compliant library, now owning 60% of the project.
+- first engineer hire
+- 14 years of development experience
+- splitting large files into manageable modules
+- GraphQL reference implementation alignment
+- JavaScript GraphQL compliance
+summary: Jens and Sergiy discuss their 5-year working relationship, starting at Tyk
+  Technologies where Jens created GraphQL Go tools. Sergiy became the first engineer
+  hire and evolved the codebase from massive files to a well-structured, GraphQL spec-compliant
+  library, now owning 60% of the project.
 ---
 
 00:05:06:09 - 00:05:42:12

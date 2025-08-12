@@ -5,45 +5,50 @@ series: The Good Thing
 episode: 7
 chunk: 17
 participants:
-  - Jens
-  - David
+- Jens
+- David
 segment: Episode conclusion and community feedback
 timecode: 01:33:06:03 – 01:36:52:16
 start_time: 01:33:06:03
 end_time: 01:36:52:16
 speakers:
-  - Jens
-  - David
+- Jens
+- David
 topics:
-  - Collaborative tooling mission
-  - Self-taught engineer journey
-  - Working with major companies through federation
-  - Deep tech vs business-focused episodes
-  - Community feedback request
+- Collaborative tooling mission
+- Self-taught engineer journey
+- Working with major companies through federation
+- Deep tech vs business-focused episodes
+- Community feedback request
 tags:
-  - episode-wrap
-  - collaborative-tooling
-  - self-taught-engineer
-  - community-feedback
-  - deep-tech-content
-  - startup-journey
+- startup
+topic_tags:
+- episode-wrap
+- collaborative-tooling
+- self-taught-engineer
+- community-feedback
+- deep-tech-content
+- startup-journey
 entities:
-  - WunderGraph
-  - GraphQL
-  - Federation
-  - Stefan Avram
-  - Jens Neuse
-  - David
-  - Sergiy
+- WunderGraph
+- GraphQL
+- Federation
+- Stefan Avram
+- Jens Neuse
+- David
+- Sergiy
 mentions:
-  - collaborative API tooling
-  - internal API development
-  - Uber, eBay, GitHub, Microsoft
-  - Stefan's return next week
-  - deep tech vs business content
-  - community feedback channels
-summary: |
-  Jens reflects on WunderGraph's mission to build collaborative tooling for API development and shares his journey as a self-taught engineer now working with major companies. The episode concludes with appreciation for the deep technical discussion and a request for community feedback on future content direction, comparing this technical episode to the usual business-focused format with Stefan.
+- collaborative API tooling
+- internal API development
+- Uber, eBay, GitHub, Microsoft
+- Stefan's return next week
+- deep tech vs business content
+- community feedback channels
+summary: Jens reflects on WunderGraph's mission to build collaborative tooling for
+  API development and shares his journey as a self-taught engineer now working with
+  major companies. The episode concludes with appreciation for the deep technical
+  discussion and a request for community feedback on future content direction, comparing
+  this technical episode to the usual business-focused format with Stefan.
 ---
 
 01:33:06:03 - 01:33:34:16

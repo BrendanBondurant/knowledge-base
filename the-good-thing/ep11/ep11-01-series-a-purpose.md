@@ -5,45 +5,49 @@ series: The Good Thing
 episode: 11
 chunk: 1
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Series A Announcement and Purpose
 timecode: 00:00:24:18 – 00:06:00:22
 start_time: 00:00:24:18
 end_time: 00:06:00:22
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Series A funding announcement
-  - Why dilute equity for funding
-  - Funding as a tool not celebration
-  - Investor dilution philosophy
-  - Market timing and opportunities
+- Series A funding announcement
+- Why dilute equity for funding
+- Funding as a tool not celebration
+- Investor dilution philosophy
+- Market timing and opportunities
 tags:
-  - series-a
-  - fundraising
-  - venture-capital
-  - funding-philosophy
-  - dilution
-  - wundergraph
+- startup
+topic_tags:
+- series-a
+- fundraising
+- venture-capital
+- funding-philosophy
+- dilution
+- wundergraph
 entities:
-  - WunderGraph
-  - Karma Ventures
-  - eBay Ventures
-  - AspenWood Ventures
-  - Stefan Avram
-  - Jens Neuse
-  - Y Combinator
-  - Gary Tan
+- WunderGraph
+- Karma Ventures
+- eBay Ventures
+- AspenWood Ventures
+- Stefan Avram
+- Jens Neuse
+- Y Combinator
+- Gary Tan
 mentions:
-  - series A announcement
-  - funding celebration
-  - champagne vs wine analogy
-  - investor dilution tradeoffs
-  - bootstrapping pace limitations
-summary: |
-  Stefan and Jens announce WunderGraph's Series A funding led by Karma Ventures with strategic follow-on from eBay Ventures. They discuss why they chose to dilute equity, viewing funding as a tool rather than celebration, and explain how it accelerates their mission to serve customers better.
+- series A announcement
+- funding celebration
+- champagne vs wine analogy
+- investor dilution tradeoffs
+- bootstrapping pace limitations
+summary: Stefan and Jens announce WunderGraph's Series A funding led by Karma Ventures
+  with strategic follow-on from eBay Ventures. They discuss why they chose to dilute
+  equity, viewing funding as a tool rather than celebration, and explain how it accelerates
+  their mission to serve customers better.
 ---
 Episode 11
 00:00:24:18 - 00:00:53:18

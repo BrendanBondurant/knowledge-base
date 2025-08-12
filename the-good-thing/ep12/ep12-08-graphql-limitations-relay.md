@@ -5,45 +5,49 @@ series: The Good Thing
 episode: 12
 chunk: 8
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: GraphQL Constraints and Frontend Focus
 timecode: 00:26:19:28 – 00:30:09:24
 start_time: 00:26:19:28
 end_time: 00:30:09:24
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - GraphQL frontend-driven adoption
-  - Apollo's success limiting innovation
-  - Connector approach critique
-  - Federation limited by GraphQL
-  - SDK preference over query building
-  - Relay as primary driver
+- GraphQL frontend-driven adoption
+- Apollo's success limiting innovation
+- Connector approach critique
+- Federation limited by GraphQL
+- SDK preference over query building
+- Relay as primary driver
 tags:
-  - graphql-limitations
-  - frontend-driven-adoption
-  - apollo-innovation-stagnation
-  - connector-critique
-  - relay-adoption
-  - sdk-preference
+- federation
+- graphql-federation
+- ai
+topic_tags:
+- federation
+- graphql-federation
+- ai
 entities:
-  - Apollo
-  - Relay
-  - GraphQL
-  - Stefan Avram
-  - Jens Neuse
-  - Jacob
+- Apollo
+- Relay
+- GraphQL
+- Stefan Avram
+- Jens Neuse
+- Jacob
 mentions:
-  - frontend teams requesting Relay
-  - Apollo stopping innovation
-  - connector expert interviews
-  - federation working group
-  - GraphQL native specification
-  - SDK vs query building preference
-summary: |
-  Jens explains how GraphQL adoption is frontend-driven, typically starting with teams wanting Relay, then requiring GraphQL servers and eventually federation. He critiques Apollo's stagnation after early success and their connector approach, arguing that federation is fundamentally limited by GraphQL since most people prefer SDKs over building queries.
+- frontend teams requesting Relay
+- Apollo stopping innovation
+- connector expert interviews
+- federation working group
+- GraphQL native specification
+- SDK vs query building preference
+summary: Jens explains how GraphQL adoption is frontend-driven, typically starting
+  with teams wanting Relay, then requiring GraphQL servers and eventually federation.
+  He critiques Apollo's stagnation after early success and their connector approach,
+  arguing that federation is fundamentally limited by GraphQL since most people prefer
+  SDKs over building queries.
 ---
 
 00:26:19:28 - 00:26:44:26

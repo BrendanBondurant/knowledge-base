@@ -5,48 +5,48 @@ series: The Good Thing
 episode: 12
 chunk: 12
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Fragment Management and Team Coordination
 timecode: 00:42:26:26 – 00:47:16:25
 start_time: 00:42:26:26
 end_time: 00:47:16:25
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Fragment hoisting and compilation
-  - Data dependency changes over time
-  - tRPC vs GraphQL for large teams
-  - REST API field management challenges
-  - Breaking changes and unused fields
-  - Team-scale frontend development
+- Fragment hoisting and compilation
+- Data dependency changes over time
+- tRPC vs GraphQL for large teams
+- REST API field management challenges
+- Breaking changes and unused fields
+- Team-scale frontend development
 tags:
-  - fragment-hoisting
-  - data-dependencies
-  - trpc-comparison
-  - rest-api-challenges
-  - breaking-changes
-  - team-scale-development
+- data-dependencies
+topic_tags:
+- data-dependencies
 entities:
-  - Relay
-  - tRPC
-  - GraphQL
-  - REST
-  - Meta
-  - Coinbase
-  - WunderGraph
-  - Stefan Avram
-  - Jens Neuse
+- Relay
+- tRPC
+- GraphQL
+- REST
+- Meta
+- Coinbase
+- WunderGraph
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - relay compiler optimization
-  - product owner change requests
-  - lint errors for unused fields
-  - teams of teams coordination
-  - REST API field removal challenges
-  - 100 frontend developers scale
-summary: |
-  Jens explains how Relay's fragment hoisting enables efficient data dependency management at scale, contrasting with tRPC and REST approaches. He describes how GraphQL fragments prevent breaking changes when UI requirements change, while REST APIs accumulate unused fields over time due to coordination challenges across large frontend teams.
+- relay compiler optimization
+- product owner change requests
+- lint errors for unused fields
+- teams of teams coordination
+- REST API field removal challenges
+- 100 frontend developers scale
+summary: Jens explains how Relay's fragment hoisting enables efficient data dependency
+  management at scale, contrasting with tRPC and REST approaches. He describes how
+  GraphQL fragments prevent breaking changes when UI requirements change, while REST
+  APIs accumulate unused fields over time due to coordination challenges across large
+  frontend teams.
 ---
 
 00:42:26:26 - 00:42:58:21

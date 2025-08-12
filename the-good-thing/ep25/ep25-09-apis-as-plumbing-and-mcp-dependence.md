@@ -24,6 +24,9 @@ topics:
   - MCP and API relationship misconceptions
   - Distributed systems and API inevitability
 tags:
+- graphql
+- mcp
+- ai
   - api-plumbing-analogy
   - digital-infrastructure
   - mcp-apis
@@ -33,7 +36,7 @@ tags:
 entities:
   - HVAC and plumbing convention
   - Bachelor party
-  - GraphQL
+  - graphql
   - MCP (Model Context Protocol)
   - Client-server architecture
   - Network infrastructure

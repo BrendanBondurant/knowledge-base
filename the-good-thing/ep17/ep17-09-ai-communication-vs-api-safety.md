@@ -5,42 +5,48 @@ series: The Good Thing
 episode: 17
 chunk: 9
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Scaling AI collaboration and API contract safety
 timecode: 00:39:24 – 00:45:01
 start_time: 00:39:24
 end_time: 00:45:01
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Communication as biggest challenge in 1000-dev organizations
-  - Scalable software building approaches
-  - Thousands of AI agents collaboration problem
-  - Layers of agents and control mechanisms
-  - AI context definition and safety
-  - API contracts for AI interaction safety
+- Communication as biggest challenge in 1000-dev organizations
+- Scalable software building approaches
+- Thousands of AI agents collaboration problem
+- Layers of agents and control mechanisms
+- AI context definition and safety
+- API contracts for AI interaction safety
 tags:
-  - ai-collaboration
-  - organizational-scaling
-  - communication-challenges
-  - agent-control
-  - api-safety
-  - context-definition
+- ai
+topic_tags:
+- ai-collaboration
+- organizational-scaling
+- communication-challenges
+- agent-control
+- api-safety
+- context-definition
 entities:
-  - Cursor
+- Cursor
 mentions:
-  - thousand developer organizations
-  - scalable software building
-  - thousands of collaborating agents
-  - agent controlling agent hierarchy
-  - cursor instance doing weird tests
-  - layers of agents problem
-  - well-defined context requirements
-  - API contracts for safety
-summary: |
-  Jens identifies communication as the biggest challenge in large developer organizations and questions how thousands of AI agents could meaningfully collaborate. He raises concerns about control mechanisms when agents control other agents, using Cursor's unpredictable behavior as an example of current AI limitations. He argues that while AI is useful for well-defined contexts, defining that context remains a human responsibility, suggesting API contracts as a safety mechanism for AI interactions.
+- thousand developer organizations
+- scalable software building
+- thousands of collaborating agents
+- agent controlling agent hierarchy
+- cursor instance doing weird tests
+- layers of agents problem
+- well-defined context requirements
+- API contracts for safety
+summary: Jens identifies communication as the biggest challenge in large developer
+  organizations and questions how thousands of AI agents could meaningfully collaborate.
+  He raises concerns about control mechanisms when agents control other agents, using
+  Cursor's unpredictable behavior as an example of current AI limitations. He argues
+  that while AI is useful for well-defined contexts, defining that context remains
+  a human responsibility, suggesting API contracts as a safety mechanism for AI interactions.
 ---
 
 00:39:24:13 - 00:39:38:17

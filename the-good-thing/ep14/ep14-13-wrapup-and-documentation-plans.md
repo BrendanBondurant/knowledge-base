@@ -23,13 +23,16 @@ topics:
   - Documentation planning for MCP gateway
   - Easter weekend plans
 tags:
+- mcp
+- ai
+- cosmo
   - internal-app-building
   - retool-comparison
   - super-graph-advantages
   - documentation-planning
   - easter-weekend
   - feature-release
-  - customer-excitement
+  - startup
 entities:
   - Retool
   - Postgres database

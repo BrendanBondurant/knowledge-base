@@ -3,46 +3,46 @@ title: Telemetry Pipeline Architecture
 slug: ep03-07-telemetry-pipeline-architecture
 series: The Good Thing
 episode: 3
-chunk: 07
+chunk: 7
 participants:
-  - Stefan
-  - Dustin
+- Stefan
+- Dustin
 segment: Deep dive into Cosmo's telemetry pipeline architecture and data processing
 timecode: 00:26:46:25 - 00:32:26:12
 start_time: 00:26:46:25
 end_time: 00:32:26:12
 speakers:
-  - Stefan
-  - Dustin
+- Stefan
+- Dustin
 topics:
-  - Telemetry Pipeline
-  - Data Processing
-  - ClickHouse
-  - Kafka
-  - Scalability
+- Telemetry Pipeline
+- Data Processing
+- ClickHouse
+- Kafka
+- Scalability
 tags:
-  - telemetry
-  - data-pipeline
-  - clickhouse
-  - kafka
-  - scalability
-  - architecture
+- telemetry
+- kafka
+topic_tags:
+- telemetry
+- kafka
 entities:
-  - Stefan
-  - Dustin
-  - Cosmo
-  - ClickHouse
-  - Kafka
-  - ClickHouse Cloud
+- Stefan
+- Dustin
+- Cosmo
+- ClickHouse
+- Kafka
+- ClickHouse Cloud
 mentions:
-  - telemetry pipeline
-  - schema usage data
-  - batching
-  - collectors
-  - back pressure
-  - Click Pipes
-summary: |
-  Dustin explains the telemetry pipeline architecture he built for Cosmo, including batching at the router level, using Kafka as a buffer between collectors and ClickHouse, and implementing back pressure mechanisms to handle high-scale data processing efficiently.
+- telemetry pipeline
+- schema usage data
+- batching
+- collectors
+- back pressure
+- Click Pipes
+summary: Dustin explains the telemetry pipeline architecture he built for Cosmo, including
+  batching at the router level, using Kafka as a buffer between collectors and ClickHouse,
+  and implementing back pressure mechanisms to handle high-scale data processing efficiently.
 ---
 
 00:26:46:25 - 00:27:07:05

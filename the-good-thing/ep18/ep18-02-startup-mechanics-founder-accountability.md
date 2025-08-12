@@ -5,42 +5,49 @@ series: The Good Thing
 episode: 18
 chunk: 2
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Startup growth mechanics and founder responsibility
 timecode: 00:05:10:06 – 00:13:08:14
 start_time: 00:05:10:06
 end_time: 00:13:08:14
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Startup layoff accountability and bottom 20% theory
-  - Startup growth mechanics and profitability timelines
-  - Market expectations vs actual performance
-  - Runway management and cash flow planning
-  - Founder responsibility and strategy ownership
-  - External capital funding for fast growth
+- Startup layoff accountability and bottom 20% theory
+- Startup growth mechanics and profitability timelines
+- Market expectations vs actual performance
+- Runway management and cash flow planning
+- Founder responsibility and strategy ownership
+- External capital funding for fast growth
 tags:
-  - startup-mechanics
-  - founder-accountability
-  - layoff-strategy
-  - growth-expectations
-  - runway-management
-  - profitability-planning
+- startup
+- founder
+topic_tags:
+- startup-mechanics
+- founder-accountability
+- layoff-strategy
+- growth-expectations
+- runway-management
+- profitability-planning
 entities:
-  - Startups
+- Startups
 mentions:
-  - controversial layoff take
-  - bottom 20% performance cuts
-  - 50 million to 100 million ARR growth
-  - 10% growth planning
-  - runway and cash management
-  - outside capital for fast growth
-  - strategy ownership responsibility
-  - not blaming people
-summary: |
-  Stefan shares a controversial view that layoffs often target underperformers while acknowledging good employees can get caught up. Jens explains startup mechanics where companies use external capital to grow faster than organic profitability allows, creating two lines: market expectations and actual performance. When these lines don't align, layoffs result, emphasizing the importance of founder accountability and strategy ownership rather than blaming external factors.
+- controversial layoff take
+- bottom 20% performance cuts
+- 50 million to 100 million ARR growth
+- 10% growth planning
+- runway and cash management
+- outside capital for fast growth
+- strategy ownership responsibility
+- not blaming people
+summary: 'Stefan shares a controversial view that layoffs often target underperformers
+  while acknowledging good employees can get caught up. Jens explains startup mechanics
+  where companies use external capital to grow faster than organic profitability allows,
+  creating two lines: market expectations and actual performance. When these lines
+  don''t align, layoffs result, emphasizing the importance of founder accountability
+  and strategy ownership rather than blaming external factors.'
 ---
 
 00:05:10:06 - 00:05:34:01

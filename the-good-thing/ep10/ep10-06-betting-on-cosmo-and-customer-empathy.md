@@ -5,51 +5,55 @@ series: The Good Thing
 episode: 10
 chunk: 6
 participants:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
+- Stefan
+- Björn
+- Dustin
+- Jens
 segment: Remote work challenges and team dynamics
 timecode: 00:35:47:28 – 00:43:58:00
 start_time: 00:35:47:28
 end_time: 00:43:58:00
 speakers:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
+- Stefan
+- Björn
+- Dustin
+- Jens
 topics:
-  - Remote work talent acquisition
-  - Multi-timezone management challenges
-  - Legal entity complexity
-  - Communication skills in remote hiring
-  - Cultural diversity benefits
-  - In-person collaboration advantages
-  - Working retreats vs traditional offices
+- Remote work talent acquisition
+- Multi-timezone management challenges
+- Legal entity complexity
+- Communication skills in remote hiring
+- Cultural diversity benefits
+- In-person collaboration advantages
+- Working retreats vs traditional offices
 tags:
-  - remote-work
-  - talent-acquisition
-  - timezone-management
-  - cultural-diversity
-  - communication-skills
-  - working-retreats
+- ai
+- cosmo
+- founder
+topic_tags:
+- ai
+- cosmo
+- founder
 entities:
-  - WunderGraph
-  - Deel
-  - Germany
-  - United States
-  - Alex (Head of People)
-  - Jacob (Video)
+- WunderGraph
+- Deel
+- Germany
+- United States
+- Alex (Head of People)
+- Jacob (Video)
 mentions:
-  - American company structure
-  - West Coast vs global hiring
-  - legal framework complexity
-  - hardware shipping challenges
-  - elite office culture avoidance
-  - retreat vs working week
-  - cultural background diversity
-summary: |
-  The co-founders discuss remote work trade-offs, with Björn covering operational challenges like timezone management and legal complexity across multiple countries. Jens emphasizes cultural diversity benefits while acknowledging collaboration challenges. Dustin highlights the increased difficulty of hiring for both technical skills and communication abilities in a remote environment.
+- American company structure
+- West Coast vs global hiring
+- legal framework complexity
+- hardware shipping challenges
+- elite office culture avoidance
+- retreat vs working week
+- cultural background diversity
+summary: The co-founders discuss remote work trade-offs, with Björn covering operational
+  challenges like timezone management and legal complexity across multiple countries.
+  Jens emphasizes cultural diversity benefits while acknowledging collaboration challenges.
+  Dustin highlights the increased difficulty of hiring for both technical skills and
+  communication abilities in a remote environment.
 ---
 
 00:35:47:28 - 00:36:11:08

@@ -5,46 +5,53 @@ series: The Good Thing
 episode: 18
 chunk: 1
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Industry layoffs and competitive empathy
 timecode: 00:00:19:17 – 00:05:10:06
 start_time: 00:00:19:17
 end_time: 00:05:10:06
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Apollo GraphQL layoffs discussion
-  - Founder empathy vs competitive instincts
-  - Human impact of job losses
-  - Market implications for competitors
-  - Formula one racing respect analogy
-  - VC behavior criticism toward laid-off workers
+- Apollo GraphQL layoffs discussion
+- Founder empathy vs competitive instincts
+- Human impact of job losses
+- Market implications for competitors
+- Formula one racing respect analogy
+- VC behavior criticism toward laid-off workers
 tags:
-  - apollo-layoffs
-  - founder-empathy
-  - competitive-dynamics
-  - job-losses
-  - market-analysis
-  - industry-respect
+- founder
+- startup
+topic_tags:
+- apollo-layoffs
+- founder-empathy
+- competitive-dynamics
+- job-losses
+- market-analysis
+- industry-respect
 entities:
-  - Apollo
-  - GraphQL
-  - Microsoft
-  - Linux
-  - Neovim
-  - TAB (Technical Advisory Board)
+- Apollo
+- GraphQL
+- Microsoft
+- Linux
+- Neovim
+- TAB (Technical Advisory Board)
 mentions:
-  - Linux neovim user joke
-  - Apollo go-to-market layoffs
-  - GraphQL expert hiring opportunity
-  - Formula One driver respect
-  - human beings with families
-  - Friday layoff surprise
-  - VC punching down on Microsoft employees
-summary: |
-  Stefan and Jens discuss recent Apollo layoffs, emphasizing empathy for affected employees while analyzing competitive implications. Stefan advocates for sympathy first, acknowledging the human cost of job losses, especially when they come as Friday surprises. Jens compares competitive respect to Formula One racing, where you can fight on track but still respect peers, criticizing VCs who punch down on laid-off workers instead of offering support.
+- Linux neovim user joke
+- Apollo go-to-market layoffs
+- GraphQL expert hiring opportunity
+- Formula One driver respect
+- human beings with families
+- Friday layoff surprise
+- VC punching down on Microsoft employees
+summary: Stefan and Jens discuss recent Apollo layoffs, emphasizing empathy for affected
+  employees while analyzing competitive implications. Stefan advocates for sympathy
+  first, acknowledging the human cost of job losses, especially when they come as
+  Friday surprises. Jens compares competitive respect to Formula One racing, where
+  you can fight on track but still respect peers, criticizing VCs who punch down on
+  laid-off workers instead of offering support.
 ---
 
 

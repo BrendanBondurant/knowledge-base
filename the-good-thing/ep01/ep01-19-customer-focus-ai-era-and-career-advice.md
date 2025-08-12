@@ -5,45 +5,52 @@ series: The Good Thing
 episode: 1
 chunk: 19
 participants:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 segment: Final Lessons and Preview of Part Two
 timecode: 01:00:23 – 01:03:28
 start_time: 01:00:23
 end_time: 01:03:28
 speakers:
-  - Jens
-  - Stefan
+- Jens
+- Stefan
 topics:
-  - Value of direct contact with customers
-  - Developer empathy and product alignment
-  - Amazon practice of rotating engineers into support
-  - Preview of TYK role and Cosmo origins
-  - Advice for early career engineers
-  - Importance of fundamentals and clarity
-  - Programming in the age of AI
+- Value of direct contact with customers
+- Developer empathy and product alignment
+- Amazon practice of rotating engineers into support
+- Preview of TYK role and Cosmo origins
+- Advice for early career engineers
+- Importance of fundamentals and clarity
+- Programming in the age of AI
 tags:
-  - customer-empathy
-  - ai-and-careers
-  - developer-advice
-  - fundamentals
-  - product-strategy
+- ai
+topic_tags:
+- customer-empathy
+- ai-and-careers
+- developer-advice
+- fundamentals
+- product-strategy
 entities:
-  - Jens Neuse
-  - Stefan Avram
-  - WunderGraph
-  - TYK
-  - Cosmo
-  - Nvidia
-  - Amazon
+- Jens Neuse
+- Stefan Avram
+- WunderGraph
+- TYK
+- Cosmo
+- Nvidia
+- Amazon
 mentions:
-  - developer customer empathy
-  - fundamentals before frameworks
-  - TYK GraphQL platform
-  - AI changing developer roles
-  - translating business needs into products
-summary: |
-  Stefan reflects on how valuable it is to work close to customers and urges engineers early in their careers to pursue roles where they can build with feedback. He previews part two of the series, which will explore Jens time at TYK and how it laid the groundwork for Cosmo. Jens closes the episode by reiterating the importance of mastering fundamentals, going deep until you truly understand, and thinking of programming not as writing code but as translating customer needs into software. Especially in the AI era, this mindset remains critical to delivering real value.
+- developer customer empathy
+- fundamentals before frameworks
+- TYK GraphQL platform
+- AI changing developer roles
+- translating business needs into products
+summary: Stefan reflects on how valuable it is to work close to customers and urges
+  engineers early in their careers to pursue roles where they can build with feedback.
+  He previews part two of the series, which will explore Jens time at TYK and how
+  it laid the groundwork for Cosmo. Jens closes the episode by reiterating the importance
+  of mastering fundamentals, going deep until you truly understand, and thinking of
+  programming not as writing code but as translating customer needs into software.
+  Especially in the AI era, this mindset remains critical to delivering real value.
 ---
 
 

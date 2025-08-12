@@ -22,9 +22,9 @@ topics:
   - "Just do things" mindset in engineering
   - Programming compared to learning soccer
 tags:
-  - imposter-syndrome
-  - learning
-  - engineering-mindset
+- go
+- resilience
+- founder
 entities:
   - Jens Neuse
   - Stefan Avram

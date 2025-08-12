@@ -24,6 +24,9 @@ topics:
   - 500-node cluster orchestration
   - Real-world scale deployment satisfaction
 tags:
+- ai
+- database
+- websocket
   - scale-fascination
   - infrastructure-companies
   - customer-relationships

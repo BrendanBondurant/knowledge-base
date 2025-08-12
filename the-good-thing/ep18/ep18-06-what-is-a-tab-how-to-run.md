@@ -5,50 +5,57 @@ series: The Good Thing
 episode: 18
 chunk: 6
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Technical Advisory Board structure and methodology
 timecode: 00:32:13:13 – 00:38:03:28
 start_time: 00:32:13:13
 end_time: 00:38:03:28
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Technical Advisory Board definition and purpose
-  - Personal advisory board concept for self-improvement
-  - TAB composition across engineering roles
-  - Every two weeks 30-minute meeting schedule
-  - No show and tell initially - listening only
-  - Understanding daily workflows and pain points
-  - Vision clarification through customer conversations
-  - Adam Frankl methodology influence
+- Technical Advisory Board definition and purpose
+- Personal advisory board concept for self-improvement
+- TAB composition across engineering roles
+- Every two weeks 30-minute meeting schedule
+- No show and tell initially - listening only
+- Understanding daily workflows and pain points
+- Vision clarification through customer conversations
+- Adam Frankl methodology influence
 tags:
-  - technical-advisory-board
-  - customer-research
-  - product-development
-  - listening-methodology
-  - vision-clarification
-  - adam-frankl
+- startup
+topic_tags:
+- technical-advisory-board
+- customer-research
+- product-development
+- listening-methodology
+- vision-clarification
+- adam-frankl
 entities:
-  - Technical Advisory Board (TAB)
-  - Adam Frankl
-  - Principal engineers
-  - CTOs
-  - Architects
-  - Senior developers
-  - Junior developers
+- Technical Advisory Board (TAB)
+- Adam Frankl
+- Principal engineers
+- CTOs
+- Architects
+- Senior developers
+- Junior developers
 mentions:
-  - board of directors analogy
-  - unfiltered feedback importance
-  - Wednesday Thursday schedule
-  - six meetings per day
-  - no product showing initially
-  - junior vs CTO different problems
-  - developer marketing guru
-  - vision getting clearer
-summary: |
-  Stefan introduces the Technical Advisory Board concept as both a business tool and personal development method, emphasizing the importance of unfiltered feedback from trusted advisors. He describes their structured approach: 30-minute meetings every two weeks with diverse engineering roles, initially focusing only on listening to understand daily workflows rather than showing products. The methodology, influenced by Adam Frankl, helps clarify product vision through customer conversations in their own words.
+- board of directors analogy
+- unfiltered feedback importance
+- Wednesday Thursday schedule
+- six meetings per day
+- no product showing initially
+- junior vs CTO different problems
+- developer marketing guru
+- vision getting clearer
+summary: 'Stefan introduces the Technical Advisory Board concept as both a business
+  tool and personal development method, emphasizing the importance of unfiltered feedback
+  from trusted advisors. He describes their structured approach: 30-minute meetings
+  every two weeks with diverse engineering roles, initially focusing only on listening
+  to understand daily workflows rather than showing products. The methodology, influenced
+  by Adam Frankl, helps clarify product vision through customer conversations in their
+  own words.'
 ---
 
 00:32:13:13 - 00:32:30:14

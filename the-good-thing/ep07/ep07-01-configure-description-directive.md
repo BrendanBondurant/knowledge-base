@@ -5,42 +5,48 @@ series: The Good Thing
 episode: 7
 chunk: 1
 participants:
-  - Jens
-  - David
+- Jens
+- David
 segment: Introduction and Configure Description directive
 timecode: 00:00:00:00 – 00:05:06:09
 start_time: 00:00:00:00
 end_time: 00:05:06:09
 speakers:
-  - Jens
-  - David
+- Jens
+- David
 topics:
-  - Configure Description directive implementation
-  - Schema description propagation in federation
-  - Customer-driven feature development
-  - Large-scale schema metadata challenges
+- Configure Description directive implementation
+- Schema description propagation in federation
+- Customer-driven feature development
+- Large-scale schema metadata challenges
 tags:
-  - graphql
-  - federation
-  - directives
-  - schema-composition
-  - customer-feedback
+- graphql
+- federation
+- startup
+topic_tags:
+- graphql
+- federation
+- directives
+- schema-composition
+- customer-feedback
 entities:
-  - WunderGraph
-  - Cosmo
-  - GraphQL
-  - Federation
-  - Jens Neuse
-  - David
-  - Stefan Avram
+- WunderGraph
+- Cosmo
+- GraphQL
+- Federation
+- Jens Neuse
+- David
+- Stefan Avram
 mentions:
-  - Stefan's marriage ceremonies
-  - customer use case with 80-90+ graphs
-  - description propagation algorithm
-  - granular control over federation descriptions
-  - post-process transformers
-summary: |
-  Jens introduces episode 7 with David and Sergiy while Stefan is away. David explains the recently implemented Configure Description directive, which gives customers granular control over how schema descriptions propagate in federated graphs, solving challenges for large-scale deployments with 80+ subgraphs.
+- Stefan's marriage ceremonies
+- customer use case with 80-90+ graphs
+- description propagation algorithm
+- granular control over federation descriptions
+- post-process transformers
+summary: Jens introduces episode 7 with David and Sergiy while Stefan is away. David
+  explains the recently implemented Configure Description directive, which gives customers
+  granular control over how schema descriptions propagate in federated graphs, solving
+  challenges for large-scale deployments with 80+ subgraphs.
 ---
 Episode 7
 00:00:00:00 - 00:00:54:03

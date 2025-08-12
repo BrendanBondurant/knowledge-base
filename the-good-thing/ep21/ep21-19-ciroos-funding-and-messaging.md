@@ -5,44 +5,43 @@ series: The Good Thing
 episode: 21
 chunk: 19
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Ciroos Evaluation - Part 1
 timecode: 00:57:00:00 – 01:00:00:00
 start_time: 00:57:00:00
 end_time: 01:00:00:00
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Ciroos founder team background
-  - AWS and Cisco experience
-  - SRE and incident management
-  - Seed funding assessment
+- Ciroos founder team background
+- AWS and Cisco experience
+- SRE and incident management
+- Seed funding assessment
 tags:
-  - ciroos
-  - founder-background
-  - aws-experience
-  - cisco-experience
-  - sre-tools
-  - seed-funding
+- ciroos
+topic_tags:
+- ciroos
 entities:
-  - Ciroos
-  - Stefan Avram
-  - Jens Neuse
-  - AWS
-  - Cisco
-  - Y Combinator
+- Ciroos
+- Stefan Avram
+- Jens Neuse
+- AWS
+- Cisco
+- Y Combinator
 mentions:
-  - February 2025 funding
-  - three founder team
-  - AWS backgrounds
-  - Cisco VP positions
-  - marathon running
-  - stacked founder team
-  - angel investor research
-summary: |
-  Stefan and Jens review Ciroos, noting the impressive founder team with AWS and Cisco VP experience. They recognize the team's credentials but struggle to understand the SRE messaging and what problem Ciroos actually solves, despite acknowledging the founders' strong backgrounds and recent seed funding.
+- February 2025 funding
+- three founder team
+- AWS backgrounds
+- Cisco VP positions
+- marathon running
+- stacked founder team
+- angel investor research
+summary: Stefan and Jens review Ciroos, noting the impressive founder team with AWS
+  and Cisco VP experience. They recognize the team's credentials but struggle to understand
+  the SRE messaging and what problem Ciroos actually solves, despite acknowledging
+  the founders' strong backgrounds and recent seed funding.
 ---
 
 00:57:03:26 - 00:57:15:24

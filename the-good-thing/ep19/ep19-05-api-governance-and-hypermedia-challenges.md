@@ -5,41 +5,41 @@ series: The Good Thing
 episode: 19
 chunk: 5
 participants:
-  - Stefan
-  - Robert Farr
-  - Jens
+- Stefan
+- Robert Farr
+- Jens
 segment: API Governance and Standards
 timecode: 00:21:20 – 00:27:21
 start_time: 00:21:20
 end_time: 00:27:21
 speakers:
-  - Stefan
-  - Robert Farr
-  - Jens
+- Stefan
+- Robert Farr
+- Jens
 topics:
-  - API governance at enterprise scale
-  - Challenges with API consistency across teams
-  - Hypermedia approaches and their limitations
-  - Developer experience considerations
+- API governance at enterprise scale
+- Challenges with API consistency across teams
+- Hypermedia approaches and their limitations
+- Developer experience considerations
 tags:
-  - api-governance
-  - hypermedia
-  - consistency
-  - developer-experience
-  - enterprise-scale
-  - standards
+- ai
+- rest
+topic_tags:
+- ai
+- rest
 entities:
-  - Robert Farr
-  - Stefan Avram
-  - Jens Neuse
-  - Procore
+- Robert Farr
+- Stefan Avram
+- Jens Neuse
+- Procore
 mentions:
-  - Enterprise API governance challenges
-  - Hypermedia complexity and adoption barriers
-  - Cross-team API consistency issues
-  - Developer experience trade-offs
-summary: |
-  Deep dive into API governance challenges at enterprise scale, exploring the difficulties of maintaining consistency across teams, hypermedia approaches, and the impact on developer experience.
+- Enterprise API governance challenges
+- Hypermedia complexity and adoption barriers
+- Cross-team API consistency issues
+- Developer experience trade-offs
+summary: Deep dive into API governance challenges at enterprise scale, exploring the
+  difficulties of maintaining consistency across teams, hypermedia approaches, and
+  the impact on developer experience.
 ---
 
 00:21:20:19 - 00:21:43:13

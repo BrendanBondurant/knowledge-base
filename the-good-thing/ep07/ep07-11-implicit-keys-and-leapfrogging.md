@@ -5,47 +5,46 @@ series: The Good Thing
 episode: 7
 chunk: 11
 participants:
-  - Jens
-  - Sergiy
-  - David
+- Jens
+- Sergiy
+- David
 segment: Federation key management and explicit schema design
 timecode: 00:57:00:23 – 01:03:00:00
 start_time: 00:57:00:23
 end_time: 01:03:00:00
 speakers:
-  - Jens
-  - Sergiy
-  - David
+- Jens
+- Sergiy
+- David
 topics:
-  - Explicit vs implicit entity keys
-  - Leapfrogging through multiple subgraphs
-  - Schema visibility and team coordination
-  - Federation directive improvements
-  - Interface and union handling across subgraphs
+- Explicit vs implicit entity keys
+- Leapfrogging through multiple subgraphs
+- Schema visibility and team coordination
+- Federation directive improvements
+- Interface and union handling across subgraphs
 tags:
-  - federation-keys
-  - implicit-behavior
-  - leapfrogging
-  - schema-explicitness
-  - team-coordination
-  - interfaces-unions
+- implicit-behavior
+topic_tags:
+- implicit-behavior
 entities:
-  - GraphQL
-  - Federation
-  - Lord of the Rings
-  - David
-  - Sergiy
-  - Jens Neuse
+- GraphQL
+- Federation
+- Lord of the Rings
+- David
+- Sergiy
+- Jens Neuse
 mentions:
-  - entity key handshakes
-  - composition error prevention
-  - Lego brick keys concept
-  - Middle Earth metaphor
-  - 10-20 team coordination challenges
-  - interface/union member visibility
-  - microservices architecture coordination
-summary: |
-  David advocates for explicit entity keys to prevent composition errors and team confusion. The discussion covers leapfrogging (routing through multiple subgraphs), implicit key problems, and Sergiy's concerns about interface/union visibility across subgraphs in large organizations with 10-20 teams working on separate services.
+- entity key handshakes
+- composition error prevention
+- Lego brick keys concept
+- Middle Earth metaphor
+- 10-20 team coordination challenges
+- interface/union member visibility
+- microservices architecture coordination
+summary: David advocates for explicit entity keys to prevent composition errors and
+  team confusion. The discussion covers leapfrogging (routing through multiple subgraphs),
+  implicit key problems, and Sergiy's concerns about interface/union visibility across
+  subgraphs in large organizations with 10-20 teams working on separate services.
 ---
 
 00:57:00:23 - 00:57:25:09

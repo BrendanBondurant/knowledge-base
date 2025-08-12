@@ -5,40 +5,59 @@ series: The Good Thing
 episode: 5
 chunk: 10
 participants:
-  - Stefan
-  - Jens
-segment: The outdated REST vs. GraphQL debate, federation, and solving organizational problems
+- Stefan
+- Jens
+segment: The outdated REST vs. GraphQL debate, federation, and solving organizational
+  problems
 timecode: 00:56:05:12 - 01:06:41:00
 start_time: 00:56:05:12
 end_time: 01:06:41:00
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - REST vs. GraphQL
-  - Federation
-  - Organizational problems
-  - API design
-  - BFF architecture
-  - Microservices
-  - Collaboration
-  - Product complexity
-  - Team structure
-  - API versioning
-  - Contract testing
-  - Product adoption
-  - Right tool for the job
-  - Boring tech
-  - Product architecture
+- REST vs. GraphQL
+- Federation
+- Organizational problems
+- API design
+- BFF architecture
+- Microservices
+- Collaboration
+- Product complexity
+- Team structure
+- API versioning
+- Contract testing
+- Product adoption
+- Right tool for the job
+- Boring tech
+- Product architecture
 tags:
-  - rest-vs-graphql
-  - federation
-  - api-design
-  - organizational-problems
-  - microservices
-  - team-structure
-summary: |
-  Stefan and Jens discuss why the REST vs. GraphQL debate is outdated, the real value of federation, and how API choices often reflect organizational problems rather than technical ones. They explore BFF architecture, microservices, collaboration, and the importance of using the right tool for the job.
+- federation
+- api-design
+- microservices
+topic_tags:
+- federation
+- api-design
+- microservices
+entities:
+- Stefan Avram
+- Jens Neuse
+- GraphQL
+- REST
+- WunderGraph
+mentions:
+- REST vs GraphQL debate
+- federation benefits
+- organizational problems
+- BFF architecture
+- microservices challenges
+- team collaboration
+- API versioning
+- contract testing
+summary: Stefan and Jens discuss why the REST vs. GraphQL debate is outdated, the
+  real value of federation, and how API choices often reflect organizational problems
+  rather than technical ones. They explore BFF architecture, microservices, collaboration,
+  and the importance of using the right tool for the job.
 ---
 
 00:56:05:12 - 00:56:19:03

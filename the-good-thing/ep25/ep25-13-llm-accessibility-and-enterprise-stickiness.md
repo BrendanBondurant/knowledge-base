@@ -24,6 +24,9 @@ topics:
   - GraphQL vs REST with LLM query capabilities
   - Technology adoption lifecycle and persistence
 tags:
+- graphql
+- mcp
+- ai
   - ai-attribution
   - data-scraping-ethics
   - cloudflare-blocking
@@ -33,7 +36,7 @@ tags:
 entities:
   - OpenAI
   - Cloudflare
-  - GraphQL
+  - graphql
   - REST APIs
   - LLMs
   - MCP (Model Context Protocol)

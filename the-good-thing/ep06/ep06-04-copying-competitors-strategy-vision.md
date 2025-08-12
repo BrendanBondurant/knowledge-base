@@ -25,6 +25,37 @@ topics:
   - Distribution
 summary: |
   Jens and Stefan reflect on the temptation to copy competitors, the importance of having a vision, and the need to focus on customers rather than just features. They discuss the pitfalls of feature parity and the value of original strategy in startup success.
+tags:
+- ai
+- apollo-graphql
+- startup
+  - competitor-analysis
+  - startup
+  - product-vision
+  - product-differentiation
+topic_tags:
+- ai
+- apollo-graphql
+- startup
+  - competitor-analysis
+  - startup-strategy
+  - product-vision
+  - customer-focus
+  - product-differentiation
+  - market-entry
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - WunderGraph
+  - Apollo
+  - Hasura
+mentions:
+  - copying competitors strategy
+  - startup vision importance
+  - customer focus vs features
+  - feature parity pitfalls
+  - original strategy value
+  - distribution challenges
 ---
 
 00:07:17:15 - 00:07:48:04

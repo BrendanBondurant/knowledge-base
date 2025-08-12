@@ -5,49 +5,52 @@ series: The Good Thing
 episode: 14
 chunk: 6
 participants:
-  - Stefan
-  - Jens
-  - Dustin
+- Stefan
+- Jens
+- Dustin
 segment: Schema Generation Complexity and LLM Limitations
 timecode: 00:22:00 – 00:27:17
 start_time: 00:22:00
 end_time: 00:27:17
 speakers:
-  - Dustin
-  - Jens
-  - Stefan
+- Dustin
+- Jens
+- Stefan
 topics:
-  - JSON schema complexity with recursive input types
-  - LLM limitations with full JSON schema specification
-  - Edge cases in schema generation for LLM usage
-  - Vibe coding risks for schema generation
-  - Deterministic vs creative LLM tasks
+- JSON schema complexity with recursive input types
+- LLM limitations with full JSON schema specification
+- Edge cases in schema generation for LLM usage
+- Vibe coding risks for schema generation
+- Deterministic vs creative LLM tasks
 tags:
-  - json-schema-limitations
-  - recursive-types
-  - llm-constraints
-  - vibe-coding-risks
-  - deterministic-tasks
-  - schema-generation
-  - graphql-mapping
+- graphql
+- mcp
+- ai
+topic_tags:
+- graphql
+- mcp
+- ai
 entities:
-  - JSON schema
-  - LLM
-  - GraphQL
-  - Find employees tool
-  - Recursive structures
-  - Enums
+- JSON schema
+- LLM
+- GraphQL
+- Find employees tool
+- Recursive structures
+- Enums
 mentions:
-  - complex input types with nationality and mood filters
-  - LLM subset support of JSON schema
-  - recursion depth limitations
-  - nullable field handling
-  - enum value requirements
-  - vibe coding confidence concerns
-  - GraphQL to JSON schema mapping complexity
-  - deterministic task inappropriate for LLMs
-summary: |
-  Dustin explains the complexity of generating JSON schemas for LLM consumption, noting that models only support subsets of the full specification and struggle with recursive structures. Jens questions the reliability of vibe coding schema generation, leading to discussion about how complex data structures quickly exceed human verification capabilities, making deterministic generation preferable to creative LLM tasks.
+- complex input types with nationality and mood filters
+- LLM subset support of JSON schema
+- recursion depth limitations
+- nullable field handling
+- enum value requirements
+- vibe coding confidence concerns
+- GraphQL to JSON schema mapping complexity
+- deterministic task inappropriate for LLMs
+summary: Dustin explains the complexity of generating JSON schemas for LLM consumption,
+  noting that models only support subsets of the full specification and struggle with
+  recursive structures. Jens questions the reliability of vibe coding schema generation,
+  leading to discussion about how complex data structures quickly exceed human verification
+  capabilities, making deterministic generation preferable to creative LLM tasks.
 ---
 
 00:22:00:21 - 00:22:44:12

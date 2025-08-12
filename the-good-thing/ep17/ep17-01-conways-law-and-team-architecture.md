@@ -5,41 +5,49 @@ series: The Good Thing
 episode: 17
 chunk: 1
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Introduction to Conway's Law
 timecode: 00:00:22 – 00:05:10
 start_time: 00:00:22
 end_time: 00:05:10
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Conway's Law explanation and definition
-  - Software architecture mirroring organizational structure
-  - Customer patterns from monolith to federation
-  - Team collaboration and communication patterns
-  - Personal learning story about recursion
+- Conway's Law explanation and definition
+- Software architecture mirroring organizational structure
+- Customer patterns from monolith to federation
+- Team collaboration and communication patterns
+- Personal learning story about recursion
 tags:
-  - conways-law
-  - organizational-design
-  - team-architecture
-  - federation
-  - monolith
-  - customer-patterns
+- conways-law
+- federation
+- monolith
+- startup
+topic_tags:
+- conways-law
+- organizational-design
+- team-architecture
+- federation
+- monolith
+- customer-patterns
 entities:
-  - Conway's Law
-  - WunderGraph
-  - Stefan Avram
-  - Jens Neuse
+- Conway's Law
+- WunderGraph
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - recursion learning experience
-  - enterprise customers
-  - construction company IPO growth
-  - monorepo vs distributed teams
-  - federation architecture benefits
-summary: |
-  Stefan introduces Conway's Law through a personal learning analogy with recursion, explaining how software structure mirrors organizational structure. He shares observations from customer conversations, showing how companies transition from monolith to federated architectures as they grow from small teams to large organizations, with a construction company example that went from zero to IPO in six years.
+- recursion learning experience
+- enterprise customers
+- construction company IPO growth
+- monorepo vs distributed teams
+- federation architecture benefits
+summary: Stefan introduces Conway's Law through a personal learning analogy with recursion,
+  explaining how software structure mirrors organizational structure. He shares observations
+  from customer conversations, showing how companies transition from monolith to federated
+  architectures as they grow from small teams to large organizations, with a construction
+  company example that went from zero to IPO in six years.
 ---
 Episode 17
 00:00:22:17 - 00:00:31:05

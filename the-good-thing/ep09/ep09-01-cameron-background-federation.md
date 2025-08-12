@@ -5,42 +5,47 @@ series: The Good Thing
 episode: 9
 chunk: 1
 participants:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 segment: Introduction and guest background
 timecode: 00:00:00:00 – 00:04:16:28
 start_time: 00:00:00:00
 end_time: 00:04:16:28
 speakers:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 topics:
-  - Cameron's introduction to WunderGraph
-  - Background as senior software engineer focusing on AI
-  - Previous experience as CISO at WunderGraph customer
-  - GraphQL Federation implementation at previous company
-  - 13 microservices federated through Cosmo
+- Cameron's introduction to WunderGraph
+- Background as senior software engineer focusing on AI
+- Previous experience as CISO at WunderGraph customer
+- GraphQL Federation implementation at previous company
+- 13 microservices federated through Cosmo
 tags:
-  - guest-introduction
-  - graphql-federation
-  - cosmo
-  - microservices
-  - ai-engineer
+- graphql-federation
+- cosmo
+- microservices
+topic_tags:
+- graphql-federation
+- cosmo
+- microservices
 entities:
-  - Cameron
-  - WunderGraph
-  - Cosmo
-  - GraphQL Federation
-  - Stefan Avram
-  - Jens Neuse
+- Cameron
+- WunderGraph
+- Cosmo
+- GraphQL Federation
+- Stefan Avram
+- Jens Neuse
 mentions:
-  - Stefan traveling to Germany
-  - Cameron joining WunderGraph with AI focus
-  - TypeScript rewrite discussion
-  - 13 federated microservices
-  - frontend API dependency
-summary: |
-  Jens introduces Cameron, a new senior software engineer at WunderGraph who previously worked as CISO at a WunderGraph customer. Cameron shares his background in AI-powered tooling and his experience using GraphQL Federation with 13 microservices at his previous company, discussing how it simplified both frontend and backend development.
+- Stefan traveling to Germany
+- Cameron joining WunderGraph with AI focus
+- TypeScript rewrite discussion
+- 13 federated microservices
+- frontend API dependency
+summary: Jens introduces Cameron, a new senior software engineer at WunderGraph who
+  previously worked as CISO at a WunderGraph customer. Cameron shares his background
+  in AI-powered tooling and his experience using GraphQL Federation with 13 microservices
+  at his previous company, discussing how it simplified both frontend and backend
+  development.
 ---
 Episode 9
 00:00:00:00 - 00:00:48:09

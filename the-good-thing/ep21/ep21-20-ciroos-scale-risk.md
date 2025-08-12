@@ -5,46 +5,46 @@ series: The Good Thing
 episode: 21
 chunk: 20
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Ciroos Evaluation - Part 2
 timecode: 01:00:00:00 – 01:03:13:16
 start_time: 01:00:00:00
 end_time: 01:03:13:16
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Ciroos unclear value proposition
-  - SRE incident management confusion
-  - Seed funding based on resumes
-  - Competitive landscape assessment
+- Ciroos unclear value proposition
+- SRE incident management confusion
+- Seed funding based on resumes
+- Competitive landscape assessment
 tags:
-  - ciroos
-  - value-proposition
-  - sre-incident-management
-  - resume-funding
-  - competitive-landscape
-  - datadog-grafana
+- ciroos
+topic_tags:
+- ciroos
 entities:
-  - Ciroos
-  - Stefan Avram
-  - Jens Neuse
-  - Incident.io
-  - Cisco
-  - AppDynamics
-  - Datadog
-  - Grafana
-  - David (chat participant)
+- Ciroos
+- Stefan Avram
+- Jens Neuse
+- Incident.io
+- Cisco
+- AppDynamics
+- Datadog
+- Grafana
+- David (chat participant)
 mentions:
-  - Cisco/AppDynamics work experience
-  - incident investigation tools
-  - differentiation from Incident.io
-  - massive seed round success
-  - resume-based fundraising
-  - coin flip tier placement
-summary: |
-  Stefan and Jens express confusion about Ciroos' value proposition in SRE incident management, questioning how it differs from existing tools like Incident.io. They suspect the founders raised a large seed round primarily based on their impressive Cisco/AWS resumes rather than clear product differentiation, ultimately placing them in the "coin flip" tier due to uncertainty about the actual problem being solved.
+- Cisco/AppDynamics work experience
+- incident investigation tools
+- differentiation from Incident.io
+- massive seed round success
+- resume-based fundraising
+- coin flip tier placement
+summary: Stefan and Jens express confusion about Ciroos' value proposition in SRE
+  incident management, questioning how it differs from existing tools like Incident.io.
+  They suspect the founders raised a large seed round primarily based on their impressive
+  Cisco/AWS resumes rather than clear product differentiation, ultimately placing
+  them in the "coin flip" tier due to uncertainty about the actual problem being solved.
 ---
 
 01:00:12:10 - 01:00:26:03

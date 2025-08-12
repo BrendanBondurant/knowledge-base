@@ -23,7 +23,10 @@ topics:
   - Market adoption and Gartner hype cycle positioning
   - Alternative approaches to federation
 tags:
-  - GraphQL-foundation
+- federation
+- graphql-federation
+- grpc
+  - graphql-foundation
   - federation-spec
   - working-group
   - ChilliCream

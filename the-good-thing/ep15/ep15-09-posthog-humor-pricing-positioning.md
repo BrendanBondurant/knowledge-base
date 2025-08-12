@@ -21,8 +21,11 @@ topics:
   - Humorous anti-sales messaging
   - Free tier generosity strategy
 tags:
+- graphql
+- ai
+- kubernetes
   - posthog
-  - pricing-strategy
+  - startup
   - humor-marketing
   - objection-handling
   - reverse-psychology

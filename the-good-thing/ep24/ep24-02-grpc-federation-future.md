@@ -1,4 +1,3 @@
-
 ---
 title: gRPC Federation Future and Apollo Leadership
 slug: ep24-02-grpc-federation-future
@@ -23,8 +22,11 @@ topics:
   - Data loading and batching solutions
   - WunderGraph's approach to Federation
 tags:
-  - gRPC
-  - GraphQL-federation
+- grpc
+- federation
+- graphql-federation
+  - grpc
+  - graphql-federation
   - type-safety
   - router-architecture
   - data-loading

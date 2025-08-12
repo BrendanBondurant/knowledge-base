@@ -5,56 +5,65 @@ series: The Good Thing
 episode: 24
 chunk: 1
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Episode Introduction and AI Discussion
 timecode: 00:00:25:08 – 00:04:05:01
 start_time: 00:00:25:08
 end_time: 00:04:05:01
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Podcast introduction and format
-  - AI replacing developers debate
-  - Weekly tech news preview
-  - gRPC as next generation for GraphQL Federation
-  - AI productivity study discussion
-  - Lovable's rapid growth and funding
-  - Meta's potential shift from open source AI
+- Podcast introduction and format
+- AI replacing developers debate
+- Weekly tech news preview
+- gRPC as next generation for GraphQL Federation
+- AI productivity study discussion
+- Lovable's rapid growth and funding
+- Meta's potential shift from open source AI
 tags:
-  - podcast-intro
-  - AI-development
-  - developer-productivity
-  - gRPC
-  - GraphQL-federation
-  - startup-funding
-  - open-source
+- ai
+- grpc
+- graphql-federation
+- startup
+- open-source
+topic_tags:
+- podcast-intro
+- AI-development
+- developer-productivity
+- gRPC
+- GraphQL-federation
+- startup-funding
+- open-source
 entities:
-  - The Good Thing
-  - WunderGraph
-  - Stefan Avram
-  - Jens Neuse
-  - Jacob
-  - Lovable
-  - Meta
-  - Crandham
-  - GitHub
-  - Cursor
+- The Good Thing
+- WunderGraph
+- Stefan Avram
+- Jens Neuse
+- Jacob
+- Lovable
+- Meta
+- Crandham
+- GitHub
+- Cursor
 mentions:
-  - Call of Duty video intro style
-  - AI replacing developers
-  - prompt engineering
-  - Matrix energy provision analogy
-  - weekly tech review format
-  - Hacker News study
-  - 15 million seed funding
-  - 200 million Series A
-  - 75 million ARR
-  - 2 billion valuation
-  - China's Deep Seek
-summary: |
-  Stefan and Jens open episode 24 with playful banter about AI replacing developers and the podcast format. They preview the week's tech topics including gRPC for GraphQL Federation, an AI productivity study showing developers slowing down 20%, Lovable's impressive 200M Series A after 8 months, and Meta potentially moving away from open source AI models.
+- Call of Duty video intro style
+- AI replacing developers
+- prompt engineering
+- Matrix energy provision analogy
+- weekly tech review format
+- Hacker News study
+- 15 million seed funding
+- 200 million Series A
+- 75 million ARR
+- 2 billion valuation
+- China's Deep Seek
+summary: Stefan and Jens open episode 24 with playful banter about AI replacing developers
+  and the podcast format. They preview the week's tech topics including gRPC for GraphQL
+  Federation, an AI productivity study showing developers slowing down 20%, Lovable's
+  impressive 200M Series A after 8 months, and Meta potentially moving away from open
+  source AI models.
 ---
 
 00:00:25:08 - 00:00:39:18

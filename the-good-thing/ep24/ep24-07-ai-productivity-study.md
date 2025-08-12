@@ -23,7 +23,10 @@ topics:
   - Media headline-driven narratives
   - Psychology research standards
 tags:
-  - AI-productivity
+- ai
+- open-source
+- founder
+  - ai-productivity
   - research-methodology
   - sample-size
   - selection-bias

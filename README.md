@@ -2,11 +2,14 @@
 
 ## Quick Reference — Metadata Rules
 
-| Field | Purpose | Format | Human-Friendly? | Machine-Friendly? | Source of Truth |
-|-------|---------|---------|-----------------|-------------------|-----------------|
-| `topics` | Main discussion themes for the chunk | Title Case, spaces between words, no hyphens/underscores | ✅ Yes | ❌ No | Written per chunk |
-| `tags` | Global, reusable categorization for all content | lowercase, kebab-case (graphql-federation) | ❌ No | ✅ Yes | tags_master.yaml |
-| `topic_tags` | Machine-friendly equivalents of topics | lowercase, kebab-case, must match tags_master.yaml exactly | ❌ No | ✅ Yes | Derived from topics |
+| Field        | Purpose                                         | Format                                                                        | Human-Friendly? | Machine-Friendly? | Source of Truth                 |
+| ------------ | ----------------------------------------------- | ----------------------------------------------------------------------------- | --------------- | ----------------- | ------------------------------- |
+| `topics`     | Main discussion themes for the chunk            | Title Case, spaces between words, no hyphens/underscores                      | ✅               | ❌                 | Written per chunk               |
+| `tags`       | Global, reusable categorization for all content | lowercase, kebab-case (graphql-federation)                                    | ❌               | ✅                 | `tags_master.yaml`              |
+| `topic_tags` | Machine-friendly equivalents of topics          | lowercase, kebab-case, must match `tags_master.yaml`                          | ❌               | ✅                 | Derived from `topics`           |
+| `entities`   | People, teams, products, standards referenced   | **Canonical IDs or slugs** (e.g., `ent:mcp`, `ent:cosmo`, `ent:kevin-swiber`) | ❌               | ✅                 | `entities.json` (IDs + aliases) |
+| `mentions`   | Useful long-tail phrases/quotes for recall      | Free-text phrases (≤10 per chunk), trim punctuation, no hashtags              | ✅               | ⚠️ (search-only)  | Extracted/written per chunk     |
+
 
 ## Governance Rules
 
@@ -26,8 +29,8 @@ The approved vocabulary for tags and topic_tags lives in the `tags_master.yaml` 
 
 #### To add a new tag:
 
-1. Edit `tags_master.yaml` to include the new kebab-case tag
-2. Run the tag validation script (`/scripts/validate_tags.md`) before committing
+1. Edit `tags_master.yaml` to include the new kebab-case tag (Doesn't exist yet)
+2. Run the tag validation script (`/scripts/validate_tags.md`) before committing (Doesn't exist yet)
 3. Document the addition in the repo changelog
 4. Pre-commit hooks will reject changes that contain invalid or missing tags
 

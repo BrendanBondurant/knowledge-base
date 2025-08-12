@@ -5,44 +5,52 @@ series: The Good Thing
 episode: 1
 chunk: 6
 participants:
-  - Jens
+- Jens
 segment: Shakealert Startup — First Real Coding Experience
 timecode: 00:16:46 – 00:20:07
 start_time: 00:16:46
 end_time: 00:20:07
 speakers:
-  - Jens
+- Jens
 topics:
-  - Early startup attempt with motion-based deals app
-  - Avoiding UI through shake gesture for QR scan
-  - iOS, Android, and backend split
-  - Learning programming out of necessity
-  - Teaching self Android and backend dev with Slide Nerd (Java)
-  - Transition to Swift and discovering Java's verbosity
+- Early startup attempt with motion-based deals app
+- Avoiding UI through shake gesture for QR scan
+- iOS, Android, and backend split
+- Learning programming out of necessity
+- Teaching self Android and backend dev with Slide Nerd (Java)
+- Transition to Swift and discovering Java's verbosity
 tags:
-  - android-dev
-  - self-taught
-  - backend-dev
-  - startup-lessons
-  - programming-motivation
+- startup
+topic_tags:
+- android-dev
+- self-taught
+- backend-dev
+- startup-lessons
+- programming-motivation
 entities:
-  - Jens Neuse
-  - Shakealert
-  - Slide Nerd
-  - Android
-  - iOS
-  - Java
-  - Swift
-  - PHP
-  - QR code
+- Jens Neuse
+- Shakealert
+- Slide Nerd
+- Android
+- iOS
+- Java
+- Swift
+- PHP
+- QR code
 mentions:
-  - shake sensor
-  - YouTube tutorials
-  - "somebody had to write the code"
-  - "Slide Nerd"
-  - self-taught programming
-summary: |
-  Jens describes his first hands-on experience with building a real product: an app called Shakealert that let users shake their phone to activate a QR code scanner for local deals. Initially working with a friend who knew PHP and a classmate building the iOS app, Jens eventually took on both backend and Android development himself. Motivated by the urgency of making the startup work, he turned to YouTube tutorials—especially Slide Nerd—to teach himself Android and backend programming in Java. Later, he also learned Swift, eventually realizing Java's verbosity made it less appealing.
+- shake sensor
+- YouTube tutorials
+- somebody had to write the code
+- Slide Nerd
+- self-taught programming
+summary: 'Jens describes his first hands-on experience with building a real product:
+  an app called Shakealert that let users shake their phone to activate a QR code
+  scanner for local deals. Initially working with a friend who knew PHP and a classmate
+  building the iOS app, Jens eventually took on both backend and Android development
+  himself. Motivated by the urgency of making the startup work, he turned to YouTube
+  tutorials—especially Slide Nerd—to teach himself Android and backend programming
+  in Java. Later, he also learned Swift, eventually realizing Java''s verbosity made
+  it less appealing.'
 ---
 00:16:46:15 - 00:17:11:25
 

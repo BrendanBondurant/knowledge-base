@@ -22,8 +22,11 @@ topics:
   - Per-seat vs per-request pricing models
   - Open source ecosystem strategy
 tags:
+- federation
+- ai
+- cosmo-router
   - business-model
-  - pricing-strategy
+  - startup
   - collaboration-tools
   - infrastructure
   - enterprise-sales

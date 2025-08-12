@@ -20,6 +20,9 @@ topics:
   - Nao data editor introduction
   - Enterprise development pace critique
 tags:
+- ai
+- websocket
+- startup
   - ai-wrappers
   - market-saturation
   - nao

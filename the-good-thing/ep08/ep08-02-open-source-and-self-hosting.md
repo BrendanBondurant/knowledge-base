@@ -5,46 +5,46 @@ series: The Good Thing
 episode: 8
 chunk: 2
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Open source philosophy and inbound sales strategy
 timecode: 00:09:03:15 – 00:19:15:04
 start_time: 00:09:03:15
 end_time: 00:19:15:04
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - VC resistance to open source strategies
-  - Apache vs Elastic licensing implications
-  - Legal barriers in enterprise environments
-  - Self-hosting as competitive advantage
-  - Bottom-up adoption through developer accessibility
+- VC resistance to open source strategies
+- Apache vs Elastic licensing implications
+- Legal barriers in enterprise environments
+- Self-hosting as competitive advantage
+- Bottom-up adoption through developer accessibility
 tags:
-  - open-source
-  - licensing
-  - enterprise-sales
-  - self-hosting
-  - vc-funding
-  - developer-adoption
+- open-source
+topic_tags:
+- open-source
 entities:
-  - Sentry
-  - HashiCorp
-  - Apollo
-  - Cosmo
-  - WunderGraph
-  - Stefan Avram
-  - Jens Neuse
-  - Zig (Sentry founder)
+- Sentry
+- HashiCorp
+- Apollo
+- Cosmo
+- WunderGraph
+- Stefan Avram
+- Jens Neuse
+- Zig (Sentry founder)
 mentions:
-  - Apache vs Elastic license comparison
-  - FAANG company legal requirements
-  - bottom-up enterprise adoption
-  - POC without sales involvement
-  - router as infrastructure component
-  - S3 bucket configuration option
-summary: |
-  Discussion of open source strategy in response to VC resistance, with Stefan referencing Sentry's founder on OSS challenges. Jens explains how Apache licensing enables enterprise adoption by removing legal barriers, while self-hosting capabilities create bottom-up sales motion where enterprises conduct POCs independently before engaging for managed solutions.
+- Apache vs Elastic license comparison
+- FAANG company legal requirements
+- bottom-up enterprise adoption
+- POC without sales involvement
+- router as infrastructure component
+- S3 bucket configuration option
+summary: Discussion of open source strategy in response to VC resistance, with Stefan
+  referencing Sentry's founder on OSS challenges. Jens explains how Apache licensing
+  enables enterprise adoption by removing legal barriers, while self-hosting capabilities
+  create bottom-up sales motion where enterprises conduct POCs independently before
+  engaging for managed solutions.
 ---
 
 00:09:03:15 - 00:09:23:07

@@ -25,6 +25,34 @@ topics:
   - Product evolution
 summary: |
   Jens and Stefan discuss the dynamics of their team, the pivotal retreat that led to the Cosmo pivot, onboarding their first customers, and the role of luck in startup growth and product evolution.
+tags:
+- cosmo
+- startup
+  - team-dynamics
+  - startup
+  - product-pivot
+  - product-evolution
+topic_tags:
+- cosmo
+- startup
+  - team-dynamics
+  - startup-retreat
+  - product-pivot
+  - customer-onboarding
+  - startup-growth
+  - product-evolution
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - WunderGraph
+  - Cosmo
+mentions:
+  - team dynamics evolution
+  - pivotal company retreat
+  - Cosmo product pivot
+  - first customer onboarding
+  - startup growth factors
+  - luck in business success
 ---
 
 00:55:10:15 - 01:03:21:19

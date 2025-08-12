@@ -5,41 +5,45 @@ series: The Good Thing
 episode: 9
 chunk: 9
 participants:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 segment: AI code generation challenges
 timecode: 00:33:27:04 – 00:36:35:03
 start_time: 00:33:27:04
 end_time: 00:36:35:03
 speakers:
-  - Jens
-  - Cameron
+- Jens
+- Cameron
 topics:
-  - AI effectiveness in repetitive tasks
-  - Pattern replication challenges
-  - AST transformation complexity
-  - Test-driven development approach
-  - Context management strategies
-  - Hard-coding vs dynamic implementation
+- AI effectiveness in repetitive tasks
+- Pattern replication challenges
+- AST transformation complexity
+- Test-driven development approach
+- Context management strategies
+- Hard-coding vs dynamic implementation
 tags:
-  - code-generation
-  - ast-transformation
-  - test-driven-development
-  - pattern-replication
-  - context-management
-  - ai-limitations
+- ai
+topic_tags:
+- code-generation
+- ast-transformation
+- test-driven-development
+- pattern-replication
+- context-management
+- ai-limitations
 entities:
-  - AST
-  - GraphQL
+- AST
+- GraphQL
 mentions:
-  - SQL migrations and comments
-  - query to mutation patterns
-  - AST language transformation
-  - Claude 3.5 Sonnet
-  - hard-coded literals problem
-  - file organization strategies
-summary: |
-  Jens discusses AI's effectiveness in repetitive tasks like SQL migrations and pattern replication, but warns about challenges in complex scenarios like AST transformations. He shares experiences with test-driven development approaches and the tendency of AI models to hard-code solutions rather than create dynamic implementations.
+- SQL migrations and comments
+- query to mutation patterns
+- AST language transformation
+- Claude 3.5 Sonnet
+- hard-coded literals problem
+- file organization strategies
+summary: Jens discusses AI's effectiveness in repetitive tasks like SQL migrations
+  and pattern replication, but warns about challenges in complex scenarios like AST
+  transformations. He shares experiences with test-driven development approaches and
+  the tendency of AI models to hard-code solutions rather than create dynamic implementations.
 ---
 00:33:27:04 - 00:33:55:05
 Cameron

@@ -5,41 +5,42 @@ series: The Good Thing
 episode: 2
 chunk: 13
 participants:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 segment: Federation Descriptions and Documentation
 timecode: 00:51:44:14 – 00:56:39:05
 start_time: 00:51:44:14
 end_time: 00:56:39:05
 speakers:
-  - Stefan
-  - Jens
+- Stefan
+- Jens
 topics:
-  - Federation descriptions and documentation
-  - RFC process for federation improvements
-  - Public vs private descriptions
-  - Team collaboration challenges
-  - Schema documentation standards
+- Federation descriptions and documentation
+- RFC process for federation improvements
+- Public vs private descriptions
+- Team collaboration challenges
+- Schema documentation standards
 tags:
-  - federation-descriptions
-  - rfc-process
-  - documentation
-  - team-collaboration
-  - schema-standards
+- federation-descriptions
+topic_tags:
+- federation-descriptions
 entities:
-  - WunderGraph
-  - GraphQL Federation
-  - RFC Process
-  - Schema Registry
-  - Documentation Standards
+- WunderGraph
+- GraphQL Federation
+- RFC Process
+- Schema Registry
+- Documentation Standards
 mentions:
-  - federation documentation
-  - team collaboration
-  - public descriptions
-  - private descriptions
-  - composition errors
-summary: |
-  Stefan and Jens discuss the challenges of federation descriptions and documentation, explaining how teams can conflict when adding descriptions to the same fields. They describe their RFC process for solving this problem by introducing a new directive that allows teams to specify public vs private descriptions, preventing composition errors and enabling better team collaboration.
+- federation documentation
+- team collaboration
+- public descriptions
+- private descriptions
+- composition errors
+summary: Stefan and Jens discuss the challenges of federation descriptions and documentation,
+  explaining how teams can conflict when adding descriptions to the same fields. They
+  describe their RFC process for solving this problem by introducing a new directive
+  that allows teams to specify public vs private descriptions, preventing composition
+  errors and enabling better team collaboration.
 ---
 
 00:51:44:14 - 00:52:03:09
