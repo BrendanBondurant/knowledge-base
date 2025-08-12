@@ -22,6 +22,13 @@ topics:
   - Technology wave cycles
 tags:
   - ai
+  - api-design
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
+  - startup
 topic_tags:
   - kubecon
   - ai-trends

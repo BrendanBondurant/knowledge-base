@@ -30,6 +30,12 @@ tags:
   - graphql-federation
   - ai
   - startup
+  - cosmo
+  - go
+  - graphql
+  - query-planning
+  - rust
+  - telemetry
 topic_tags:
   - federation
   - graphql-federation

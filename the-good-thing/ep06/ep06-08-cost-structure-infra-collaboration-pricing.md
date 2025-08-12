@@ -29,6 +29,13 @@ tags:
   - cosmo-router
   - postgres
   - startup
+  - api-design
+  - cosmo
+  - database
+  - go
+  - llm
+  - open-source
+  - rust
 topic_tags:
   - ai
   - cosmo-router

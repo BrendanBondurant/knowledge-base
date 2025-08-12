@@ -25,6 +25,12 @@ tags:
   - federation
   - ai
   - apollo-graphql
+  - cosmo-router
+  - go
+  - graphql
+  - graphql-federation
+  - startup
+  - telemetry
 topic_tags:
   - federation
   - ai

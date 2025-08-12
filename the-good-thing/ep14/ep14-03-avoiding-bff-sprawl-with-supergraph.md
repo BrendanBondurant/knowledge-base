@@ -26,6 +26,16 @@ tags:
   - api-consumers
   - authorization
   - telemetry
+  - ai
+  - api-design
+  - authentication
+  - cosmo-router
+  - federation
+  - go
+  - graphql-federation
+  - mcp
+  - microservices
+  - supergraph
 topic_tags:
   - bff-pattern
   - api-consumers

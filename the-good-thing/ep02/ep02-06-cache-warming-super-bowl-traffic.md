@@ -24,6 +24,15 @@ tags:
   - cache-warming
   - federation
   - query-planning
+  - ai
+  - benchmarking
+  - composition
+  - cosmo-router
+  - go
+  - graphql
+  - graphql-federation
+  - microservices
+  - startup
 topic_tags:
   - cache-warming
   - federation

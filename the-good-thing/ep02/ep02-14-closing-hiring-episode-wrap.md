@@ -23,6 +23,13 @@ topics:
 tags:
   - startup
   - founder
+  - ai
+  - api-design
+  - cache-warming
+  - federation
+  - go
+  - graphql-federation
+  - rest
 topic_tags:
   - startup
   - founder

@@ -21,6 +21,10 @@ topics:
   - ChatGPT competitive threat
 tags:
   - mcp
+  - ai
+  - api-design
+  - go
+  - startup
 topic_tags:
   - mcp
 entities:

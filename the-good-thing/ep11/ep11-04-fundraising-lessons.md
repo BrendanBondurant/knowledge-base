@@ -25,6 +25,10 @@ tags:
   - ai
   - rest
   - websocket
+  - api-design
+  - founder
+  - go
+  - startup
 topic_tags:
   - ai
   - rest

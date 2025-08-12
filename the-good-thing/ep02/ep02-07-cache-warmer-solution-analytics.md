@@ -24,6 +24,15 @@ tags:
   - cache-warming
   - query-planning
   - cdn
+  - ai
+  - benchmarking
+  - composition
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - startup
 topic_tags:
   - cache-warmer
   - analytics

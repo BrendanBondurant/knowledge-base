@@ -23,6 +23,7 @@ tags:
   - ai
   - startup
   - ai
+  - go
 entities:
   - ThunderCode
   - Stefan Avram

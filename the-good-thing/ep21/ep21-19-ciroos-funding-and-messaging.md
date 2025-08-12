@@ -21,6 +21,10 @@ topics:
   - Seed funding assessment
 tags:
   - ciroos
+  - ai
+  - founder
+  - go
+  - startup
 topic_tags:
   - ciroos
 entities:

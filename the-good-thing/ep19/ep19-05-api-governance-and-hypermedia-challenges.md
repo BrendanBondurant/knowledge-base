@@ -24,6 +24,10 @@ topics:
 tags:
   - ai
   - rest
+  - api-design
+  - go
+  - llm
+  - startup
 topic_tags:
   - ai
   - rest

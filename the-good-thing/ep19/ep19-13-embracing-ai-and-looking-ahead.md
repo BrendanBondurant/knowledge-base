@@ -23,6 +23,9 @@ topics:
   - Closing thoughts and takeaways
 tags:
   - ai
+  - go
+  - rest
+  - startup
 topic_tags:
   - ai-boom
   - value-delivery

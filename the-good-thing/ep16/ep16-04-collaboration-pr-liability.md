@@ -25,6 +25,12 @@ tags:
   - graphql-federation
   - ai
   - open-source
+  - cosmo
+  - cosmo-router
+  - go
+  - graphql
+  - rest
+  - startup
 entities:
   - Discord
   - Cosmo

@@ -25,6 +25,19 @@ tags:
   - query-planning
   - supergraph
   - federation
+  - ai
+  - api-design
+  - benchmarking
+  - cosmo-router
+  - database
+  - go
+  - graphql
+  - graphql-federation
+  - microservices
+  - monolith
+  - mysql
+  - rest
+  - rest-apis
 topic_tags:
   - query-planning
   - supergraph

@@ -23,6 +23,14 @@ tags:
   - federation
   - ai
   - cosmo
+  - api-design
+  - apollo-graphql
+  - founder
+  - go
+  - graphql-federation
+  - open-source
+  - rest
+  - startup
 topic_tags:
   - federation
   - ai

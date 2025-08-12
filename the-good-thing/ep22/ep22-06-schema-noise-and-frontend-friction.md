@@ -23,6 +23,13 @@ tags:
   - federation
   - graphql-federation
   - grpc
+  - ai
+  - api-design
+  - go
+  - graphql
+  - rest
+  - rest-apis
+  - rest-connectors
 topic_tags:
   - federation
   - graphql-federation

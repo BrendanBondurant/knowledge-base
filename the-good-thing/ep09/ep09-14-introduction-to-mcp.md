@@ -23,6 +23,11 @@ topics:
   - Traditional tool API limitations
 tags:
   - mcp
+  - ai
+  - api-design
+  - go
+  - graphql
+  - rest
 topic_tags:
   - mcp
   - model-context-protocol

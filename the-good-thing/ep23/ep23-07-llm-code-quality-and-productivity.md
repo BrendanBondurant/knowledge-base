@@ -21,6 +21,12 @@ topics:
   - Development productivity metrics
 tags:
   - ai-generated-code
+  - ai
+  - go
+  - graphql
+  - llm
+  - startup
+  - telemetry
 topic_tags:
   - ai-generated-code
 entities:

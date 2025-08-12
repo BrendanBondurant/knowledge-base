@@ -43,6 +43,13 @@ topics:
 tags:
   - cache-warming
   - startup
+  - ai
+  - api-design
+  - composition
+  - founder
+  - go
+  - rest
+  - telemetry
 topic_tags:
   - collaboration
   - team-energy

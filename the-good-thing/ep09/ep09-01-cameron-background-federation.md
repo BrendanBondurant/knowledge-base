@@ -24,6 +24,16 @@ tags:
   - graphql-federation
   - cosmo
   - microservices
+  - ai
+  - api-design
+  - federation
+  - go
+  - graphql
+  - mcp
+  - rest
+  - rust
+  - startup
+  - typescript
 topic_tags:
   - graphql-federation
   - cosmo

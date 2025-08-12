@@ -24,6 +24,17 @@ topics:
   - Real-world performance vs lab testing
 tags:
   - cache-warming
+  - ai
+  - benchmarking
+  - cosmo
+  - cosmo-router
+  - federation
+  - go
+  - graphql-federation
+  - query-planning
+  - rest
+  - rust
+  - startup
 topic_tags:
   - cache-warming
 entities:

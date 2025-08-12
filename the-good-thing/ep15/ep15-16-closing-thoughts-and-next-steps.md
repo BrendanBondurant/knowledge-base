@@ -22,6 +22,7 @@ topics:
   - Invitation for audience submissions
 tags:
   - ai
+  - go
 topic_tags:
   - ai
 entities:

@@ -23,6 +23,10 @@ topics:
   - Company evolution
 tags:
   - startup
+  - ai
+  - database
+  - go
+  - postgres
 topic_tags:
   - startup
 entities:

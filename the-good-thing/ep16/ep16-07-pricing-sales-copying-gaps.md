@@ -22,6 +22,11 @@ topics:
   - Go-to-market experience accumulation
 tags:
   - startup
+  - ai
+  - api-design
+  - cosmo
+  - go
+  - rest
 topic_tags:
   - pricing-strategy
   - sales-experience

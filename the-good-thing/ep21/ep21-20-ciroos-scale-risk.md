@@ -21,6 +21,13 @@ topics:
   - Competitive landscape assessment
 tags:
   - ciroos
+  - ai
+  - api-design
+  - founder
+  - go
+  - mcp
+  - rest-connectors
+  - startup
 topic_tags:
   - ciroos
 entities:

@@ -22,6 +22,19 @@ topics:
 tags:
   - schema-registry
   - principled-graphql
+  - ai
+  - api-design
+  - apollo-graphql
+  - composition
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - microservices
+  - monolith
+  - rest
+  - rest-apis
+  - rest-connectors
 topic_tags:
   - schema-registry
   - principled-graphql

@@ -23,6 +23,14 @@ topics:
 tags:
   - open-source
   - api-gateway
+  - ai
+  - api-design
+  - cosmo
+  - database
+  - go
+  - query-planning
+  - rest
+  - startup
 topic_tags:
   - open-source-business
   - developer-tools

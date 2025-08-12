@@ -26,6 +26,8 @@ tags:
   - ai
   - api-design
   - open-source
+  - go
+  - startup
 entities:
   - Fortune 100 companies
   - Kong

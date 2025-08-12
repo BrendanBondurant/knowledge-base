@@ -24,6 +24,14 @@ topics:
   - Comparison with traditional enterprise processes
 tags:
   - startup
+  - ai
+  - api-design
+  - api-gateway
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
 topic_tags:
   - startup-culture
   - customer-feedback

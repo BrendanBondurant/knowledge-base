@@ -22,6 +22,9 @@ topics:
   - Communication complexity vs team size
 tags:
   - ai
+  - benchmarking
+  - go
+  - startup
 topic_tags:
   - b2b-transformation
   - team-efficiency

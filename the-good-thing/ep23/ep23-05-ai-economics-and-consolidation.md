@@ -22,6 +22,12 @@ topics:
 tags:
   - ai
   - startup
+  - api-design
+  - cosmo-router
+  - founder
+  - go
+  - open-source
+  - rest
 topic_tags:
   - ai-economics
   - business-model-fragility

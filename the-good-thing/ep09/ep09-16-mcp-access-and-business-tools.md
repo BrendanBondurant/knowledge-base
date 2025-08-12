@@ -23,6 +23,15 @@ topics:
   - Multi-service workflow automation
 tags:
   - authentication
+  - ai
+  - api-design
+  - authorization
+  - go
+  - kubernetes
+  - mcp
+  - rest
+  - rust
+  - typescript
 topic_tags:
   - authentication
 entities:

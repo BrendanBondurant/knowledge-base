@@ -23,6 +23,9 @@ topics:
   - Episode format feedback request
 tags:
   - startup
+  - ai
+  - cosmo
+  - go
 topic_tags:
   - henry-ford-quote
   - customer-needs

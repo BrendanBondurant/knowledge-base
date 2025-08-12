@@ -22,6 +22,19 @@ topics:
   - Organizational benefits
 tags:
   - startup
+  - ai
+  - api-design
+  - benchmarking
+  - bff-pattern
+  - cache-warming
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - microservices
+  - rest
+  - rest-apis
 topic_tags:
   - business-impact
   - performance

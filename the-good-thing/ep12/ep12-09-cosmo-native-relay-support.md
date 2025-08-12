@@ -22,6 +22,17 @@ topics:
   - Normalized cache and refetching patterns
 tags:
   - cosmo-router
+  - ai
+  - api-design
+  - cache-warming
+  - cosmo
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - open-source
+  - rest
+  - rest-apis
 topic_tags:
   - cosmo-router
 entities:

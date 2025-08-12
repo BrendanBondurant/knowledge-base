@@ -23,6 +23,10 @@ topics:
   - Railway and Fly.io experiences
 tags:
   - startup
+  - ai
+  - database
+  - go
+  - rust
 topic_tags:
   - compute-reselling
   - aws-wrappers

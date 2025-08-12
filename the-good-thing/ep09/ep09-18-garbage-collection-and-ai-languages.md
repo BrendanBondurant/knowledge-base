@@ -25,6 +25,9 @@ topics:
 tags:
   - ai
   - typescript
+  - benchmarking
+  - go
+  - rust
 topic_tags:
   - garbage-collection
   - rust-borrow-checker

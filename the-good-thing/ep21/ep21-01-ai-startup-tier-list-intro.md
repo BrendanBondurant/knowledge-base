@@ -22,6 +22,9 @@ topics:
 tags:
   - ai
   - startup
+  - api-design
+  - go
+  - rest
 topic_tags:
   - ai-startups
   - tier-list

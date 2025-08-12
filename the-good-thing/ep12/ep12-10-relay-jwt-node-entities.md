@@ -25,6 +25,10 @@ tags:
   - federation
   - graphql-federation
   - ai
+  - cosmo
+  - cosmo-router
+  - go
+  - graphql
 topic_tags:
   - federation
   - graphql-federation

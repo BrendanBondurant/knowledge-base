@@ -21,6 +21,14 @@ topics:
   - Career progression in distributed systems and site reliability
 tags:
   - kansas-city
+  - ai
+  - federation
+  - founder
+  - go
+  - graphql
+  - graphql-federation
+  - rest
+  - startup
 topic_tags:
   - kansas-city
 entities:

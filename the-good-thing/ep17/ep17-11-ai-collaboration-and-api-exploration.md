@@ -25,6 +25,14 @@ topics:
 tags:
   - ai
   - graphql-guild
+  - api-design
+  - cosmo
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - llm
+  - rest
 topic_tags:
   - ai-collaboration
   - cursor-adoption

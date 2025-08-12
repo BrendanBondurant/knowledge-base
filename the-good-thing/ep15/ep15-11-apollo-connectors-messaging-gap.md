@@ -23,6 +23,18 @@ topics:
 tags:
   - apollo-graphql
   - social-proof
+  - ai
+  - api-design
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
+  - rest-apis
+  - rest-connectors
+  - rust
+  - startup
 topic_tags:
   - apollo-graphql
   - social-proof

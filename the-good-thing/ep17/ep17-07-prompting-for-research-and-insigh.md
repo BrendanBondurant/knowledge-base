@@ -22,6 +22,10 @@ topics:
   - Internet adoption parallels with AI adoption
 tags:
   - ai
+  - api-design
+  - go
+  - llm
+  - rest
 topic_tags:
   - ai-research
   - prompt-engineering

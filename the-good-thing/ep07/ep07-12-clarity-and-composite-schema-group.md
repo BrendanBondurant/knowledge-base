@@ -25,6 +25,16 @@ topics:
 tags:
   - composite-schema
   - subgraph-libraries
+  - ai
+  - api-design
+  - apollo-graphql
+  - composition
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - query-planning
+  - rest
 topic_tags:
   - composite-schema
   - subgraph-libraries

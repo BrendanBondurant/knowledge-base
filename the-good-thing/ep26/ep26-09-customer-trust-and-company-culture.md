@@ -24,6 +24,9 @@ topics:
   - Expert-led leadership philosophy
   - Low management overhead
 tags:
+  - api-design
+  - rust
+  - startup
 entities:
   - PlanetScale
   - Neon

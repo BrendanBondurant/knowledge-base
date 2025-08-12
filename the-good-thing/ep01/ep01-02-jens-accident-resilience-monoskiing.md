@@ -20,6 +20,9 @@ topics:
   - Lessons in persistence and resilience
 tags:
   - resilience
+  - ai
+  - go
+  - rest
 topic_tags:
   - resilience
 entities:

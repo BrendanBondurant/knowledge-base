@@ -25,6 +25,14 @@ tags:
   - federation
   - graphql-federation
   - ai
+  - authentication
+  - authorization
+  - cosmo
+  - cosmo-router
+  - go
+  - graphql
+  - open-source
+  - rust
 topic_tags:
   - federation
   - graphql-federation

@@ -23,6 +23,8 @@ topics:
   - Lead in to startup failure reflection
 tags:
   - startup
+  - ai
+  - go
 topic_tags:
   - career-growth
   - dunning-kruger

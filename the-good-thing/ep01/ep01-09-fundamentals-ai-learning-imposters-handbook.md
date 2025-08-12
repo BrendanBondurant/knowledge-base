@@ -25,6 +25,9 @@ tags:
   - computer-science
   - ai
   - github-copilot
+  - go
+  - rest
+  - startup
 topic_tags:
   - computer-science
   - ai

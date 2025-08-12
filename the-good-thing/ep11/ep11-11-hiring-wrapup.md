@@ -23,6 +23,9 @@ topics:
 tags:
   - ai
   - query-planning
+  - api-design
+  - go
+  - rest
 topic_tags:
   - hiring
   - team-structure

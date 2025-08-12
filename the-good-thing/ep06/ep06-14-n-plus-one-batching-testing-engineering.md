@@ -27,6 +27,8 @@ summary: |
 tags:
   - graphql
   - startup
+  - benchmarking
+  - go
 topic_tags:
   - graphql
   - n-plus-one-problem

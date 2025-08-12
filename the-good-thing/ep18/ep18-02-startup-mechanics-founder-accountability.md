@@ -24,6 +24,13 @@ topics:
 tags:
   - startup
   - founder
+  - ai
+  - api-design
+  - apollo-graphql
+  - benchmarking
+  - federation
+  - go
+  - graphql-federation
 topic_tags:
   - startup-mechanics
   - founder-accountability

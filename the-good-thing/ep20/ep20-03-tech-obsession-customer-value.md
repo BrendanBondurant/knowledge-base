@@ -21,6 +21,18 @@ topics:
   - Customer-focused development approaches
 tags:
   - startup
+  - ai
+  - apollo-graphql
+  - cosmo
+  - cosmo-router
+  - founder
+  - go
+  - graphql
+  - observability
+  - rest
+  - rust
+  - telemetry
+  - typescript
 topic_tags:
   - tech-obsession
   - customer-value

@@ -24,6 +24,14 @@ topics:
   - Interface and union handling across subgraphs
 tags:
   - implicit-behavior
+  - ai
+  - composition
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - microservices
+  - startup
 topic_tags:
   - implicit-behavior
 entities:

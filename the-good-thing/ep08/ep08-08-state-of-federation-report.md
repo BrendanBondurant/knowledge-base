@@ -26,6 +26,13 @@ tags:
   - ai
   - startup
   - graphql-federation
+  - api-design
+  - apollo-graphql
+  - cosmo
+  - go
+  - graphql
+  - open-source
+  - rest
 entities:
   - State of GraphQL Federation Report
   - Postman

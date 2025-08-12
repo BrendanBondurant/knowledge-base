@@ -25,6 +25,12 @@ topics:
 tags:
   - trusted-documents
   - mcp
+  - ai
+  - api-design
+  - cosmo-router
+  - go
+  - graphql
+  - rust
 topic_tags:
   - demo-setup
   - persistent-operations

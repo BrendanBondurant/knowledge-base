@@ -23,6 +23,9 @@ tags:
   - ai
   - mcp
   - cosmo
+  - api-design
+  - go
+  - rest
 topic_tags:
   - AI-integration
   - MCP

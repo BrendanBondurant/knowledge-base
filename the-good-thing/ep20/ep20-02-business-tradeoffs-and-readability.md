@@ -23,6 +23,13 @@ tags:
   - ai
   - cosmo-router
   - typescript
+  - cosmo
+  - go
+  - llm
+  - rest
+  - rust
+  - startup
+  - telemetry
 topic_tags:
   - ai
   - cosmo-router

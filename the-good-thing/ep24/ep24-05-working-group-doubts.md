@@ -29,6 +29,10 @@ tags:
   - graphql
   - startup
   - startup
+  - ai
+  - apollo-graphql
+  - go
+  - rest
 entities:
   - Curtis (Uber)
   - GraphQL Foundation

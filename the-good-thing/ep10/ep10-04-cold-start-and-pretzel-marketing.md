@@ -30,6 +30,13 @@ tags:
   - federation
   - graphql-federation
   - ai
+  - apollo-graphql
+  - cosmo
+  - founder
+  - go
+  - graphql
+  - rest
+  - startup
 topic_tags:
   - federation
   - graphql-federation

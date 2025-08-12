@@ -23,6 +23,19 @@ topics:
   - Query planning optimization
 tags:
   - query-planning
+  - ai
+  - api-design
+  - benchmarking
+  - cosmo-router
+  - federation
+  - founder
+  - go
+  - graphql
+  - graphql-federation
+  - llm
+  - open-source
+  - rest
+  - startup
 topic_tags:
   - query-planning
 entities:

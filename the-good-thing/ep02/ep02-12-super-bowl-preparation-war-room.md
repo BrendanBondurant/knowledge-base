@@ -24,6 +24,18 @@ tags:
   - cache-warming
   - observability
   - zero-incidents
+  - ai
+  - api-design
+  - benchmarking
+  - composition
+  - cosmo
+  - database
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - query-planning
+  - startup
 topic_tags:
   - cache-warming
   - observability

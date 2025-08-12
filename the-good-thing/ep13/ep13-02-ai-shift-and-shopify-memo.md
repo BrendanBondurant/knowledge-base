@@ -22,6 +22,9 @@ topics:
   - Industry-wide AI adoption
 tags:
   - ai
+  - api-design
+  - go
+  - rest
 topic_tags:
   - AI-transformation
   - shopify-memo

@@ -25,6 +25,11 @@ tags:
   - ai
   - postgres
   - telemetry
+  - authentication
+  - cache-warming
+  - database
+  - go
+  - mysql
 topic_tags:
   - ai
   - postgres

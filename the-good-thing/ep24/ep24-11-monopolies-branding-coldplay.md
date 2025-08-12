@@ -27,6 +27,10 @@ tags:
   - open-source
   - startup
   - startup
+  - founder
+  - go
+  - graphql-federation
+  - rest
 entities:
   - Mark Zuckerberg
   - Meta

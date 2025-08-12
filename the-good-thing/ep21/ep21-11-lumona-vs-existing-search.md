@@ -22,6 +22,9 @@ topics:
 tags:
   - ai
   - founder
+  - go
+  - rest
+  - startup
 topic_tags:
   - ai
   - founder

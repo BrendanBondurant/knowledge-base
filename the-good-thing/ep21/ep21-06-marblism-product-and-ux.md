@@ -23,6 +23,9 @@ tags:
   - ai
   - websocket
   - founder
+  - go
+  - rest
+  - telemetry
 topic_tags:
   - ai
   - websocket

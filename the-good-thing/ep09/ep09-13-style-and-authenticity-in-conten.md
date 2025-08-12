@@ -24,6 +24,8 @@ topics:
 tags:
   - authenticity
   - ai
+  - go
+  - rest
 topic_tags:
   - personal-style
   - authenticity

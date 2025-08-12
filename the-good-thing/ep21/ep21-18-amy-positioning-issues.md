@@ -23,6 +23,10 @@ tags:
   - ai
   - websocket
   - founder
+  - api-design
+  - benchmarking
+  - go
+  - startup
 topic_tags:
   - ai
   - websocket

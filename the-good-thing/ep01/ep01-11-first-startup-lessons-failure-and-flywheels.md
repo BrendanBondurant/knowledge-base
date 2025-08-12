@@ -22,6 +22,9 @@ topics:
 tags:
   - startup
   - founder
+  - ai
+  - go
+  - rest
 topic_tags:
   - startup-lessons
   - team-culture

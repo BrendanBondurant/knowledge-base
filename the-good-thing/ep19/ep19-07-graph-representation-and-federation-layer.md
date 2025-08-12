@@ -24,6 +24,17 @@ topics:
 tags:
   - graphql
   - federation
+  - ai
+  - api-design
+  - database
+  - go
+  - graphql-federation
+  - grpc
+  - llm
+  - microservices
+  - monolith
+  - rest
+  - startup
 topic_tags:
   - graphql
   - federation

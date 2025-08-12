@@ -27,6 +27,11 @@ tags:
   - ai
   - cosmo
   - startup
+  - api-design
+  - database
+  - go
+  - postgres
+  - rest
 entities:
   - Retool
   - Postgres database

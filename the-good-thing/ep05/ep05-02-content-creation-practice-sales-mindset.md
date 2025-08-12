@@ -27,6 +27,10 @@ topics:
   - Building confidence
 tags:
   - startup
+  - ai
+  - api-design
+  - go
+  - rest
 topic_tags:
   - startup
 entities:

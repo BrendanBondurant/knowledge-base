@@ -21,6 +21,10 @@ topics:
   - Pivot potential evaluation
 tags:
   - startup
+  - ai
+  - founder
+  - go
+  - rest
 topic_tags:
   - thundercode
   - product-criticism

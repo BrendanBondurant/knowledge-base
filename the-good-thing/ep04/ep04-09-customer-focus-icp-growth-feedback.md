@@ -27,6 +27,11 @@ topics:
   - Company vision
 tags:
   - startup
+  - ai
+  - api-design
+  - apollo-graphql
+  - founder
+  - go
 topic_tags:
   - customer-focus
   - icp

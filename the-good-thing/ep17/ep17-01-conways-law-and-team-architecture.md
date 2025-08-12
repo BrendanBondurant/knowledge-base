@@ -25,6 +25,10 @@ tags:
   - federation
   - monolith
   - startup
+  - ai
+  - api-design
+  - go
+  - graphql-federation
 topic_tags:
   - conways-law
   - organizational-design

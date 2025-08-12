@@ -29,6 +29,14 @@ topics:
 tags:
   - micro-benchmarks
   - macro-benchmarks
+  - ai
+  - benchmarking
+  - cache-warming
+  - cosmo-router
+  - go
+  - graphql
+  - rest
+  - startup
 topic_tags:
   - micro-benchmarks
   - macro-benchmarks

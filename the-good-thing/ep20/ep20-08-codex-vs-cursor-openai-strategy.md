@@ -21,6 +21,12 @@ topics:
   - Developer tool market dynamics
 tags:
   - ai
+  - api-design
+  - go
+  - llm
+  - rest
+  - rust
+  - startup
 topic_tags:
   - codex
   - cursor

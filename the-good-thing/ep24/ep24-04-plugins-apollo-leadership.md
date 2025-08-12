@@ -30,6 +30,17 @@ tags:
   - llm
   - apollo-graphql
   - startup
+  - ai
+  - api-design
+  - cosmo
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
+  - rest-apis
+  - rest-connectors
 entities:
   - WunderGraph
   - Cosmo Router

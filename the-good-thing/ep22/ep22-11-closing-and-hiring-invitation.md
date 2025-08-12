@@ -21,6 +21,9 @@ topics:
   - Future episode topics
 tags:
   - ai
+  - go
+  - rest
+  - startup
 topic_tags:
   - ai
 entities:

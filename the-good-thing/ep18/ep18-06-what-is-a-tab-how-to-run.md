@@ -25,6 +25,11 @@ topics:
   - Adam Frankl methodology influence
 tags:
   - startup
+  - ai
+  - composition
+  - cosmo
+  - go
+  - rust
 topic_tags:
   - technical-advisory-board
   - customer-research

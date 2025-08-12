@@ -24,6 +24,12 @@ topics:
 tags:
   - open-source
   - startup
+  - ai
+  - api-design
+  - cosmo
+  - federation
+  - go
+  - graphql-federation
 topic_tags:
   - code-value
   - open-source-strategy

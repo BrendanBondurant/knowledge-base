@@ -26,6 +26,9 @@ tags:
   - ai
   - database
   - rust
+  - go
+  - kubernetes
+  - startup
 entities:
   - GCP Kubernetes
   - Vendor Slack notifications

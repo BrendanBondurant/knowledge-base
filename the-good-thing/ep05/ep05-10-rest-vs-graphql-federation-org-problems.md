@@ -35,6 +35,19 @@ tags:
   - federation
   - api-design
   - microservices
+  - ai
+  - apollo-graphql
+  - bff-pattern
+  - cosmo
+  - go
+  - graphql
+  - graphql-federation
+  - grpc
+  - postgres
+  - rest
+  - rest-apis
+  - startup
+  - typescript
 topic_tags:
   - federation
   - api-design

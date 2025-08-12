@@ -31,6 +31,7 @@ tags:
   - startup
   - startup
   - startup
+  - go
 topic_tags:
   - cosmo
   - startup

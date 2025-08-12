@@ -24,6 +24,10 @@ topics:
   - Real-world scale deployment satisfaction
 tags:
   - startup
+  - ai
+  - database
+  - go
+  - rest
 entities:
   - PlanetScale
   - Amazon

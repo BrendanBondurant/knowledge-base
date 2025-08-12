@@ -30,6 +30,10 @@ tags:
   - cosmo
   - startup
   - startup
+  - apollo-graphql
+  - go
+  - graphql-federation
+  - rest
 topic_tags:
   - federation
   - ai

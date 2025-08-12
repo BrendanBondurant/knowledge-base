@@ -28,6 +28,13 @@ topics:
   - Customer-focused innovation
 tags:
   - startup
+  - ai
+  - apollo-graphql
+  - cosmo
+  - founder
+  - go
+  - graphql
+  - rest
 topic_tags:
   - guerrilla-marketing
   - competitive-dynamics

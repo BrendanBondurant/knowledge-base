@@ -25,6 +25,13 @@ tags:
   - graphql
   - api-design
   - bff-pattern
+  - ai
+  - federation
+  - go
+  - graphql-federation
+  - kubernetes
+  - rest
+  - rest-apis
 topic_tags:
   - graphql
   - career-growth

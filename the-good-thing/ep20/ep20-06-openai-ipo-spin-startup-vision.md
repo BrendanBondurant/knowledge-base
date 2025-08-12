@@ -22,6 +22,10 @@ topics:
 tags:
   - startup
   - ai
+  - api-design
+  - go
+  - llm
+  - rest-connectors
 topic_tags:
   - openai
   - ipo

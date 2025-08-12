@@ -27,6 +27,10 @@ topics:
 tags:
   - startup
   - founder
+  - ai
+  - api-design
+  - apollo-graphql
+  - go
 topic_tags:
   - startup
   - founder

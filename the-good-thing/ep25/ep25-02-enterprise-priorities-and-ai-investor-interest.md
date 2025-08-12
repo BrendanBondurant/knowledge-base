@@ -28,6 +28,8 @@ tags:
   - rest
   - ai
   - startup
+  - api-design
+  - go
 entities:
   - Tyk Technologies
   - WunderGraph

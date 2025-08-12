@@ -24,6 +24,15 @@ topics:
   - Infinite directive combinations and testing challenges
 tags:
   - startup
+  - ai
+  - apollo-graphql
+  - benchmarking
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
+  - rust
 topic_tags:
   - audits
   - benchmarks

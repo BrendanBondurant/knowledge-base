@@ -25,6 +25,14 @@ topics:
 tags:
   - graphql
   - api-design
+  - ai
+  - cosmo
+  - cosmo-router
+  - federation
+  - go
+  - graphql-federation
+  - rust
+  - startup
 topic_tags:
   - graphql
   - api-design

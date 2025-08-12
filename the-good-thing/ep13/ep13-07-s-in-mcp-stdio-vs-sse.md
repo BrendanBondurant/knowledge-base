@@ -24,6 +24,9 @@ tags:
   - mcp
   - websocket
   - mcp
+  - ai
+  - cosmo
+  - go
 entities:
   - MCP
   - Hacker News

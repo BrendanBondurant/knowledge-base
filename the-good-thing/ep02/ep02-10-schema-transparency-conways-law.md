@@ -22,6 +22,15 @@ topics:
   - Federation organizational advantages
 tags:
   - conways-law
+  - ai
+  - api-design
+  - cosmo
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
+  - rest-apis
 topic_tags:
   - conways-law
 entities:

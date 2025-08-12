@@ -24,6 +24,15 @@ tags:
   - federation
   - graphql-federation
   - ai
+  - api-design
+  - authentication
+  - cosmo
+  - go
+  - graphql
+  - rest
+  - rest-apis
+  - rest-connectors
+  - startup
 entities:
   - graphql
   - Federation

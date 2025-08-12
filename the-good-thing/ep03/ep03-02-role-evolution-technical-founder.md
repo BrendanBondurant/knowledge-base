@@ -22,6 +22,9 @@ topics:
 tags:
   - startup
   - ai
+  - cosmo-router
+  - founder
+  - go
 topic_tags:
   - startup
   - ai

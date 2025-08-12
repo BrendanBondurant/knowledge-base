@@ -23,6 +23,14 @@ topics:
 tags:
   - graphql-go-tools
   - open-source
+  - ai
+  - api-design
+  - api-gateway
+  - go
+  - graphql
+  - rest
+  - startup
+  - typescript
 topic_tags:
   - graphql-go-tools
   - open-source

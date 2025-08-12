@@ -23,6 +23,13 @@ topics:
 tags:
   - mcp
   - federation
+  - ai
+  - cosmo
+  - cosmo-router
+  - go
+  - graphql
+  - graphql-federation
+  - rust
 topic_tags:
   - mcp
   - metaphors

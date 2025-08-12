@@ -24,6 +24,10 @@ tags:
   - mcp
   - ai
   - github-copilot
+  - cosmo
+  - go
+  - graphql
+  - rest
 topic_tags:
   - mcp
   - ai

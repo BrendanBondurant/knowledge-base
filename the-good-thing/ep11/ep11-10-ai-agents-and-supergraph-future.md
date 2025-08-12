@@ -24,6 +24,24 @@ topics:
   - New internet through AI and supergraphs
 tags:
   - ai-agents
+  - ai
+  - api-design
+  - api-gateway
+  - benchmarking
+  - cosmo-router
+  - database
+  - federation
+  - founder
+  - go
+  - graphql
+  - graphql-federation
+  - mcp
+  - observability
+  - rest
+  - rest-apis
+  - startup
+  - supergraph
+  - telemetry
 topic_tags:
   - ai-agents
 entities:

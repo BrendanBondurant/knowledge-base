@@ -26,6 +26,11 @@ tags:
   - ai
   - apollo-graphql
   - ai
+  - api-design
+  - benchmarking
+  - go
+  - graphql
+  - rest-connectors
 entities:
   - Apollo
   - Kong

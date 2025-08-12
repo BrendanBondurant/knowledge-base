@@ -23,6 +23,8 @@ topics:
   - Cursor AI development patterns
 tags:
   - ai
+  - go
+  - graphql
 topic_tags:
   - query-validation
   - feedback-loops

@@ -25,6 +25,21 @@ tags:
   - graphql
   - rest
   - federation
+  - ai
+  - api-design
+  - apollo-graphql
+  - benchmarking
+  - cosmo-router
+  - database
+  - go
+  - graphql-federation
+  - grpc
+  - monolith
+  - open-source
+  - rest-apis
+  - rest-connectors
+  - rust
+  - startup
 topic_tags:
   - wundergraph
   - plugin-system

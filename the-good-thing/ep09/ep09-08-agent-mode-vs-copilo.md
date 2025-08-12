@@ -24,6 +24,10 @@ topics:
 tags:
   - github-copilot
   - agent-mode
+  - ai
+  - go
+  - graphql
+  - rest
 topic_tags:
   - github-copilot
   - agent-mode

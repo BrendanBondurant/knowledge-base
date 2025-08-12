@@ -23,6 +23,11 @@ topics:
 tags:
   - startup
   - founder
+  - ai
+  - cache-warming
+  - go
+  - rest
+  - telemetry
 topic_tags:
   - startup
   - founder

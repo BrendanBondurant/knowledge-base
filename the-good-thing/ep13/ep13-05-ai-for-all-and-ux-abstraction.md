@@ -22,6 +22,15 @@ topics:
   - Cursor's rapid growth (0 to 200M ARR)
 tags:
   - mcp
+  - ai
+  - api-design
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - query-planning
+  - rest-connectors
 topic_tags:
   - universal-ai-adoption
   - small-business

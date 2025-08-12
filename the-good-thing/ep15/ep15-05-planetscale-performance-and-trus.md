@@ -22,6 +22,17 @@ topics:
   - Database performance as primary selling point
 tags:
   - vitess
+  - ai
+  - benchmarking
+  - cache-warming
+  - cosmo
+  - database
+  - go
+  - graphql
+  - kubernetes
+  - open-source
+  - rust
+  - startup
 topic_tags:
   - vitess
 entities:

@@ -23,6 +23,18 @@ topics:
   - Fundamental architecture piece vision
 tags:
   - connector-approach
+  - ai
+  - api-design
+  - cosmo
+  - go
+  - graphql
+  - grpc
+  - mcp
+  - rest
+  - rest-apis
+  - rest-connectors
+  - startup
+  - supergraph
 topic_tags:
   - connector-approach
 entities:

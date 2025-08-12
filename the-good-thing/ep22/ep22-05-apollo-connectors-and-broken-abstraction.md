@@ -21,6 +21,16 @@ topics:
   - Technical architecture critique
 tags:
   - apollo-connectors
+  - ai
+  - apollo-graphql
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - microservices
+  - monolith
+  - rest
+  - rest-connectors
 topic_tags:
   - apollo-connectors
 entities:

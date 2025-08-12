@@ -26,6 +26,8 @@ tags:
   - open-source
   - founder
   - ai
+  - go
+  - rest
 entities:
   - Stefan Avram
   - Jens Neuse

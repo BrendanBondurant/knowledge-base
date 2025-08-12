@@ -26,6 +26,9 @@ tags:
   - ai
   - postgres
   - kubernetes
+  - database
+  - go
+  - llm
 entities:
   - Clean Code book
   - Digital Ocean

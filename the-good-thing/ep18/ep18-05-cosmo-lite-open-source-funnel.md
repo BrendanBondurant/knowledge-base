@@ -24,6 +24,17 @@ topics:
   - When to transition from open source to managed
 tags:
   - open-source
+  - ai
+  - cosmo
+  - cosmo-router
+  - database
+  - federation
+  - founder
+  - go
+  - graphql
+  - graphql-federation
+  - postgres
+  - startup
 topic_tags:
   - open-source-funnel
   - sales-cycle

@@ -22,6 +22,13 @@ topics:
   - Implementation decision context understanding
 tags:
   - startup
+  - ai
+  - cosmo
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - kubernetes
 topic_tags:
   - managed-services
   - customer-support

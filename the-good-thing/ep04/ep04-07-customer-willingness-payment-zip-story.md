@@ -26,6 +26,12 @@ topics:
   - Building with customers
 tags:
   - startup
+  - ai
+  - founder
+  - go
+  - open-source
+  - rest
+  - rust
 topic_tags:
   - startup
 entities:

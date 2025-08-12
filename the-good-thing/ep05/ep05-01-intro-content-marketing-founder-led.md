@@ -28,6 +28,16 @@ topics:
 tags:
   - founder
   - authenticity
+  - ai
+  - benchmarking
+  - cosmo
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
+  - rust
+  - startup
 topic_tags:
   - introduction
   - content-marketing

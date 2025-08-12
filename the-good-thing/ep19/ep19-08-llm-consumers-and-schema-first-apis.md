@@ -28,6 +28,15 @@ tags:
   - graphql
   - metadata
   - api-consumers
+  - api-design
+  - database
+  - federation
+  - go
+  - graphql-federation
+  - grpc
+  - query-planning
+  - rest
+  - rest-apis
 topic_tags:
   - llm
   - ai

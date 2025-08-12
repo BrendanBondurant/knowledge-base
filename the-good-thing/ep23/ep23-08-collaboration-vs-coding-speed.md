@@ -23,6 +23,9 @@ tags:
   - graphql
   - ai
   - rest
+  - api-design
+  - go
+  - startup
 topic_tags:
   - graphql
   - ai

@@ -23,6 +23,19 @@ topics:
 tags:
   - federation
   - cosmo
+  - ai
+  - api-design
+  - api-gateway
+  - apollo-graphql
+  - cosmo-router
+  - go
+  - graphql
+  - graphql-federation
+  - kubernetes
+  - open-source
+  - rest
+  - rust
+  - startup
 topic_tags:
   - federation
   - cosmo

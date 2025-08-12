@@ -23,6 +23,13 @@ topics:
   - Model architecture constraints
 tags:
   - ai
+  - api-design
+  - cosmo-router
+  - go
+  - graphql
+  - kubernetes
+  - mcp
+  - rest
 topic_tags:
   - ai-autonomy
   - hypermedia

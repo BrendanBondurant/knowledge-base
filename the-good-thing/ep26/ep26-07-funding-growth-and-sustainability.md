@@ -24,6 +24,9 @@ topics:
   - Free tier economics and sustainability
   - Small companies defeating large competitors
 tags:
+  - ai
+  - api-design
+  - startup
 entities:
   - PlanetScale
   - Amazon

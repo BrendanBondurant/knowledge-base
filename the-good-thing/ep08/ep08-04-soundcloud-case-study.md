@@ -23,6 +23,21 @@ topics:
 tags:
   - startup
   - open-source
+  - ai
+  - apollo-graphql
+  - bff-pattern
+  - cosmo
+  - cosmo-router
+  - database
+  - federation
+  - founder
+  - go
+  - graphql
+  - graphql-federation
+  - kubernetes
+  - rest
+  - rust
+  - telemetry
 topic_tags:
   - soundcloud
   - case-study

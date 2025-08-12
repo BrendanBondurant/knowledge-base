@@ -23,6 +23,14 @@ topics:
 tags:
   - dream-query
   - schema-evolution
+  - ai
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - mcp
+  - rest
 topic_tags:
   - dream-query
   - schema-evolution

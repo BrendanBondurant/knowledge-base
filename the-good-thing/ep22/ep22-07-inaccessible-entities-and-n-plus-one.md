@@ -23,6 +23,18 @@ tags:
   - federation
   - graphql-federation
   - grpc
+  - ai
+  - api-design
+  - apollo-graphql
+  - benchmarking
+  - cosmo
+  - cosmo-router
+  - go
+  - graphql
+  - rest
+  - rest-apis
+  - rest-connectors
+  - startup
 topic_tags:
   - federation
   - graphql-federation

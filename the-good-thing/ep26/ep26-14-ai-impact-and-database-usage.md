@@ -25,6 +25,11 @@ topics:
   - Development tool integration
 tags:
   - ai
+  - database
+  - go
+  - mcp
+  - rest
+  - startup
 topic_tags:
   - ai-impact
   - database-usage

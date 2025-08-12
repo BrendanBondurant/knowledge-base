@@ -23,6 +23,9 @@ topics:
   - Cloud deployment simplification with AI
 tags:
   - ai
+  - database
+  - go
+  - rest
 topic_tags:
   - ai-productivity
   - developer-evolution

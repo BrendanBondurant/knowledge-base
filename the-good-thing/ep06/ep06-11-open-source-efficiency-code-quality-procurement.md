@@ -30,6 +30,16 @@ tags:
   - ai
   - open-source
   - startup
+  - api-design
+  - apollo-graphql
+  - benchmarking
+  - cosmo
+  - cosmo-router
+  - go
+  - graphql
+  - rest
+  - rest-apis
+  - rest-connectors
 topic_tags:
   - federation
   - graphql-federation

@@ -27,6 +27,11 @@ tags:
   - founder
   - ai
   - startup
+  - api-design
+  - authentication
+  - cosmo
+  - go
+  - rest
 entities:
   - KubeCon
   - VCs

@@ -24,6 +24,8 @@ tags:
   - mcp
   - ai
   - computer-science
+  - go
+  - rest
 topic_tags:
   - mcp
   - ai

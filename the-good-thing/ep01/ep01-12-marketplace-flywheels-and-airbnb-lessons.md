@@ -23,6 +23,10 @@ topics:
   - Learning programming through failure
 tags:
   - startup
+  - ai
+  - founder
+  - go
+  - rest
 topic_tags:
   - airbnb
   - marketplace-design

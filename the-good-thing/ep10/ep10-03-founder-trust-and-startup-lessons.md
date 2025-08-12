@@ -29,6 +29,11 @@ topics:
 tags:
   - founder
   - startup
+  - ai
+  - api-design
+  - go
+  - graphql
+  - rust
 topic_tags:
   - founder-trust
   - team-dynamics

@@ -33,6 +33,18 @@ topics:
 tags:
   - graphql
   - startup
+  - ai
+  - benchmarking
+  - cache-warming
+  - cosmo
+  - cosmo-router
+  - federation
+  - go
+  - graphql-federation
+  - query-planning
+  - rest
+  - rust
+  - telemetry
 topic_tags:
   - benchmarks
   - performance

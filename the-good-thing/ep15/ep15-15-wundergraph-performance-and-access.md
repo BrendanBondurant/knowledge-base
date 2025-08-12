@@ -22,6 +22,20 @@ topics:
   - Contract testing replacement value
 tags:
   - schema-checks
+  - ai
+  - api-design
+  - apollo-graphql
+  - benchmarking
+  - cache-warming
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
+  - rest-apis
+  - startup
+  - telemetry
 topic_tags:
   - schema-checks
 entities:

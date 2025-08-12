@@ -24,6 +24,10 @@ topics:
   - Ephemeral machines and replication strategy
   - Semi-synchronous replication
 tags:
+  - database
+  - vitess
+  - mysql
+  - postgres
 entities:
   - PlanetScale
   - AWS

@@ -26,6 +26,16 @@ tags:
   - mcp-gateway
   - json-schema
   - trusted-documents
+  - ai
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - llm
+  - mcp
+  - rust
+  - startup
 topic_tags:
   - mcp-gateway
   - json-schema

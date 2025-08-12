@@ -28,6 +28,13 @@ tags:
   - graphql-federation
   - startup
   - open-source
+  - api-design
+  - federation
+  - go
+  - graphql
+  - llm
+  - rest
+  - rust
 topic_tags:
   - podcast-intro
   - AI-development

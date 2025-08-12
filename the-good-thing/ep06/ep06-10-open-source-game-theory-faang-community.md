@@ -30,6 +30,12 @@ tags:
   - apollo-graphql
   - open-source
   - startup
+  - api-design
+  - cosmo-router
+  - go
+  - rest
+  - rest-apis
+  - rest-connectors
 topic_tags:
   - graphql
   - ai

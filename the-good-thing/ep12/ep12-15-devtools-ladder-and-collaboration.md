@@ -23,6 +23,14 @@ topics:
   - Open source vs commercial monetization
 tags:
   - open-source
+  - ai
+  - cosmo
+  - federation
+  - founder
+  - go
+  - graphql
+  - graphql-federation
+  - startup
 topic_tags:
   - devtools-adoption
   - sdk-strategy

@@ -31,6 +31,10 @@ tags:
   - open-source
   - startup
   - startup
+  - cosmo-router
+  - database
+  - go
+  - graphql
 topic_tags:
   - ai
   - postgres

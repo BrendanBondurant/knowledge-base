@@ -23,6 +23,7 @@ tags:
   - ai
   - websocket
   - startup
+  - go
 entities:
   - Hyperbound
   - Stefan Avram

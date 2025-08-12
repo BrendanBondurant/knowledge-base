@@ -26,6 +26,7 @@ tags:
   - typescript
   - python
   - ai
+  - observability
 topic_tags:
   - go-language
   - typescript

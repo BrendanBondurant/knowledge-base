@@ -25,6 +25,10 @@ tags:
   - ai
   - kubernetes
   - startup
+  - api-design
+  - apollo-graphql
+  - go
+  - open-source
 entities:
   - PostHog
 mentions:

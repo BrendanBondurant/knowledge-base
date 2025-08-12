@@ -25,6 +25,13 @@ topics:
 tags:
   - graphql-federation
   - implicit-behavior
+  - ai
+  - apollo-graphql
+  - composition
+  - federation
+  - go
+  - graphql
+  - startup
 topic_tags:
   - apollo-federation
   - technical-debt

@@ -31,6 +31,10 @@ tags:
   - startup
   - startup
   - startup
+  - go
+  - graphql
+  - rest
+  - telemetry
 topic_tags:
   - ai
   - apollo-graphql

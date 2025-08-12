@@ -23,6 +23,12 @@ topics:
   - Large schema complexity (GitHub example)
 tags:
   - ai
+  - api-design
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - supergraph
 topic_tags:
   - ai-tools
   - query-generation

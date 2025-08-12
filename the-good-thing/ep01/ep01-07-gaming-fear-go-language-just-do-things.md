@@ -25,6 +25,8 @@ tags:
   - go
   - resilience
   - founder
+  - ai
+  - rest
 entities:
   - Jens Neuse
   - Stefan Avram

@@ -27,6 +27,12 @@ tags:
   - microservices
   - rest
   - api-sprawl
+  - api-design
+  - go
+  - graphql
+  - llm
+  - rest-apis
+  - startup
 entities:
   - Fortune 500 companies
   - Enterprise architects

@@ -23,6 +23,13 @@ topics:
   - Team-scale frontend development
 tags:
   - data-dependencies
+  - ai
+  - api-design
+  - benchmarking
+  - go
+  - graphql
+  - rest
+  - rest-apis
 topic_tags:
   - data-dependencies
 entities:

@@ -26,6 +26,13 @@ tags:
   - ai
   - rest-connectors
   - graphql-federation
+  - api-design
+  - apollo-graphql
+  - go
+  - graphql
+  - rest
+  - rest-apis
+  - startup
 entities:
   - Apollo
   - graphql

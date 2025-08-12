@@ -24,6 +24,17 @@ tags:
   - mcp
   - ai
   - cosmo-router
+  - api-design
+  - authentication
+  - cosmo
+  - go
+  - graphql
+  - llm
+  - rest
+  - rust
+  - startup
+  - telemetry
+  - websocket
 topic_tags:
   - mcp
   - ai

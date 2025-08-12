@@ -24,6 +24,15 @@ topics:
   - Open source enabling engineer evaluation
 tags:
   - open-source
+  - ai
+  - cosmo
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - kubernetes
+  - rest
+  - startup
 topic_tags:
   - open-source-strategy
   - enterprise-sales

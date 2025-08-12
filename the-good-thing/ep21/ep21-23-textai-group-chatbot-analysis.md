@@ -23,6 +23,8 @@ tags:
   - ai
   - open-source
   - startup
+  - api-design
+  - go
 topic_tags:
   - ai
   - open-source

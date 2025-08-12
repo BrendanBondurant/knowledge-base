@@ -22,6 +22,12 @@ topics:
   - Market timing and opportunities
 tags:
   - startup
+  - ai
+  - api-design
+  - federation
+  - founder
+  - go
+  - graphql-federation
 topic_tags:
   - series-a
   - fundraising

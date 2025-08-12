@@ -23,6 +23,11 @@ tags:
   - ai
   - postgres
   - websocket
+  - founder
+  - go
+  - rest
+  - startup
+  - vitess
 topic_tags:
   - ai
   - postgres

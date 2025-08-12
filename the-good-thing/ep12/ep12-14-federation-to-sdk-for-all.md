@@ -24,6 +24,16 @@ topics:
 tags:
   - graphql-operations
   - json-schema
+  - ai
+  - api-design
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - mcp
+  - rest
+  - rest-apis
+  - supergraph
 topic_tags:
   - graphql-operations
   - json-schema

@@ -25,6 +25,16 @@ topics:
 tags:
   - startup
   - mcp
+  - ai
+  - api-design
+  - apollo-graphql
+  - federation
+  - founder
+  - go
+  - graphql
+  - graphql-federation
+  - llm
+  - rest
 topic_tags:
   - market-timing
   - product-development

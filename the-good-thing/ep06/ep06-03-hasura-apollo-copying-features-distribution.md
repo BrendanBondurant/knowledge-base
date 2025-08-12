@@ -28,6 +28,8 @@ tags:
   - apollo-graphql
   - startup
   - startup
+  - api-design
+  - go
 topic_tags:
   - graphql
   - apollo-graphql

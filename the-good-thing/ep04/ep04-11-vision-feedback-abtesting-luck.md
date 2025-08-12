@@ -29,6 +29,15 @@ topics:
 tags:
   - startup
   - founder
+  - ai
+  - api-design
+  - cosmo
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
 topic_tags:
   - vision
   - feedback

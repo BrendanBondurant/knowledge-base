@@ -24,6 +24,14 @@ topics:
 tags:
   - federation
   - ai
+  - api-design
+  - database
+  - go
+  - graphql
+  - graphql-federation
+  - llm
+  - rest
+  - startup
 topic_tags:
   - federation
   - ai

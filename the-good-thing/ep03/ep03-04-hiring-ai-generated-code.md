@@ -21,6 +21,9 @@ topics:
   - Technical Skills
 tags:
   - ai-generated-code
+  - ai
+  - go
+  - rest
 topic_tags:
   - ai-generated-code
 entities:

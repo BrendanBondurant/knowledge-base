@@ -26,6 +26,16 @@ tags:
   - federation
   - graphql-federation
   - ai
+  - api-design
+  - benchmarking
+  - cache-warming
+  - composition
+  - cosmo
+  - cosmo-router
+  - go
+  - graphql
+  - query-planning
+  - rest
 topic_tags:
   - federation
   - graphql-federation

@@ -21,6 +21,11 @@ topics:
   - Enterprise integration capabilities
 tags:
   - social-proof
+  - ai
+  - database
+  - go
+  - rust
+  - startup
 topic_tags:
   - social-proof
 entities:

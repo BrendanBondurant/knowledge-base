@@ -27,6 +27,14 @@ tags:
   - mcp
   - ai
   - cosmo
+  - api-design
+  - founder
+  - go
+  - graphql
+  - llm
+  - rest
+  - rust
+  - startup
 topic_tags:
   - mcp
   - on-premise

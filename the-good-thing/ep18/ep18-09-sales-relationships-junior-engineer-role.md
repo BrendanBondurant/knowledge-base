@@ -25,6 +25,9 @@ topics:
   - Access and relationship exchange dynamics
 tags:
   - startup
+  - ai
+  - go
+  - rest
 topic_tags:
   - sales-philosophy
   - negotiation-skills

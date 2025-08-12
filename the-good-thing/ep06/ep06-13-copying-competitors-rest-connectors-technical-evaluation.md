@@ -31,6 +31,11 @@ tags:
   - rest-connectors
   - startup
   - startup
+  - api-design
+  - cosmo-router
+  - go
+  - rest
+  - rest-apis
 topic_tags:
   - graphql
   - ai

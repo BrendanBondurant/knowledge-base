@@ -33,6 +33,12 @@ topics:
 tags:
   - founder
   - startup
+  - ai
+  - composition
+  - cosmo
+  - cosmo-router
+  - go
+  - graphql
 topic_tags:
   - founder-mode
   - customer-support

@@ -23,6 +23,11 @@ topics:
 tags:
   - cosmo
   - observability
+  - ai
+  - cosmo-router
+  - go
+  - startup
+  - telemetry
 topic_tags:
   - cosmo
   - observability

@@ -26,6 +26,12 @@ tags:
   - cosmo-router
   - rest
   - ai
+  - api-design
+  - cosmo
+  - founder
+  - go
+  - open-source
+  - startup
 entities:
   - Meta
   - Alexander Wang

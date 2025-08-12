@@ -22,6 +22,9 @@ topics:
   - Company beginnings
 tags:
   - startup
+  - ai
+  - founder
+  - go
 topic_tags:
   - startup
 entities:
