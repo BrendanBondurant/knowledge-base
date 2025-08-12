@@ -22,19 +22,9 @@ topics:
 - GraphQL specification research
 - Non-coding AI applications
 tags:
-- rfc-writing
-- documentation
-- feedback-integration
-- document-indexing
 - graphql-spec
-- research-tools
 topic_tags:
-- rfc-writing
-- documentation
-- feedback-integration
-- document-indexing
 - graphql-spec
-- research-tools
 entities:
 - Cursor
 - WunderGraph

@@ -24,18 +24,10 @@ topics:
 - Graph theory vs tree structure in planning
 tags:
 - federation
-- subgraph-jumps
-- graph-theory
 - microservices
-- federation-keys
-- entity-resolution
 topic_tags:
 - federation
-- subgraph-jumps
-- graph-theory
 - microservices
-- federation-keys
-- entity-resolution
 entities:
 - GraphQL
 - Federation

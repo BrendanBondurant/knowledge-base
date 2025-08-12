@@ -22,12 +22,7 @@ topics:
 - Medical field stability vs tech evolution
 - Cloud deployment simplification with AI
 tags:
-- ai-productivity
-- developer-evolution
-- career-development
-- technology-obsolescence
-- learning-curve
-- imposter-syndrome
+- ai
 topic_tags:
 - ai-productivity
 - developer-evolution

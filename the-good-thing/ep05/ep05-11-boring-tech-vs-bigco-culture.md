@@ -26,19 +26,11 @@ topics:
 - Teamwork
 - Episode wrap-up
 tags:
-- boring-tech
-- company-culture
-- business-value
-- technology-choices
-- developer-motivation
-- episode-wrap-up
+- startup
+- founder
 topic_tags:
-- boring-tech
-- company-culture
-- business-value
-- technology-choices
-- developer-motivation
-- episode-wrap-up
+- startup
+- founder
 entities:
 - Stefan Avram
 - Jens Neuse

@@ -21,10 +21,7 @@ topics:
 - Relationship and move between cities
 - Founding a first startup during university
 tags:
-- startup-lessons
-- self-taught
-- first-startup
-- programming-journey
+- startup
 topic_tags:
 - startup-lessons
 - self-taught

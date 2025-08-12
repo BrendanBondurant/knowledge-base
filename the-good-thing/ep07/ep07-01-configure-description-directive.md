@@ -22,9 +22,7 @@ topics:
 tags:
 - graphql
 - federation
-- directives
-- schema-composition
-- customer-feedback
+- startup
 topic_tags:
 - graphql
 - federation

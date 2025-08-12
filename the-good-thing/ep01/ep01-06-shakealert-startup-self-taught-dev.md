@@ -20,11 +20,7 @@ topics:
 - Teaching self Android and backend dev with Slide Nerd (Java)
 - Transition to Swift and discovering Java's verbosity
 tags:
-- android-dev
-- self-taught
-- backend-dev
-- startup-lessons
-- programming-motivation
+- startup
 topic_tags:
 - android-dev
 - self-taught

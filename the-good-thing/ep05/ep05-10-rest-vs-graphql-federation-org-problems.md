@@ -32,19 +32,13 @@ topics:
 - Boring tech
 - Product architecture
 tags:
-- rest-vs-graphql
 - federation
 - api-design
-- organizational-problems
 - microservices
-- team-structure
 topic_tags:
-- rest-vs-graphql
 - federation
 - api-design
-- organizational-problems
 - microservices
-- team-structure
 entities:
 - Stefan Avram
 - Jens Neuse

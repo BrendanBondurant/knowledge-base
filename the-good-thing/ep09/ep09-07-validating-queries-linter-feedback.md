@@ -22,12 +22,7 @@ topics:
 - Linter-style feedback loops
 - Cursor AI development patterns
 tags:
-- query-validation
-- feedback-loops
-- hallucination-prevention
-- ai-development
-- linting
-- cursor
+- ai
 topic_tags:
 - query-validation
 - feedback-loops

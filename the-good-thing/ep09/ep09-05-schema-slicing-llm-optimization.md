@@ -22,12 +22,7 @@ topics:
 - Query accuracy improvements
 - Cost scaling considerations
 tags:
-- llm-optimization
-- schema-slicing
-- performance
-- cost-management
-- token-limits
-- accuracy
+- llm
 topic_tags:
 - llm-optimization
 - schema-slicing

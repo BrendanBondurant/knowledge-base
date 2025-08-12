@@ -20,16 +20,8 @@ topics:
 - Modular federation design
 - Plugin system benefits
 tags:
-- plugin-federation
-- wundergraph-architecture
-- connector-alternative
-- modular-design
 - plugin-system
 topic_tags:
-- plugin-federation
-- wundergraph-architecture
-- connector-alternative
-- modular-design
 - plugin-system
 entities:
 - Stefan Avram

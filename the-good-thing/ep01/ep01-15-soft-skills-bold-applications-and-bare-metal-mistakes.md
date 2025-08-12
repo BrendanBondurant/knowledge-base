@@ -23,15 +23,9 @@ topics:
 - Build versus buy mindset shift
 - Rejecting AWS for bare metal in early infra days
 tags:
-- soft-skills
 - graphql
-- build-vs-buy
-- career-growth
 topic_tags:
-- soft-skills
 - graphql
-- build-vs-buy
-- career-growth
 entities:
 - Jens Neuse
 - Stefan Avram

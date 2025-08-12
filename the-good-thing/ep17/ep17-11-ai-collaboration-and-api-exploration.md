@@ -23,13 +23,8 @@ topics:
 - AI increasing developer velocity
 - Need for orchestration layer and operating system
 tags:
-- ai-collaboration
-- cursor-adoption
-- legacy-migration
-- federation-acceleration
+- ai
 - graphql-guild
-- developer-velocity
-- orchestration-layer
 topic_tags:
 - ai-collaboration
 - cursor-adoption

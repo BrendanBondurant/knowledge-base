@@ -29,17 +29,9 @@ topics:
 tags:
 - micro-benchmarks
 - macro-benchmarks
-- code-optimization
-- performance
-- developer-experience
-- technical-validation
 topic_tags:
 - micro-benchmarks
 - macro-benchmarks
-- code-optimization
-- performance
-- developer-experience
-- technical-validation
 entities:
 - Jens Neuse
 - Stefan Avram

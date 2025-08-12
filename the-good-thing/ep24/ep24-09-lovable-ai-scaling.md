@@ -23,6 +23,9 @@ topics:
   - Long-term viability questions
   - Dot-com bubble comparisons
 tags:
+- ai
+- rest
+- websocket
   - lovable
   - unicorn-status
   - ai-development

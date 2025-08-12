@@ -22,19 +22,11 @@ topics:
 - AI prompt engineering challenges
 - Context management in AI tools
 tags:
-- vibe-coding
 - github-copilot
-- cursor
 - agent-mode
-- frontend-development
-- prompt-engineering
 topic_tags:
-- vibe-coding
 - github-copilot
-- cursor
 - agent-mode
-- frontend-development
-- prompt-engineering
 entities:
 - GitHub Copilot
 - Cursor

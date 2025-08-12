@@ -22,19 +22,9 @@ topics:
 - Breaking changes and unused fields
 - Team-scale frontend development
 tags:
-- fragment-hoisting
 - data-dependencies
-- trpc-comparison
-- rest-api-challenges
-- breaking-changes
-- team-scale-development
 topic_tags:
-- fragment-hoisting
 - data-dependencies
-- trpc-comparison
-- rest-api-challenges
-- breaking-changes
-- team-scale-development
 entities:
 - Relay
 - tRPC

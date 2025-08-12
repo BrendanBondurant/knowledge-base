@@ -26,9 +26,6 @@ topics:
 - Early sales
 - Product-market fit
 tags:
-- customer-development
-- validation
-- payment
 - startup
 topic_tags:
 - customer-development

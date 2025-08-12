@@ -21,15 +21,11 @@ topics:
 - Transitioning into programming without CS degree
 - Night school and private university in Germany
 tags:
-- self-taught
-- education
-- business-psychology
-- night-school
+- resilience
+- founder
 topic_tags:
-- self-taught
-- education
-- business-psychology
-- night-school
+- resilience
+- founder
 entities:
 - Jens Neuse
 - Stefan Avram

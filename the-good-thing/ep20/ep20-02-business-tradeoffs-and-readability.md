@@ -20,19 +20,13 @@ topics:
 - Team productivity and hiring implications
 - Language ecosystem and tooling impact
 tags:
-- business-tradeoffs
-- code-readability
-- maintainability
-- team-productivity
-- hiring
-- language-ecosystem
+- ai
+- cosmo-router
+- typescript
 topic_tags:
-- business-tradeoffs
-- code-readability
-- maintainability
-- team-productivity
-- hiring
-- language-ecosystem
+- ai
+- cosmo-router
+- typescript
 entities:
 - Stefan Avram
 - Jens Neuse

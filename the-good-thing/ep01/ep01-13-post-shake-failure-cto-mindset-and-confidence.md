@@ -22,11 +22,7 @@ topics:
 - Overconfident salary negotiation
 - Applying for senior and architect roles without experience
 tags:
-- career-growth
-- startup-lessons
-- career-growth
-- mental-health
-- career-growth
+- startup
 topic_tags:
 - career-growth
 - startup-lessons

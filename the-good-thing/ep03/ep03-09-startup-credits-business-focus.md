@@ -21,11 +21,7 @@ topics:
 - Technical vs Business
 - Customer Value
 tags:
-- startup-credits
-- business-focus
-- customer-value
-- technical-vs-business
-- vc-funding
+- startup
 topic_tags:
 - startup-credits
 - business-focus

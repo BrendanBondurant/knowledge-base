@@ -23,11 +23,7 @@ topics:
 - Quality assurance in fast-paced environment
 - Comparison with traditional enterprise processes
 tags:
-- startup-culture
-- customer-feedback
-- engineering-velocity
-- qa-processes
-- direct-communication
+- startup
 topic_tags:
 - startup-culture
 - customer-feedback

@@ -26,12 +26,8 @@ topics:
 - GraphQL engine architecture
 - Stefan's sales call documentation
 tags:
-- sdk-lessons
-- market-signals
-- customer-feedback
-- technology-transfer
+- startup
 - graphql-engine
-- sales-documentation
 topic_tags:
 - sdk-lessons
 - market-signals

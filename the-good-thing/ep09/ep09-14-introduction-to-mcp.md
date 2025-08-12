@@ -23,11 +23,6 @@ topics:
 - Traditional tool API limitations
 tags:
 - mcp
-- model-context-protocol
-- anthropic
-- json-rpc
-- tool-apis
-- protocol-design
 topic_tags:
 - mcp
 - model-context-protocol

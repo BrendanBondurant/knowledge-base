@@ -25,15 +25,11 @@ topics:
 - API integration
 - Customer support
 tags:
-- flyio
-- platform
-- reliability
-- support
+- startup
+- founder
 topic_tags:
-- flyio
-- platform
-- reliability
-- support
+- startup
+- founder
 entities:
 - Stefan
 - Jens

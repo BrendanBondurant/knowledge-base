@@ -24,6 +24,9 @@ topics:
   - Trusted third-party evaluation needs
   - Purchase decision support systems
 tags:
+- ai
+- rust
+- rest
   - magic-quadrant
   - gartner-forrester
   - analyst-model

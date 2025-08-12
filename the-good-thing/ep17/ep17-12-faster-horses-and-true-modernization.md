@@ -22,11 +22,7 @@ topics:
 - True collaboration and modernization
 - Episode format feedback request
 tags:
-- henry-ford-quote
-- customer-needs
-- modernization
-- product-vision
-- episode-conclusion
+- startup
 topic_tags:
 - henry-ford-quote
 - customer-needs

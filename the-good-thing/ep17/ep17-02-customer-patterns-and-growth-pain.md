@@ -22,11 +22,7 @@ topics:
 - API styles influence on Conway's Law
 - Workflow alignment with organizational reality
 tags:
-- customer-patterns
-- code-organization
-- team-communication
-- architecture-design
-- workflow-optimization
+- startup
 topic_tags:
 - customer-patterns
 - code-organization

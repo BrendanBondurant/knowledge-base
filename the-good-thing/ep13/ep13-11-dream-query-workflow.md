@@ -22,20 +22,10 @@ topics:
 - Serverless architecture challenges
 tags:
 - dream-query
-- schema-visualization
-- mermaid-diagrams
-- yelp-concept
 - schema-evolution
-- serverless-architecture
-- employee-type
 topic_tags:
 - dream-query
-- schema-visualization
-- mermaid-diagrams
-- yelp-concept
 - schema-evolution
-- serverless-architecture
-- employee-type
 entities:
 - Employee type
 - Mermaid

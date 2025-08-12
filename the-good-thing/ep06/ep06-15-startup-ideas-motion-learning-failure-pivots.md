@@ -24,13 +24,14 @@ topics:
   - Customer feedback
   - Startup growth
 tags:
-  - startup-ideas
-  - product-pivots
+- ai
+- startup
+  - startup
   - learning-from-failure
-  - startup-growth
   - team-dynamics
-  - customer-feedback
 topic_tags:
+- ai
+- startup
   - startup-ideas
   - product-pivots
   - learning-from-failure

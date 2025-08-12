@@ -23,20 +23,14 @@ topics:
 - Authorization and telemetry duplication issues
 tags:
 - bff-pattern
-- federation-architecture
-- microservices-sprawl
 - api-consumers
 - authorization
 - telemetry
-- maintenance-overhead
 topic_tags:
 - bff-pattern
-- federation-architecture
-- microservices-sprawl
 - api-consumers
 - authorization
 - telemetry
-- maintenance-overhead
 entities:
 - BFF (Backend for Frontend)
 - MCP server

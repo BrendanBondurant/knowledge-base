@@ -17,7 +17,6 @@
 GraphQL: graphql
 GraphQL-federation: graphql-federation
 MCP: mcp
-MCP-server: mcp-server
 agent-mode: agent-mode
 agents: ai-agents
 ai-acceleration: ai
@@ -82,7 +81,7 @@ api-design: api-design
 api-ecosystem: api-ecosystem
 api-expert: api-expert
 api-gateway: api-gateway
-api-mandate: api-mandate
+
 apollo-connectors: apollo-connectors
 apollo-federation: graphql-federation
 apollo-graphql: apollo-graphql
@@ -92,9 +91,7 @@ authorization: authorization
 backend for frontend: bff-pattern
 backend-for-frontend: bff-pattern
 benchmarking: benchmarking
-benchmarks: benchmarks
 bff: bff-pattern
-cache-warmer: cache-warmer
 cache-warming: cache-warming
 cdn: cdn
 ciroos: ciroos
@@ -163,12 +160,9 @@ founder-transparency: founder
 founder-trust: founder
 gRPC: grpc
 github-copilot: github-copilot
-github-for-apis: github-for-apis
 go: go
-go-to-market: go-to-market
 golang: go
 governance: governance
-graph-composition: graph-composition
 graphql: graphql
 graphql-api: graphql-api
 graphql-engine: graphql-engine
@@ -189,7 +183,6 @@ kafka: kafka
 kansas-city: kansas-city
 kubernetes: kubernetes
 llm: llm
-llm-agents: llm-agents
 llm-behavior: llm
 llm-code-generation: llm
 llm-communication: llm
@@ -224,12 +217,9 @@ mcp-configuration: mcp
 mcp-demo: mcp
 mcp-gateway: mcp-gateway
 mcp-implementation: mcp
-mcp-inspector: mcp-inspector
 mcp-integration: mcp
 mcp-marketplace: mcp
-mcp-registry: mcp-registry
 mcp-security: mcp
-mcp-tools: mcp-tools
 mcp-validation: mcp
 metadata: metadata
 micro-benchmarks: micro-benchmarks
@@ -242,7 +232,6 @@ monolith to federation: monolith-to-federation
 monolith→federation: monolith-to-federation
 mysql: mysql
 observability: observability
-open-api: open-api
 open-source-alternatives: open-source
 open-source-business: open-source
 open-source-commitment: open-source
@@ -254,8 +243,6 @@ open-source-monetization: open-source
 openapi: openapi
 plugin-system: plugin-system
 postgres: postgres
-pricing: pricing
-pricing-strategy: pricing-strategy
 principal-architect: principal-architect
 principled-graphql: principled-graphql
 product-adoption: startup
@@ -335,14 +322,10 @@ telemetry: telemetry
 trusted-documents: trusted-documents
 typescript: typescript
 universal-data-graph: universal-data-graph
-usage-based-pricing: usage-based-pricing
-venture-capital: venture-capital
 vitess: vitess
 zero-incidents: zero-incidents
 
-
 # --- Normalization & variant merges ---
-open-api: openapi
 graphql api: graphql
 graphql federation: graphql-federation
 websockets: websocket
@@ -368,25 +351,3 @@ mcp-registry: mcp
 mcp-tools: mcp
 open federation: open-federation
 openfed: open-federation
-
-# --- Business/meta roll-ups (or delete if you prefer a purely technical KB) ---
-go-to-market: startup
-pricing: startup
-pricing-strategy: startup
-usage-based-pricing: startup
-venture-capital: startup
-principal-architect: startup
-kansas-city: startup
-api-mandate: startup
-github-for-apis: startup
-
-# --- AI/productivity odds & ends ---
-github-copilot: ai
-
-# --- Previously noted synonyms for composition errors & diffs ---
-compose error: composition-errors
-composition failures: composition-errors
-composition error: composition-errors
-schema diff: schema-diffs
-schema diffs: schema-diffs
-diffs (schema context): schema-diffs

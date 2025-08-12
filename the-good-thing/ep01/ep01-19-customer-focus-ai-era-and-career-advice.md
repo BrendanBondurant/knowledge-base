@@ -23,11 +23,7 @@ topics:
 - Importance of fundamentals and clarity
 - Programming in the age of AI
 tags:
-- customer-empathy
-- ai-and-careers
-- developer-advice
-- fundamentals
-- product-strategy
+- ai
 topic_tags:
 - customer-empathy
 - ai-and-careers

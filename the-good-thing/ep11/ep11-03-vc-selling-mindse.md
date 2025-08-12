@@ -22,19 +22,11 @@ topics:
 - Series A vs seed stage differences
 - Early fundraising mistakes
 tags:
-- fundraising-strategy
-- vc-relationships
-- sales-process
-- seed-vs-series-a
-- pivot-strategy
-- fundraising-mistakes
+- ai
+- founder
 topic_tags:
-- fundraising-strategy
-- vc-relationships
-- sales-process
-- seed-vs-series-a
-- pivot-strategy
-- fundraising-mistakes
+- ai
+- founder
 entities:
 - Stefan Avram
 - Jens Neuse

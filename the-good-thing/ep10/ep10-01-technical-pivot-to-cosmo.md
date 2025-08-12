@@ -26,19 +26,9 @@ topics:
 - Mono repo development approach
 - Connect Buff and protobuf tooling
 tags:
-- co-founders
-- technical-strategy
 - open-source
-- mono-repo
-- protobuf
-- cosmo-pivot
 topic_tags:
-- co-founders
-- technical-strategy
 - open-source
-- mono-repo
-- protobuf
-- cosmo-pivot
 entities:
 - WunderGraph
 - Cosmo

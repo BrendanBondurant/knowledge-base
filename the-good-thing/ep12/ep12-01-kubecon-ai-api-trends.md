@@ -21,11 +21,7 @@ topics:
 - Episode format changes with guests
 - Technology wave cycles
 tags:
-- kubecon
-- ai-trends
-- conference-strategy
-- api-positioning
-- technology-waves
+- ai
 topic_tags:
 - kubecon
 - ai-trends

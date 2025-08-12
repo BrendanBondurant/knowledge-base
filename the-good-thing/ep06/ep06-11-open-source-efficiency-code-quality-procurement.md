@@ -25,13 +25,18 @@ topics:
 summary: |
   Jens and Stefan discuss the efficiency benefits of open source, the impact on code quality, and how open source can streamline procurement and sales processes for startups.
 tags:
-  - open-source-strategy
+- federation
+- graphql-federation
+- ai
+  - open-source
   - code-quality
   - enterprise-procurement
   - sales-process
-  - product-adoption
-  - startup-operations
+  - startup
 topic_tags:
+- federation
+- graphql-federation
+- ai
   - open-source-strategy
   - code-quality
   - enterprise-procurement

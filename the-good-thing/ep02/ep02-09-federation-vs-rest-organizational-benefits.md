@@ -21,17 +21,9 @@ topics:
 - Team collaboration advantages
 - Schema transparency
 tags:
-- federation-vs-rest
 - bff-pattern
-- organizational-benefits
-- team-collaboration
-- schema-transparency
 topic_tags:
-- federation-vs-rest
 - bff-pattern
-- organizational-benefits
-- team-collaboration
-- schema-transparency
 entities:
 - WunderGraph
 - GraphQL Federation

@@ -21,13 +21,7 @@ topics:
 - Small team empowerment through AI
 - Communication complexity vs team size
 tags:
-- b2b-transformation
-- team-efficiency
-- competitive-advantage
-- hiring-policies
-- small-teams
-- ai-empowerment
-- communication-complexity
+- ai
 topic_tags:
 - b2b-transformation
 - team-efficiency

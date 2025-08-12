@@ -22,19 +22,13 @@ topics:
 - First-time founder advantages vs disadvantages
 - Fundraising like dating
 tags:
-- fundraising-lessons
-- first-time-founders
-- pitch-decks
-- bootstrapping
-- advisor-importance
-- rookie-mistakes
+- ai
+- rest
+- websocket
 topic_tags:
-- fundraising-lessons
-- first-time-founders
-- pitch-decks
-- bootstrapping
-- advisor-importance
-- rookie-mistakes
+- ai
+- rest
+- websocket
 entities:
 - Stefan Avram
 - Jens Neuse

@@ -21,11 +21,7 @@ topics:
 - Federation vs REST comparison
 - Organizational benefits
 tags:
-- business-impact
-- performance
-- conversion-rates
-- federation-vs-rest
-- customer-abandonment
+- startup
 topic_tags:
 - business-impact
 - performance

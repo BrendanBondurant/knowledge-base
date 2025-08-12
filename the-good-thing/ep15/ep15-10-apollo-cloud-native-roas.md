@@ -22,16 +22,8 @@ topics:
 - Brand recognition challenges
 tags:
 - apollo-graphql
-- branding
-- naming-strategy
-- seo
-- brand-confusion
 topic_tags:
 - apollo-graphql
-- branding
-- naming-strategy
-- seo
-- brand-confusion
 entities:
 - Apollo GraphQL
 - Apollo.io

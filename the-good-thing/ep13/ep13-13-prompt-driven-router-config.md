@@ -22,19 +22,11 @@ topics:
 - OTEL metrics and tracing setup
 tags:
 - router-configuration
-- mcp-tools
 - json-schema
-- otel-metrics
-- workflow-iteration
-- ai-verification
 - composition-checks
 topic_tags:
 - router-configuration
-- mcp-tools
 - json-schema
-- otel-metrics
-- workflow-iteration
-- ai-verification
 - composition-checks
 entities:
 - MCP tools

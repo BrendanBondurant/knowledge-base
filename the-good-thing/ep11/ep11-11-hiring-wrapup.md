@@ -21,10 +21,7 @@ topics:
 - Conway's Law team structure
 - Query planning engine work
 tags:
-- hiring
-- team-structure
-- ai-acceleration
-- essential-infrastructure
+- ai
 - query-planning
 topic_tags:
 - hiring

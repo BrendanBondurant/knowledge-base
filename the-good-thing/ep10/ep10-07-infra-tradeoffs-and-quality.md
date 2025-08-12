@@ -27,19 +27,13 @@ topics:
 - In-person energy vs virtual collaboration
 - Travel requirements for remote workers
 tags:
-- remote-tooling
-- work-life-balance
-- company-culture
-- team-friction
-- family-balance
-- travel-requirements
+- ai
+- websocket
+- founder
 topic_tags:
-- remote-tooling
-- work-life-balance
-- company-culture
-- team-friction
-- family-balance
-- travel-requirements
+- ai
+- websocket
+- founder
 entities:
 - Linear
 - Jira

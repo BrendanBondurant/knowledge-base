@@ -22,10 +22,7 @@ topics:
 - Customer behavior
 - Support challenges
 tags:
-- pricing
-- customer-value
-- enterprise
-- mid-market
+- startup
 topic_tags:
 - pricing
 - customer-value

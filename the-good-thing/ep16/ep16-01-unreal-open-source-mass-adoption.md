@@ -21,12 +21,8 @@ topics:
 - Competitive advantage through ubiquity
 - Ten-year horizon thinking for Federation
 tags:
-- unreal-engine
-- open-source-strategy
-- mass-adoption
-- epic-games
+- open-source
 - federation
-- competitive-strategy
 topic_tags:
 - unreal-engine
 - open-source-strategy

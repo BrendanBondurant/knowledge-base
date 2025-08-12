@@ -20,12 +20,8 @@ topics:
 - AI intelligence vs pattern matching
 - Critical analysis of AI news coverage
 tags:
-- ai-blackmail
-- media-sensationalism
-- llm-behavior
-- ai-misconceptions
-- pattern-matching
-- ai-news-analysis
+- ai
+- llm
 topic_tags:
 - ai-blackmail
 - media-sensationalism

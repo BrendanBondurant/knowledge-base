@@ -20,17 +20,13 @@ topics:
 - Developer experience challenges
 - Legacy system integration
 tags:
-- schema-noise
-- frontend-friction
-- developer-experience
-- graphql-complexity
-- legacy-systems
+- federation
+- graphql-federation
+- grpc
 topic_tags:
-- schema-noise
-- frontend-friction
-- developer-experience
-- graphql-complexity
-- legacy-systems
+- federation
+- graphql-federation
+- grpc
 entities:
 - Stefan Avram
 - Jens Neuse

@@ -24,16 +24,9 @@ topics:
 tags:
 - federation
 - ai
-- agents
-- structured-contracts
-- graphql-as-sql
-- ai-integration
 topic_tags:
 - federation
 - ai
-- agents
-- structured-contracts
-- graphql-as-sql
 - ai-integration
 entities:
 - Robert Farr

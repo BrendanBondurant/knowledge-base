@@ -22,10 +22,7 @@ topics:
 tags:
 - rust
 - go
-- programming-languages
-- developer-accessibility
-- linkedin-controversy
-- llm-code-generation
+- llm
 topic_tags:
 - rust
 - go

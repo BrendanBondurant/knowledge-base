@@ -22,10 +22,7 @@ topics:
 - Customer relationships
 - Product evolution
 tags:
-- enterprise
-- value
-- startup-advice
-- product
+- startup
 topic_tags:
 - enterprise
 - value

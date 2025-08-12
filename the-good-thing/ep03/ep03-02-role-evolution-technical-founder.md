@@ -20,17 +20,11 @@ topics:
 - Startup Lessons
 - AI Impact
 tags:
-- role-evolution
-- technical-founder
 - startup
 - ai
-- career-growth
 topic_tags:
-- role-evolution
-- technical-founder
 - startup
 - ai
-- career-growth
 entities:
 - Dustin
 - Stefan

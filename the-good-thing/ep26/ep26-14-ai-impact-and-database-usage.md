@@ -24,11 +24,7 @@ topics:
 - Data generation for AI training
 - Development tool integration
 tags:
-- ai-impact
-- database-usage
-- cursor-integration
-- ai-data-patterns
-- development-tools
+- ai
 topic_tags:
 - ai-impact
 - database-usage

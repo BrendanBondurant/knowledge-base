@@ -24,16 +24,12 @@ topics:
 tags:
 - schema-registry
 - observability
-- breaking-changes
 - contract-testing
-- team-coordination
 - cosmo
 topic_tags:
 - schema-registry
 - observability
-- breaking-changes
 - contract-testing
-- team-coordination
 - cosmo
 entities:
 - Cosmo

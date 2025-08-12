@@ -22,12 +22,8 @@ topics:
 - Customer reactions to AI initiatives
 - Internal tool development with AI
 tags:
-- ai-first-strategy
-- procore
-- enterprise-ai
-- customer-expectations
-- internal-tools
-- ai-transformation
+- ai
+- startup
 topic_tags:
 - ai-first-strategy
 - procore

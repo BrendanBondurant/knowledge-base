@@ -24,17 +24,9 @@ topics:
 tags:
 - conways-law
 - microservices-architecture
-- schema-optimization
-- organizational-design
-- api-mandate
-- team-communication
 topic_tags:
 - conways-law
 - microservices-architecture
-- schema-optimization
-- organizational-design
-- api-mandate
-- team-communication
 entities:
 - Conway's Law
 - Jeff Bezos

@@ -20,17 +20,13 @@ topics:
 - Engineering complexity evolution
 - Software development future
 tags:
-- ai-quality-standards
-- developer-value
-- engineering-complexity
-- software-development-future
-- ai-impact
+- ai
+- cosmo
+- kubernetes
 topic_tags:
-- ai-quality-standards
-- developer-value
-- engineering-complexity
-- software-development-future
-- ai-impact
+- ai
+- cosmo
+- kubernetes
 entities:
 - Stefan Avram
 - Jens Neuse

@@ -22,19 +22,13 @@ topics:
 - SDK preference over query building
 - Relay as primary driver
 tags:
-- graphql-limitations
-- frontend-driven-adoption
-- apollo-innovation-stagnation
-- connector-critique
-- relay-adoption
-- sdk-preference
+- federation
+- graphql-federation
+- ai
 topic_tags:
-- graphql-limitations
-- frontend-driven-adoption
-- apollo-innovation-stagnation
-- connector-critique
-- relay-adoption
-- sdk-preference
+- federation
+- graphql-federation
+- ai
 entities:
 - Apollo
 - Relay

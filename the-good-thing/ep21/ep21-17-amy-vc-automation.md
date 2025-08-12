@@ -20,19 +20,11 @@ topics:
 - Due diligence and portfolio management
 - Landing page messaging critique
 tags:
-- amy
-- vc-automation
-- private-market-investors
-- due-diligence
-- portfolio-management
-- messaging-critique
+- ai
+- startup
 topic_tags:
-- amy
-- vc-automation
-- private-market-investors
-- due-diligence
-- portfolio-management
-- messaging-critique
+- ai
+- startup
 entities:
 - Amy
 - Stefan Avram

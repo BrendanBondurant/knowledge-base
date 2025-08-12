@@ -23,21 +23,11 @@ topics:
 - Employee status updates
 - GraphQL endpoint validation
 tags:
-- non-developer-movement
 - real-api-integration
-- live-data-manipulation
-- employee-management
 - graphql-validation
-- cursor-adoption
-- automation-accessibility
 topic_tags:
-- non-developer-movement
 - real-api-integration
-- live-data-manipulation
-- employee-management
 - graphql-validation
-- cursor-adoption
-- automation-accessibility
 entities:
 - Cursor
 - MCP community

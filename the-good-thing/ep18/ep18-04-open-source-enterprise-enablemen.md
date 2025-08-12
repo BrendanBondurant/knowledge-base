@@ -23,13 +23,7 @@ topics:
 - Bank POC limitations with play graphs only
 - Open source enabling engineer evaluation
 tags:
-- open-source-strategy
-- enterprise-sales
-- organizational-barriers
-- poc-limitations
-- engineer-evaluation
-- healthcare-company
-- bank-restrictions
+- open-source
 topic_tags:
 - open-source-strategy
 - enterprise-sales

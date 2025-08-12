@@ -22,19 +22,9 @@ topics:
 - REST vs RPC architectural trade-offs
 - Practical implementation considerations
 tags:
-- api-evolution
 - rest
-- rpc
-- monolithic-database
-- architecture
-- trade-offs
 topic_tags:
-- api-evolution
 - rest
-- rpc
-- monolithic-database
-- architecture
-- trade-offs
 entities:
 - Robert Farr
 - Stefan Avram

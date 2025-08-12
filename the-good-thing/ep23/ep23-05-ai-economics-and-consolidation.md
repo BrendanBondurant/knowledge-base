@@ -20,11 +20,8 @@ topics:
 - AI market consolidation
 - Platform economic dynamics
 tags:
-- ai-economics
-- business-model-fragility
-- microsoft-strategy
-- market-consolidation
-- platform-dynamics
+- ai
+- startup
 topic_tags:
 - ai-economics
 - business-model-fragility

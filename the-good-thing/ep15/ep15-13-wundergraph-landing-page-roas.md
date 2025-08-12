@@ -21,6 +21,9 @@ topics:
   - Target audience mismatch problems
   - Hero messaging clarity problems
 tags:
+- federation
+- graphql-federation
+- ai
   - wundergraph
   - self-critique
   - graphql-federation

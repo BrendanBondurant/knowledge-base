@@ -26,17 +26,9 @@ topics:
 - Sales calls
 - Building confidence
 tags:
-- content-creation
-- practice
-- sales
 - startup
-- learning
 topic_tags:
-- content-creation
-- practice
-- sales
 - startup
-- learning
 entities:
 - Stefan
 - Jens

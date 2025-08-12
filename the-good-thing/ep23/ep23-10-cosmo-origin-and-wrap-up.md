@@ -20,15 +20,13 @@ topics:
 - Episode closing thoughts
 - Strategic reflection
 tags:
-- cosmo-pivot
-- origin-story
-- episode-conclusion
-- strategic-reflection
+- ai
+- cosmo
+- open-source
 topic_tags:
-- cosmo-pivot
-- origin-story
-- episode-conclusion
-- strategic-reflection
+- ai
+- cosmo
+- open-source
 entities:
 - Cosmo
 - WunderGraph

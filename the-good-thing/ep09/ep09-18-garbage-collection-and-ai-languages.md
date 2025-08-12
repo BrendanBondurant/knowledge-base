@@ -23,13 +23,8 @@ topics:
 - TypeScript compiler integration
 - Kotlin for backend development
 tags:
-- garbage-collection
-- rust-borrow-checker
-- ast-transformation
-- ai-languages
+- ai
 - typescript
-- kotlin
-- compiler-feedback
 topic_tags:
 - garbage-collection
 - rust-borrow-checker

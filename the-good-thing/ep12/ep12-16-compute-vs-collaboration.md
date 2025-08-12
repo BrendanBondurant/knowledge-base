@@ -22,12 +22,7 @@ topics:
 - Startup reliability challenges
 - Railway and Fly.io experiences
 tags:
-- compute-reselling
-- aws-wrappers
-- developer-purchasing
-- self-hosting-preference
-- startup-reliability
-- vercel-strategy
+- startup
 topic_tags:
 - compute-reselling
 - aws-wrappers

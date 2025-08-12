@@ -20,12 +20,9 @@ topics:
 - Software development workflow changes
 - WunderGraph/Cosmo MCP integration
 tags:
-- AI-integration
-- MCP
-- devtools
+- ai
+- mcp
 - cosmo
-- workflow-automation
-- software-development
 topic_tags:
 - AI-integration
 - MCP

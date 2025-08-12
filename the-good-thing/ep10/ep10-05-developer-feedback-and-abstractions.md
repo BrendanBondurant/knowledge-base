@@ -27,12 +27,7 @@ topics:
 - Corporate vs startup dynamics
 - Customer-focused innovation
 tags:
-- guerrilla-marketing
-- competitive-dynamics
-- led-trucks
-- apollo-exclusion
-- market-challenger
-- startup-creativity
+- startup
 topic_tags:
 - guerrilla-marketing
 - competitive-dynamics

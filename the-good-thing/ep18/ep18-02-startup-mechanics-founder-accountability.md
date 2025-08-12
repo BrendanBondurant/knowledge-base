@@ -22,12 +22,8 @@ topics:
 - Founder responsibility and strategy ownership
 - External capital funding for fast growth
 tags:
-- startup-mechanics
-- founder-accountability
-- layoff-strategy
-- growth-expectations
-- runway-management
-- profitability-planning
+- startup
+- founder
 topic_tags:
 - startup-mechanics
 - founder-accountability

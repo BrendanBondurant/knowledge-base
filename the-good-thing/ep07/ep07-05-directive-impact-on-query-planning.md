@@ -23,6 +23,9 @@ topics:
   - @override directive and field resolution changes
   - Query plan visualization and human readability
 tags:
+- federation
+- graphql-federation
+- ai
   - federation
   - graphql-directives
   - query-optimization

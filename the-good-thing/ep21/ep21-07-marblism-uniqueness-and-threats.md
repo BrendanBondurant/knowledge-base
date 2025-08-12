@@ -20,19 +20,13 @@ topics:
 - Marblism differentiation assessment
 - Target market evaluation
 tags:
-- marblism
-- pricing-clarity
-- website-optimization
-- differentiation
-- target-market
-- scroll-depth
+- ai
+- websocket
+- founder
 topic_tags:
-- marblism
-- pricing-clarity
-- website-optimization
-- differentiation
-- target-market
-- scroll-depth
+- ai
+- websocket
+- founder
 entities:
 - Marblism
 - Stefan Avram

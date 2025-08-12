@@ -21,12 +21,9 @@ topics:
 - Frontend-backend workflow transformation
 - MCP tool marketplace vision
 tags:
-- schema-proposals
-- ai-governance
+- ai
 - dream-query
-- frontend-backend
-- workflow-automation
-- mcp-marketplace
+- mcp
 - schema-evolution
 topic_tags:
 - schema-proposals

@@ -22,19 +22,13 @@ topics:
 - Garbage collection in compiler context
 - Function-by-function rewrite approach
 tags:
-- typescript-rewrite
-- go-language
-- rust-language
-- compiler-development
-- microsoft
-- language-tradeoffs
+- ai
+- typescript
+- rust
 topic_tags:
-- typescript-rewrite
-- go-language
-- rust-language
-- compiler-development
-- microsoft
-- language-tradeoffs
+- ai
+- typescript
+- rust
 entities:
 - Microsoft
 - TypeScript

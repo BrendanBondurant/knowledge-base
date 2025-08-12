@@ -22,12 +22,13 @@ topics:
 - Startup culture in Germany vs the US
 - Jens early imposter syndrome in programming
 tags:
-- fundamentals
-- imposter-syndrome
-- fundamentals
-- learning
-- learning
+- computer-science
+- ai
+- github-copilot
 topic_tags:
+- computer-science
+- ai
+- github-copilot
 - fundamentals
 - imposter-syndrome
 - fundamentals

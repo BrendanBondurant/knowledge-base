@@ -22,8 +22,11 @@ topics:
   - Real-world REST API complexity beyond simple examples
   - Mutation and POST request handling difficulties
 tags:
+- federation
+- graphql-federation
+- ai
   - rest-connectors
-  - apollo-federation
+  - graphql-federation
   - api-integration
   - testing-challenges
   - graphql-directives

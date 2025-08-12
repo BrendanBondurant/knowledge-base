@@ -24,16 +24,10 @@ topics:
 - Prioritizing customer value over internal engineering
 tags:
 - graphql
-- product-strategy
-- customer-feedback
 - api-design
-- pitfalls
 topic_tags:
 - graphql
-- product-strategy
-- customer-feedback
 - api-design
-- pitfalls
 entities:
 - Jens Neuse
 - Stefan Avram

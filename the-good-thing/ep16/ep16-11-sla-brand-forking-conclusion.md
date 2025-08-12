@@ -21,11 +21,7 @@ topics:
 - Market maturity and competitive positioning
 - Startup innovation versus big company resources
 tags:
-- sla-requirements
-- brand-building
-- customer-logos
-- market-maturity
-- content-marketing
+- startup
 topic_tags:
 - sla-requirements
 - brand-building

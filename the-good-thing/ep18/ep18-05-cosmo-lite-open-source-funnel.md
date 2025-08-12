@@ -23,12 +23,7 @@ topics:
 - Managed service value proposition
 - When to transition from open source to managed
 tags:
-- open-source-funnel
-- sales-cycle
-- managed-services
-- maintenance-overhead
-- competitive-advantage
-- staging-environment
+- open-source
 topic_tags:
 - open-source-funnel
 - sales-cycle

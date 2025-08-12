@@ -24,20 +24,8 @@ topics:
 - New internet through AI and supergraphs
 tags:
 - ai-agents
-- supergraph-adoption
-- fortune-500
-- engineering-hiring
-- mcp-integration
-- api-infrastructure
-- assembly-line-metaphor
 topic_tags:
 - ai-agents
-- supergraph-adoption
-- fortune-500
-- engineering-hiring
-- mcp-integration
-- api-infrastructure
-- assembly-line-metaphor
 entities:
 - WunderGraph
 - Khan Academy

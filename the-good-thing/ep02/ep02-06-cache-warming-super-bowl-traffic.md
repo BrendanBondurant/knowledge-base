@@ -22,16 +22,12 @@ topics:
 - Query plan cache
 tags:
 - cache-warming
-- performance-optimization
 - federation
 - query-planning
-- scalability
 topic_tags:
 - cache-warming
-- performance-optimization
 - federation
 - query-planning
-- scalability
 entities:
 - WunderGraph
 - Super Bowl

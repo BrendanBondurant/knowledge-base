@@ -22,11 +22,7 @@ topics:
 - Future outlook for AI in enterprise
 - Closing thoughts and takeaways
 tags:
-- ai-boom
-- value-delivery
-- future-outlook
-- enterprise-ai
-- episode-conclusion
+- ai
 topic_tags:
 - ai-boom
 - value-delivery

@@ -21,17 +21,13 @@ topics:
 - Audience engagement call
 - Collaboration vs compute debate
 tags:
-- episode-conclusion
-- guest-announcements
-- federation-scale
-- audience-engagement
-- collaboration-compute-debate
+- federation
+- ai
+- cosmo
 topic_tags:
-- episode-conclusion
-- guest-announcements
-- federation-scale
-- audience-engagement
-- collaboration-compute-debate
+- federation
+- ai
+- cosmo
 entities:
 - Cosmo
 - Stefan Avram

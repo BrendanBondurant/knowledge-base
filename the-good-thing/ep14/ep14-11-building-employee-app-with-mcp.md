@@ -22,21 +22,13 @@ topics:
 - Tool permission management
 - Non-technical prompt requirements
 tags:
-- app-generation
-- mcp-inspector
-- prompt-engineering
-- hallucination-prevention
-- nextjs-app
-- tool-permissions
-- non-technical-prompts
+- mcp
+- ai
+- cosmo-router
 topic_tags:
-- app-generation
-- mcp-inspector
-- prompt-engineering
-- hallucination-prevention
-- nextjs-app
-- tool-permissions
-- non-technical-prompts
+- mcp
+- ai
+- cosmo-router
 entities:
 - MCP Inspector
 - Next.js

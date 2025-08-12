@@ -20,11 +20,7 @@ topics:
 - Product identity vs personal identity
 - Small startup positioning strategy
 tags:
-- emotional-attachment
-- developer-psychology
-- startup-feedback
-- product-identity
-- small-startup-strategy
+- startup
 topic_tags:
 - emotional-attachment
 - developer-psychology

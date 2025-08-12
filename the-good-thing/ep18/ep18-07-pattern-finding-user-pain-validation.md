@@ -24,13 +24,7 @@ topics:
 - Hockey stick growth inflection point finding
 - Customer behavior exploration methodology
 tags:
-- pattern-discovery
-- user-research
-- stakeholder-mapping
-- workflow-analysis
-- pain-point-validation
-- growth-inflection
-- customer-behavior
+- startup
 topic_tags:
 - pattern-discovery
 - user-research

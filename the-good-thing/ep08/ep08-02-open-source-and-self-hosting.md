@@ -22,18 +22,8 @@ topics:
 - Bottom-up adoption through developer accessibility
 tags:
 - open-source
-- licensing
-- enterprise-sales
-- self-hosting
-- vc-funding
-- developer-adoption
 topic_tags:
 - open-source
-- licensing
-- enterprise-sales
-- self-hosting
-- vc-funding
-- developer-adoption
 entities:
 - Sentry
 - HashiCorp

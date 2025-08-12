@@ -28,12 +28,7 @@ topics:
 - Company mission
 - Episode wrap-up
 tags:
-- venture-capital
-- future-predictions
-- green-energy
-- software-impact
-- collaboration
-- episode-wrap-up
+- startup
 topic_tags:
 - venture-capital
 - future-predictions

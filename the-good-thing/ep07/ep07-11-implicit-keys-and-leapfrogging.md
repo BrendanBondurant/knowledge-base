@@ -23,19 +23,9 @@ topics:
 - Federation directive improvements
 - Interface and union handling across subgraphs
 tags:
-- federation-keys
 - implicit-behavior
-- leapfrogging
-- schema-explicitness
-- team-coordination
-- interfaces-unions
 topic_tags:
-- federation-keys
 - implicit-behavior
-- leapfrogging
-- schema-explicitness
-- team-coordination
-- interfaces-unions
 entities:
 - GraphQL
 - Federation

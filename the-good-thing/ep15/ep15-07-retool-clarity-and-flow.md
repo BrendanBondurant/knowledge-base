@@ -21,17 +21,13 @@ topics:
 - CTA button visibility issues
 - Animated transitions and distractions
 tags:
-- retool
-- internal-tools
-- visual-design
-- cta-placement
-- user-experience
+- graphql
+- ai
+- database
 topic_tags:
-- retool
-- internal-tools
-- visual-design
-- cta-placement
-- user-experience
+- graphql
+- ai
+- database
 entities:
 - Retool
 mentions:

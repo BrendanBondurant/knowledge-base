@@ -22,12 +22,15 @@ topics:
   - Market expansion beyond Apollo customers
   - Federation as emerging enterprise standard
 tags:
+- federation
+- graphql-federation
+- ai
   - state-of-federation
   - market-research
   - enterprise-adoption
   - gartner-predictions
   - competitive-ecosystem
-  - apollo-federation
+  - graphql-federation
 entities:
   - State of GraphQL Federation Report
   - Postman

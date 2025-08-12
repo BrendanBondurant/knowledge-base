@@ -20,17 +20,13 @@ topics:
 - AI's impact on development
 - Platform competitive dynamics
 tags:
-- github-ai
-- distribution-vs-product
-- ai-integrations
-- platform-dynamics
-- developer-impact
+- ai
+- github-copilot
+- founder
 topic_tags:
-- github-ai
-- distribution-vs-product
-- ai-integrations
-- platform-dynamics
-- developer-impact
+- ai
+- github-copilot
+- founder
 entities:
 - GitHub
 - Stefan Avram

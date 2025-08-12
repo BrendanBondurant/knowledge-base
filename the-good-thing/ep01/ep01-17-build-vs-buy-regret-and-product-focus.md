@@ -22,11 +22,7 @@ topics:
 - Importance of build versus buy discipline
 - Engineers aligning with product and customer goals
 tags:
-- build-vs-buy
-- product-strategy
-- startup-lessons
-- engineering-decisions
-- focus
+- startup
 topic_tags:
 - build-vs-buy
 - product-strategy

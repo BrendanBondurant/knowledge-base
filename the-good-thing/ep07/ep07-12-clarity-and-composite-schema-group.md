@@ -24,18 +24,10 @@ topics:
 - Federated graph size challenges (100,000+ lines)
 tags:
 - composite-schema
-- working-group
 - subgraph-libraries
-- federation-evolution
-- developer-experience
-- schema-size
 topic_tags:
 - composite-schema
-- working-group
 - subgraph-libraries
-- federation-evolution
-- developer-experience
-- schema-size
 entities:
 - GraphQL Foundation
 - Composite Schema Working Group

@@ -23,11 +23,8 @@ topics:
 - Lord of the Rings "one ring to rule them all" metaphor
 - Power concentration in single directives
 tags:
-- apollo-federation
-- technical-debt
-- directive-problems
+- graphql-federation
 - implicit-behavior
-- specification-evolution
 topic_tags:
 - apollo-federation
 - technical-debt

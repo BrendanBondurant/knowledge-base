@@ -23,6 +23,10 @@ topics:
   - Matt DeBergalis as new CEO
   - Customer experience improvements
 tags:
+- grpc
+- plugin-system
+- llm
+- apollo-graphql
   - plugin-system
   - co-processor
   - LLM-automation

@@ -22,17 +22,9 @@ topics:
 - GraphQL operations as SDK functions
 - JSON schema for input/output
 tags:
-- sdk-generation
-- entity-clarity
-- federation-expansion
-- openapi-patterns
 - graphql-operations
 - json-schema
 topic_tags:
-- sdk-generation
-- entity-clarity
-- federation-expansion
-- openapi-patterns
 - graphql-operations
 - json-schema
 entities:

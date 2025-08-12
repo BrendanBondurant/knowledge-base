@@ -20,11 +20,7 @@ topics:
 - Vision-driven messaging evolution
 - Startup maturity and positioning
 tags:
-- bell-curve-meme
-- startup-vision
-- communication-strategy
-- startup-maturity
-- positioning-evolution
+- startup
 topic_tags:
 - bell-curve-meme
 - startup-vision

@@ -20,17 +20,13 @@ topics:
 - Development workflows
 - Team dynamics and productivity
 tags:
-- ai-generated-libraries
-- collaboration-bottlenecks
-- dev-workflows
-- team-dynamics
-- productivity
+- graphql
+- ai
+- rest
 topic_tags:
-- ai-generated-libraries
-- collaboration-bottlenecks
-- dev-workflows
-- team-dynamics
-- productivity
+- graphql
+- ai
+- rest
 entities:
 - Stefan Avram
 - Jens Neuse

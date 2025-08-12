@@ -22,16 +22,10 @@ topics:
 - Technical migration challenges
 tags:
 - apollo-graphql
-- migration
-- feature-flags
 - social-proof
-- router-compatibility
 topic_tags:
 - apollo-graphql
-- migration
-- feature-flags
 - social-proof
-- router-compatibility
 entities:
 - Apollo
 - WunderGraph

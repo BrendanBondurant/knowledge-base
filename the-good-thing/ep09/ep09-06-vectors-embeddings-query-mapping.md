@@ -22,19 +22,13 @@ topics:
 - Query-to-schema matching
 - Natural language processing concepts
 tags:
-- vector-databases
-- embeddings
-- schema-slicing
-- nlp
-- semantic-similarity
-- query-mapping
+- graphql
+- ai
+- cosmo
 topic_tags:
-- vector-databases
-- embeddings
-- schema-slicing
-- nlp
-- semantic-similarity
-- query-mapping
+- graphql
+- ai
+- cosmo
 entities:
 - GraphQL
 - Vector Database

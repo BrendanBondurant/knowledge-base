@@ -24,22 +24,10 @@ topics:
 - API gateway development at Apogee
 tags:
 - api-expert
-- consulting
 - api-gateway
-- postman
-- stripe
-- open-api
-- apogee
-- vendor-experience
 topic_tags:
 - api-expert
-- consulting
 - api-gateway
-- postman
-- stripe
-- open-api
-- apogee
-- vendor-experience
 entities:
 - Kevin Swiber
 - Stefan Avram

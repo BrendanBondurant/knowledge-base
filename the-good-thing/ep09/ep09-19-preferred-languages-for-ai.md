@@ -22,12 +22,10 @@ topics:
 - Model tracking and monitoring
 - JVM language alternatives
 tags:
-- go-language
+- go
 - typescript
 - python
-- cpp
-- ai-ecosystems
-- language-preferences
+- ai
 topic_tags:
 - go-language
 - typescript

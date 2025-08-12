@@ -20,12 +20,7 @@ topics:
 - Balancing technical excellence with pragmatism
 - Customer-focused development approaches
 tags:
-- tech-obsession
-- customer-value
-- software-complexity
-- business-impact
-- technical-excellence
-- pragmatism
+- startup
 topic_tags:
 - tech-obsession
 - customer-value

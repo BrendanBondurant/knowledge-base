@@ -20,12 +20,8 @@ topics:
 - AI company valuations and market positioning
 - Startup funding strategies in AI era
 tags:
-- openai
-- ipo
-- startup-ecosystem
-- vision-funding
-- ai-valuations
-- business-model
+- startup
+- ai
 topic_tags:
 - openai
 - ipo

@@ -21,17 +21,11 @@ topics:
 - Infrastructure
 - Closing
 tags:
-- cosmo-architecture
-- reliability
-- self-hosting
-- infrastructure
-- closing
+- cosmo
+- observability
 topic_tags:
-- cosmo-architecture
-- reliability
-- self-hosting
-- infrastructure
-- closing
+- cosmo
+- observability
 entities:
 - Stefan
 - Dustin

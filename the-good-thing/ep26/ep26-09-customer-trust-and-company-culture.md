@@ -25,6 +25,9 @@ topics:
   - Expert-led leadership philosophy
   - Low management overhead
 tags:
+- ai
+- postgres
+- rust
   - company-culture
   - capital-allocation
   - trust-based-management

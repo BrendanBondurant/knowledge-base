@@ -20,19 +20,11 @@ topics:
 - ChatGPT search competition
 - OpenAI competitive advantage
 tags:
-- lumona
-- social-media-search
-- reddit-integration
-- chatgpt-competition
-- openai-advantage
-- search-differentiation
+- ai
+- founder
 topic_tags:
-- lumona
-- social-media-search
-- reddit-integration
-- chatgpt-competition
-- openai-advantage
-- search-differentiation
+- ai
+- founder
 entities:
 - Lumona
 - Stefan Avram

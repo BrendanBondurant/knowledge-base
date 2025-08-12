@@ -21,13 +21,7 @@ topics:
 - Standard IO safety recommendation
 - Financial and data handling responsibilities
 tags:
-- vibe-coding
-- security-vulnerabilities
-- ethical-hacking
-- startup-security
-- stripe-integration
-- security-education
-- responsible-disclosure
+- startup
 topic_tags:
 - vibe-coding
 - security-vulnerabilities

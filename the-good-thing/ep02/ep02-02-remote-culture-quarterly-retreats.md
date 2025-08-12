@@ -20,17 +20,11 @@ topics:
 - Zoom fatigue and in-person collaboration
 - Company benefits and flexibility
 tags:
-- remote-work
-- quarterly-retreats
-- team-building
-- company-culture
-- zoom-fatigue
+- startup
+- founder
 topic_tags:
-- remote-work
-- quarterly-retreats
-- team-building
-- company-culture
-- zoom-fatigue
+- startup
+- founder
 entities:
 - WunderGraph
 - Stefan Avram

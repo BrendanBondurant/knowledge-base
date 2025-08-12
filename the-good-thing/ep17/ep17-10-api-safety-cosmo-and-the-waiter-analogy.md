@@ -22,19 +22,9 @@ topics:
 - Waiter restaurant analogy for API safety
 - Schema validation and type safety
 tags:
-- api-safety
-- llm-communication
-- tokenization
-- temperature-settings
 - schema-validation
-- safety-mechanisms
 topic_tags:
-- api-safety
-- llm-communication
-- tokenization
-- temperature-settings
 - schema-validation
-- safety-mechanisms
 entities:
 - LLMs
 - Sofia

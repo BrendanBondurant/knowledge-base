@@ -21,19 +21,13 @@ topics:
 - DevTool automation opportunities
 - MCP availability in WunderGraph/Cosmo
 tags:
-- devtools-future
-- ide-integration
-- workflow-automation
-- prompt-driven-development
-- copilot-workflows
-- mcp-availability
+- mcp
+- ai
+- github-copilot
 topic_tags:
-- devtools-future
-- ide-integration
-- workflow-automation
-- prompt-driven-development
-- copilot-workflows
-- mcp-availability
+- mcp
+- ai
+- github-copilot
 entities:
 - IDE
 - Copilot

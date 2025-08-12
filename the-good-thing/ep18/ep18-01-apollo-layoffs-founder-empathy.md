@@ -22,12 +22,8 @@ topics:
 - Formula one racing respect analogy
 - VC behavior criticism toward laid-off workers
 tags:
-- apollo-layoffs
-- founder-empathy
-- competitive-dynamics
-- job-losses
-- market-analysis
-- industry-respect
+- founder
+- startup
 topic_tags:
 - apollo-layoffs
 - founder-empathy

@@ -21,11 +21,7 @@ topics:
 - Open source vs closed source decision criteria
 - Enterprise feature separation strategies
 tags:
-- open-source-business
-- developer-tools
-- nginx
-- tyk
-- enterprise-features
+- open-source
 - api-gateway
 topic_tags:
 - open-source-business

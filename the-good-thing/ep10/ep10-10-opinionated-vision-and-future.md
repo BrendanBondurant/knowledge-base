@@ -27,12 +27,7 @@ topics:
 - 10th episode milestone celebration
 - Podcast journey reflection
 tags:
-- graphql-meta-language
-- company-growth
-- engineering-dna
-- customer-communication
-- open-source-commitment
-- milestone-celebration
+- startup
 topic_tags:
 - graphql-meta-language
 - company-growth

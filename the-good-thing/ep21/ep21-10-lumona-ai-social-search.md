@@ -20,19 +20,13 @@ topics:
 - AI-enabled search engine positioning
 - Slide formatting critique
 tags:
-- klavis
-- lumona
-- social-media-search
-- ai-search-engine
-- slide-formatting
-- presentation-critique
+- mcp
+- ai
+- rest
 topic_tags:
-- klavis
-- lumona
-- social-media-search
-- ai-search-engine
-- slide-formatting
-- presentation-critique
+- mcp
+- ai
+- rest
 entities:
 - Klavis
 - Lumona

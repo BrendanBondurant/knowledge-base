@@ -22,15 +22,11 @@ topics:
 - Enterprise focus
 - Pricing anecdotes
 tags:
-- wundergraph
-- support
-- enterprise
-- pricing
+- startup
+- founder
 topic_tags:
-- wundergraph
-- support
-- enterprise
-- pricing
+- startup
+- founder
 entities:
 - Jens
 - Stefan

@@ -24,12 +24,7 @@ topics:
 - Vision clarification through customer conversations
 - Adam Frankl methodology influence
 tags:
-- technical-advisory-board
-- customer-research
-- product-development
-- listening-methodology
-- vision-clarification
-- adam-frankl
+- startup
 topic_tags:
 - technical-advisory-board
 - customer-research

@@ -21,17 +21,11 @@ topics:
 - Next episode schedule
 - Final remarks
 tags:
-- episode-wrap-up
-- hiring
-- company-benefits
-- next-episode
-- closing-remarks
+- startup
+- founder
 topic_tags:
-- episode-wrap-up
-- hiring
-- company-benefits
-- next-episode
-- closing-remarks
+- startup
+- founder
 entities:
 - WunderGraph
 - The Good Thing Podcast

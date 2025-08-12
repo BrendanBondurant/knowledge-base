@@ -21,11 +21,9 @@ topics:
 - Difference between shallow tutorials and deep understanding
 - Importance of learning how things actually work (e.g. compilers, runtimes, networks)
 tags:
-- procrastination
-- learning
-- learning
-- junior-dev-advice
-- fundamentals
+- ai
+- github-copilot
+- computer-science
 topic_tags:
 - procrastination
 - learning

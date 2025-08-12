@@ -21,17 +21,11 @@ topics:
 - Marathon runners vs sprinters
 - Remote team collaboration
 tags:
-- hiring
-- team-culture
-- 10x-engineer
-- marathon-runners
-- remote-collaboration
+- startup
+- founder
 topic_tags:
-- hiring
-- team-culture
-- 10x-engineer
-- marathon-runners
-- remote-collaboration
+- startup
+- founder
 entities:
 - WunderGraph
 - Stefan Avram

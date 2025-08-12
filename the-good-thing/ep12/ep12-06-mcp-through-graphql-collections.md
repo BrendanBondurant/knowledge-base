@@ -21,19 +21,9 @@ topics:
 - Cosmo router proxy capabilities
 - Unified API approach benefits
 tags:
-- mcp-implementation
-- graphql-collections
-- access-control
-- no-code-interfaces
 - cosmo-router
-- api-unification
 topic_tags:
-- mcp-implementation
-- graphql-collections
-- access-control
-- no-code-interfaces
 - cosmo-router
-- api-unification
 entities:
 - GraphQL
 - MCP

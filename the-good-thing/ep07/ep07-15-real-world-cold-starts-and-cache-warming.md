@@ -23,19 +23,9 @@ topics:
 - Heuristic-based cache warming solution
 - Real-world performance vs lab testing
 tags:
-- cold-starts
 - cache-warming
-- production-performance
-- configuration-bias
-- router-lifecycle
-- analytics-driven-optimization
 topic_tags:
-- cold-starts
 - cache-warming
-- production-performance
-- configuration-bias
-- router-lifecycle
-- analytics-driven-optimization
 entities:
 - Cosmo Router
 - WunderGraph

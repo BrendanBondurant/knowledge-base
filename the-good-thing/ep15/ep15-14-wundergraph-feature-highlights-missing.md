@@ -21,6 +21,9 @@ topics:
   - Animation and design elements
   - Feature positioning precision
 tags:
+- federation
+- graphql-federation
+- ai
   - wundergraph
   - cosmo
   - feature-positioning

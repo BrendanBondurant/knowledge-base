@@ -21,13 +21,7 @@ topics:
 - MCP configuration complexity
 - Cursor's rapid growth (0 to 200M ARR)
 tags:
-- universal-ai-adoption
-- small-business
-- user-experience
-- non-technical-users
-- cursor-growth
-- mcp-configuration
-- accessibility
+- mcp
 topic_tags:
 - universal-ai-adoption
 - small-business

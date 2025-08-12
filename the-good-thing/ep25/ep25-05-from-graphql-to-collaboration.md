@@ -23,6 +23,9 @@ topics:
   - Discovery of collaboration as core customer value
   - Miro board API design workflows
 tags:
+- federation
+- graphql-federation
+- ai
   - wundergraph-evolution
   - graphql-federation
   - enterprise-sales

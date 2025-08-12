@@ -21,17 +21,15 @@ topics:
 - Engineering hiring priorities
 - Go vs full-stack roles
 tags:
-- reliability
-- testing
-- speed-vs-reliability
-- test-suite
-- engineering-hiring
+- go
+- typescript
+- query-planning
+- cosmo-router
 topic_tags:
-- reliability
-- testing
-- speed-vs-reliability
-- test-suite
-- engineering-hiring
+- go
+- typescript
+- query-planning
+- cosmo-router
 entities:
 - WunderGraph
 - Go programming language

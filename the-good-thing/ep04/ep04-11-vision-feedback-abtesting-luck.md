@@ -27,12 +27,8 @@ topics:
 - Survivorship bias
 - Startup advice
 tags:
-- vision
-- feedback
-- ab-testing
-- startup-luck
-- product-direction
-- founder-mindset
+- startup
+- founder
 topic_tags:
 - vision
 - feedback

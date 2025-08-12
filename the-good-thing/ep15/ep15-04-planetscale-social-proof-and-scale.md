@@ -21,6 +21,9 @@ topics:
   - Social proof through case studies
   - Performance benchmarking links
 tags:
+- ai
+- database
+- api-design
   - planetscale
   - database
   - performance-claims

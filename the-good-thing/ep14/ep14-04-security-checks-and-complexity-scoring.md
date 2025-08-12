@@ -23,21 +23,13 @@ topics:
 - Complexity scoring algorithm for query plans
 - Performance impact analysis of schema changes
 tags:
-- schema-safety
-- breaking-change-detection
-- query-plan-analysis
-- complexity-scoring
-- performance-monitoring
-- mcp-validation
-- hallucination-prevention
+- federation
+- mcp
+- ai
 topic_tags:
-- schema-safety
-- breaking-change-detection
-- query-plan-analysis
-- complexity-scoring
-- performance-monitoring
-- mcp-validation
-- hallucination-prevention
+- federation
+- mcp
+- ai
 entities:
 - Federation
 - Schema usage

@@ -20,17 +20,13 @@ topics:
 - Technical feasibility assessment
 - Funding and scaling concerns
 tags:
-- mlop
-- competitive-landscape
-- distribution-challenges
-- technical-feasibility
-- funding-scaling
+- ai
+- rest
+- open-source
 topic_tags:
-- mlop
-- competitive-landscape
-- distribution-challenges
-- technical-feasibility
-- funding-scaling
+- ai
+- rest
+- open-source
 entities:
 - Mlop
 - Stefan Avram

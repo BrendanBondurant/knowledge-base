@@ -21,12 +21,7 @@ topics:
 - Shopify's AI mandate leaked memo
 - Industry-wide AI adoption
 tags:
-- AI-transformation
-- shopify-memo
-- apple-intelligence
-- tech-shifts
-- industry-mandates
-- ai-adoption
+- ai
 topic_tags:
 - AI-transformation
 - shopify-memo

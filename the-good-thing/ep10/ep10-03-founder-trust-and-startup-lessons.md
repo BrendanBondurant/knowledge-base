@@ -27,12 +27,8 @@ topics:
 - Imitating successful startups
 - Product-market fit requirements
 tags:
-- founder-trust
-- team-dynamics
-- startup-mistakes
-- premature-scaling
-- product-market-fit
-- pivot-decisions
+- founder
+- startup
 topic_tags:
 - founder-trust
 - team-dynamics

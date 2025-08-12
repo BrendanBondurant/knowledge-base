@@ -31,12 +31,8 @@ topics:
 - JWT claims
 - Product responsibility
 tags:
-- founder-mode
-- customer-support
-- company-culture
-- pii-handling
-- customer-first
-- startup-philosophy
+- founder
+- startup
 topic_tags:
 - founder-mode
 - customer-support

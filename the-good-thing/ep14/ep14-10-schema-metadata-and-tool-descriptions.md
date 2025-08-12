@@ -23,21 +23,13 @@ topics:
 - Claude Desktop configuration for MCP
 - Next.js employee dashboard demo preparation
 tags:
-- schema-comments
-- documentation-integration
-- tool-descriptions
-- claude-configuration
-- nextjs-demo
-- json-schema-metadata
-- llm-context
+- graphql
+- mcp
+- ai
 topic_tags:
-- schema-comments
-- documentation-integration
-- tool-descriptions
-- claude-configuration
-- nextjs-demo
-- json-schema-metadata
-- llm-context
+- graphql
+- mcp
+- ai
 entities:
 - GraphQL schema
 - JSON schema

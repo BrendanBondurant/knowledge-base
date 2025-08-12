@@ -20,17 +20,13 @@ topics:
 - Y Combinator batch quality assessment
 - Market saturation observations
 tags:
-- tier-list-summary
-- ai-bubble
-- y-combinator-quality
-- market-saturation
-- startup-trends
+- ai
+- websocket
+- startup
 topic_tags:
-- tier-list-summary
-- ai-bubble
-- y-combinator-quality
-- market-saturation
-- startup-trends
+- ai
+- websocket
+- startup
 entities:
 - Stefan Avram
 - Jens Neuse

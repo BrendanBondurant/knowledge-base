@@ -21,17 +21,11 @@ topics:
 - Evolution from 10,000-line files to maintainable structure
 - GraphQL spec compliance efforts
 tags:
-- career-journey
 - graphql-go-tools
 - open-source
-- code-organization
-- tyk-technologies
 topic_tags:
-- career-journey
 - graphql-go-tools
 - open-source
-- code-organization
-- tyk-technologies
 entities:
 - Sergiy
 - Jens Neuse

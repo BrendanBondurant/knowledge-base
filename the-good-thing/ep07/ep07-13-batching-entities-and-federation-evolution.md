@@ -23,12 +23,10 @@ topics:
 - Benchmark bias and methodology challenges
 - Query planning performance considerations
 tags:
-- entity-batching
-- apollo-federation
+- graphql-federation
 - composite-schema
 - benchmarking
 - query-planning
-- performance
 topic_tags:
 - entity-batching
 - apollo-federation

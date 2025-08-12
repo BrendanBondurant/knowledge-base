@@ -25,13 +25,18 @@ topics:
 summary: |
   Jens and Stefan discuss the role of open source alternatives in the market, different business models, and how product differentiation is achieved beyond just feature parity. They reflect on the importance of positioning and strategy in building a successful company.
 tags:
-  - open-source-alternatives
+- ai
+- postgres
+- apollo-graphql
+  - open-source
   - business-models
   - product-differentiation
-  - market-positioning
-  - startup-strategy
+  - startup
   - collaboration-tools
 topic_tags:
+- ai
+- postgres
+- apollo-graphql
   - open-source-alternatives
   - business-models
   - product-differentiation

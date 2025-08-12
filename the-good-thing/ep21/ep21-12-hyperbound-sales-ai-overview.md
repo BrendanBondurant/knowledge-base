@@ -20,19 +20,9 @@ topics:
 - Social proof and testimonials analysis
 - Enterprise integration capabilities
 tags:
-- hyperbound
-- sales-training
-- ai-roleplay
 - social-proof
-- enterprise-integration
-- sales-enablement
 topic_tags:
-- hyperbound
-- sales-training
-- ai-roleplay
 - social-proof
-- enterprise-integration
-- sales-enablement
 entities:
 - Hyperbound
 - Stefan Avram

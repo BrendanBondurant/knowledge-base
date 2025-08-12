@@ -1,4 +1,3 @@
-
 ---
 title: Closing Reflections and Farewell
 slug: ep26-15-closing-reflections-and-farewell
@@ -23,8 +22,10 @@ topics:
   - Future episode scheduling
   - Gratitude and final thoughts
 tags:
+- ai
+- database
   - episode-closing
-  - ai-impact
+  - ai
   - future-episodes
   - gratitude
 entities:

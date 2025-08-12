@@ -22,12 +22,7 @@ topics:
 - Context management strategies
 - Hard-coding vs dynamic implementation
 tags:
-- code-generation
-- ast-transformation
-- test-driven-development
-- pattern-replication
-- context-management
-- ai-limitations
+- ai
 topic_tags:
 - code-generation
 - ast-transformation

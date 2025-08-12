@@ -21,12 +21,8 @@ topics:
 - Customer knowledge transfer and experience
 - Multipart file upload customization
 tags:
-- soundcloud
-- case-study
-- competitive-moats
-- customer-partnerships
-- open-source-strategy
-- engineering-collaboration
+- startup
+- open-source
 topic_tags:
 - soundcloud
 - case-study

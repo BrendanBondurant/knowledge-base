@@ -24,17 +24,9 @@ topics:
 tags:
 - mcp
 - ai-agents
-- security
-- workflows
-- production-safety
-- agent-tools
 topic_tags:
 - mcp
 - ai-agents
-- security
-- workflows
-- production-safety
-- agent-tools
 entities:
 - Stefan Avram
 - Robert Farr

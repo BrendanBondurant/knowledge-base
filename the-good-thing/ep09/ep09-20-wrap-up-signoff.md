@@ -20,15 +20,9 @@ topics:
 - Cameron's first appearance
 - Return schedule announcement
 tags:
-- episode-wrap
-- show-format
-- sign-off
-- guest-appearance
+- cdn
 topic_tags:
-- episode-wrap
-- show-format
-- sign-off
-- guest-appearance
+- cdn
 entities:
 - The Good Thing
 - Cameron

@@ -21,13 +21,8 @@ topics:
 - MCP server demo with Claude Desktop
 - API-first development approach
 tags:
-- ai-mandate
-- paradigm-shift
-- developer-requirements
-- claude-desktop
-- MCP-server
-- api-first
-- workflow-automation
+- ai
+- mcp
 topic_tags:
 - ai-mandate
 - paradigm-shift

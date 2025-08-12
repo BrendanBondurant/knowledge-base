@@ -27,19 +27,9 @@ topics:
 - AI trends
 - Team collaboration
 tags:
-- innovation
-- platform-moats
 - ai
-- collaboration-platforms
-- distribution
-- product-differentiation
 topic_tags:
-- innovation
-- platform-moats
 - ai
-- collaboration-platforms
-- distribution
-- product-differentiation
 entities:
 - Jens Neuse
 - Stefan Avram

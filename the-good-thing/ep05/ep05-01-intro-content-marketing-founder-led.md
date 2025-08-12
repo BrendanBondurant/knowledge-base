@@ -26,11 +26,8 @@ topics:
 - Company culture
 - Personal stories
 tags:
-- introduction
-- content-marketing
-- founder-led
+- founder
 - authenticity
-- podcast
 topic_tags:
 - introduction
 - content-marketing

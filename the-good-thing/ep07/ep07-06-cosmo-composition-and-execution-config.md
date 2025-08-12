@@ -23,19 +23,9 @@ topics:
 - Composition and query planning integration
 - Resolvability and satisfiability checking
 tags:
-- architecture
 - composition
-- execution-config
-- apollo-comparison
-- metadata-transformation
-- protobuf
 topic_tags:
-- architecture
 - composition
-- execution-config
-- apollo-comparison
-- metadata-transformation
-- protobuf
 entities:
 - Cosmo
 - Apollo

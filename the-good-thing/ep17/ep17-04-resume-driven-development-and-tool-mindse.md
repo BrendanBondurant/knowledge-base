@@ -21,11 +21,7 @@ topics:
 - Developer obsession with technology over problems
 - Windsurf vs technical implementation focus
 tags:
-- resume-driven-development
-- customer-focus
-- problem-solving
-- business-understanding
-- developer-mindset
+- startup
 topic_tags:
 - resume-driven-development
 - customer-focus

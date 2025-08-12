@@ -21,17 +21,13 @@ topics:
 - GraphQL Federation implementation at previous company
 - 13 microservices federated through Cosmo
 tags:
-- guest-introduction
 - graphql-federation
 - cosmo
 - microservices
-- ai-engineer
 topic_tags:
-- guest-introduction
 - graphql-federation
 - cosmo
 - microservices
-- ai-engineer
 entities:
 - Cameron
 - WunderGraph

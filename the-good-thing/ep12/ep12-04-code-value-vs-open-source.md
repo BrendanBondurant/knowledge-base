@@ -22,12 +22,8 @@ topics:
 - Building universe of products
 - Salesforce distribution example
 tags:
-- code-value
-- open-source-strategy
-- distribution-moats
-- brand-value
-- product-roadmaps
-- cosmo-strategy
+- open-source
+- startup
 topic_tags:
 - code-value
 - open-source-strategy

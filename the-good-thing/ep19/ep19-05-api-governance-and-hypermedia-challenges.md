@@ -22,19 +22,11 @@ topics:
 - Hypermedia approaches and their limitations
 - Developer experience considerations
 tags:
-- api-governance
-- hypermedia
-- consistency
-- developer-experience
-- enterprise-scale
-- standards
+- ai
+- rest
 topic_tags:
-- api-governance
-- hypermedia
-- consistency
-- developer-experience
-- enterprise-scale
-- standards
+- ai
+- rest
 entities:
 - Robert Farr
 - Stefan Avram

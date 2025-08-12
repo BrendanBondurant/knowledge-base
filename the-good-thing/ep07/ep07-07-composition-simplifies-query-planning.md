@@ -26,15 +26,11 @@ tags:
 - query-planning
 - metadata
 - typescript
-- golang
-- architecture-decisions
 topic_tags:
 - composition
 - query-planning
 - metadata
 - typescript
-- golang
-- architecture-decisions
 entities:
 - Cosmo
 - Apollo

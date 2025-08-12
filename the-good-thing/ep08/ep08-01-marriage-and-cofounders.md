@@ -21,12 +21,7 @@ topics:
 - Y Combinator cofounder advice
 - Work-life balance through partnerships
 tags:
-- marriage
-- cofounders
-- relationships
-- work-life-balance
-- y-combinator
-- startup-advice
+- startup
 topic_tags:
 - marriage
 - cofounders

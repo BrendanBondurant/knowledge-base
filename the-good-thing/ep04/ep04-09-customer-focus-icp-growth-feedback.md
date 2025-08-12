@@ -26,10 +26,7 @@ topics:
 - Customer feedback
 - Company vision
 tags:
-- customer-focus
-- icp
-- growth
-- feedback
+- startup
 topic_tags:
 - customer-focus
 - icp

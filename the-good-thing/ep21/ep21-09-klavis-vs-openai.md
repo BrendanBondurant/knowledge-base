@@ -20,19 +20,9 @@ topics:
 - Developer tool bubble discussion
 - ChatGPT competitive threat
 tags:
-- klavis
 - mcp
-- model-context-protocol
-- developer-tools
-- bubble-discussion
-- chatgpt-competition
 topic_tags:
-- klavis
 - mcp
-- model-context-protocol
-- developer-tools
-- bubble-discussion
-- chatgpt-competition
 entities:
 - Klavis
 - Stefan Avram

@@ -20,17 +20,13 @@ topics:
 - Federation implementation issues
 - Query optimization challenges
 tags:
-- inaccessible-entities
-- n-plus-one-queries
-- performance-optimization
-- federation-performance
-- implementation-issues
+- federation
+- graphql-federation
+- grpc
 topic_tags:
-- inaccessible-entities
-- n-plus-one-queries
-- performance-optimization
-- federation-performance
-- implementation-issues
+- federation
+- graphql-federation
+- grpc
 entities:
 - Stefan Avram
 - Jens Neuse

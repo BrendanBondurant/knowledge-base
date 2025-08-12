@@ -20,19 +20,9 @@ topics:
 - Kansas City tech scene and geography
 - Career progression in distributed systems and site reliability
 tags:
-- career-journey
-- procore
-- cerner
 - kansas-city
-- distributed-systems
-- site-reliability-engineering
 topic_tags:
-- career-journey
-- procore
-- cerner
 - kansas-city
-- distributed-systems
-- site-reliability-engineering
 entities:
 - Robert Farr
 - Procore

@@ -22,19 +22,13 @@ topics:
 - AI and cursor impact on junior developers
 - Apprenticeship model vs bootcamp approach
 tags:
-- imposter-syndrome
-- developer-anxiety
-- bootcamps
-- junior-developers
-- stack-complexity
-- learning-fundamentals
+- ai
+- postgres
+- telemetry
 topic_tags:
-- imposter-syndrome
-- developer-anxiety
-- bootcamps
-- junior-developers
-- stack-complexity
-- learning-fundamentals
+- ai
+- postgres
+- telemetry
 entities:
 - PHP
 - Apache

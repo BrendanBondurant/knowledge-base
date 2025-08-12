@@ -20,17 +20,13 @@ topics:
 - NVMe storage technology
 - Database hosting business models
 tags:
-- planetscale-pricing
-- proprietary-architecture
-- nvme-storage
-- database-hosting
-- business-models
+- ai
+- postgres
+- open-source
 topic_tags:
-- planetscale-pricing
-- proprietary-architecture
-- nvme-storage
-- database-hosting
-- business-models
+- ai
+- postgres
+- open-source
 entities:
 - PlanetScale
 - Stefan Avram

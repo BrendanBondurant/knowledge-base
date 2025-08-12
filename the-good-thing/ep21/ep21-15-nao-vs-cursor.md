@@ -20,19 +20,13 @@ topics:
 - Data-specific IDE differentiation
 - DBT and analytics integration
 tags:
-- nao
-- cursor
-- vs-code-fork
-- data-analytics
-- dbt-integration
-- feature-overlap
+- ai
+- python
+- startup
 topic_tags:
-- nao
-- cursor
-- vs-code-fork
-- data-analytics
-- dbt-integration
-- feature-overlap
+- ai
+- python
+- startup
 entities:
 - Nao
 - Cursor

@@ -21,11 +21,7 @@ topics:
 - Business responsibilities with paying customers
 - Implementation decision context understanding
 tags:
-- managed-services
-- customer-support
-- domain-expertise
-- business-responsibilities
-- implementation-guidance
+- startup
 topic_tags:
 - managed-services
 - customer-support

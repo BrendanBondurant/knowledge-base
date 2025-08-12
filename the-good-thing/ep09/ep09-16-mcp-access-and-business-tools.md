@@ -22,19 +22,9 @@ topics:
 - Business user tool integration
 - Multi-service workflow automation
 tags:
-- mcp-registry
-- access-control
 - authentication
-- business-tools
-- workflow-automation
-- security
 topic_tags:
-- mcp-registry
-- access-control
 - authentication
-- business-tools
-- workflow-automation
-- security
 entities:
 - MCP Hub
 - Docker Registry

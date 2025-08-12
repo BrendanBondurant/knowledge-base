@@ -20,19 +20,9 @@ topics:
 - Robert's role as Principal Architect
 - Post-IPO growth and scaling challenges
 tags:
-- procore
-- construction-tech
 - principal-architect
-- ipo
-- scaling
-- digital-transformation
 topic_tags:
-- procore
-- construction-tech
 - principal-architect
-- ipo
-- scaling
-- digital-transformation
 entities:
 - Procore
 - Robert Farr

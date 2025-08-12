@@ -21,18 +21,8 @@ topics:
 - Seed funding assessment
 tags:
 - ciroos
-- founder-background
-- aws-experience
-- cisco-experience
-- sre-tools
-- seed-funding
 topic_tags:
 - ciroos
-- founder-background
-- aws-experience
-- cisco-experience
-- sre-tools
-- seed-funding
 entities:
 - Ciroos
 - Stefan Avram

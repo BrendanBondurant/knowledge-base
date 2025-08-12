@@ -23,12 +23,7 @@ topics:
 - Healthcare startup to public company range
 - Episode conclusion and format preferences
 tags:
-- organizational-problems
-- tab-insights
-- company-scale
-- enterprise-diversity
-- ai-tooling
-- episode-conclusion
+- ai
 topic_tags:
 - organizational-problems
 - tab-insights

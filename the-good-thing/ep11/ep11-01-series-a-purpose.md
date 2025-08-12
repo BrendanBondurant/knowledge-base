@@ -21,12 +21,7 @@ topics:
 - Investor dilution philosophy
 - Market timing and opportunities
 tags:
-- series-a
-- fundraising
-- venture-capital
-- funding-philosophy
-- dilution
-- wundergraph
+- startup
 topic_tags:
 - series-a
 - fundraising

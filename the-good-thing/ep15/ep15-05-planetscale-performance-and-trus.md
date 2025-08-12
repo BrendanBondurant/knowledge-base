@@ -21,19 +21,9 @@ topics:
 - Cache warmer comparison with Cosmo
 - Database performance as primary selling point
 tags:
-- planetscale
-- performance
 - vitess
-- diagrams
-- technical-marketing
-- cache-warmer
 topic_tags:
-- planetscale
-- performance
 - vitess
-- diagrams
-- technical-marketing
-- cache-warmer
 entities:
 - PlanetScale
 - YouTube

@@ -23,17 +23,9 @@ topics:
 - Communication and collaboration in tech teams
 - WunderGraph success rooted in team diversity and chemistry
 tags:
-- prompt-engineering
-- fundamentals
 - graphql
-- team-dynamics
-- customer-empathy
 topic_tags:
-- prompt-engineering
-- fundamentals
 - graphql
-- team-dynamics
-- customer-empathy
 entities:
 - Jens Neuse
 - Stefan Avram

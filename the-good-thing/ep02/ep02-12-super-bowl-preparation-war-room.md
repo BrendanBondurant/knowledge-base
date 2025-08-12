@@ -21,17 +21,13 @@ topics:
 - Customer support during events
 - Performance monitoring
 tags:
-- super-bowl
-- war-room
-- event-preparation
-- performance-monitoring
-- customer-support
+- cache-warming
+- observability
+- zero-incidents
 topic_tags:
-- super-bowl
-- war-room
-- event-preparation
-- performance-monitoring
-- customer-support
+- cache-warming
+- observability
+- zero-incidents
 entities:
 - WunderGraph
 - Super Bowl

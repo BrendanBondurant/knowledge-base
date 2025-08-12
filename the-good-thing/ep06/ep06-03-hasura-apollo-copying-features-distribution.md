@@ -24,6 +24,9 @@ topics:
   - Startup mistakes
   - Market entry
 tags:
+- graphql
+- apollo-graphql
+- startup
   - hasura
   - apollo
   - feature-copying
@@ -31,6 +34,9 @@ tags:
   - product-strategy
   - competitive-markets
 topic_tags:
+- graphql
+- apollo-graphql
+- startup
   - hasura
   - apollo
   - feature-copying

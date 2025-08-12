@@ -25,12 +25,7 @@ topics:
 - Market creation
 - Timing
 tags:
-- market-size
-- venture-capital
-- founder-quality
-- market-timing
-- startup-success
-- investment-decisions
+- startup
 topic_tags:
 - market-size
 - venture-capital

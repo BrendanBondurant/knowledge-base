@@ -20,15 +20,9 @@ topics:
 - Community engagement
 - Future episode topics
 tags:
-- episode-conclusion
-- hiring-invitation
-- community-engagement
-- wundergraph-hiring
+- ai
 topic_tags:
-- episode-conclusion
-- hiring-invitation
-- community-engagement
-- wundergraph-hiring
+- ai
 entities:
 - Stefan Avram
 - Jens Neuse

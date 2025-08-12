@@ -23,13 +23,8 @@ topics:
 - Safety controls for mutations
 - Find employees operation example
 tags:
-- demo-setup
-- persistent-operations
 - trusted-documents
-- mcp-configuration
-- safety-controls
-- endpoint-management
-- mutation-exclusion
+- mcp
 topic_tags:
 - demo-setup
 - persistent-operations

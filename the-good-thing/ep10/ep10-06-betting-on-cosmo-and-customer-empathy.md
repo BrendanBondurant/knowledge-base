@@ -27,19 +27,13 @@ topics:
 - In-person collaboration advantages
 - Working retreats vs traditional offices
 tags:
-- remote-work
-- talent-acquisition
-- timezone-management
-- cultural-diversity
-- communication-skills
-- working-retreats
+- ai
+- cosmo
+- founder
 topic_tags:
-- remote-work
-- talent-acquisition
-- timezone-management
-- cultural-diversity
-- communication-skills
-- working-retreats
+- ai
+- cosmo
+- founder
 entities:
 - WunderGraph
 - Deel

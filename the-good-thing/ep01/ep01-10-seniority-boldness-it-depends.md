@@ -22,11 +22,7 @@ topics:
 - Learning humility through experience
 - Lead in to startup failure reflection
 tags:
-- career-growth
-- dunning-kruger
-- startup-lessons
-- humility
-- imposter-syndrome
+- startup
 topic_tags:
 - career-growth
 - dunning-kruger

@@ -20,17 +20,11 @@ topics:
 - Episode conclusion and reflections
 - Community engagement
 tags:
-- tanzania-project
-- wheelchair-technology
-- social-impact
-- episode-conclusion
-- community-engagement
+- ai
+- founder
 topic_tags:
-- tanzania-project
-- wheelchair-technology
-- social-impact
-- episode-conclusion
-- community-engagement
+- ai
+- founder
 entities:
 - Stefan Avram
 - Jens Neuse

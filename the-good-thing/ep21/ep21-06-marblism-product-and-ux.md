@@ -20,19 +20,13 @@ topics:
 - Interactive demo experience
 - User onboarding and conversion tactics
 tags:
-- marblism
-- ux-design
-- humanization
-- interactive-demo
-- conversion-optimization
-- champion-filtering
+- ai
+- websocket
+- founder
 topic_tags:
-- marblism
-- ux-design
-- humanization
-- interactive-demo
-- conversion-optimization
-- champion-filtering
+- ai
+- websocket
+- founder
 entities:
 - Marblism
 - Stefan Avram

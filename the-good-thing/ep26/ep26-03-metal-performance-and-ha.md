@@ -25,6 +25,9 @@ topics:
   - Ephemeral machines and replication strategy
   - Semi-synchronous replication
 tags:
+- ai
+- postgres
+- cdn
   - planetscale-metal
   - performance
   - high-availability

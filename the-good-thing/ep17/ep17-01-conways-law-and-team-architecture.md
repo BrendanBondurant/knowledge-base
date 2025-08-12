@@ -22,11 +22,9 @@ topics:
 - Personal learning story about recursion
 tags:
 - conways-law
-- organizational-design
-- team-architecture
 - federation
 - monolith
-- customer-patterns
+- startup
 topic_tags:
 - conways-law
 - organizational-design

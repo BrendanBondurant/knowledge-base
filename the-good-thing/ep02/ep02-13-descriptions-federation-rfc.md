@@ -22,16 +22,8 @@ topics:
 - Schema documentation standards
 tags:
 - federation-descriptions
-- rfc-process
-- documentation
-- team-collaboration
-- schema-standards
 topic_tags:
 - federation-descriptions
-- rfc-process
-- documentation
-- team-collaboration
-- schema-standards
 entities:
 - WunderGraph
 - GraphQL Federation

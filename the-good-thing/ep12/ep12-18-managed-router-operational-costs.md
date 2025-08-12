@@ -22,19 +22,13 @@ topics:
 - Federation operational requirements
 - Margin analysis on compute reselling
 tags:
-- managed-router-critique
-- apollo-criticism
-- operational-overhead
-- cost-analysis
-- incident-collaboration
-- compute-margins
+- federation
+- ai
+- apollo-graphql
 topic_tags:
-- managed-router-critique
-- apollo-criticism
-- operational-overhead
-- cost-analysis
-- incident-collaboration
-- compute-margins
+- federation
+- ai
+- apollo-graphql
 entities:
 - Apollo
 - AWS

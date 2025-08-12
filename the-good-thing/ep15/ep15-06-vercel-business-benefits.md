@@ -21,17 +21,9 @@ topics:
 - Build time and performance improvements
 - Business-focused value proposition
 tags:
-- vercel
-- business-benefits
-- metrics
 - social-proof
-- performance-improvements
 topic_tags:
-- vercel
-- business-benefits
-- metrics
 - social-proof
-- performance-improvements
 entities:
 - Vercel
 - Runway

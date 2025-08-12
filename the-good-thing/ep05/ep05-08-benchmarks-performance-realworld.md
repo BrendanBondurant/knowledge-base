@@ -31,12 +31,8 @@ topics:
 - Developer experience
 - Product marketing
 tags:
-- benchmarks
-- performance
-- real-world-testing
 - graphql
-- technical-validation
-- customer-education
+- startup
 topic_tags:
 - benchmarks
 - performance

@@ -20,17 +20,13 @@ topics:
 - Early stage development issues
 - Investment justification debate
 tags:
-- mlop
-- github-activity
-- open-source-commitment
-- early-stage-concerns
-- investment-debate
+- ai
+- cosmo
+- open-source
 topic_tags:
-- mlop
-- github-activity
-- open-source-commitment
-- early-stage-concerns
-- investment-debate
+- ai
+- cosmo
+- open-source
 entities:
 - Mlop
 - Stefan Avram

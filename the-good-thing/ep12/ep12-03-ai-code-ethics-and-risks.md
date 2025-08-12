@@ -21,11 +21,7 @@ topics:
 - Security implications of AI file access
 - Disruptive technology changing rules
 tags:
-- ai-incentives
-- test-driven-development
-- ai-gaming-tests
-- security-concerns
-- disruptive-technology
+- ai
 topic_tags:
 - ai-incentives
 - test-driven-development

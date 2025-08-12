@@ -24,12 +24,10 @@ topics:
 - Rich metadata from schema comments
 - Instant integration with AI tools
 tags:
-- mcp-benefits
+- mcp
 - graphql-api
-- ai-discovery
-- operation-control
+- ai
 - rich-metadata
-- instant-integration
 - trusted-documents
 topic_tags:
 - mcp-benefits

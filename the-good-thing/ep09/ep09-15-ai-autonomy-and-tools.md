@@ -22,12 +22,7 @@ topics:
 - Internet exploration capabilities
 - Model architecture constraints
 tags:
-- ai-autonomy
-- hypermedia
-- rpc
-- tool-packaging
-- model-limitations
-- internet-navigation
+- ai
 topic_tags:
 - ai-autonomy
 - hypermedia

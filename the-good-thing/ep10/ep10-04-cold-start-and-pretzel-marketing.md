@@ -27,19 +27,13 @@ topics:
 - GraphQL-shaped pretzel innovation
 - Guerrilla marketing tactics
 tags:
-- cold-start
-- conference-marketing
-- guerrilla-marketing
-- apollo-competition
-- brand-creativity
-- pretzel-marketing
+- federation
+- graphql-federation
+- ai
 topic_tags:
-- cold-start
-- conference-marketing
-- guerrilla-marketing
-- apollo-competition
-- brand-creativity
-- pretzel-marketing
+- federation
+- graphql-federation
+- ai
 entities:
 - Cosmo
 - Apollo

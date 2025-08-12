@@ -21,21 +21,13 @@ topics:
 - Network troubleshooting skills
 - Port 22 (SSH) vs port 443 (HTTPS) understanding
 tags:
-- programming-fundamentals
-- ssh-troubleshooting
-- network-ports
-- hospital-security
-- problem-solving
-- technical-knowledge
-- vibe-coding-limitations
+- mcp
+- ai
+- computer-science
 topic_tags:
-- programming-fundamentals
-- ssh-troubleshooting
-- network-ports
-- hospital-security
-- problem-solving
-- technical-knowledge
-- vibe-coding-limitations
+- mcp
+- ai
+- computer-science
 entities:
 - SSH
 - GitHub

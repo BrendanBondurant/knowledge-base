@@ -21,21 +21,13 @@ topics:
 - WebSocket subscription support
 - IDE-integrated documentation workflow
 tags:
-- websockets
-- otel-configuration
-- json-validation
-- datadog-exporter
-- ide-integration
-- documentation-workflow
-- subscription-support
+- mcp
+- ai
+- cosmo-router
 topic_tags:
-- websockets
-- otel-configuration
-- json-validation
-- datadog-exporter
-- ide-integration
-- documentation-workflow
-- subscription-support
+- mcp
+- ai
+- cosmo-router
 entities:
 - OTEL
 - Datadog

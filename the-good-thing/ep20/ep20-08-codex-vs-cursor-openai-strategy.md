@@ -20,12 +20,7 @@ topics:
 - AI development tool competition
 - Developer tool market dynamics
 tags:
-- codex
-- cursor
-- openai
-- platform-strategy
-- ai-development-tools
-- developer-tools
+- ai
 topic_tags:
 - codex
 - cursor

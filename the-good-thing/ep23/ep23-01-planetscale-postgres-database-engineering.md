@@ -20,19 +20,11 @@ topics:
 - YouTube's database scaling challenges
 - PlanetScale business strategy and layoffs
 tags:
-- planetscale
 - postgres
-- database-sharding
 - vitess
-- youtube-scaling
-- business-strategy
 topic_tags:
-- planetscale
 - postgres
-- database-sharding
 - vitess
-- youtube-scaling
-- business-strategy
 entities:
 - PlanetScale
 - Stefan Avram

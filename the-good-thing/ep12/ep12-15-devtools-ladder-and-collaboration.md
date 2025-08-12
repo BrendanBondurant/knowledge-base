@@ -22,12 +22,7 @@ topics:
 - Prisma vs Drizzle competition
 - Open source vs commercial monetization
 tags:
-- devtools-adoption
-- sdk-strategy
-- adoption-ladder
-- cosmo-strategy
-- open-source-monetization
-- prisma-drizzle
+- open-source
 topic_tags:
 - devtools-adoption
 - sdk-strategy

@@ -21,12 +21,7 @@ topics:
 - Deep tech vs business-focused episodes
 - Community feedback request
 tags:
-- episode-wrap
-- collaborative-tooling
-- self-taught-engineer
-- community-feedback
-- deep-tech-content
-- startup-journey
+- startup
 topic_tags:
 - episode-wrap
 - collaborative-tooling

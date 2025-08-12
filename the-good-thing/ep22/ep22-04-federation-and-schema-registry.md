@@ -20,17 +20,11 @@ topics:
 - Principled GraphQL framework
 - Graph composition strategy
 tags:
-- apollo-federation
 - schema-registry
 - principled-graphql
-- graph-composition
-- apollo-principles
 topic_tags:
-- apollo-federation
 - schema-registry
 - principled-graphql
-- graph-composition
-- apollo-principles
 entities:
 - Apollo
 - Stefan Avram

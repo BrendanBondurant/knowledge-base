@@ -41,12 +41,8 @@ topics:
 - Customer collaboration
 - Customer-driven features
 tags:
-- collaboration
-- team-energy
-- feedback-loops
-- cache-warmer
-- customer-development
-- product-iteration
+- cache-warming
+- startup
 topic_tags:
 - collaboration
 - team-energy

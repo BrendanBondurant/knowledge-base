@@ -22,19 +22,13 @@ topics:
 - Microservices and MCP server scaling
 - Authorization and observability concerns
 tags:
-- federation-ai-alignment
-- supergraph-benefits
-- mcp-challenges
-- api-gateway-patterns
-- microservices-scaling
-- authorization-concerns
+- federation
+- mcp
+- ai
 topic_tags:
-- federation-ai-alignment
-- supergraph-benefits
-- mcp-challenges
-- api-gateway-patterns
-- microservices-scaling
-- authorization-concerns
+- federation
+- mcp
+- ai
 entities:
 - Stefan Avram
 - Jens Neuse

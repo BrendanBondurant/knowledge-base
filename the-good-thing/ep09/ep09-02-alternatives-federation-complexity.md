@@ -23,17 +23,13 @@ topics:
 - Matrix configuration complexity
 - Contract testing challenges
 tags:
-- federation-alternatives
 - bff-pattern
 - microservices
 - api-design
-- complexity-management
 topic_tags:
-- federation-alternatives
 - bff-pattern
 - microservices
 - api-design
-- complexity-management
 entities:
 - SoundCloud
 - GraphQL Federation

@@ -22,12 +22,7 @@ topics:
 - Everything feeling "off" without PMF
 - Identifying customer pain points and company problems
 tags:
-- product-market-fit
-- sales-strategy
-- customer-listening
-- market-dynamics
-- startup-strategy
-- pain-points
+- startup
 topic_tags:
 - product-market-fit
 - sales-strategy

@@ -22,11 +22,8 @@ topics:
 - Podcast schedule and community engagement
 - Social media clips and audience feedback
 tags:
-- team-culture
 - graphql
-- api-governance
-- podcast-schedule
-- wundergraph
+- startup
 topic_tags:
 - team-culture
 - graphql

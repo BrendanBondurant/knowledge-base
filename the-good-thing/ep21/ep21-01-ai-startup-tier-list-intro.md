@@ -20,11 +20,8 @@ topics:
 - Startup categorization framework
 - Five-tier ranking system explanation
 tags:
-- ai-startups
-- tier-list
-- venture-capital
-- startup-evaluation
-- game-show-format
+- ai
+- startup
 topic_tags:
 - ai-startups
 - tier-list

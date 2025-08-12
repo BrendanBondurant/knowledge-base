@@ -23,21 +23,13 @@ topics:
 - Leading vs following in the GraphQL space
 - Self-taught engineer opportunities
 tags:
-- hiring
-- team-culture
-- engineering-impact
-- problem-solving
-- diversity
-- career-growth
-- self-taught-engineers
+- federation
+- graphql-federation
+- ai
 topic_tags:
-- hiring
-- team-culture
-- engineering-impact
-- problem-solving
-- diversity
-- career-growth
-- self-taught-engineers
+- federation
+- graphql-federation
+- ai
 entities:
 - WunderGraph
 - Cosmo

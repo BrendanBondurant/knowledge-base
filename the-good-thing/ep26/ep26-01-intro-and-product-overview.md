@@ -24,21 +24,13 @@ topics:
 - Vitess technology explanation
 - Database platform positioning
 tags:
-- planetscale
 - mysql
 - postgres
 - vitess
-- database-hosting
-- sam-lambert
-- introduction
 topic_tags:
-- planetscale
 - mysql
 - postgres
 - vitess
-- database-hosting
-- sam-lambert
-- introduction
 entities:
 - PlanetScale
 - Sam Lambert

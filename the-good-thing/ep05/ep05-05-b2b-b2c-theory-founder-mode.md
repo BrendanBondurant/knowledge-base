@@ -27,12 +27,8 @@ topics:
 - App store success
 - Hypotheses in business
 tags:
-- b2b-theory
-- b2c-evolution
-- founder-mode
-- startup-leadership
-- company-culture
-- scalability
+- founder
+- startup
 topic_tags:
 - b2b-theory
 - b2c-evolution

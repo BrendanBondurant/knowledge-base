@@ -22,19 +22,9 @@ topics:
 - GraphQL Gateway evolution
 - Fundamental architecture piece vision
 tags:
-- supergraph-strategy
-- api-unification
-- mcp-integration
-- sdk-generation
 - connector-approach
-- architecture-evolution
 topic_tags:
-- supergraph-strategy
-- api-unification
-- mcp-integration
-- sdk-generation
 - connector-approach
-- architecture-evolution
 entities:
 - WunderGraph
 - GraphQL Gateway

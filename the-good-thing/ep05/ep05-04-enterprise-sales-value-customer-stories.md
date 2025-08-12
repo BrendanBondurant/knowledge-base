@@ -32,12 +32,7 @@ topics:
 - Sales process
 - Startup advice
 tags:
-- enterprise-sales
-- customer-stories
-- value-demonstration
-- b2b-sales
-- customer-advocacy
-- startup-growth
+- startup
 topic_tags:
 - enterprise-sales
 - customer-stories

@@ -26,18 +26,10 @@ tags:
 - mcp-gateway
 - json-schema
 - trusted-documents
-- type-safety
-- cost-transparency
-- llm-tools
-- protocol-implementation
 topic_tags:
 - mcp-gateway
 - json-schema
 - trusted-documents
-- type-safety
-- cost-transparency
-- llm-tools
-- protocol-implementation
 entities:
 - MCP gateway
 - Trusted documents

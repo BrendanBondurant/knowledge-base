@@ -23,7 +23,6 @@ topics:
 - gRPC consumption challenges
 tags:
 - api-ecosystem
-- sdk-generation
 - graphql-federation
 - microservices
 - openapi
@@ -31,7 +30,6 @@ tags:
 - bff-pattern
 topic_tags:
 - api-ecosystem
-- sdk-generation
 - graphql-federation
 - microservices
 - openapi

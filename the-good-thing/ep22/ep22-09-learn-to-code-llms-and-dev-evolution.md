@@ -20,17 +20,13 @@ topics:
 - Developer role evolution
 - AI-assisted development
 tags:
-- learn-to-code
-- llm-education
-- developer-evolution
-- ai-assisted-development
-- programming-education
+- federation
+- graphql-federation
+- grpc
 topic_tags:
-- learn-to-code
-- llm-education
-- developer-evolution
-- ai-assisted-development
-- programming-education
+- federation
+- graphql-federation
+- grpc
 entities:
 - Stefan Avram
 - Jens Neuse

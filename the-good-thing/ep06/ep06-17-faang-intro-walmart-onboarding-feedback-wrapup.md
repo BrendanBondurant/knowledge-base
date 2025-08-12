@@ -26,13 +26,15 @@ topics:
 summary: |
   Jens and Stefan discuss their introduction to FAANG companies, the Walmart experience, onboarding, customer feedback, and wrap up the episode with reflections on their startup journey and product success.
 tags:
+- federation
+- graphql-federation
+- ai
   - faang-companies
-  - customer-experience
-  - customer-onboarding
-  - customer-feedback
-  - startup-journey
-  - product-success
+  - startup
 topic_tags:
+- federation
+- graphql-federation
+- ai
   - faang-companies
   - customer-experience
   - customer-onboarding

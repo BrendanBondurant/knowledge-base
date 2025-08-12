@@ -20,10 +20,7 @@ topics:
 - Big brother vs little brother dynamics
 - Principled GraphQL framework analysis
 tags:
-- small-startup-strategy
-- apollo-principles
-- competitive-dynamics
-- david-goliath
+- startup
 - principled-graphql
 topic_tags:
 - small-startup-strategy

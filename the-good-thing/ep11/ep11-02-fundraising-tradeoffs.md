@@ -22,12 +22,8 @@ topics:
 - Transparency as founder
 - Power law and investor motivation
 tags:
-- enterprise-customers
-- strategic-investors
-- fundraising-process
-- customer-focus
-- founder-transparency
-- design-partners
+- startup
+- founder
 topic_tags:
 - enterprise-customers
 - strategic-investors

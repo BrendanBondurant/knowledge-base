@@ -25,13 +25,17 @@ topics:
 summary: |
   Jens and Stefan explore the game theory behind open source, the role of FAANG companies, and the importance of community contributions in building successful products and growing startups.
 tags:
-  - open-source-game-theory
+- graphql
+- ai
+- apollo-graphql
+  - open-source
   - faang-companies
   - community-contributions
-  - open-source-strategy
-  - product-adoption
-  - startup-growth
+  - startup
 topic_tags:
+- graphql
+- ai
+- apollo-graphql
   - open-source-game-theory
   - faang-companies
   - community-contributions

@@ -22,12 +22,7 @@ topics:
 - AI context definition and safety
 - API contracts for AI interaction safety
 tags:
-- ai-collaboration
-- organizational-scaling
-- communication-challenges
-- agent-control
-- api-safety
-- context-definition
+- ai
 topic_tags:
 - ai-collaboration
 - organizational-scaling

@@ -21,19 +21,9 @@ topics:
 - Cosmo Router native Relay support plans
 - Normalized cache and refetching patterns
 tags:
-- relay-support
-- node-interface
-- fragment-architecture
 - cosmo-router
-- normalized-cache
-- refetching-patterns
 topic_tags:
-- relay-support
-- node-interface
-- fragment-architecture
 - cosmo-router
-- normalized-cache
-- refetching-patterns
 entities:
 - Relay
 - Isograph

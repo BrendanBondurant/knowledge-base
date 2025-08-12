@@ -27,7 +27,6 @@ tags:
 - schema-first
 - graphql
 - metadata
-- introspection
 - api-consumers
 topic_tags:
 - llm
@@ -35,7 +34,6 @@ topic_tags:
 - schema-first
 - graphql
 - metadata
-- introspection
 - api-consumers
 entities:
 - Robert Farr

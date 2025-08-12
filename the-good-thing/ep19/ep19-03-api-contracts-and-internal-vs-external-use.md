@@ -24,21 +24,13 @@ topics:
 tags:
 - api-design
 - contracts
-- architecture
-- enterprise
 - governance
 - internal-apis
-- external-apis
-- procore
 topic_tags:
 - api-design
 - contracts
-- architecture
-- enterprise
 - governance
 - internal-apis
-- external-apis
-- procore
 entities:
 - Procore
 - Robert Farr

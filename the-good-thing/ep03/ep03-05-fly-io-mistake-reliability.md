@@ -21,12 +21,7 @@ topics:
 - Startup Lessons
 - AWS
 tags:
-- fly-io
-- cloud-infrastructure
-- reliability
-- startup-lessons
-- aws
-- mistakes
+- startup
 topic_tags:
 - fly-io
 - cloud-infrastructure

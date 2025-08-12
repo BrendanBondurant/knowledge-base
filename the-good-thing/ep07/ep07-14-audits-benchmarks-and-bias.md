@@ -23,12 +23,7 @@ topics:
 - Customer-driven importance vs vendor priorities
 - Infinite directive combinations and testing challenges
 tags:
-- audits
-- benchmarks
-- vendor-bias
-- federation-complexity
-- customer-experience
-- third-party-evaluation
+- startup
 topic_tags:
 - audits
 - benchmarks

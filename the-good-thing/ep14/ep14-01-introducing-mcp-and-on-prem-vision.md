@@ -25,11 +25,8 @@ topics:
 - Episode format
 tags:
 - mcp
-- on-premise
-- ai-integration
+- ai
 - cosmo
-- episode-intro
-- product-demo
 topic_tags:
 - mcp
 - on-premise

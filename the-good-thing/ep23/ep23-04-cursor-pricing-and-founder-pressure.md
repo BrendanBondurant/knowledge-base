@@ -20,17 +20,13 @@ topics:
 - AI tool monetization challenges
 - Developer tool pricing strategies
 tags:
-- cursor-pricing
-- founder-pressure
-- ai-tool-monetization
-- developer-tools
-- pricing-strategy
+- ai
+- github-copilot
+- websocket
 topic_tags:
-- cursor-pricing
-- founder-pressure
-- ai-tool-monetization
-- developer-tools
-- pricing-strategy
+- ai
+- github-copilot
+- websocket
 entities:
 - Cursor
 - Stefan Avram

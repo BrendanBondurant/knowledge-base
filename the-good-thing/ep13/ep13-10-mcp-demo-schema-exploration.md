@@ -21,21 +21,9 @@ topics:
 - Prompt-driven API exploration
 - Super graph architecture analysis
 tags:
-- mcp-demo
 - schema-exploration
-- cosmo-integration
-- super-graph
-- workflow-enhancement
-- prompt-driven-development
-- api-exploration
 topic_tags:
-- mcp-demo
 - schema-exploration
-- cosmo-integration
-- super-graph
-- workflow-enhancement
-- prompt-driven-development
-- api-exploration
 entities:
 - Cosmo
 - MCP

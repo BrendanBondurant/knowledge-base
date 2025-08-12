@@ -23,21 +23,13 @@ topics:
 - Vibe coding risks for schema generation
 - Deterministic vs creative LLM tasks
 tags:
-- json-schema-limitations
-- recursive-types
-- llm-constraints
-- vibe-coding-risks
-- deterministic-tasks
-- schema-generation
-- graphql-mapping
+- graphql
+- mcp
+- ai
 topic_tags:
-- json-schema-limitations
-- recursive-types
-- llm-constraints
-- vibe-coding-risks
-- deterministic-tasks
-- schema-generation
-- graphql-mapping
+- graphql
+- mcp
+- ai
 entities:
 - JSON schema
 - LLM

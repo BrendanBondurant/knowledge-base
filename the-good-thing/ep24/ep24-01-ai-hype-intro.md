@@ -23,12 +23,10 @@ topics:
 - Lovable's rapid growth and funding
 - Meta's potential shift from open source AI
 tags:
-- podcast-intro
-- AI-development
-- developer-productivity
-- gRPC
-- GraphQL-federation
-- startup-funding
+- ai
+- grpc
+- graphql-federation
+- startup
 - open-source
 topic_tags:
 - podcast-intro

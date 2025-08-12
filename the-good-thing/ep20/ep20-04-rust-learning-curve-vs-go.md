@@ -22,17 +22,9 @@ topics:
 tags:
 - rust
 - go
-- learning-curve
-- borrow-checker
-- developer-experience
-- language-complexity
 topic_tags:
 - rust
 - go
-- learning-curve
-- borrow-checker
-- developer-experience
-- language-complexity
 entities:
 - Stefan Avram
 - Jens Neuse

@@ -20,17 +20,9 @@ topics:
 - Interview Process
 - Technical Skills
 tags:
-- hiring
 - ai-generated-code
-- interviews
-- technical-skills
-- recruitment
 topic_tags:
-- hiring
 - ai-generated-code
-- interviews
-- technical-skills
-- recruitment
 entities:
 - Stefan
 - Dustin

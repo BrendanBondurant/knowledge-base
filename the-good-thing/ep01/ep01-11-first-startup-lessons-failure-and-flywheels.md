@@ -20,11 +20,8 @@ topics:
 - Failed assumption about user generated content
 - Difficulty of local merchant sales and scaling
 tags:
-- startup-lessons
-- team-culture
-- founder-mindset
-- lessons-learned
-- career-growth
+- startup
+- founder
 topic_tags:
 - startup-lessons
 - team-culture

@@ -20,14 +20,8 @@ topics:
 - Lessons in persistence and resilience
 tags:
 - resilience
-- adaptive-sports
-- career-growth
-- disability
 topic_tags:
 - resilience
-- adaptive-sports
-- career-growth
-- disability
 entities:
 - Jens Neuse
 - WunderGraph

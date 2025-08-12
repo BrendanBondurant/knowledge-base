@@ -20,15 +20,13 @@ topics:
 - Product evolution decisions
 - Strategic positioning changes
 tags:
-- wundergraph-reinvention
-- product-direction
-- company-strategy
-- strategic-positioning
+- federation
+- ai
+- cosmo
 topic_tags:
-- wundergraph-reinvention
-- product-direction
-- company-strategy
-- strategic-positioning
+- federation
+- ai
+- cosmo
 entities:
 - WunderGraph
 - Stefan Avram

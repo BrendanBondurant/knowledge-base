@@ -23,18 +23,12 @@ topics:
 - Federation implementation insights
 tags:
 - query-planning
-- complexity-scoring
 - supergraph
-- database-analogy
 - federation
-- optimization
 topic_tags:
 - query-planning
-- complexity-scoring
 - supergraph
-- database-analogy
 - federation
-- optimization
 entities:
 - Robert Farr
 - Stefan Avram

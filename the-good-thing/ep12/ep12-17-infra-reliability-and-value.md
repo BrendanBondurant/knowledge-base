@@ -22,19 +22,9 @@ topics:
 - Linear team growth example
 - Federation as collaborative tool
 tags:
-- gcp-reliability
-- kubernetes-stability
 - zero-incidents
-- collaboration-value
-- linear-example
-- federation-collaboration
 topic_tags:
-- gcp-reliability
-- kubernetes-stability
 - zero-incidents
-- collaboration-value
-- linear-example
-- federation-collaboration
 entities:
 - GCP
 - Kubernetes

@@ -23,18 +23,8 @@ topics:
 - Query planning optimization
 tags:
 - query-planning
-- static-analysis
-- federation-analysis
-- ast-statistics
-- ci-testing
-- schema-optimization
 topic_tags:
 - query-planning
-- static-analysis
-- federation-analysis
-- ast-statistics
-- ci-testing
-- schema-optimization
 entities:
 - Stefan Avram
 - Jens Neuse

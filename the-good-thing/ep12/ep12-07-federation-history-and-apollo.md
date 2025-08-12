@@ -22,12 +22,8 @@ topics:
 - Federation adoption challenges
 - Apollo's mistakes and success
 tags:
-- federation-history
-- apollo-innovations
-- entity-concept
-- startup-waves
+- startup
 - universal-data-graph
-- graphql-adoption
 topic_tags:
 - federation-history
 - apollo-innovations

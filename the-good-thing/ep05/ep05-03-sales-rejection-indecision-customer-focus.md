@@ -27,10 +27,7 @@ topics:
 - Startup lessons
 - Customer relationships
 tags:
-- sales
-- rejection
 - indecision
-- customer-focus
 - startup
 topic_tags:
 - sales

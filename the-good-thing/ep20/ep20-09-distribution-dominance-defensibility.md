@@ -20,12 +20,7 @@ topics:
 - Competitive moats and market position
 - Platform advantages and network effects
 tags:
-- distribution
-- market-dominance
-- startup-defensibility
-- competitive-moats
-- platform-advantages
-- network-effects
+- startup
 topic_tags:
 - distribution
 - market-dominance

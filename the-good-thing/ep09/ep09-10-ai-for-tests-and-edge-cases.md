@@ -22,12 +22,7 @@ topics:
 - Context management in test writing
 - Human vs AI testing perspectives
 tags:
-- test-generation
-- edge-cases
-- validation
-- ai-testing
-- implementation-bias
-- context-management
+- ai
 topic_tags:
 - test-generation
 - edge-cases

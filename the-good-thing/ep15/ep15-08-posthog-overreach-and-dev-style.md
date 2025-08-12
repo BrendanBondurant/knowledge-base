@@ -21,17 +21,13 @@ topics:
 - Product comprehension challenges
 - Modern developer tooling appeal
 tags:
-- posthog
-- feature-flags
-- analytics
-- developer-tools
-- product-complexity
+- ai
+- observability
+- apollo-graphql
 topic_tags:
-- posthog
-- feature-flags
-- analytics
-- developer-tools
-- product-complexity
+- ai
+- observability
+- apollo-graphql
 entities:
 - PostHog
 - Apollo

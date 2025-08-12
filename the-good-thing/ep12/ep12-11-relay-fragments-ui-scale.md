@@ -22,19 +22,13 @@ topics:
 - UI component data requirements
 - Feed overview vs detail patterns
 tags:
-- relay-fragments
-- ui-architecture
-- jwt-validation
-- component-design
-- graphql-dependency
-- frontend-scaling
+- federation
+- graphql-federation
+- ai
 topic_tags:
-- relay-fragments
-- ui-architecture
-- jwt-validation
-- component-design
-- graphql-dependency
-- frontend-scaling
+- federation
+- graphql-federation
+- ai
 entities:
 - Relay
 - Facebook

@@ -20,17 +20,11 @@ topics:
 - GraphQL
 - Open Source
 tags:
-- introduction
-- career
 - graphql
 - open-source
-- wundergraph
 topic_tags:
-- introduction
-- career
 - graphql
 - open-source
-- wundergraph
 entities:
 - Dustin
 - Stefan

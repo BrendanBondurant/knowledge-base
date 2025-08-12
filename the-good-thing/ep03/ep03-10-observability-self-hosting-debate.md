@@ -22,16 +22,10 @@ topics:
 - Business vs Technical
 tags:
 - observability
-- self-hosting
-- managed-services
 - datadog
-- business-vs-technical
 topic_tags:
 - observability
-- self-hosting
-- managed-services
 - datadog
-- business-vs-technical
 entities:
 - Stefan
 - Dustin

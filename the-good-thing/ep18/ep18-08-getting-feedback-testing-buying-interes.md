@@ -24,12 +24,7 @@ topics:
 - Manager introduction as commitment test
 - Beta participation and payment willingness
 tags:
-- customer-feedback
-- relationship-bias
-- honest-feedback
-- buying-interest
-- commitment-testing
-- beta-participation
+- startup
 topic_tags:
 - customer-feedback
 - relationship-bias

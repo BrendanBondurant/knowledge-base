@@ -23,10 +23,8 @@ topics:
 - Building custom backend federation before GraphQL
 tags:
 - graphql
-- career-growth
 - api-design
-- backend-for-frontend
-- imposter-syndrome
+- bff-pattern
 topic_tags:
 - graphql
 - career-growth

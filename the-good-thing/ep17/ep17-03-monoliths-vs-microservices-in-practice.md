@@ -23,17 +23,9 @@ topics:
 tags:
 - microservices
 - monolith
-- architecture-patterns
-- team-size
-- complexity-management
-- boring-tech
 topic_tags:
 - microservices
 - monolith
-- architecture-patterns
-- team-size
-- complexity-management
-- boring-tech
 entities:
 - Ruby on Rails
 - GitHub

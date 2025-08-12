@@ -20,17 +20,11 @@ topics:
 - Dog sledding and snowmobiling activities
 - Remote company culture
 tags:
-- episode-intro
-- retreat
-- norway
-- team-building
-- remote-work
+- startup
+- founder
 topic_tags:
-- episode-intro
-- retreat
-- norway
-- team-building
-- remote-work
+- startup
+- founder
 entities:
 - The Good Thing
 - Alta, Norway

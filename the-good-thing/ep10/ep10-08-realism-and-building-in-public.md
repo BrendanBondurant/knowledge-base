@@ -27,12 +27,7 @@ topics:
 - Founder stress and personal growth
 - Family support importance
 tags:
-- work-life-balance
-- results-focus
-- elite-sports-team
-- funding-efficiency
-- founder-stress
-- family-support
+- founder
 topic_tags:
 - work-life-balance
 - results-focus

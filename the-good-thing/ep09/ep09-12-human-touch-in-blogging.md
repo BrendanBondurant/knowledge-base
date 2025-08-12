@@ -22,19 +22,9 @@ topics:
 - Agent mode vs autocompletion for writing
 - Human touch in content creation
 tags:
-- content-creation
 - authenticity
-- blogging
-- research-tools
-- documentation
-- human-touch
 topic_tags:
-- content-creation
 - authenticity
-- blogging
-- research-tools
-- documentation
-- human-touch
 entities:
 - Cursor
 - Wikipedia

@@ -22,17 +22,9 @@ topics:
 - Dual licensing problems for adoption
 tags:
 - federation
-- licensing
-- enterprise-adoption
-- faang
-- netflix
 - cosmo
 topic_tags:
 - federation
-- licensing
-- enterprise-adoption
-- faang
-- netflix
 - cosmo
 entities:
 - Cosmo

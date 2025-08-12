@@ -21,16 +21,8 @@ topics:
 - Technical architecture critique
 tags:
 - apollo-connectors
-- broken-abstraction
-- graphql-complexity
-- federation-challenges
-- technical-critique
 topic_tags:
 - apollo-connectors
-- broken-abstraction
-- graphql-complexity
-- federation-challenges
-- technical-critique
 entities:
 - Apollo
 - Stefan Avram

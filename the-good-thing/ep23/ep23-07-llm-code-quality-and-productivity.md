@@ -20,16 +20,8 @@ topics:
 - AI-generated code quality
 - Development productivity metrics
 tags:
-- ai-code-percentage
-- software-liability
-- code-quality
-- productivity-metrics
 - ai-generated-code
 topic_tags:
-- ai-code-percentage
-- software-liability
-- code-quality
-- productivity-metrics
 - ai-generated-code
 entities:
 - Stefan Avram

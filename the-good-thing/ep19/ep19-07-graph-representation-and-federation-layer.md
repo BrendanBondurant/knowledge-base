@@ -22,19 +22,11 @@ topics:
 - Procore's internal federation implementation journey
 - Graph representation strategies
 tags:
-- graphs
 - graphql
-- hypermedia
 - federation
-- architecture
-- procore
 topic_tags:
-- graphs
 - graphql
-- hypermedia
 - federation
-- architecture
-- procore
 entities:
 - Robert Farr
 - Stefan Avram

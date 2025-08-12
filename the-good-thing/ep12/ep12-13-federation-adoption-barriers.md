@@ -22,19 +22,13 @@ topics:
 - RPC vs GraphQL complexity
 - Uniform API interface value
 tags:
-- adoption-barriers
-- scale-requirements
-- small-team-challenges
-- federation-without-graphql
-- rpc-simplicity
-- uniform-api-interfaces
+- federation
+- graphql-federation
+- mcp
 topic_tags:
-- adoption-barriers
-- scale-requirements
-- small-team-challenges
-- federation-without-graphql
-- rpc-simplicity
-- uniform-api-interfaces
+- federation
+- graphql-federation
+- mcp
 entities:
 - Meta
 - Coinbase

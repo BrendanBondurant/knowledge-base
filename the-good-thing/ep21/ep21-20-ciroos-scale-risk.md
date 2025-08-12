@@ -21,18 +21,8 @@ topics:
 - Competitive landscape assessment
 tags:
 - ciroos
-- value-proposition
-- sre-incident-management
-- resume-funding
-- competitive-landscape
-- datadog-grafana
 topic_tags:
 - ciroos
-- value-proposition
-- sre-incident-management
-- resume-funding
-- competitive-landscape
-- datadog-grafana
 entities:
 - Ciroos
 - Stefan Avram

@@ -20,16 +20,8 @@ topics:
 - Managed Services
 - Infrastructure
 tags:
-- clickhouse
-- self-hosting
-- managed-services
-- infrastructure
 - cosmo
 topic_tags:
-- clickhouse
-- self-hosting
-- managed-services
-- infrastructure
 - cosmo
 entities:
 - Stefan

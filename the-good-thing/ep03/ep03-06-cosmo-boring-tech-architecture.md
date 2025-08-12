@@ -22,18 +22,10 @@ topics:
 - Boring Tech
 tags:
 - cosmo
-- architecture
-- gcp
 - kubernetes
-- boring-tech
-- infrastructure
 topic_tags:
 - cosmo
-- architecture
-- gcp
 - kubernetes
-- boring-tech
-- infrastructure
 entities:
 - Stefan
 - Dustin

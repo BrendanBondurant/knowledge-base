@@ -22,12 +22,8 @@ topics:
 - Non-native speaker identity
 - AI limitations in creativity
 tags:
-- personal-style
 - authenticity
-- ai-detection
-- brand-identity
-- content-quality
-- human-validation
+- ai
 topic_tags:
 - personal-style
 - authenticity

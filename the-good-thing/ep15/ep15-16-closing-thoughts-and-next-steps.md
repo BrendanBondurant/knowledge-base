@@ -21,17 +21,9 @@ topics:
 - Future episode plans and improvements
 - Invitation for audience submissions
 tags:
-- episode-conclusion
-- audience-engagement
-- landing-page-reviews
-- future-episodes
-- self-critique
+- ai
 topic_tags:
-- episode-conclusion
-- audience-engagement
-- landing-page-reviews
-- future-episodes
-- self-critique
+- ai
 entities:
 - WunderGraph
 mentions:

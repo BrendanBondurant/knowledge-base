@@ -25,6 +25,9 @@ topics:
   - Sam's path into databases
   - GitHub and Meta background
 tags:
+- postgres
+- database
+- open-source
   - postgres
   - sharding
   - market-timing

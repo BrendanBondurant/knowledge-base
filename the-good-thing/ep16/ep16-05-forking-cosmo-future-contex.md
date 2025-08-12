@@ -21,11 +21,7 @@ topics:
 - Competitive differentiation through context
 - Complete business category requirements
 tags:
-- code-forking
-- business-strategy
-- competitive-analysis
-- open-source-maintenance
-- business-categories
+- open-source
 topic_tags:
 - code-forking
 - business-strategy

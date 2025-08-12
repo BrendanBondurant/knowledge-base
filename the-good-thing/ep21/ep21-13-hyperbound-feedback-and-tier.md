@@ -20,6 +20,9 @@ topics:
   - Market competition analysis
   - Tier placement decision
 tags:
+- ai
+- websocket
+- startup
   - hyperbound
   - enterprise-features
   - differentiation

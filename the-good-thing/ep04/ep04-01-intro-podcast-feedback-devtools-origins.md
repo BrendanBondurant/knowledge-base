@@ -21,14 +21,8 @@ topics:
 - Early team
 - Company beginnings
 tags:
-- introduction
-- feedback
-- devtools
 - startup
 topic_tags:
-- introduction
-- feedback
-- devtools
 - startup
 entities:
 - Stefan

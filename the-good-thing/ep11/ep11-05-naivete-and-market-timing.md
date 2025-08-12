@@ -23,12 +23,8 @@ topics:
 - Market timing challenges
 - MCP explanation
 tags:
-- market-timing
-- product-development
-- graphql-history
-- first-time-founders
+- startup
 - mcp
-- apollo-summit
 topic_tags:
 - market-timing
 - product-development

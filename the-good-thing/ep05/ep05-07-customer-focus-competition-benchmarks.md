@@ -30,12 +30,7 @@ topics:
 - Performance
 - Product improvement
 tags:
-- customer-focus
-- competition
-- benchmarks
-- technical-validation
-- startup-strategy
-- market-positioning
+- startup
 topic_tags:
 - customer-focus
 - competition

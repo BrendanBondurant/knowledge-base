@@ -21,11 +21,7 @@ topics:
 - Evolution from code writing to prompt engineering
 - Internet adoption parallels with AI adoption
 tags:
-- ai-research
-- prompt-engineering
-- problem-solving
-- rfc-development
-- developer-evolution
+- ai
 topic_tags:
 - ai-research
 - prompt-engineering

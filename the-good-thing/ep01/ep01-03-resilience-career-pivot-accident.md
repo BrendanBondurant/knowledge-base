@@ -22,9 +22,7 @@ topics:
 - Early career as a systems administrator
 tags:
 - resilience
-- startup-lessons
-- injury-recovery
-- career-growth
+- startup
 topic_tags:
 - resilience
 - startup-lessons

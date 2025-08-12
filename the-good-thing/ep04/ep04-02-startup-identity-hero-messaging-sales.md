@@ -23,14 +23,8 @@ topics:
 - Company evolution
 tags:
 - startup
-- messaging
-- sales
-- devtools
 topic_tags:
 - startup
-- messaging
-- sales
-- devtools
 entities:
 - Jens
 - Stefan

@@ -21,18 +21,8 @@ topics:
 - Database ORM positioning issues
 - Technical vs business buyer disconnect
 tags:
-- prisma
-- landing-pages
-- messaging
-- business-value
-- orm
 - database
 topic_tags:
-- prisma
-- landing-pages
-- messaging
-- business-value
-- orm
 - database
 entities:
 - Prisma

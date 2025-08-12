@@ -25,11 +25,14 @@ topics:
   - Young founders and capital efficiency
   - Venture math and dilution risks
 tags:
-  - venture-capital
+- ai
+- postgres
+- rust
+  - startup
   - database-companies
   - exit-timelines
   - funding-rounds
-  - founder-experience
+  - founder
   - capital-efficiency
 entities:
   - PlanetScale

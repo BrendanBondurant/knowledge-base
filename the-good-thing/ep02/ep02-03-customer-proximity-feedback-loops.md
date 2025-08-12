@@ -20,17 +20,11 @@ topics:
 - Short feedback loops in development
 - On-call engineering rotation
 tags:
-- customer-proximity
-- feedback-loops
-- engineering-culture
-- on-call-rotation
-- direct-customer-access
+- startup
+- founder
 topic_tags:
-- customer-proximity
-- feedback-loops
-- engineering-culture
-- on-call-rotation
-- direct-customer-access
+- startup
+- founder
 entities:
 - WunderGraph
 - Stefan Avram

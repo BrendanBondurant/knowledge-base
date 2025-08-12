@@ -24,6 +24,9 @@ topics:
   - MCP and API relationship misconceptions
   - Distributed systems and API inevitability
 tags:
+- graphql
+- mcp
+- ai
   - api-plumbing-analogy
   - digital-infrastructure
   - mcp-apis

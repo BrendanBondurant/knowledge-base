@@ -21,11 +21,7 @@ topics:
 - Customer feedback integration into product
 - Go-to-market experience accumulation
 tags:
-- pricing-strategy
-- sales-experience
-- market-knowledge
-- competitive-intelligence
-- go-to-market
+- startup
 topic_tags:
 - pricing-strategy
 - sales-experience

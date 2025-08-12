@@ -22,12 +22,7 @@ topics:
 - Developer productivity improvements
 - Large schema complexity (GitHub example)
 tags:
-- ai-tools
-- query-generation
-- developer-experience
-- schema-complexity
-- business-users
-- accessibility
+- ai
 topic_tags:
 - ai-tools
 - query-generation

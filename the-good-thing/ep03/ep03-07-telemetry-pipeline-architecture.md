@@ -22,18 +22,10 @@ topics:
 - Scalability
 tags:
 - telemetry
-- data-pipeline
-- clickhouse
 - kafka
-- scalability
-- architecture
 topic_tags:
 - telemetry
-- data-pipeline
-- clickhouse
 - kafka
-- scalability
-- architecture
 entities:
 - Stefan
 - Dustin

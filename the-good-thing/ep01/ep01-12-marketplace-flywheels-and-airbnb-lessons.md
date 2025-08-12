@@ -22,11 +22,7 @@ topics:
 - Doing things that dont scale
 - Learning programming through failure
 tags:
-- airbnb
-- marketplace-design
-- flywheels
-- economic-incentives
-- startup-lessons
+- startup
 topic_tags:
 - airbnb
 - marketplace-design

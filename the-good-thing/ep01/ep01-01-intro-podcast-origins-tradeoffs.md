@@ -20,10 +20,7 @@ topics:
 - Co-host dynamic and format
 - First intro to Jens
 tags:
-- podcast-intro
-- engineering-philosophy
-- tradeoffs
-- GraphQL
+- graphql
 topic_tags:
 - podcast-intro
 - engineering-philosophy

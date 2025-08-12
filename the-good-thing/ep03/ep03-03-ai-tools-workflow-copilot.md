@@ -21,12 +21,7 @@ topics:
 - Cursor
 - Learning
 tags:
-- ai-tools
-- workflow
-- copilot
-- cursor
-- learning
-- development
+- ai
 topic_tags:
 - ai-tools
 - workflow

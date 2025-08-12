@@ -20,17 +20,11 @@ topics:
 - Startup accelerator insights
 - Investment pattern analysis
 tags:
-- y-combinator
-- wundergraph-investors
-- selection-criteria
-- accelerator-insights
-- investment-patterns
+- ai
+- startup
 topic_tags:
-- y-combinator
-- wundergraph-investors
-- selection-criteria
-- accelerator-insights
-- investment-patterns
+- ai
+- startup
 entities:
 - Y Combinator
 - WunderGraph

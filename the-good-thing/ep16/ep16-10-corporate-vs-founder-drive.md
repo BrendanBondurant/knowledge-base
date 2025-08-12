@@ -21,10 +21,13 @@ topics:
   - Politics and bureaucracy in large companies
   - Individual contributor versus founder dedication
 tags:
+- ai
+- cosmo
+- apollo-graphql
   - corporate-culture
-  - founder-drive
+  - founder
   - faang-companies
-  - startup-culture
+  - startup
   - work-tradeoffs
 entities:
   - Google

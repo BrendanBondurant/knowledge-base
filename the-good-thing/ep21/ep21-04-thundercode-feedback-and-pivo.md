@@ -20,12 +20,7 @@ topics:
 - Early-stage startup assessment
 - Pivot potential evaluation
 tags:
-- thundercode
-- product-criticism
-- early-stage
-- pivot-potential
-- target-customer
-- ui-ux
+- startup
 topic_tags:
 - thundercode
 - product-criticism

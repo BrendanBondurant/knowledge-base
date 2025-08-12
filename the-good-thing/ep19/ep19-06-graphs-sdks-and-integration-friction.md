@@ -22,19 +22,13 @@ topics:
 - Graph representations and service architecture
 - External integration challenges and friction
 tags:
-- sdks
-- webhooks
-- graphs
-- integration
-- service-architecture
-- external-apis
+- federation
+- grpc
+- mcp
 topic_tags:
-- sdks
-- webhooks
-- graphs
-- integration
-- service-architecture
-- external-apis
+- federation
+- grpc
+- mcp
 entities:
 - Robert Farr
 - Stefan Avram

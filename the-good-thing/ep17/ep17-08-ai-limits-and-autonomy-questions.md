@@ -22,11 +22,7 @@ topics:
 - AI task execution without human motivation
 - Sustainability of autonomous AI systems
 tags:
-- ai-autonomy
-- future-predictions
-- ai-limitations
-- developer-replacement
-- autonomous-systems
+- ai
 topic_tags:
 - ai-autonomy
 - future-predictions

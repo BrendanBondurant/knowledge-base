@@ -24,10 +24,7 @@ topics:
 - Startup moats and velocity advantages
 tags:
 - query-planning
-- reliability
-- testing
-- router-architecture
-- startup-moats
+- startup
 topic_tags:
 - query-planning
 - reliability

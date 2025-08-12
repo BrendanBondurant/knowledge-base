@@ -22,19 +22,13 @@ topics:
 - Type name and key combinations
 - Attack prevention through signing
 tags:
-- entity-resolution
-- jwt-security
-- node-id-routing
-- subgraph-federation
-- attack-prevention
-- router-implementation
+- federation
+- graphql-federation
+- ai
 topic_tags:
-- entity-resolution
-- jwt-security
-- node-id-routing
-- subgraph-federation
-- attack-prevention
-- router-implementation
+- federation
+- graphql-federation
+- ai
 entities:
 - JWT
 - GraphQL Federation

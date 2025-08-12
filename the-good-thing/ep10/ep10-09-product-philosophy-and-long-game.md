@@ -28,12 +28,8 @@ topics:
 - Customer-driven product development
 - Vision validation through enterprise feedback
 tags:
-- federation-evolution
-- ai-integration
-- multi-protocol
-- open-source-commitment
-- github-for-apis
-- customer-validation
+- ai
+- startup
 topic_tags:
 - federation-evolution
 - ai-integration

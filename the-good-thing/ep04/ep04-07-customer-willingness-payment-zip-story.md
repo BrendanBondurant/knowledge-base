@@ -25,15 +25,9 @@ topics:
 - Customer feedback
 - Building with customers
 tags:
-- payment
-- procurement
 - startup
-- validation
 topic_tags:
-- payment
-- procurement
 - startup
-- validation
 entities:
 - Stefan
 - Jens

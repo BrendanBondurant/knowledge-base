@@ -20,12 +20,8 @@ topics:
 - Market concentration and competition issues
 - Large-scale AI infrastructure development
 tags:
-- stargate-project
-- ai-infrastructure
-- hardware-monopoly
-- market-concentration
-- competition
-- ai-investment
+- ai
+- startup
 topic_tags:
 - stargate-project
 - ai-infrastructure

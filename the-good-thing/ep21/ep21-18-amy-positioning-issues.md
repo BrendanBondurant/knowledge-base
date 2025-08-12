@@ -20,19 +20,13 @@ topics:
 - Amy's problem-solution fit assessment
 - Tier placement discussion
 tags:
-- amy
-- vc-industry
-- ai-adoption
-- personal-relationships
-- problem-solution-fit
-- tier-placement
+- ai
+- websocket
+- founder
 topic_tags:
-- amy
-- vc-industry
-- ai-adoption
-- personal-relationships
-- problem-solution-fit
-- tier-placement
+- ai
+- websocket
+- founder
 entities:
 - Amy
 - Stefan Avram

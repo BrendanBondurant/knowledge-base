@@ -21,17 +21,9 @@ topics:
 - QA time reduction benefits
 - Contract testing replacement value
 tags:
-- wundergraph
 - schema-checks
-- feature-flags
-- customer-success
-- qa-efficiency
 topic_tags:
-- wundergraph
 - schema-checks
-- feature-flags
-- customer-success
-- qa-efficiency
 entities:
 - WunderGraph
 mentions:

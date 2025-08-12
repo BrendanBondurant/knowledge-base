@@ -20,17 +20,13 @@ topics:
 - Next.js community impact
 - Developer relations careers
 tags:
-- lee-robinson
-- vercel
-- developer-advocacy
-- nextjs
-- career-transitions
+- ai
+- postgres
+- websocket
 topic_tags:
-- lee-robinson
-- vercel
-- developer-advocacy
-- nextjs
-- career-transitions
+- ai
+- postgres
+- websocket
 entities:
 - Lee Robinson
 - Vercel

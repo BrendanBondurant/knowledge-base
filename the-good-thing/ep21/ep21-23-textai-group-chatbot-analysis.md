@@ -20,17 +20,13 @@ topics:
 - Platform oversaturation concerns
 - Immediate dismissal reasoning
 tags:
-- textai
-- group-chatbot
-- ai-agent-competition
-- market-oversaturation
-- instant-dismissal
+- ai
+- open-source
+- startup
 topic_tags:
-- textai
-- group-chatbot
-- ai-agent-competition
-- market-oversaturation
-- instant-dismissal
+- ai
+- open-source
+- startup
 entities:
 - text.ai
 - Stefan Avram

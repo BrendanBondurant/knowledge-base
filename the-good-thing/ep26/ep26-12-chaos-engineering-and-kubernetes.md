@@ -25,6 +25,9 @@ topics:
   - Kubernetes for stateful workloads
   - Virtualization layer choices
 tags:
+- ai
+- database
+- kubernetes
   - chaos-engineering
   - kubernetes
   - reliability-engineering

@@ -22,7 +22,7 @@ topics:
 - Future of API design
 tags:
 - hypermedia-apis
-- llm-agents
+- ai-agents
 - rest-apis
 - openapi
 - api-design

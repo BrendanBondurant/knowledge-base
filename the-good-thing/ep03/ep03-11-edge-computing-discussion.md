@@ -21,19 +21,11 @@ topics:
 - Use Cases
 - E-commerce
 tags:
-- edge-computing
-- latency
-- performance
-- use-cases
-- e-commerce
-- streaming
+- cdn
+- rust
 topic_tags:
-- edge-computing
-- latency
-- performance
-- use-cases
-- e-commerce
-- streaming
+- cdn
+- rust
 entities:
 - Stefan
 - Dustin

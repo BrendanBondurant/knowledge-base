@@ -21,11 +21,9 @@ topics:
 - CDN integration
 - Federation complexity limitations
 tags:
-- cache-warmer
-- analytics
+- cache-warming
 - query-planning
 - cdn
-- federation-complexity
 topic_tags:
 - cache-warmer
 - analytics

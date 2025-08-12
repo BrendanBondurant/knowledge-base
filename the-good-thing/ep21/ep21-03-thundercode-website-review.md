@@ -20,9 +20,11 @@ topics:
   - European startup location disadvantage
   - Generic AI marketing language criticism
 tags:
+- ai
+- startup
   - thundercode
   - website-review
-  - ai-testing
+  - ai
   - marketing-critique
   - location-bias
   - generic-messaging

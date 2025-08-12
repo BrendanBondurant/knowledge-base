@@ -20,17 +20,11 @@ topics:
 - Neglecting business priorities in corporate engineering
 - Choosing to build a custom CMS instead of buying one
 tags:
-- self-hosting
-- overengineering
-- custom-cms
-- business-priorities
-- build-vs-buy
+- kubernetes
+- startup
 topic_tags:
-- self-hosting
-- overengineering
-- custom-cms
-- business-priorities
-- build-vs-buy
+- kubernetes
+- startup
 entities:
 - Jens Neuse
 - Kubernetes

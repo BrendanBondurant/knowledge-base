@@ -21,17 +21,9 @@ topics:
 - REST API fragmentation
 - Federation organizational advantages
 tags:
-- schema-transparency
 - conways-law
-- team-discovery
-- rest-fragmentation
-- federation-advantages
 topic_tags:
-- schema-transparency
 - conways-law
-- team-discovery
-- rest-fragmentation
-- federation-advantages
 entities:
 - WunderGraph
 - Conway's Law

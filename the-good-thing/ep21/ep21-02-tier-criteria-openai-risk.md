@@ -20,19 +20,13 @@ topics:
 - OpenAI competitive threat assessment
 - Y Combinator company identification
 tags:
-- tier-list
-- startup-evaluation
-- openai-risk
-- y-combinator
-- generation-gap
-- evaluation-criteria
+- ai
+- websocket
+- founder
 topic_tags:
-- tier-list
-- startup-evaluation
-- openai-risk
-- y-combinator
-- generation-gap
-- evaluation-criteria
+- ai
+- websocket
+- founder
 entities:
 - Stefan Avram
 - Jens Neuse

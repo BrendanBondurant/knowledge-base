@@ -23,6 +23,9 @@ topics:
   - Meta's business model evolution
   - User behavior changes affecting advertising
 tags:
+- ai
+- cosmo-router
+- rest
   - meta
   - open-source-AI
   - government-pressure

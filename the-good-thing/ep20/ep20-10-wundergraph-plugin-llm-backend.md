@@ -20,10 +20,8 @@ topics:
 - GraphQL vs REST API integration strategies
 - Product development and federation evolution
 tags:
-- wundergraph
 - plugin-system
-- llm-optimization
-- backend-development
+- llm
 - graphql
 - rest
 - federation

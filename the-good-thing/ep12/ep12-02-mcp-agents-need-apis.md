@@ -22,10 +22,7 @@ topics:
 - Trust issues with AI systems
 tags:
 - mcp
-- ai-limitations
-- technology-cycles
-- api-dependency
-- ai-trust-issues
+- ai
 topic_tags:
 - mcp
 - ai-limitations

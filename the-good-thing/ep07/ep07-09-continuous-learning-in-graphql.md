@@ -23,11 +23,8 @@ topics:
 - Apollo Federation specification critique
 - GraphQL Federation working group participation
 tags:
-- education
-- continuous-learning
 - computer-science
-- git-migration
-- apollo-federation
+- graphql-federation
 - specifications
 topic_tags:
 - education

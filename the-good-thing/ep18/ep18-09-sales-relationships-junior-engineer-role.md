@@ -24,13 +24,7 @@ topics:
 - Parenting and negotiation skills comparison
 - Access and relationship exchange dynamics
 tags:
-- sales-philosophy
-- negotiation-skills
-- customer-success
-- junior-engineer-influence
-- enterprise-sales
-- relationship-building
-- parenting-analogy
+- startup
 topic_tags:
 - sales-philosophy
 - negotiation-skills
