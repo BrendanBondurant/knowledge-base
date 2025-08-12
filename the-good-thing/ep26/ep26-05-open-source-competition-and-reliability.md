@@ -1,4 +1,3 @@
-
 ---
 title: Open Source Competition and Reliability
 slug: ep26-05-open-source-competition-and-reliability
@@ -25,9 +24,6 @@ topics:
   - Small team achieving high reliability
   - Team composition and expertise
 tags:
-- ai
-- postgres
-- open-source
   - open-source
   - vitess
   - aws-competition

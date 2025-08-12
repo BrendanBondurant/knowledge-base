@@ -1,4 +1,3 @@
-
 ---
 title: Metal Performance and High Availability
 slug: ep26-03-metal-performance-and-ha
@@ -25,9 +24,6 @@ topics:
   - Ephemeral machines and replication strategy
   - Semi-synchronous replication
 tags:
-- ai
-- postgres
-- cdn
   - planetscale-metal
   - performance
   - high-availability

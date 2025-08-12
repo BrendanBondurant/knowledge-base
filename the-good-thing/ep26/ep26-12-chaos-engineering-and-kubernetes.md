@@ -1,4 +1,3 @@
-
 ---
 title: Chaos Engineering and Kubernetes
 slug: ep26-12-chaos-engineering-and-kubernetes
@@ -25,9 +24,6 @@ topics:
   - Kubernetes for stateful workloads
   - Virtualization layer choices
 tags:
-- ai
-- database
-- kubernetes
   - chaos-engineering
   - kubernetes
   - reliability-engineering

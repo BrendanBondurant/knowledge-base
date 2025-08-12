@@ -1,4 +1,3 @@
-
 ---
 title: Postgres Sharding and Adoption
 slug: ep26-02-postgres-sharding-and-adoption
@@ -25,9 +24,6 @@ topics:
   - Sam's path into databases
   - GitHub and Meta background
 tags:
-- postgres
-- database
-- open-source
   - postgres
   - sharding
   - market-timing
