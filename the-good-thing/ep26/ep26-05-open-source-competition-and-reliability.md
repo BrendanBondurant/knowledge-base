@@ -26,6 +26,13 @@ topics:
 tags:
   - open-source
   - vitess
+  - ai
+  - composition
+  - database
+  - go
+  - postgres
+  - rest
+  - startup
 entities:
   - Vitess
   - Google

@@ -29,6 +29,17 @@ tags:
   - graphql-federation
   - data-loading
   - graphql
+  - ai
+  - apollo-graphql
+  - benchmarking
+  - cosmo
+  - cosmo-router
+  - go
+  - open-source
+  - rest
+  - rest-connectors
+  - startup
+  - typescript
 entities:
   - WunderGraph
   - Cosmo Router

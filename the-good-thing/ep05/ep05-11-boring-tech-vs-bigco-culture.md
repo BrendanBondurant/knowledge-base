@@ -28,6 +28,11 @@ topics:
 tags:
   - startup
   - founder
+  - ai
+  - go
+  - kubernetes
+  - postgres
+  - rest
 topic_tags:
   - startup
   - founder

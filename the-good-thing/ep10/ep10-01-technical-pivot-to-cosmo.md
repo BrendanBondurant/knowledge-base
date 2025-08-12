@@ -27,6 +27,16 @@ topics:
   - Connect Buff and protobuf tooling
 tags:
   - open-source
+  - ai
+  - api-design
+  - api-gateway
+  - cosmo
+  - cosmo-router
+  - founder
+  - go
+  - graphql
+  - startup
+  - typescript
 topic_tags:
   - open-source
 entities:

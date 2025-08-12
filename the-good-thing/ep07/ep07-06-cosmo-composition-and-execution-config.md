@@ -24,6 +24,16 @@ topics:
   - Resolvability and satisfiability checking
 tags:
   - composition
+  - ai
+  - apollo-graphql
+  - cosmo
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - query-planning
+  - supergraph
 topic_tags:
   - composition
 entities:

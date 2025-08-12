@@ -23,6 +23,9 @@ topics:
   - Product evolution
 tags:
   - startup
+  - ai
+  - founder
+  - go
 topic_tags:
   - enterprise
   - value

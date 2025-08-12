@@ -23,6 +23,11 @@ tags:
   - ai
   - rest
   - open-source
+  - api-design
+  - founder
+  - go
+  - llm
+  - startup
 topic_tags:
   - ai
   - rest

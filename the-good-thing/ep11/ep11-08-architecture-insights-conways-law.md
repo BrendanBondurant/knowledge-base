@@ -24,6 +24,20 @@ topics:
 tags:
   - conways-law
   - microservices-architecture
+  - ai
+  - api-design
+  - benchmarking
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - llm
+  - mcp
+  - microservices
+  - monolith
+  - query-planning
+  - rest
+  - telemetry
 topic_tags:
   - conways-law
   - microservices-architecture

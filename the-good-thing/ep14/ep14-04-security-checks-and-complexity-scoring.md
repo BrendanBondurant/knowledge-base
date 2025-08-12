@@ -26,6 +26,18 @@ tags:
   - federation
   - mcp
   - ai
+  - api-design
+  - benchmarking
+  - bff-pattern
+  - cosmo
+  - cosmo-router
+  - go
+  - graphql
+  - graphql-federation
+  - open-source
+  - query-planning
+  - rest
+  - startup
 topic_tags:
   - federation
   - mcp

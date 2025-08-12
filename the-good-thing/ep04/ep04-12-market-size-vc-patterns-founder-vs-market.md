@@ -26,6 +26,12 @@ topics:
   - Timing
 tags:
   - startup
+  - ai
+  - api-design
+  - federation
+  - founder
+  - go
+  - graphql-federation
 topic_tags:
   - market-size
   - venture-capital

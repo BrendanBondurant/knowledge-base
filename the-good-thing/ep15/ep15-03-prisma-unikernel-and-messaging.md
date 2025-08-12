@@ -25,6 +25,11 @@ tags:
   - postgres
   - rest
   - startup
+  - api-design
+  - benchmarking
+  - database
+  - go
+  - open-source
 entities:
   - Prisma
   - Postgres

@@ -23,6 +23,10 @@ topics:
 tags:
   - mcp
   - ai
+  - api-design
+  - go
+  - rest
+  - rust
 topic_tags:
   - mcp
   - ai-limitations

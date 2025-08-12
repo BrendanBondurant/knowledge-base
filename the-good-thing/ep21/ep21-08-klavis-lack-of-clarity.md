@@ -22,6 +22,10 @@ topics:
 tags:
   - ai-agents
   - startup
+  - ai
+  - go
+  - mcp
+  - rest
 topic_tags:
   - marblism
   - klavis

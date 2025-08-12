@@ -22,6 +22,13 @@ topics:
   - Complete business category requirements
 tags:
   - open-source
+  - ai
+  - composition
+  - cosmo
+  - cosmo-router
+  - go
+  - graphql
+  - startup
 topic_tags:
   - code-forking
   - business-strategy

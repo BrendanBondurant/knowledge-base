@@ -27,6 +27,12 @@ tags:
   - postgres
   - startup
   - open-source
+  - ai
+  - database
+  - go
+  - mysql
+  - rest
+  - vitess
 entities:
   - Postgres
   - MySQL

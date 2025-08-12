@@ -23,6 +23,14 @@ topics:
 tags:
   - observability
   - datadog
+  - ai
+  - cosmo-router
+  - founder
+  - go
+  - rest
+  - startup
+  - telemetry
+  - typescript
 topic_tags:
   - observability
   - datadog

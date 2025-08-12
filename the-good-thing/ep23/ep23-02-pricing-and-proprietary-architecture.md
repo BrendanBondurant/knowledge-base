@@ -23,6 +23,12 @@ tags:
   - ai
   - postgres
   - open-source
+  - benchmarking
+  - database
+  - go
+  - rest
+  - startup
+  - vitess
 topic_tags:
   - ai
   - postgres

@@ -26,6 +26,8 @@ tags:
   - apollo-graphql
   - founder
   - startup
+  - go
+  - graphql
 entities:
   - Google
   - FAANG

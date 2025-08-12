@@ -25,6 +25,15 @@ tags:
   - graphql-federation
   - ai
   - graphql-federation
+  - api-design
+  - benchmarking
+  - composition
+  - cosmo
+  - go
+  - graphql
+  - open-source
+  - startup
+  - telemetry
 entities:
   - WunderGraph
   - Dustin (CTO)

@@ -33,6 +33,14 @@ topics:
   - Startup advice
 tags:
   - startup
+  - ai
+  - cosmo
+  - federation
+  - founder
+  - go
+  - graphql
+  - graphql-federation
+  - microservices
 topic_tags:
   - enterprise-sales
   - customer-stories

@@ -22,6 +22,11 @@ topics:
 tags:
   - ai
   - startup
+  - api-design
+  - founder
+  - go
+  - llm
+  - rest
 topic_tags:
   - stargate-project
   - ai-infrastructure

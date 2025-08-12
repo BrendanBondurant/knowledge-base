@@ -25,6 +25,10 @@ tags:
   - mcp
   - ai
   - cosmo-router
+  - cosmo
+  - go
+  - graphql
+  - llm
 topic_tags:
   - mcp
   - ai

@@ -24,6 +24,11 @@ topics:
 tags:
   - startup
   - founder
+  - ai
+  - go
+  - rest
+  - rust
+  - telemetry
 topic_tags:
   - enterprise-customers
   - strategic-investors

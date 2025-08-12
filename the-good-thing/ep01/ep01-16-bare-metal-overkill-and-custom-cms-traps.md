@@ -22,6 +22,9 @@ topics:
 tags:
   - kubernetes
   - startup
+  - ai
+  - database
+  - go
 topic_tags:
   - kubernetes
   - startup

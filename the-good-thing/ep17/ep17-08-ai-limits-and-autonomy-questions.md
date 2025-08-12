@@ -23,6 +23,9 @@ topics:
   - Sustainability of autonomous AI systems
 tags:
   - ai
+  - go
+  - llm
+  - mcp
 topic_tags:
   - ai-autonomy
   - future-predictions

@@ -21,6 +21,18 @@ topics:
   - Infrastructure
 tags:
   - cosmo
+  - ai
+  - authentication
+  - cosmo-router
+  - database
+  - go
+  - graphql
+  - kubernetes
+  - observability
+  - postgres
+  - rest
+  - startup
+  - telemetry
 topic_tags:
   - cosmo
 entities:

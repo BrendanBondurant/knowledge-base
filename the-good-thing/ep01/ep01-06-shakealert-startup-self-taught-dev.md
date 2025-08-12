@@ -21,6 +21,9 @@ topics:
   - Transition to Swift and discovering Java's verbosity
 tags:
   - startup
+  - ai
+  - go
+  - rest
 topic_tags:
   - android-dev
   - self-taught

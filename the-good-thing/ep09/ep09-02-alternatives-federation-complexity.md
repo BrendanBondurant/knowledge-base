@@ -26,6 +26,16 @@ tags:
   - bff-pattern
   - microservices
   - api-design
+  - ai
+  - authentication
+  - benchmarking
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
+  - rest-apis
+  - startup
 topic_tags:
   - bff-pattern
   - microservices

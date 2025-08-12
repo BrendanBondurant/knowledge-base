@@ -27,6 +27,11 @@ tags:
   - ai
   - github-copilot
   - ai
+  - authorization
+  - go
+  - llm
+  - rest
+  - startup
 entities:
   - Netflix
   - ChatGPT premium/free tiers

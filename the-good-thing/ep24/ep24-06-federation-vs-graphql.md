@@ -27,6 +27,12 @@ tags:
   - graphql-federation
   - grpc
   - governance
+  - ai
+  - api-design
+  - apollo-graphql
+  - go
+  - graphql
+  - startup
 entities:
   - Stefan Avram
   - Jens Neuse

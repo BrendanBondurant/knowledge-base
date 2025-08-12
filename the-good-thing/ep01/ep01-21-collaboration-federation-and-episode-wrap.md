@@ -24,6 +24,13 @@ topics:
 tags:
   - graphql
   - startup
+  - ai
+  - api-design
+  - composition
+  - federation
+  - go
+  - graphql-federation
+  - query-planning
 topic_tags:
   - team-culture
   - graphql

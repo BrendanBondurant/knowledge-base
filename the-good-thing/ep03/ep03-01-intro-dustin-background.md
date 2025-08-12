@@ -22,6 +22,17 @@ topics:
 tags:
   - graphql
   - open-source
+  - ai
+  - cache-warming
+  - federation
+  - founder
+  - go
+  - graphql-federation
+  - monolith
+  - rest
+  - rust
+  - startup
+  - typescript
 topic_tags:
   - graphql
   - open-source

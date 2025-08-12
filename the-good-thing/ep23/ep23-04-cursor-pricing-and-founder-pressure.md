@@ -23,6 +23,10 @@ tags:
   - ai
   - github-copilot
   - websocket
+  - founder
+  - go
+  - rest
+  - startup
 topic_tags:
   - ai
   - github-copilot

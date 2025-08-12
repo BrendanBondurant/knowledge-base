@@ -23,6 +23,12 @@ topics:
   - Engineers aligning with product and customer goals
 tags:
   - startup
+  - ai
+  - cosmo
+  - federation
+  - go
+  - graphql-federation
+  - kubernetes
 topic_tags:
   - build-vs-buy
   - product-strategy

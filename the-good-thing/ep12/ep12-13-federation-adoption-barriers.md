@@ -25,6 +25,11 @@ tags:
   - federation
   - graphql-federation
   - mcp
+  - ai
+  - api-design
+  - go
+  - graphql
+  - rest
 topic_tags:
   - federation
   - graphql-federation

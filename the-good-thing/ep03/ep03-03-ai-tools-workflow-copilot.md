@@ -22,6 +22,10 @@ topics:
   - Learning
 tags:
   - ai
+  - github-copilot
+  - go
+  - llm
+  - startup
 topic_tags:
   - ai-tools
   - workflow

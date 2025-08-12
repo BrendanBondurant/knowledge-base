@@ -22,6 +22,13 @@ topics:
   - Startup innovation versus big company resources
 tags:
   - startup
+  - ai
+  - apollo-graphql
+  - cosmo
+  - go
+  - graphql
+  - open-source
+  - rest
 topic_tags:
   - sla-requirements
   - brand-building

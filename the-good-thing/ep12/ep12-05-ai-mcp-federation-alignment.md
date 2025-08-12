@@ -25,6 +25,18 @@ tags:
   - federation
   - mcp
   - ai
+  - api-design
+  - api-gateway
+  - authorization
+  - go
+  - graphql
+  - graphql-federation
+  - llm
+  - microservices
+  - observability
+  - postgres
+  - rest
+  - supergraph
 topic_tags:
   - federation
   - mcp

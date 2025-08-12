@@ -25,8 +25,15 @@ topics:
 tags:
   - federation
   - graphql-federation
-  - ai
-  - federation
+  - query-planning
+  - apollo-graphql
+  - benchmarking
+  - composition
+  - cosmo
+  - go
+  - graphql
+  - query-planning
+  - supergraph
 entities:
   - graphql
   - Federation

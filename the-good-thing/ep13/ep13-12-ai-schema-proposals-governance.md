@@ -25,6 +25,12 @@ tags:
   - dream-query
   - mcp
   - schema-evolution
+  - cosmo
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - llm
 topic_tags:
   - schema-proposals
   - ai-governance

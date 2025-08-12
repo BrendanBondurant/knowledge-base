@@ -25,6 +25,17 @@ tags:
   - ai
   - cosmo-router
   - startup
+  - api-design
+  - api-gateway
+  - authentication
+  - cache-warming
+  - cosmo
+  - go
+  - graphql
+  - graphql-federation
+  - open-source
+  - query-planning
+  - rest
 entities:
   - Prisma
   - Vercel

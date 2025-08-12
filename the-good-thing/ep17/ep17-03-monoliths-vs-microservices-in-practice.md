@@ -23,6 +23,16 @@ topics:
 tags:
   - microservices
   - monolith
+  - ai
+  - cosmo
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - kubernetes
+  - rest
+  - startup
+  - typescript
 topic_tags:
   - microservices
   - monolith

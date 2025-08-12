@@ -25,6 +25,14 @@ topics:
   - Customer behavior exploration methodology
 tags:
   - startup
+  - ai
+  - api-design
+  - cosmo
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
 topic_tags:
   - pattern-discovery
   - user-research

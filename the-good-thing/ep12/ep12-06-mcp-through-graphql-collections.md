@@ -22,6 +22,19 @@ topics:
   - Unified API approach benefits
 tags:
   - cosmo-router
+  - ai
+  - api-design
+  - api-gateway
+  - authorization
+  - cosmo
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - mcp
+  - observability
+  - postgres
+  - rest
 topic_tags:
   - cosmo-router
 entities:

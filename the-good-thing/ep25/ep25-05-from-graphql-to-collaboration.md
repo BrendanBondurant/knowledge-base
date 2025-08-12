@@ -26,6 +26,13 @@ tags:
   - graphql-federation
   - ai
   - graphql-federation
+  - api-design
+  - api-gateway
+  - benchmarking
+  - go
+  - graphql
+  - rest
+  - startup
 entities:
   - WunderGraph
   - graphql

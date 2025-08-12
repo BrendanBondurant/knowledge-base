@@ -23,6 +23,11 @@ topics:
   - Human touch in content creation
 tags:
   - authenticity
+  - ai
+  - federation
+  - go
+  - graphql
+  - graphql-federation
 topic_tags:
   - authenticity
 entities:

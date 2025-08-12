@@ -25,6 +25,10 @@ tags:
   - ai
   - typescript
   - rust
+  - api-design
+  - go
+  - python
+  - rest
 topic_tags:
   - ai
   - typescript

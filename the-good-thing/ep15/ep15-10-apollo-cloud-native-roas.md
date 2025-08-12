@@ -22,6 +22,12 @@ topics:
   - Brand recognition challenges
 tags:
   - apollo-graphql
+  - ai
+  - api-design
+  - go
+  - graphql
+  - rest
+  - startup
 topic_tags:
   - apollo-graphql
 entities:

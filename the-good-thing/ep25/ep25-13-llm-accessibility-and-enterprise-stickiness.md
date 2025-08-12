@@ -28,6 +28,12 @@ tags:
   - ai
   - ai
   - ai
+  - api-design
+  - go
+  - llm
+  - rest
+  - rest-apis
+  - startup
 entities:
   - OpenAI
   - Cloudflare

@@ -22,6 +22,14 @@ topics:
   - Business-focused value proposition
 tags:
   - social-proof
+  - ai
+  - apollo-graphql
+  - benchmarking
+  - database
+  - go
+  - rest
+  - startup
+  - telemetry
 topic_tags:
   - social-proof
 entities:

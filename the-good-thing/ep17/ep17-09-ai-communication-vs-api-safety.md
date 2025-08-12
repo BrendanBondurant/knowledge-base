@@ -23,6 +23,12 @@ topics:
   - API contracts for AI interaction safety
 tags:
   - ai
+  - api-design
+  - database
+  - go
+  - graphql
+  - mcp
+  - rest
 topic_tags:
   - ai-collaboration
   - organizational-scaling

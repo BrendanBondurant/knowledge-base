@@ -24,6 +24,21 @@ topics:
 tags:
   - mcp
   - ai-agents
+  - ai
+  - api-design
+  - apollo-graphql
+  - authentication
+  - authorization
+  - bff-pattern
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - llm
+  - rest
+  - rest-apis
+  - startup
+  - supergraph
 topic_tags:
   - mcp
   - ai-agents

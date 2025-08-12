@@ -22,6 +22,12 @@ topics:
   - Community feedback request
 tags:
   - startup
+  - api-design
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
 topic_tags:
   - episode-wrap
   - collaborative-tooling

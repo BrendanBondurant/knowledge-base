@@ -22,6 +22,15 @@ topics:
   - Schema documentation standards
 tags:
   - federation-descriptions
+  - ai
+  - api-design
+  - composition
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
+  - startup
 topic_tags:
   - federation-descriptions
 entities:

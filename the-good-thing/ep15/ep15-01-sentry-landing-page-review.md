@@ -24,6 +24,8 @@ tags:
   - ai
   - rust
   - startup
+  - go
+  - observability
 entities:
   - Sentry
   - GitHub

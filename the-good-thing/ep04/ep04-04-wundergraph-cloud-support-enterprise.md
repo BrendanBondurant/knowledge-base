@@ -24,6 +24,13 @@ topics:
 tags:
   - startup
   - founder
+  - ai
+  - cosmo
+  - cosmo-router
+  - go
+  - graphql
+  - query-planning
+  - telemetry
 topic_tags:
   - startup
   - founder

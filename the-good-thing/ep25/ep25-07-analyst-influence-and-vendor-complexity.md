@@ -26,6 +26,9 @@ tags:
   - ai
   - rust
   - rest
+  - api-design
+  - go
+  - startup
 entities:
   - Kong
   - Apogee

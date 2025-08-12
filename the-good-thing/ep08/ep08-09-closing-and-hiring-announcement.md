@@ -24,6 +24,11 @@ tags:
   - federation
   - graphql-federation
   - ai
+  - benchmarking
+  - go
+  - graphql
+  - rest
+  - startup
 entities:
   - WunderGraph
   - Stefan Avram

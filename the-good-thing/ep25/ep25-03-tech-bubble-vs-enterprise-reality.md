@@ -27,6 +27,10 @@ tags:
   - rest
   - websocket
   - ai
+  - api-design
+  - go
+  - llm
+  - startup
 entities:
   - TechCrunch
   - ChatGPT

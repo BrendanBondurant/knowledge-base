@@ -23,6 +23,9 @@ topics:
 tags:
   - resilience
   - founder
+  - ai
+  - go
+  - rest
 topic_tags:
   - resilience
   - founder

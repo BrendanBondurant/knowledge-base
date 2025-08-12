@@ -24,6 +24,18 @@ tags:
   - router-configuration
   - json-schema
   - composition-checks
+  - ai
+  - composition
+  - cosmo
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - llm
+  - mcp
+  - supergraph
+  - telemetry
 topic_tags:
   - router-configuration
   - json-schema

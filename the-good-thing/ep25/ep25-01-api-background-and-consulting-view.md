@@ -25,6 +25,13 @@ topics:
 tags:
   - api-expert
   - api-gateway
+  - ai
+  - api-design
+  - go
+  - mcp
+  - open-source
+  - rest
+  - startup
 topic_tags:
   - api-expert
   - api-gateway

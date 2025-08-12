@@ -25,6 +25,11 @@ tags:
   - graphql
   - ai
   - cosmo
+  - benchmarking
+  - database
+  - federation
+  - go
+  - graphql-federation
 topic_tags:
   - graphql
   - ai

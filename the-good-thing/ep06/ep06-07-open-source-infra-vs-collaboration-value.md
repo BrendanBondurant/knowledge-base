@@ -31,6 +31,10 @@ tags:
   - open-source
   - startup
   - startup
+  - cosmo
+  - cosmo-router
+  - go
+  - graphql
 topic_tags:
   - federation
   - graphql-federation

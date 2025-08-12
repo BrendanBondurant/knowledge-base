@@ -23,6 +23,7 @@ tags:
   - ai
   - python
   - startup
+  - go
 topic_tags:
   - ai
   - python

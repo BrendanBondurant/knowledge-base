@@ -24,6 +24,8 @@ tags:
   - ai
   - github-copilot
   - computer-science
+  - go
+  - rest
 topic_tags:
   - procrastination
   - learning

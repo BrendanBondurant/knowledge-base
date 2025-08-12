@@ -24,6 +24,17 @@ topics:
 tags:
   - trusted-documents
   - dream-query-workflow
+  - ai
+  - api-design
+  - cosmo
+  - database
+  - go
+  - graphql
+  - llm
+  - mcp
+  - rest
+  - rest-apis
+  - rust
 topic_tags:
   - trusted-documents
   - dream-query-workflow

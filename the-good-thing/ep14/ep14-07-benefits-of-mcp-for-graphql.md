@@ -29,6 +29,14 @@ tags:
   - ai
   - rich-metadata
   - trusted-documents
+  - api-design
+  - cosmo
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - llm
+  - rust
 topic_tags:
   - mcp-benefits
   - graphql-api

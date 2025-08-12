@@ -31,6 +31,16 @@ topics:
   - Product improvement
 tags:
   - startup
+  - ai
+  - apollo-graphql
+  - benchmarking
+  - cosmo-router
+  - database
+  - founder
+  - go
+  - graphql
+  - postgres
+  - rust
 topic_tags:
   - customer-focus
   - competition

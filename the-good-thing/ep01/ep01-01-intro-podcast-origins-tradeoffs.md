@@ -21,6 +21,8 @@ topics:
   - First intro to Jens
 tags:
   - graphql
+  - startup
+  - founder
 topic_tags:
   - podcast-intro
   - engineering-philosophy

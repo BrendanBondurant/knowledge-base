@@ -23,6 +23,8 @@ tags:
   - ai
   - websocket
   - founder
+  - benchmarking
+  - go
 topic_tags:
   - ai
   - websocket

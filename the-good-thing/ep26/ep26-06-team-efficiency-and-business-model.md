@@ -28,6 +28,10 @@ tags:
   - database
   - founder
   - founder
+  - composition
+  - go
+  - rest
+  - startup
 entities:
   - PlanetScale
   - Ben

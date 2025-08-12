@@ -22,6 +22,8 @@ topics:
 tags:
   - rust
   - go
+  - ai
+  - rest
 topic_tags:
   - rust
   - go

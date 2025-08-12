@@ -25,6 +25,17 @@ tags:
   - typescript
   - query-planning
   - cosmo-router
+  - ai
+  - api-design
+  - api-gateway
+  - benchmarking
+  - composition
+  - cosmo
+  - database
+  - postgres
+  - rest
+  - startup
+  - telemetry
 topic_tags:
   - go
   - typescript

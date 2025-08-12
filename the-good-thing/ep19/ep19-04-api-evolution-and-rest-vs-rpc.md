@@ -23,6 +23,17 @@ topics:
   - Practical implementation considerations
 tags:
   - rest
+  - ai
+  - api-design
+  - cosmo
+  - database
+  - go
+  - graphql
+  - llm
+  - mcp
+  - monolith
+  - rest-apis
+  - startup
 topic_tags:
   - rest
 entities:

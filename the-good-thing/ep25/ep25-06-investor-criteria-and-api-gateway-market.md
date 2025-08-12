@@ -26,6 +26,8 @@ tags:
   - rest
   - api-design
   - startup
+  - api-gateway
+  - go
 entities:
   - Field CTO role
   - Postman

@@ -23,6 +23,10 @@ topics:
   - Applying for senior and architect roles without experience
 tags:
   - startup
+  - ai
+  - founder
+  - go
+  - rest
 topic_tags:
   - career-growth
   - startup-lessons

@@ -22,6 +22,12 @@ topics:
   - Windsurf vs technical implementation focus
 tags:
   - startup
+  - ai
+  - benchmarking
+  - go
+  - kubernetes
+  - microservices
+  - rest
 topic_tags:
   - resume-driven-development
   - customer-focus

@@ -28,6 +28,17 @@ tags:
   - openapi
   - grpc
   - bff-pattern
+  - ai
+  - api-design
+  - federation
+  - go
+  - graphql
+  - llm
+  - mcp
+  - monolith
+  - rest
+  - rest-apis
+  - startup
 topic_tags:
   - api-ecosystem
   - graphql-federation

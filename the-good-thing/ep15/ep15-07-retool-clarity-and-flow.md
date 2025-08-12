@@ -24,6 +24,12 @@ tags:
   - graphql
   - ai
   - database
+  - api-design
+  - authentication
+  - go
+  - python
+  - rest
+  - typescript
 topic_tags:
   - graphql
   - ai

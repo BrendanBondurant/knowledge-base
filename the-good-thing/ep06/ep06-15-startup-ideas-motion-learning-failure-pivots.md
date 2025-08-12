@@ -27,6 +27,7 @@ tags:
   - ai
   - startup
   - startup
+  - go
 topic_tags:
   - ai
   - startup

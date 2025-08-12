@@ -25,6 +25,11 @@ topics:
   - Virtualization layer choices
 tags:
   - kubernetes
+  - ai
+  - database
+  - go
+  - observability
+  - startup
 entities:
   - PlanetScale
   - Kubernetes

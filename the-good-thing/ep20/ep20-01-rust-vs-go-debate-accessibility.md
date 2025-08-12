@@ -23,6 +23,13 @@ tags:
   - rust
   - go
   - llm
+  - ai
+  - api-design
+  - benchmarking
+  - cosmo-router
+  - query-planning
+  - rest
+  - startup
 topic_tags:
   - rust
   - go

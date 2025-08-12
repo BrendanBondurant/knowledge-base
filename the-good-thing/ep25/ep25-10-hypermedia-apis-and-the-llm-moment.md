@@ -27,6 +27,9 @@ tags:
   - ai
   - rest
   - ai-agents
+  - api-design
+  - go
+  - llm
 entities:
   - Siren hypermedia type
   - HTML

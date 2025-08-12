@@ -23,6 +23,15 @@ topics:
 tags:
   - telemetry
   - kafka
+  - ai
+  - benchmarking
+  - cosmo
+  - cosmo-router
+  - database
+  - go
+  - graphql
+  - rest
+  - startup
 topic_tags:
   - telemetry
   - kafka

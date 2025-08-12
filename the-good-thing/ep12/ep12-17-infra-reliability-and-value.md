@@ -23,6 +23,15 @@ topics:
   - Federation as collaborative tool
 tags:
   - zero-incidents
+  - ai
+  - api-design
+  - cosmo
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - kubernetes
+  - startup
 topic_tags:
   - zero-incidents
 entities:

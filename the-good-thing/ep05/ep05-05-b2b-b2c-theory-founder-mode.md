@@ -29,6 +29,11 @@ topics:
 tags:
   - founder
   - startup
+  - ai
+  - cosmo
+  - go
+  - open-source
+  - rest
 topic_tags:
   - b2b-theory
   - b2c-evolution

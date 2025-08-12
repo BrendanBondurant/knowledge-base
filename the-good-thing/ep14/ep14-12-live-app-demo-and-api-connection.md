@@ -25,6 +25,13 @@ topics:
 tags:
   - real-api-integration
   - graphql-validation
+  - ai
+  - api-design
+  - cosmo
+  - go
+  - graphql
+  - llm
+  - mcp
 topic_tags:
   - real-api-integration
   - graphql-validation

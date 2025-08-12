@@ -24,6 +24,8 @@ tags:
   - database
   - founder
   - startup
+  - api-design
+  - go
 entities:
   - Nao
   - Cursor

@@ -24,6 +24,14 @@ topics:
 tags:
   - startup
   - universal-data-graph
+  - ai
+  - apollo-graphql
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - mcp
+  - microservices
 topic_tags:
   - federation-history
   - apollo-innovations

@@ -30,6 +30,16 @@ topics:
 tags:
   - ai
   - startup
+  - api-design
+  - cosmo
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - grpc
+  - open-source
+  - rest
+  - rest-apis
 topic_tags:
   - federation-evolution
   - ai-integration

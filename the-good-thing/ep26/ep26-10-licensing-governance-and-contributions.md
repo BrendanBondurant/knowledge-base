@@ -28,6 +28,13 @@ tags:
   - open-source
   - websocket
   - open-source
+  - benchmarking
+  - database
+  - go
+  - mysql
+  - rest
+  - startup
+  - vitess
 entities:
   - PlanetScale
   - CNCF

@@ -30,6 +30,9 @@ tags:
   - ai
   - websocket
   - founder
+  - go
+  - rest
+  - startup
 topic_tags:
   - ai
   - websocket

@@ -24,6 +24,13 @@ topics:
 tags:
   - ai
   - startup
+  - api-design
+  - cosmo-router
+  - go
+  - graphql
+  - llm
+  - mcp
+  - rest
 topic_tags:
   - ai-first-strategy
   - procore

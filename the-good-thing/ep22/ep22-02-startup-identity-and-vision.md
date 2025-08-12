@@ -21,6 +21,15 @@ topics:
   - Startup maturity and positioning
 tags:
   - startup
+  - ai
+  - apollo-graphql
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - llm
+  - open-source
+  - rest
 topic_tags:
   - bell-curve-meme
   - startup-vision

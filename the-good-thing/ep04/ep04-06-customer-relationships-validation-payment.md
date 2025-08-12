@@ -27,6 +27,12 @@ topics:
   - Product-market fit
 tags:
   - startup
+  - ai
+  - cosmo
+  - founder
+  - go
+  - open-source
+  - rest
 topic_tags:
   - customer-development
   - validation

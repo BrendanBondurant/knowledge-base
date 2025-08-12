@@ -23,6 +23,17 @@ topics:
 tags:
   - cdn
   - rust
+  - ai
+  - api-design
+  - benchmarking
+  - cosmo
+  - cosmo-router
+  - database
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - startup
 topic_tags:
   - cdn
   - rust

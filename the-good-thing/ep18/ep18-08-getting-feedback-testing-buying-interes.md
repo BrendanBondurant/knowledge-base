@@ -25,6 +25,11 @@ topics:
   - Beta participation and payment willingness
 tags:
   - startup
+  - ai
+  - api-design
+  - cosmo
+  - go
+  - rest
 topic_tags:
   - customer-feedback
   - relationship-bias

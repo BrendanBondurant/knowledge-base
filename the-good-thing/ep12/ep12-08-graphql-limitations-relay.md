@@ -25,6 +25,14 @@ tags:
   - federation
   - graphql-federation
   - ai
+  - api-design
+  - apollo-graphql
+  - cosmo-router
+  - go
+  - graphql
+  - rest
+  - rest-apis
+  - rest-connectors
 topic_tags:
   - federation
   - graphql-federation

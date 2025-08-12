@@ -27,6 +27,10 @@ tags:
   - websocket
   - ai
   - startup
+  - api-design
+  - founder
+  - go
+  - telemetry
 entities:
   - Lovable
   - Crandham

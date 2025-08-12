@@ -25,6 +25,16 @@ topics:
 tags:
   - query-planning
   - startup
+  - ai
+  - composition
+  - cosmo
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - open-source
+  - rest
 topic_tags:
   - query-planning
   - reliability

@@ -21,6 +21,12 @@ topics:
   - Small startup positioning strategy
 tags:
   - startup
+  - ai
+  - apollo-graphql
+  - cosmo
+  - founder
+  - go
+  - rest
 topic_tags:
   - emotional-attachment
   - developer-psychology

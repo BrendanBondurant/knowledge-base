@@ -22,6 +22,16 @@ topics:
 tags:
   - postgres
   - vitess
+  - ai
+  - database
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - grpc
+  - mysql
+  - rest
+  - startup
 topic_tags:
   - postgres
   - vitess

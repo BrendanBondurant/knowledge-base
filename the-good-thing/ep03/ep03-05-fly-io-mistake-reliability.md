@@ -22,6 +22,10 @@ topics:
   - AWS
 tags:
   - startup
+  - ai
+  - api-design
+  - founder
+  - go
 topic_tags:
   - fly-io
   - cloud-infrastructure

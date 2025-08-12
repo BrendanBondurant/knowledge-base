@@ -23,6 +23,8 @@ topics:
   - Human vs AI testing perspectives
 tags:
   - ai
+  - go
+  - rust
 topic_tags:
   - test-generation
   - edge-cases

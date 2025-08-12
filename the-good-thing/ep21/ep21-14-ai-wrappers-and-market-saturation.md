@@ -26,6 +26,8 @@ tags:
   - ai
   - startup
   - startup
+  - api-design
+  - go
 entities:
   - Stefan Avram
   - Jens Neuse

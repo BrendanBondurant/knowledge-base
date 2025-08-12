@@ -24,6 +24,10 @@ topics:
 tags:
   - founder
   - startup
+  - ai
+  - apollo-graphql
+  - go
+  - graphql
 topic_tags:
   - apollo-layoffs
   - founder-empathy

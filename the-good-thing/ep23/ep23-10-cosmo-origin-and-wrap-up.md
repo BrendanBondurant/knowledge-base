@@ -23,6 +23,8 @@ tags:
   - ai
   - cosmo
   - open-source
+  - go
+  - startup
 topic_tags:
   - ai
   - cosmo

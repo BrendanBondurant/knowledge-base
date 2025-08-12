@@ -24,6 +24,19 @@ topics:
   - Episode conclusion and format preferences
 tags:
   - ai
+  - api-design
+  - cosmo
+  - federation
+  - founder
+  - go
+  - graphql
+  - graphql-federation
+  - mcp
+  - open-source
+  - rest
+  - rest-apis
+  - startup
+  - supergraph
 topic_tags:
   - organizational-problems
   - tab-insights

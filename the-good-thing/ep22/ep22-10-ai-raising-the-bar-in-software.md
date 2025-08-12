@@ -23,6 +23,11 @@ tags:
   - ai
   - cosmo
   - kubernetes
+  - go
+  - llm
+  - rest
+  - startup
+  - typescript
 topic_tags:
   - ai
   - cosmo

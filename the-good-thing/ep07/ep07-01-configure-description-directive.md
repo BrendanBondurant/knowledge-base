@@ -23,6 +23,14 @@ tags:
   - graphql
   - federation
   - startup
+  - ai
+  - composition
+  - cosmo
+  - go
+  - graphql-federation
+  - query-planning
+  - rest
+  - supergraph
 topic_tags:
   - graphql
   - federation

@@ -28,6 +28,9 @@ tags:
   - database
   - computer-science
   - ai
+  - benchmarking
+  - go
+  - startup
 entities:
   - AI
   - PlanetScale

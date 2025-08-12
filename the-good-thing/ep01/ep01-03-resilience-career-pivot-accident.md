@@ -23,6 +23,11 @@ topics:
 tags:
   - resilience
   - startup
+  - ai
+  - api-design
+  - founder
+  - go
+  - rest
 topic_tags:
   - resilience
   - startup-lessons

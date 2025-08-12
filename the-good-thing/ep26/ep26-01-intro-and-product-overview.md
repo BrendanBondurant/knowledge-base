@@ -27,6 +27,12 @@ tags:
   - mysql
   - postgres
   - vitess
+  - ai
+  - benchmarking
+  - database
+  - go
+  - rest
+  - startup
 topic_tags:
   - mysql
   - postgres

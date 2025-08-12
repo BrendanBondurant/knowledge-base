@@ -26,6 +26,16 @@ tags:
   - rest-apis
   - openapi
   - api-design
+  - ai
+  - cache-warming
+  - cosmo
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - llm
+  - rest
+  - startup
 topic_tags:
   - hypermedia-apis
   - llm-agents

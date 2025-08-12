@@ -22,6 +22,8 @@ topics:
 tags:
   - ai
   - startup
+  - go
+  - observability
 topic_tags:
   - ai
   - startup

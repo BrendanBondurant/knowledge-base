@@ -23,6 +23,14 @@ topics:
 tags:
   - open-source
   - federation
+  - ai
+  - cosmo
+  - founder
+  - go
+  - graphql
+  - graphql-federation
+  - rest
+  - startup
 topic_tags:
   - unreal-engine
   - open-source-strategy

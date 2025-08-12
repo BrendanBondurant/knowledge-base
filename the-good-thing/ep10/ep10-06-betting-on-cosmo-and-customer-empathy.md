@@ -30,6 +30,9 @@ tags:
   - ai
   - cosmo
   - founder
+  - go
+  - rest
+  - startup
 topic_tags:
   - ai
   - cosmo

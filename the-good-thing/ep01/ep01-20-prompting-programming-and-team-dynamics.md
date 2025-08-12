@@ -24,6 +24,12 @@ topics:
   - WunderGraph success rooted in team diversity and chemistry
 tags:
   - graphql
+  - ai
+  - go
+  - llm
+  - rest
+  - rust
+  - startup
 topic_tags:
   - graphql
 entities:

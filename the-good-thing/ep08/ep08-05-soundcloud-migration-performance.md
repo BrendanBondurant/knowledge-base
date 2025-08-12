@@ -24,6 +24,16 @@ tags:
   - federation
   - graphql-federation
   - ai
+  - benchmarking
+  - cache-warming
+  - cosmo
+  - cosmo-router
+  - database
+  - go
+  - graphql
+  - kubernetes
+  - query-planning
+  - startup
 entities:
   - SoundCloud
   - Node.js

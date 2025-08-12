@@ -22,6 +22,22 @@ topics:
   - Bottom-up adoption through developer accessibility
 tags:
   - open-source
+  - ai
+  - api-design
+  - apollo-graphql
+  - cosmo
+  - cosmo-router
+  - database
+  - federation
+  - founder
+  - go
+  - graphql
+  - graphql-federation
+  - postgres
+  - rest
+  - rest-apis
+  - rust
+  - startup
 topic_tags:
   - open-source
 entities:

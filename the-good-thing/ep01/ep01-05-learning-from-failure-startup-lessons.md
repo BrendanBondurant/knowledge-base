@@ -22,6 +22,10 @@ topics:
   - Founding a first startup during university
 tags:
   - startup
+  - ai
+  - go
+  - rest
+  - rust
 topic_tags:
   - startup-lessons
   - self-taught

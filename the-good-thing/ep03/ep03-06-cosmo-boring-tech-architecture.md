@@ -23,6 +23,14 @@ topics:
 tags:
   - cosmo
   - kubernetes
+  - ai
+  - authentication
+  - database
+  - federation
+  - go
+  - graphql-federation
+  - rest
+  - startup
 topic_tags:
   - cosmo
   - kubernetes

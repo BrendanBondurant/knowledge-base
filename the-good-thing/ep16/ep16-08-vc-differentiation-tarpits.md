@@ -26,6 +26,10 @@ tags:
   - database
   - startup
   - ai
+  - api-design
+  - apollo-graphql
+  - founder
+  - go
 entities:
   - WunderGraph
   - Apollo

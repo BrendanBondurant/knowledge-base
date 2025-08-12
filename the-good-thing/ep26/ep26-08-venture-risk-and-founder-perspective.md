@@ -26,6 +26,12 @@ topics:
 tags:
   - startup
   - founder
+  - ai
+  - api-design
+  - database
+  - go
+  - postgres
+  - rust
 entities:
   - PlanetScale
   - Figma

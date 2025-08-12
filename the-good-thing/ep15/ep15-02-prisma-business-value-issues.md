@@ -22,6 +22,17 @@ topics:
   - Technical vs business buyer disconnect
 tags:
   - database
+  - ai
+  - api-design
+  - benchmarking
+  - cache-warming
+  - go
+  - observability
+  - postgres
+  - rest
+  - rust
+  - startup
+  - telemetry
 topic_tags:
   - database
 entities:

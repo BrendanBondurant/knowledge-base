@@ -22,6 +22,15 @@ topics:
   - Customer Value
 tags:
   - startup
+  - ai
+  - api-design
+  - cosmo
+  - cosmo-router
+  - go
+  - observability
+  - open-source
+  - rest
+  - telemetry
 topic_tags:
   - startup-credits
   - business-focus

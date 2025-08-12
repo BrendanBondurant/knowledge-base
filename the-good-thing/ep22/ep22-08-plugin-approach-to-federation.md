@@ -21,6 +21,22 @@ topics:
   - Plugin system benefits
 tags:
   - plugin-system
+  - ai
+  - api-design
+  - apollo-graphql
+  - composition
+  - cosmo
+  - cosmo-router
+  - database
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - grpc
+  - rest
+  - rest-apis
+  - rest-connectors
+  - startup
 topic_tags:
   - plugin-system
 entities:

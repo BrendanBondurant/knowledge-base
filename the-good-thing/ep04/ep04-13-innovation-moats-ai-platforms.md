@@ -28,6 +28,16 @@ topics:
   - Team collaboration
 tags:
   - ai
+  - api-design
+  - apollo-graphql
+  - cache-warming
+  - federation
+  - github-copilot
+  - go
+  - graphql-federation
+  - open-source
+  - rest
+  - startup
 topic_tags:
   - ai
 entities:

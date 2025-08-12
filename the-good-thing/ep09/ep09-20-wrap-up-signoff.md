@@ -21,6 +21,8 @@ topics:
   - Return schedule announcement
 tags:
   - cdn
+  - go
+  - rest
 topic_tags:
   - cdn
 entities:

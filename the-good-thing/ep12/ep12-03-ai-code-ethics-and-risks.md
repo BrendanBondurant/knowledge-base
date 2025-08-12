@@ -22,6 +22,9 @@ topics:
   - Disruptive technology changing rules
 tags:
   - ai
+  - go
+  - graphql
+  - rest
 topic_tags:
   - ai-incentives
   - test-driven-development

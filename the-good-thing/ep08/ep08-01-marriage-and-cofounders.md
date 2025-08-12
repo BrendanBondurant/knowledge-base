@@ -22,6 +22,10 @@ topics:
   - Work-life balance through partnerships
 tags:
   - startup
+  - ai
+  - founder
+  - go
+  - rest
 topic_tags:
   - marriage
   - cofounders

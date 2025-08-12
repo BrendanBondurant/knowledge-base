@@ -23,6 +23,15 @@ topics:
   - Workflow alignment with organizational reality
 tags:
   - startup
+  - ai
+  - api-design
+  - benchmarking
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
 topic_tags:
   - customer-patterns
   - code-organization

@@ -29,6 +29,12 @@ topics:
   - Episode wrap-up
 tags:
   - startup
+  - ai
+  - api-design
+  - api-gateway
+  - federation
+  - go
+  - graphql-federation
 topic_tags:
   - venture-capital
   - future-predictions

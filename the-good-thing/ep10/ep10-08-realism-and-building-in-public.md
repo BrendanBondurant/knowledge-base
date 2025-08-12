@@ -28,6 +28,10 @@ topics:
   - Family support importance
 tags:
   - founder
+  - ai
+  - go
+  - rest
+  - startup
 topic_tags:
   - work-life-balance
   - results-focus

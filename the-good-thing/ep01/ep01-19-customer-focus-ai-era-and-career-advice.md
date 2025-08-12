@@ -24,6 +24,12 @@ topics:
   - Programming in the age of AI
 tags:
   - ai
+  - api-design
+  - cosmo
+  - cosmo-router
+  - go
+  - graphql
+  - startup
 topic_tags:
   - customer-empathy
   - ai-and-careers

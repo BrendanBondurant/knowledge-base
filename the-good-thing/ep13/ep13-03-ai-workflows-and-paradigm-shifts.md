@@ -23,6 +23,10 @@ topics:
 tags:
   - ai
   - mcp
+  - api-design
+  - database
+  - go
+  - llm
 topic_tags:
   - ai-mandate
   - paradigm-shift

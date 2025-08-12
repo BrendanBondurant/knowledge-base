@@ -26,6 +26,8 @@ tags:
   - graphql
   - mcp
   - ai
+  - go
+  - llm
 topic_tags:
   - graphql
   - mcp

@@ -25,6 +25,11 @@ tags:
   - database
   - api-design
   - database
+  - benchmarking
+  - go
+  - mysql
+  - startup
+  - vitess
 entities:
   - PlanetScale
   - eBay

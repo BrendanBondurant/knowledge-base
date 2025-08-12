@@ -22,6 +22,9 @@ topics:
 tags:
   - startup
   - founder
+  - ai
+  - api-design
+  - go
 topic_tags:
   - startup
   - founder

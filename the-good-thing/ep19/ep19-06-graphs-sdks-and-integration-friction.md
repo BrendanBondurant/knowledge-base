@@ -25,6 +25,12 @@ tags:
   - federation
   - grpc
   - mcp
+  - ai
+  - api-design
+  - go
+  - graphql-federation
+  - rest
+  - rest-apis
 topic_tags:
   - federation
   - grpc

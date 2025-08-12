@@ -28,6 +28,15 @@ tags:
   - grpc
   - apollo-graphql
   - schema-first
+  - ai
+  - api-design
+  - benchmarking
+  - cosmo
+  - cosmo-router
+  - go
+  - graphql
+  - startup
+  - typescript
 entities:
   - WunderGraph
   - Cosmo Router

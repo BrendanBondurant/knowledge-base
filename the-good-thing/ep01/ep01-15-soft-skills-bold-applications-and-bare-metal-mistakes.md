@@ -24,6 +24,14 @@ topics:
   - Rejecting AWS for bare metal in early infra days
 tags:
   - graphql
+  - ai
+  - api-design
+  - benchmarking
+  - federation
+  - founder
+  - go
+  - graphql-federation
+  - startup
 topic_tags:
   - graphql
 entities:

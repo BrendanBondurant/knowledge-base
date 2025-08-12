@@ -30,6 +30,13 @@ tags:
   - cosmo-router
   - startup
   - startup
+  - api-design
+  - apollo-graphql
+  - benchmarking
+  - cosmo
+  - go
+  - graphql-federation
+  - open-source
 topic_tags:
   - federation
   - ai

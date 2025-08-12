@@ -23,6 +23,9 @@ tags:
   - mcp
   - ai
   - rest
+  - api-design
+  - go
+  - startup
 topic_tags:
   - mcp
   - ai

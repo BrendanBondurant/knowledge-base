@@ -23,6 +23,9 @@ topics:
   - Hard-coding vs dynamic implementation
 tags:
   - ai
+  - database
+  - go
+  - graphql
 topic_tags:
   - code-generation
   - ast-transformation

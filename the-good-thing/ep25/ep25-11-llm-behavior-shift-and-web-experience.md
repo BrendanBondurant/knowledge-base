@@ -26,6 +26,10 @@ tags:
   - ai
   - rust
   - rest
+  - api-design
+  - go
+  - llm
+  - startup
 entities:
   - Web directories
   - Google Search

@@ -27,6 +27,15 @@ tags:
   - composite-schema
   - benchmarking
   - query-planning
+  - ai
+  - apollo-graphql
+  - cache-warming
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - rest
+  - telemetry
 topic_tags:
   - entity-batching
   - apollo-federation

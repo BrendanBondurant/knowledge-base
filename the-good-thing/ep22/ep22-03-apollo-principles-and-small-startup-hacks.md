@@ -22,6 +22,15 @@ topics:
 tags:
   - startup
   - principled-graphql
+  - ai
+  - apollo-graphql
+  - federation
+  - founder
+  - go
+  - graphql
+  - graphql-federation
+  - microservices
+  - rest
 topic_tags:
   - small-startup-strategy
   - apollo-principles

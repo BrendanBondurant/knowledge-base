@@ -22,6 +22,16 @@ topics:
   - Schema transparency
 tags:
   - bff-pattern
+  - ai
+  - api-design
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - microservices
+  - rest
+  - rest-apis
+  - startup
 topic_tags:
   - bff-pattern
 entities:

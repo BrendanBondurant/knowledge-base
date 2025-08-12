@@ -21,6 +21,10 @@ topics:
   - Platform advantages and network effects
 tags:
   - startup
+  - ai
+  - api-design
+  - go
+  - llm
 topic_tags:
   - distribution
   - market-dominance

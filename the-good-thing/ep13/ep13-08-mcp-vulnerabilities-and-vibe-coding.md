@@ -22,6 +22,9 @@ topics:
   - Financial and data handling responsibilities
 tags:
   - startup
+  - ai
+  - go
+  - mcp
 topic_tags:
   - vibe-coding
   - security-vulnerabilities

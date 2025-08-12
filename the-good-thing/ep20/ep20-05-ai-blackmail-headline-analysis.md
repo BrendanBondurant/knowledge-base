@@ -22,6 +22,8 @@ topics:
 tags:
   - ai
   - llm
+  - go
+  - rest
 topic_tags:
   - ai-blackmail
   - media-sensationalism

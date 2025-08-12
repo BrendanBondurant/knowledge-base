@@ -23,6 +23,12 @@ topics:
   - Non-coding AI applications
 tags:
   - graphql-spec
+  - ai
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
 topic_tags:
   - graphql-spec
 entities:

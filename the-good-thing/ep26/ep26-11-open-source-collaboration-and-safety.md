@@ -28,6 +28,10 @@ tags:
   - postgres
   - open-source
   - open-source
+  - database
+  - go
+  - mysql
+  - vitess
 entities:
   - Vitess
   - PlanetScale

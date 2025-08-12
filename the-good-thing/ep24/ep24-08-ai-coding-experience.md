@@ -26,6 +26,14 @@ tags:
   - ai
   - cosmo-router
   - ai
+  - api-design
+  - cosmo
+  - go
+  - open-source
+  - rest
+  - rust
+  - startup
+  - typescript
 entities:
   - Stefan Avram
   - Jens Neuse

@@ -28,6 +28,23 @@ topics:
 tags:
   - startup
   - graphql-engine
+  - ai
+  - api-design
+  - api-gateway
+  - apollo-graphql
+  - bff-pattern
+  - cosmo
+  - cosmo-router
+  - database
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - microservices
+  - monolith
+  - open-source
+  - rest
+  - rest-apis
 topic_tags:
   - sdk-lessons
   - market-signals

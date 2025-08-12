@@ -25,6 +25,10 @@ tags:
   - ai
   - api-design
   - mcp
+  - go
+  - llm
+  - rest-connectors
+  - typescript
 entities:
   - MCP
   - Cursor

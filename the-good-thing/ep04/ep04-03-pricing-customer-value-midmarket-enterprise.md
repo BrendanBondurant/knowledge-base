@@ -23,6 +23,9 @@ topics:
   - Support challenges
 tags:
   - startup
+  - ai
+  - cosmo
+  - go
 topic_tags:
   - pricing
   - customer-value

@@ -29,6 +29,11 @@ topics:
 tags:
   - indecision
   - startup
+  - ai
+  - federation
+  - go
+  - graphql-federation
+  - rest
 topic_tags:
   - sales
   - rejection

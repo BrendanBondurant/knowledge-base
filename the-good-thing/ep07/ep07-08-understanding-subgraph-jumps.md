@@ -25,6 +25,13 @@ topics:
 tags:
   - federation
   - microservices
+  - ai
+  - api-design
+  - composition
+  - go
+  - graphql
+  - graphql-federation
+  - query-planning
 topic_tags:
   - federation
   - microservices

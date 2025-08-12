@@ -26,6 +26,11 @@ tags:
   - graphql
   - mcp
   - ai
+  - api-design
+  - cosmo-router
+  - go
+  - llm
+  - rest
 topic_tags:
   - graphql
   - mcp

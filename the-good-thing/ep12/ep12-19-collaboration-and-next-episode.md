@@ -24,6 +24,8 @@ tags:
   - federation
   - ai
   - cosmo
+  - go
+  - graphql-federation
 topic_tags:
   - federation
   - ai

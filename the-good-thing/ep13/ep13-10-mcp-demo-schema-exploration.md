@@ -22,6 +22,16 @@ topics:
   - Super graph architecture analysis
 tags:
   - schema-exploration
+  - ai
+  - api-design
+  - authentication
+  - cosmo
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - mcp
 topic_tags:
   - schema-exploration
 entities:

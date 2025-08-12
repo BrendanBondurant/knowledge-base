@@ -26,6 +26,8 @@ tags:
   - graphql
   - mcp
   - ai
+  - api-design
+  - go
 entities:
   - HVAC and plumbing convention
   - Bachelor party

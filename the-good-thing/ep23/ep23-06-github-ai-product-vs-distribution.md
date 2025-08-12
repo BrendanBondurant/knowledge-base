@@ -23,6 +23,9 @@ tags:
   - ai
   - github-copilot
   - founder
+  - go
+  - rest
+  - startup
 topic_tags:
   - ai
   - github-copilot

@@ -26,6 +26,13 @@ tags:
   - computer-science
   - graphql-federation
   - specifications
+  - ai
+  - apollo-graphql
+  - federation
+  - go
+  - graphql
+  - query-planning
+  - rest
 topic_tags:
   - education
   - continuous-learning

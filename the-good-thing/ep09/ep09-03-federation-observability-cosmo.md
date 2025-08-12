@@ -26,6 +26,14 @@ tags:
   - observability
   - contract-testing
   - cosmo
+  - ai
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - rest
+  - startup
+  - supergraph
 topic_tags:
   - schema-registry
   - observability

@@ -26,6 +26,13 @@ tags:
   - ai
   - cosmo
   - schema-registry
+  - apollo-graphql
+  - composition
+  - cosmo-router
+  - go
+  - graphql
+  - monolith
+  - startup
 entities:
   - WunderGraph
   - Cosmo

@@ -26,6 +26,10 @@ tags:
   - graphql
   - ai
   - rust
+  - go
+  - llm
+  - rest
+  - startup
 entities:
   - Dunning-Kruger curve
   - Mount Stupid concept

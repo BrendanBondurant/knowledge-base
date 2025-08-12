@@ -27,6 +27,7 @@ tags:
   - open-source
   - startup
   - startup
+  - go
 topic_tags:
   - ai
   - open-source

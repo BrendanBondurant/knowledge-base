@@ -23,6 +23,11 @@ topics:
   - Identifying customer pain points and company problems
 tags:
   - startup
+  - ai
+  - cosmo
+  - founder
+  - go
+  - rest
 topic_tags:
   - product-market-fit
   - sales-strategy

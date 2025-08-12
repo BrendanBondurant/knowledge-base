@@ -23,6 +23,16 @@ topics:
   - Schema validation and type safety
 tags:
   - schema-validation
+  - ai
+  - api-design
+  - cosmo
+  - founder
+  - go
+  - graphql
+  - llm
+  - mcp
+  - rest
+  - startup
 topic_tags:
   - schema-validation
 entities:

@@ -21,6 +21,13 @@ topics:
   - Post-IPO growth and scaling challenges
 tags:
   - principal-architect
+  - ai
+  - api-design
+  - database
+  - founder
+  - go
+  - rest
+  - startup
 topic_tags:
   - principal-architect
 entities:

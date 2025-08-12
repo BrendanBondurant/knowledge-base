@@ -28,6 +28,11 @@ topics:
   - Podcast journey reflection
 tags:
   - startup
+  - ai
+  - api-design
+  - go
+  - graphql
+  - open-source
 topic_tags:
   - graphql-meta-language
   - company-growth

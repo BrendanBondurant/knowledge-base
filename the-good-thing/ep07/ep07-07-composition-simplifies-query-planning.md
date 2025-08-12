@@ -26,6 +26,17 @@ tags:
   - query-planning
   - metadata
   - typescript
+  - ai
+  - apollo-graphql
+  - benchmarking
+  - cosmo
+  - cosmo-router
+  - federation
+  - go
+  - graphql
+  - graphql-federation
+  - startup
+  - supergraph
 topic_tags:
   - composition
   - query-planning
