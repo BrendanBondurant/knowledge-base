@@ -5,47 +5,47 @@ series: The Good Thing
 episode: 25
 chunk: 1
 participants:
-- Stefan Avram
-- Jens Neuse
-- Kevin Swiber
+  - Stefan Avram
+  - Jens Neuse
+  - Kevin Swiber
 segment: Introduction and Guest Background
 timecode: 00:00:22:23 – 00:05:11:14
 start_time: 00:00:22:23
 end_time: 00:05:11:14
 speakers:
-- Stefan
-- Jens
-- Kevin
+  - Stefan
+  - Jens
+  - Kevin
 topics:
-- Kevin Swiber introduction and background
-- API industry experience and expertise
-- Transition from vendor to consulting
-- Open API initiative involvement
-- API gateway development at Apogee
+  - Kevin Swiber introduction and background
+  - API industry experience and expertise
+  - Transition from vendor to consulting
+  - Open API initiative involvement
+  - API gateway development at Apogee
 tags:
-- api-expert
-- api-gateway
+  - api-expert
+  - api-gateway
 topic_tags:
-- api-expert
-- api-gateway
+  - api-expert
+  - api-gateway
 entities:
-- Kevin Swiber
-- Stefan Avram
-- Jens Neuse
-- Postman
-- Stripe
-- Open API Initiative
-- Apogee
-- Express Gateway
-- Argo
-- Node.js
+  - Kevin Swiber
+  - Stefan Avram
+  - Jens Neuse
+  - Postman
+  - Stripe
+  - Open API Initiative
+  - Apogee
+  - Express Gateway
+  - Argo
+  - Node.js
 mentions:
-- 15 years in API space
-- Enterprise architecture background
-- API standards work
-- Gateway development
-- West Coast early morning recording
-- MCP (Model Context Protocol)
+  - 15 years in API space
+  - Enterprise architecture background
+  - API standards work
+  - Gateway development
+  - West Coast early morning recording
+  - MCP (Model Context Protocol)
 summary: Stefan introduces Kevin Swiber, a prominent API industry expert with 15+
   years experience including roles at Stripe, Postman, and the Open API Initiative.
   Kevin shares his background transitioning from enterprise architecture to API product

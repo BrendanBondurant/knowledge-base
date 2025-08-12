@@ -5,37 +5,37 @@ series: The Good Thing
 episode: 15
 chunk: 6
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Vercel Landing Page Benefits Analysis
 timecode: 00:25:01 – 00:30:17
 start_time: 00:25:01
 end_time: 00:30:17
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Immediate benefits presentation strategy
-- Quantified business impact metrics
-- Social proof through major customers
-- Build time and performance improvements
-- Business-focused value proposition
+  - Immediate benefits presentation strategy
+  - Quantified business impact metrics
+  - Social proof through major customers
+  - Build time and performance improvements
+  - Business-focused value proposition
 tags:
-- social-proof
+  - social-proof
 topic_tags:
-- social-proof
+  - social-proof
 entities:
-- Vercel
-- Runway
-- Adobe
-- Chick-fil-A
-- Neo
+  - Vercel
+  - Runway
+  - Adobe
+  - Chick-fil-A
+  - Neo
 mentions:
-- 95% reduction in page loads
-- 7 minutes to 40s build time reduction
-- 100% uptime during Black Friday
-- One year of developer time saved
-- Business person understanding benefits
+  - 95% reduction in page loads
+  - 7 minutes to 40s build time reduction
+  - 100% uptime during Black Friday
+  - One year of developer time saved
+  - Business person understanding benefits
 summary: Stefan and Jens praise Vercel's landing page for immediately presenting quantified
   business benefits like 95% reduction in page loads and dramatic build time improvements.
   They highlight how Vercel effectively communicates value to business stakeholders

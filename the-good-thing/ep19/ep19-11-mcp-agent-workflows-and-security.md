@@ -5,39 +5,39 @@ series: The Good Thing
 episode: 19
 chunk: 11
 participants:
-- Stefan
-- Robert Farr
-- Jens
+  - Stefan
+  - Robert Farr
+  - Jens
 segment: AI Agents and Security
 timecode: 00:52:08 – 00:58:01
 start_time: 00:52:08
 end_time: 00:58:01
 speakers:
-- Stefan
-- Robert Farr
-- Jens
+  - Stefan
+  - Robert Farr
+  - Jens
 topics:
-- Building secure agent tools with MCP
-- Agent session exploration and workflows
-- Production safety considerations for AI
-- Security frameworks for AI agents
+  - Building secure agent tools with MCP
+  - Agent session exploration and workflows
+  - Production safety considerations for AI
+  - Security frameworks for AI agents
 tags:
-- mcp
-- ai-agents
+  - mcp
+  - ai-agents
 topic_tags:
-- mcp
-- ai-agents
+  - mcp
+  - ai-agents
 entities:
-- Stefan Avram
-- Robert Farr
-- Jens Neuse
-- MCP (Model Context Protocol)
-- AI agents
+  - Stefan Avram
+  - Robert Farr
+  - Jens Neuse
+  - MCP (Model Context Protocol)
+  - AI agents
 mentions:
-- MCP security patterns
-- Agent session management
-- Production safety requirements
-- Secure agent tool development
+  - MCP security patterns
+  - Agent session management
+  - Production safety requirements
+  - Secure agent tool development
 summary: Discussion of building secure AI agent tools using MCP, covering session
   exploration workflows and production safety considerations for deploying AI agents
   in enterprise environments.

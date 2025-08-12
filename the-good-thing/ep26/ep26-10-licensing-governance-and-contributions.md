@@ -24,9 +24,9 @@ topics:
   - BSL vs true open source licenses
   - Apache 2.0 vs other licensing models
 tags:
-- ai
-- open-source
-- websocket
+  - ai
+  - open-source
+  - websocket
   - company-culture
   - ceo-coding
   - open-source

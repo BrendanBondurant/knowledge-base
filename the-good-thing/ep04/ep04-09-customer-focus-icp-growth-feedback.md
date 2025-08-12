@@ -5,44 +5,44 @@ series: The Good Thing
 episode: 4
 chunk: 09
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: The evolution of ideal customer profile (ICP), company growth, and the importance
   of listening to users
 timecode: 00:25:32:21 - 00:29:02:26
 start_time: 00:25:32:21
 end_time: 00:29:02:26
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Customer focus
-- ICP changes
-- Company growth
-- Listening to users
-- Company pivots
-- Support
-- Product-market fit
-- Customer feedback
-- Company vision
+  - Customer focus
+  - ICP changes
+  - Company growth
+  - Listening to users
+  - Company pivots
+  - Support
+  - Product-market fit
+  - Customer feedback
+  - Company vision
 tags:
-- startup
+  - startup
 topic_tags:
-- customer-focus
-- icp
-- growth
-- feedback
+  - customer-focus
+  - icp
+  - growth
+  - feedback
 entities:
-- Stefan
-- Jens
-- Fly.io
-- Calendly
-- Apollo
+  - Stefan
+  - Jens
+  - Fly.io
+  - Calendly
+  - Apollo
 mentions:
-- logo wall
-- support issues
-- company pivots
-- customer feedback
+  - logo wall
+  - support issues
+  - company pivots
+  - customer feedback
 summary: Stefan and Jens discuss how their ideal customer profile (ICP) evolved as
   the company grew, the challenges of supporting different customer segments, and
   the importance of listening to users. They reflect on company pivots and the need

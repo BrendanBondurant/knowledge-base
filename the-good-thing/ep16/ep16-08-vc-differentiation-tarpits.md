@@ -21,9 +21,9 @@ topics:
   - Current AI investment wave vs previous trends
   - First-time founder competition misunderstanding
 tags:
-- graphql
-- ai
-- database
+  - graphql
+  - ai
+  - database
   - vc-funding
   - startup
   - competition-analysis

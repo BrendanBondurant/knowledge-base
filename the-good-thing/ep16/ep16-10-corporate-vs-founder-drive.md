@@ -21,9 +21,9 @@ topics:
   - Politics and bureaucracy in large companies
   - Individual contributor versus founder dedication
 tags:
-- ai
-- cosmo
-- apollo-graphql
+  - ai
+  - cosmo
+  - apollo-graphql
   - corporate-culture
   - founder
   - faang-companies

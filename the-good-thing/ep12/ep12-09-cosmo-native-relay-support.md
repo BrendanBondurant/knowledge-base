@@ -5,42 +5,42 @@ series: The Good Thing
 episode: 12
 chunk: 9
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Relay Client Architecture and Implementation
 timecode: 00:30:09:24 – 00:34:15:08
 start_time: 00:30:09:24
 end_time: 00:34:15:08
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Relay vs tRPC/REST scalability
-- Fragment-based component architecture
-- Node interface concept explanation
-- Cosmo Router native Relay support plans
-- Normalized cache and refetching patterns
+  - Relay vs tRPC/REST scalability
+  - Fragment-based component architecture
+  - Node interface concept explanation
+  - Cosmo Router native Relay support plans
+  - Normalized cache and refetching patterns
 tags:
-- cosmo-router
+  - cosmo-router
 topic_tags:
-- cosmo-router
+  - cosmo-router
 entities:
-- Relay
-- Isograph
-- Robert Belsky
-- Meta
-- Pinterest
-- Coinbase
-- Cosmo Router
-- Stefan Avram
-- Jens Neuse
+  - Relay
+  - Isograph
+  - Robert Belsky
+  - Meta
+  - Pinterest
+  - Coinbase
+  - Cosmo Router
+  - Stefan Avram
+  - Jens Neuse
 mentions:
-- fragment-based data requirements
-- type safety benefits
-- Coinbase using Relay
-- over-fetching problems
-- feed item refetch example
-- open source motivation
+  - fragment-based data requirements
+  - type safety benefits
+  - Coinbase using Relay
+  - over-fetching problems
+  - feed item refetch example
+  - open source motivation
 summary: Jens explains Relay's power for large-scale frontend applications through
   fragment-based component architecture and normalized caching. He introduces the
   node interface concept for efficient refetching and announces plans for Cosmo Router

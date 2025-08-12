@@ -5,42 +5,42 @@ series: The Good Thing
 episode: 12
 chunk: 5
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Federation and MCP Integration
 timecode: 00:14:14:10 – 00:18:23:24
 start_time: 00:14:14:10
 end_time: 00:18:23:24
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Federation and AI alignment
-- Supergraph as unified protocol
-- MCP challenges with multiple APIs
-- API gateway territory for MCP
-- Microservices and MCP server scaling
-- Authorization and observability concerns
+  - Federation and AI alignment
+  - Supergraph as unified protocol
+  - MCP challenges with multiple APIs
+  - API gateway territory for MCP
+  - Microservices and MCP server scaling
+  - Authorization and observability concerns
 tags:
-- federation
-- mcp
-- ai
+  - federation
+  - mcp
+  - ai
 topic_tags:
-- federation
-- mcp
-- ai
+  - federation
+  - mcp
+  - ai
 entities:
-- Stefan Avram
-- Jens Neuse
-- JSON Schema
-- MCP
+  - Stefan Avram
+  - Jens Neuse
+  - JSON Schema
+  - MCP
 mentions:
-- politician message delivery joke
-- AI struggling with multiple protocols
-- SOAP REST OpenAPI Postgres protocols
-- uniform interface benefits
-- MCP server per team challenges
-- AI mutation protection needs
+  - politician message delivery joke
+  - AI struggling with multiple protocols
+  - SOAP REST OpenAPI Postgres protocols
+  - uniform interface benefits
+  - MCP server per team challenges
+  - AI mutation protection needs
 summary: Jens explains how federation aligns with AI needs by providing a unified
   protocol for all APIs, making it easier for AI to work with complex systems. He
   discusses MCP challenges in microservices architectures where every team would need

@@ -21,8 +21,8 @@ topics:
   - Network vulnerability risks with SSE servers
   - Local machine attack vectors
 tags:
-- mcp
-- websocket
+  - mcp
+  - websocket
   - mcp
   - stdio-implementation
   - sse-vulnerabilities

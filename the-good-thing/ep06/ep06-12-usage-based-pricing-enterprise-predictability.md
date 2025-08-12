@@ -23,17 +23,17 @@ topics:
   - Startup sales
   - Customer requirements
 tags:
-- ai
-- open-source
-- startup
+  - ai
+  - open-source
+  - startup
   - usage-based-pricing
   - enterprise-predictability
   - startup
   - business-models
 topic_tags:
-- ai
-- open-source
-- startup
+  - ai
+  - open-source
+  - startup
   - usage-based-pricing
   - enterprise-predictability
   - pricing-strategy

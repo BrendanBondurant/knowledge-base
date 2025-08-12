@@ -24,9 +24,9 @@ topics:
   - Mount Stupid concept and humbling experiences
   - Knowledge breadth vs depth trade-offs
 tags:
-- graphql
-- ai
-- rust
+  - graphql
+  - ai
+  - rust
   - pragmatic-consulting
   - developer-maturity
   - dunning-kruger-effect

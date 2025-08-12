@@ -1,4 +1,3 @@
-
 ---
 title: SoundCloud Migration Performance and Architecture Benefits
 slug: ep08-05-soundcloud-migration-performance
@@ -22,9 +21,9 @@ topics:
   - Query planning cache performance
   - Analytics integration during migration
 tags:
-- federation
-- graphql-federation
-- ai
+  - federation
+  - graphql-federation
+  - ai
   - performance-optimization
   - nodejs-migration
   - golang-architecture

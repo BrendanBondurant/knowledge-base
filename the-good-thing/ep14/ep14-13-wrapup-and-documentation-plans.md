@@ -23,9 +23,9 @@ topics:
   - Documentation planning for MCP gateway
   - Easter weekend plans
 tags:
-- mcp
-- ai
-- cosmo
+  - mcp
+  - ai
+  - cosmo
   - internal-app-building
   - retool-comparison
   - super-graph-advantages

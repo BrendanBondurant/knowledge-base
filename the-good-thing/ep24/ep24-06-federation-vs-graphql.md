@@ -24,9 +24,9 @@ topics:
   - Navy SEALs team size principles
   - Governance and foundation overhead
 tags:
-- federation
-- graphql-federation
-- grpc
+  - federation
+  - graphql-federation
+  - grpc
   - technology-philosophy
   - problem-focus
   - solution-obsession

@@ -5,45 +5,45 @@ series: The Good Thing
 episode: 13
 chunk: 11
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Schema Evolution and Visualization Demo
 timecode: 00:41:28 – 00:45:02
 start_time: 00:41:28
 end_time: 00:45:02
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Employee type schema exploration
-- Architecture visualization with Mermaid diagrams
-- Dream query workflow concept (from Yelp)
-- Live schema modification attempt
-- Serverless architecture challenges
+  - Employee type schema exploration
+  - Architecture visualization with Mermaid diagrams
+  - Dream query workflow concept (from Yelp)
+  - Live schema modification attempt
+  - Serverless architecture challenges
 tags:
-- dream-query
-- schema-evolution
+  - dream-query
+  - schema-evolution
 topic_tags:
-- dream-query
-- schema-evolution
+  - dream-query
+  - schema-evolution
 entities:
-- Employee type
-- Mermaid
-- Yelp
-- GraphQL
-- Super graph
-- Subgraphs
-- Family service
-- Availability service
+  - Employee type
+  - Mermaid
+  - Yelp
+  - GraphQL
+  - Super graph
+  - Subgraphs
+  - Family service
+  - Availability service
 mentions:
-- employee schema details
-- federated architecture visualization
-- Mermaid diagram generation
-- family and availability subgraphs
-- dream query workflow from Yelp
-- age field addition attempt
-- serverless cold start issues
-- schema field missing error
+  - employee schema details
+  - federated architecture visualization
+  - Mermaid diagram generation
+  - family and availability subgraphs
+  - dream query workflow from Yelp
+  - age field addition attempt
+  - serverless cold start issues
+  - schema field missing error
 summary: Jens demonstrates schema exploration by showing the employee type details
   and successfully generates a Mermaid diagram visualizing the federated architecture.
   He introduces the "dream query workflow" concept borrowed from Yelp, attempting

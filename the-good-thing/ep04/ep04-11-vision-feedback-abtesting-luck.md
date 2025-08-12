@@ -5,50 +5,50 @@ series: The Good Thing
 episode: 4
 chunk: 11
 participants:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 segment: Balancing vision and customer feedback, the role of AB testing, and the importance
   of luck in startups
 timecode: 00:44:09:24 - 00:52:10:18
 start_time: 00:44:09:24
 end_time: 00:52:10:18
 speakers:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 topics:
-- Vision vs. feedback
-- AB testing
-- Startup luck
-- Product direction
-- Founder mindset
-- Customer requests
-- Product management
-- Experimentation
-- Survivorship bias
-- Startup advice
+  - Vision vs. feedback
+  - AB testing
+  - Startup luck
+  - Product direction
+  - Founder mindset
+  - Customer requests
+  - Product management
+  - Experimentation
+  - Survivorship bias
+  - Startup advice
 tags:
-- startup
-- founder
+  - startup
+  - founder
 topic_tags:
-- vision
-- feedback
-- ab-testing
-- startup-luck
-- product-direction
-- founder-mindset
+  - vision
+  - feedback
+  - ab-testing
+  - startup-luck
+  - product-direction
+  - founder-mindset
 entities:
-- Jens Neuse
-- Stefan Avram
-- WunderGraph
+  - Jens Neuse
+  - Stefan Avram
+  - WunderGraph
 mentions:
-- vision vs feedback tension
-- AB testing limitations
-- startup luck factors
-- product direction decisions
-- founder mindset
-- customer requests
-- survivorship bias
-- timing in startups
+  - vision vs feedback tension
+  - AB testing limitations
+  - startup luck factors
+  - product direction decisions
+  - founder mindset
+  - customer requests
+  - survivorship bias
+  - timing in startups
 summary: Jens and Stefan discuss the tension between following a founder's vision
   and responding to customer feedback, the limits and value of AB testing, and how
   luck and timing play a major role in startup success. They share stories and advice

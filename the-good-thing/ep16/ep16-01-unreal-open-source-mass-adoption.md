@@ -5,45 +5,45 @@ series: The Good Thing
 episode: 16
 chunk: 1
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Open Source Strategy Discussion Introduction
 timecode: 00:00:12 – 00:04:30
 start_time: 00:00:12
 end_time: 00:04:30
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Unreal Engine free distribution strategy
-- Epic Games founder business philosophy
-- Open source for mass volume adoption
-- Competitive advantage through ubiquity
-- Ten-year horizon thinking for Federation
+  - Unreal Engine free distribution strategy
+  - Epic Games founder business philosophy
+  - Open source for mass volume adoption
+  - Competitive advantage through ubiquity
+  - Ten-year horizon thinking for Federation
 tags:
-- open-source
-- federation
+  - open-source
+  - federation
 topic_tags:
-- unreal-engine
-- open-source-strategy
-- mass-adoption
-- epic-games
-- federation
-- competitive-strategy
+  - unreal-engine
+  - open-source-strategy
+  - mass-adoption
+  - epic-games
+  - federation
+  - competitive-strategy
 entities:
-- Epic Games
-- Unreal Engine
-- Fortnite
-- Lex Friedman
-- WunderGraph
-- Federation
-- GraphQL
+  - Epic Games
+  - Unreal Engine
+  - Fortnite
+  - Lex Friedman
+  - WunderGraph
+  - Federation
+  - GraphQL
 mentions:
-- Lex Friedman podcast with Epic Games founder
-- If everyone uses our engine, they're not using competitors
-- Ten-year Federation business bet
-- Global distribution and indie gamer access
-- Leadership resistance to open licensing
+  - Lex Friedman podcast with Epic Games founder
+  - If everyone uses our engine, they're not using competitors
+  - Ten-year Federation business bet
+  - Global distribution and indie gamer access
+  - Leadership resistance to open licensing
 summary: Stefan introduces the episode's focus on open source strategy, referencing
   a Lex Friedman podcast with Epic Games' founder. They discuss how Epic made Unreal
   Engine free to achieve mass adoption, ensuring developers choose their platform

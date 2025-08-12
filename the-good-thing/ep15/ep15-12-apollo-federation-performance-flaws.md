@@ -21,9 +21,9 @@ topics:
   - Brand messaging alignment issues
   - Marketing buzzword overuse
 tags:
-- federation
-- graphql-federation
-- ai
+  - federation
+  - graphql-federation
+  - ai
   - apollo-graphql
   - messaging-consistency
   - low-code

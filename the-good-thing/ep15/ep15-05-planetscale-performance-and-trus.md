@@ -5,38 +5,38 @@ series: The Good Thing
 episode: 15
 chunk: 5
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: PlanetScale Performance Marketing Analysis
 timecode: 00:20:38 – 00:25:01
 start_time: 00:20:38
 end_time: 00:25:01
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Vitess technology and YouTube origins
-- Performance diagram visualization
-- PlanetScale Metal product positioning
-- Cache warmer comparison with Cosmo
-- Database performance as primary selling point
+  - Vitess technology and YouTube origins
+  - Performance diagram visualization
+  - PlanetScale Metal product positioning
+  - Cache warmer comparison with Cosmo
+  - Database performance as primary selling point
 tags:
-- vitess
+  - vitess
 topic_tags:
-- vitess
+  - vitess
 entities:
-- PlanetScale
-- YouTube
-- Vitess
-- Kubernetes
-- PlanetScale Metal
-- Cosmo
+  - PlanetScale
+  - YouTube
+  - Vitess
+  - Kubernetes
+  - PlanetScale Metal
+  - Cosmo
 mentions:
-- Vitess open source project takeover
-- Bare metal performance improvements
-- Cache warmer screenshot inspiration
-- Performance diagrams effectiveness
-- Narrow customer base acknowledgment
+  - Vitess open source project takeover
+  - Bare metal performance improvements
+  - Cache warmer screenshot inspiration
+  - Performance diagrams effectiveness
+  - Narrow customer base acknowledgment
 summary: Stefan and Jens analyze PlanetScale's effective use of performance diagrams
   and technical proof points. They discuss how PlanetScale leverages Vitess technology
   from YouTube, their focus on performance as the primary value proposition, and compare

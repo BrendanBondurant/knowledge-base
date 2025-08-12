@@ -21,9 +21,9 @@ topics:
   - Energy and commitment differences
   - Corporate employee motivation misalignment
 tags:
-- graphql
-- ai
-- cosmo-router
+  - graphql
+  - ai
+  - cosmo-router
   - founder
   - corporate-competition
   - ai

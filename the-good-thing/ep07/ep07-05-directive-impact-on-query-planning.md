@@ -18,14 +18,14 @@ speakers:
   - David
 topics:
   - Federation directive behavior in query planning
-  - @provides directive as optimization strategy
-  - @requires directive and field dependencies
-  - @override directive and field resolution changes
+  - "@provides directive as optimization strategy"
+  - "@requires directive and field dependencies"
+  - "@override directive and field resolution changes"
   - Query plan visualization and human readability
 tags:
-- federation
-- graphql-federation
-- ai
+  - federation
+  - graphql-federation
+  - ai
   - federation
   - graphql-directives
   - query-optimization

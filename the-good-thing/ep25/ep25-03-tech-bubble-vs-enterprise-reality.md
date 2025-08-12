@@ -24,9 +24,9 @@ topics:
   - Media focus on bleeding edge vs actual enterprise usage
   - Mainframe computing persistence example
 tags:
-- ai
-- rest
-- websocket
+  - ai
+  - rest
+  - websocket
   - tech-relevance
   - infrastructure-boring
   - tech-bubble

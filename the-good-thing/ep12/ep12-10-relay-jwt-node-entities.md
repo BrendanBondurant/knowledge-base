@@ -5,43 +5,43 @@ series: The Good Thing
 episode: 12
 chunk: 10
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Technical Implementation of Node Interface
 timecode: 00:34:21:09 – 00:38:22:27
 start_time: 00:34:21:09
 end_time: 00:38:22:27
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Entity resolution in federation
-- JWT-signed node IDs for security
-- Router entity lookup mechanism
-- Subgraph routing for entities
-- Type name and key combinations
-- Attack prevention through signing
+  - Entity resolution in federation
+  - JWT-signed node IDs for security
+  - Router entity lookup mechanism
+  - Subgraph routing for entities
+  - Type name and key combinations
+  - Attack prevention through signing
 tags:
-- federation
-- graphql-federation
-- ai
+  - federation
+  - graphql-federation
+  - ai
 topic_tags:
-- federation
-- graphql-federation
-- ai
+  - federation
+  - graphql-federation
+  - ai
 entities:
-- JWT
-- GraphQL Federation
-- Cosmo Router
-- Stefan Avram
-- Jens Neuse
+  - JWT
+  - GraphQL Federation
+  - Cosmo Router
+  - Stefan Avram
+  - Jens Neuse
 mentions:
-- entity home subgraph concept
-- key directive annotations
-- node interface implementation
-- entity guessing attacks
-- signed JWT validation
-- type name and keys combination
+  - entity home subgraph concept
+  - key directive annotations
+  - node interface implementation
+  - entity guessing attacks
+  - signed JWT validation
+  - type name and keys combination
 summary: Jens details the technical implementation of secure entity lookup in federation
   through JWT-signed node IDs. He explains how the router maps node IDs to entities,
   prevents security attacks through JWT signing, and routes requests to the correct

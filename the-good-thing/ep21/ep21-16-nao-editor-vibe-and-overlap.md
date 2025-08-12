@@ -20,9 +20,9 @@ topics:
   - Inevitable IDE feature convergence
   - Amy AI agent introduction
 tags:
-- ai
-- database
-- founder
+  - ai
+  - database
+  - founder
   - nao
   - pricing-comparison
   - data-security

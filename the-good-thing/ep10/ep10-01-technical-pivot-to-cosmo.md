@@ -5,45 +5,45 @@ series: The Good Thing
 episode: 10
 chunk: 1
 participants:
-- Stefan
-- Björn
-- Dustin
-- Jens
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
 segment: Introduction and technical strategy
 timecode: 00:00:04:07 – 00:09:15:16
 start_time: 00:00:04:07
 end_time: 00:09:15:16
 speakers:
-- Stefan
-- Björn
-- Dustin
-- Jens
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
 topics:
-- In-person 10th episode celebration
-- Co-founder introductions and roles
-- Open source architecture decisions
-- Amsterdam retreat and Cosmo pivot
-- Mono repo development approach
-- Connect Buff and protobuf tooling
+  - In-person 10th episode celebration
+  - Co-founder introductions and roles
+  - Open source architecture decisions
+  - Amsterdam retreat and Cosmo pivot
+  - Mono repo development approach
+  - Connect Buff and protobuf tooling
 tags:
-- open-source
+  - open-source
 topic_tags:
-- open-source
+  - open-source
 entities:
-- WunderGraph
-- Cosmo
-- Amsterdam
-- Connect Buff
-- Protobuf
-- T-Online
+  - WunderGraph
+  - Cosmo
+  - Amsterdam
+  - Connect Buff
+  - Protobuf
+  - T-Online
 mentions:
-- first in-person episode
-- Bretten working retreat
-- makeshift microphone setup
-- Amsterdam pivot decision
-- open source commitment
-- mono repo efficiency
-- protobuf contract generation
+  - first in-person episode
+  - Bretten working retreat
+  - makeshift microphone setup
+  - Amsterdam pivot decision
+  - open source commitment
+  - mono repo efficiency
+  - protobuf contract generation
 summary: Stefan introduces a special 10th episode recorded in-person with all co-founders
   in Bretten. Dustin explains the technical decisions that shaped WunderGraph, including
   the commitment to open source and mono repo architecture. They discuss the pivotal

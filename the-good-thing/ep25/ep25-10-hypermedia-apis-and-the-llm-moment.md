@@ -24,9 +24,9 @@ topics:
   - LLM and agent API interaction potential
   - MCP UI track and hypermedia patterns
 tags:
-- mcp
-- ai
-- rest
+  - mcp
+  - ai
+  - rest
   - distributed-cloud
   - siren-hypermedia
   - html-comparison

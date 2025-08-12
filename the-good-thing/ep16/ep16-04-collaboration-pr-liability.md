@@ -21,9 +21,9 @@ topics:
   - Pull request maintenance responsibilities
   - External contribution quality challenges
 tags:
-- federation
-- graphql-federation
-- ai
+  - federation
+  - graphql-federation
+  - ai
   - open-source
   - discord-support
   - pull-requests

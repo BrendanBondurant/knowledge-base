@@ -24,9 +24,9 @@ topics:
   - Enterprise customer concerns about company size
   - Profitability and business sustainability
 tags:
-- ai
-- database
-- founder
+  - ai
+  - database
+  - founder
   - team-structure
   - marketing-strategy
   - founder

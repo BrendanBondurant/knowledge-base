@@ -5,43 +5,43 @@ series: The Good Thing
 episode: 12
 chunk: 18
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Managed Services Business Model Critique
 timecode: 01:08:23:13 – 01:12:03:04
 start_time: 01:08:23:13
 end_time: 01:12:03:04
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Apollo's managed router critique
-- Platform team operational overhead
-- Cost analysis of managed vs self-hosted
-- Multi-company incident collaboration
-- Federation operational requirements
-- Margin analysis on compute reselling
+  - Apollo's managed router critique
+  - Platform team operational overhead
+  - Cost analysis of managed vs self-hosted
+  - Multi-company incident collaboration
+  - Federation operational requirements
+  - Margin analysis on compute reselling
 tags:
-- federation
-- ai
-- apollo-graphql
+  - federation
+  - ai
+  - apollo-graphql
 topic_tags:
-- federation
-- ai
-- apollo-graphql
+  - federation
+  - ai
+  - apollo-graphql
 entities:
-- Apollo
-- AWS
-- Coinbase
-- Stefan Avram
-- Jens Neuse
+  - Apollo
+  - AWS
+  - Coinbase
+  - Stefan Avram
+  - Jens Neuse
 mentions:
-- Apollo router hosting service
-- SDK experience lessons
-- on-call requirements
-- TPS proxy metrics
-- platform team existing infrastructure
-- dual company incident response
+  - Apollo router hosting service
+  - SDK experience lessons
+  - on-call requirements
+  - TPS proxy metrics
+  - platform team existing infrastructure
+  - dual company incident response
 summary: Jens critiques Apollo's managed router service as fundamentally flawed, arguing
   that companies using federation already have platform teams managing subgraphs,
   making additional managed router costs redundant. He explains how incidents require

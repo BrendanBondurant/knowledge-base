@@ -5,44 +5,44 @@ series: The Good Thing
 episode: 1
 chunk: 6
 participants:
-- Jens
+  - Jens
 segment: Shakealert Startup — First Real Coding Experience
 timecode: 00:16:46 – 00:20:07
 start_time: 00:16:46
 end_time: 00:20:07
 speakers:
-- Jens
+  - Jens
 topics:
-- Early startup attempt with motion-based deals app
-- Avoiding UI through shake gesture for QR scan
-- iOS, Android, and backend split
-- Learning programming out of necessity
-- Teaching self Android and backend dev with Slide Nerd (Java)
-- Transition to Swift and discovering Java's verbosity
+  - Early startup attempt with motion-based deals app
+  - Avoiding UI through shake gesture for QR scan
+  - iOS, Android, and backend split
+  - Learning programming out of necessity
+  - Teaching self Android and backend dev with Slide Nerd (Java)
+  - Transition to Swift and discovering Java's verbosity
 tags:
-- startup
+  - startup
 topic_tags:
-- android-dev
-- self-taught
-- backend-dev
-- startup-lessons
-- programming-motivation
+  - android-dev
+  - self-taught
+  - backend-dev
+  - startup-lessons
+  - programming-motivation
 entities:
-- Jens Neuse
-- Shakealert
-- Slide Nerd
-- Android
-- iOS
-- Java
-- Swift
-- PHP
-- QR code
+  - Jens Neuse
+  - Shakealert
+  - Slide Nerd
+  - Android
+  - iOS
+  - Java
+  - Swift
+  - PHP
+  - QR code
 mentions:
-- shake sensor
-- YouTube tutorials
-- somebody had to write the code
-- Slide Nerd
-- self-taught programming
+  - shake sensor
+  - YouTube tutorials
+  - somebody had to write the code
+  - Slide Nerd
+  - self-taught programming
 summary: 'Jens describes his first hands-on experience with building a real product:
   an app called Shakealert that let users shake their phone to activate a QR code
   scanner for local deals. Initially working with a friend who knew PHP and a classmate

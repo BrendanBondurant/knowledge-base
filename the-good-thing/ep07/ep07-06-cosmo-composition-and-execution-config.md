@@ -5,41 +5,41 @@ series: The Good Thing
 episode: 7
 chunk: 6
 participants:
-- Jens
-- Sergiy
-- David
+  - Jens
+  - Sergiy
+  - David
 segment: Cosmo vs Apollo architecture comparison
 timecode: 00:27:03:08 – 00:32:20:15
 start_time: 00:27:03:08
 end_time: 00:32:20:15
 speakers:
-- Jens
-- Sergiy
-- David
+  - Jens
+  - Sergiy
+  - David
 topics:
-- Cosmo vs Apollo composition approaches
-- Router execution config architecture
-- Protobuf and JSON metadata transformation
-- Composition and query planning integration
-- Resolvability and satisfiability checking
+  - Cosmo vs Apollo composition approaches
+  - Router execution config architecture
+  - Protobuf and JSON metadata transformation
+  - Composition and query planning integration
+  - Resolvability and satisfiability checking
 tags:
-- composition
+  - composition
 topic_tags:
-- composition
+  - composition
 entities:
-- Cosmo
-- Apollo
-- WunderGraph
-- GraphQL
-- David
-- Sergiy
-- Jens Neuse
+  - Cosmo
+  - Apollo
+  - WunderGraph
+  - GraphQL
+  - David
+  - Sergiy
+  - Jens Neuse
 mentions:
-- Apollo directive encodings
-- supergraph schema metadata
-- router execution config vs router config
-- composition-time resolvability checks
-- metadata offloading to composition
+  - Apollo directive encodings
+  - supergraph schema metadata
+  - router execution config vs router config
+  - composition-time resolvability checks
+  - metadata offloading to composition
 summary: David and Sergiy explain Cosmo's architecture differences from Apollo, particularly
   how composition generates metadata in protobuf/JSON format for the router execution
   config. This approach offloads complex validation from query planning to composition

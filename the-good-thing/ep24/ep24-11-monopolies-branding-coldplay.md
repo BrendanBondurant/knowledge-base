@@ -23,9 +23,9 @@ topics:
   - WunderGraph's market positioning
   - Coldplay concert workplace controversy
 tags:
-- federation
-- ai
-- open-source
+  - federation
+  - ai
+  - open-source
   - CEO-leadership
   - strategic-investments
   - monopoly-theory

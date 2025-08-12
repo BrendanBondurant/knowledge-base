@@ -5,39 +5,39 @@ series: The Good Thing
 episode: 19
 chunk: 7
 participants:
-- Stefan
-- Robert Farr
-- Jens
+  - Stefan
+  - Robert Farr
+  - Jens
 segment: Graph Architecture and Federation
 timecode: 00:32:32 – 00:37:10
 start_time: 00:32:32
 end_time: 00:37:10
 speakers:
-- Stefan
-- Robert Farr
-- Jens
+  - Stefan
+  - Robert Farr
+  - Jens
 topics:
-- Distinction between graphs and GraphQL
-- Hypermedia as graph interface pattern
-- Procore's internal federation implementation journey
-- Graph representation strategies
+  - Distinction between graphs and GraphQL
+  - Hypermedia as graph interface pattern
+  - Procore's internal federation implementation journey
+  - Graph representation strategies
 tags:
-- graphql
-- federation
+  - graphql
+  - federation
 topic_tags:
-- graphql
-- federation
+  - graphql
+  - federation
 entities:
-- Robert Farr
-- Stefan Avram
-- Jens Neuse
-- Procore
-- GraphQL
+  - Robert Farr
+  - Stefan Avram
+  - Jens Neuse
+  - Procore
+  - GraphQL
 mentions:
-- Graph vs GraphQL conceptual differences
-- Hypermedia interface patterns
-- Internal federation experiences
-- Graph representation challenges
+  - Graph vs GraphQL conceptual differences
+  - Hypermedia interface patterns
+  - Internal federation experiences
+  - Graph representation challenges
 summary: Exploration of graph representations beyond GraphQL, discussing hypermedia
   as a graph interface and Robert's insights from Procore's internal federation implementation
   journey.

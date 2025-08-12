@@ -5,41 +5,41 @@ series: The Good Thing
 episode: 7
 chunk: 8
 participants:
-- Jens
-- Sergiy
-- David
+  - Jens
+  - Sergiy
+  - David
 segment: Subgraph jumps and federation graph theory
 timecode: 00:38:24:04 – 00:45:32:04
 start_time: 00:38:24:04
 end_time: 00:45:32:04
 speakers:
-- Jens
-- Sergiy
-- David
+  - Jens
+  - Sergiy
+  - David
 topics:
-- Subgraph jumps as portals between services
-- Federation keys and unique identifiers
-- Root entry nodes and graph edges
-- Microservices architecture and data isolation
-- Graph theory vs tree structure in planning
+  - Subgraph jumps as portals between services
+  - Federation keys and unique identifiers
+  - Root entry nodes and graph edges
+  - Microservices architecture and data isolation
+  - Graph theory vs tree structure in planning
 tags:
-- federation
-- microservices
+  - federation
+  - microservices
 topic_tags:
-- federation
-- microservices
+  - federation
+  - microservices
 entities:
-- GraphQL
-- Federation
-- Jens Neuse
-- Sergiy
-- David
+  - GraphQL
+  - Federation
+  - Jens Neuse
+  - Sergiy
+  - David
 mentions:
-- science fiction portals metaphor
-- user and address service example
-- shareable directive
-- resolvable false configuration
-- composition vs query planning data structures
+  - science fiction portals metaphor
+  - user and address service example
+  - shareable directive
+  - resolvable false configuration
+  - composition vs query planning data structures
 summary: Jens asks about the "jumps" concept in federation, which Sergiy and David
   explain as edges between subgraphs using federation keys. The discussion covers
   how federation enables microservices architecture, root entry nodes, and the difference

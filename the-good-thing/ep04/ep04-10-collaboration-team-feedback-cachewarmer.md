@@ -5,66 +5,66 @@ series: The Good Thing
 episode: 4
 chunk: 10
 participants:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 segment: Team collaboration, energy, direct feedback loops, and the story of building
   the cache warmer
 timecode: 00:29:02:26 - 00:35:10:29
 start_time: 00:29:02:26
 end_time: 00:35:10:29
 speakers:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 topics:
-- Collaboration
-- Team energy
-- Feedback loops
-- Cache warmer
-- Customer-driven development
-- Product impact
-- Engineering culture
-- Customer relationships
-- Technical anecdotes
-- Product iteration
-- Customer success
-- Team motivation
-- Customer feedback
-- Slack connect
-- Product polish
-- Customer screenshots
-- Magic moments
-- Customer requirements
-- Product delivery
-- Customer impact
-- Customer engagement
-- Customer stories
-- Customer collaboration
-- Customer-driven features
+  - Collaboration
+  - Team energy
+  - Feedback loops
+  - Cache warmer
+  - Customer-driven development
+  - Product impact
+  - Engineering culture
+  - Customer relationships
+  - Technical anecdotes
+  - Product iteration
+  - Customer success
+  - Team motivation
+  - Customer feedback
+  - Slack connect
+  - Product polish
+  - Customer screenshots
+  - Magic moments
+  - Customer requirements
+  - Product delivery
+  - Customer impact
+  - Customer engagement
+  - Customer stories
+  - Customer collaboration
+  - Customer-driven features
 tags:
-- cache-warming
-- startup
+  - cache-warming
+  - startup
 topic_tags:
-- collaboration
-- team-energy
-- feedback-loops
-- cache-warmer
-- customer-development
-- product-iteration
+  - collaboration
+  - team-energy
+  - feedback-loops
+  - cache-warmer
+  - customer-development
+  - product-iteration
 entities:
-- Jens Neuse
-- Stefan Avram
-- WunderGraph
-- Cache Warmer
-- Slack
+  - Jens Neuse
+  - Stefan Avram
+  - WunderGraph
+  - Cache Warmer
+  - Slack
 mentions:
-- team collaboration
-- customer feedback loops
-- cache warmer development
-- customer-driven features
-- Slack connect
-- customer screenshots
-- product iteration
-- magic moments
+  - team collaboration
+  - customer feedback loops
+  - cache warmer development
+  - customer-driven features
+  - Slack connect
+  - customer screenshots
+  - product iteration
+  - magic moments
 summary: Jens and Stefan discuss the importance of team collaboration, direct feedback
   loops with customers, and share the story of building the cache warmer feature.
   They highlight how close customer relationships and rapid iteration led to impactful

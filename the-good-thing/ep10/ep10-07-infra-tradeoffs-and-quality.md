@@ -5,49 +5,49 @@ series: The Good Thing
 episode: 10
 chunk: 7
 participants:
-- Stefan
-- Björn
-- Dustin
-- Jens
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
 segment: Remote work benefits and company culture
 timecode: 00:43:45:01 – 00:50:31:01
 start_time: 00:43:45:01
 end_time: 00:50:31:01
 speakers:
-- Stefan
-- Björn
-- Dustin
-- Jens
+  - Stefan
+  - Björn
+  - Dustin
+  - Jens
 topics:
-- Remote work tooling strategies
-- Family life balance challenges
-- Work-life boundary management
-- Company culture and mistake handling
-- Remote team friction issues
-- In-person energy vs virtual collaboration
-- Travel requirements for remote workers
+  - Remote work tooling strategies
+  - Family life balance challenges
+  - Work-life boundary management
+  - Company culture and mistake handling
+  - Remote team friction issues
+  - In-person energy vs virtual collaboration
+  - Travel requirements for remote workers
 tags:
-- ai
-- websocket
-- founder
+  - ai
+  - websocket
+  - founder
 topic_tags:
-- ai
-- websocket
-- founder
+  - ai
+  - websocket
+  - founder
 entities:
-- Linear
-- Jira
-- Slack
-- WunderGraph
-- Zoom
+  - Linear
+  - Jira
+  - Slack
+  - WunderGraph
+  - Zoom
 mentions:
-- Linear vs Jira preference
-- three kids under ten
-- family separation challenges
-- mistake-handling culture
-- Slack misunderstandings
-- hackathon energy comparison
-- travel capability requirements
+  - Linear vs Jira preference
+  - three kids under ten
+  - family separation challenges
+  - mistake-handling culture
+  - Slack misunderstandings
+  - hackathon energy comparison
+  - travel capability requirements
 summary: Dustin discusses remote work tooling choices like Linear over Jira. Stefan
   emphasizes family benefits of remote work, while Björn shares the challenges of
   balancing family presence with work focus. Björn reflects on WunderGraph's culture

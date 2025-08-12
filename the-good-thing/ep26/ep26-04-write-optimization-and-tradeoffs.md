@@ -24,9 +24,9 @@ topics:
   - Physics constraints in database systems
   - Pragmatic approach to proven architectures
 tags:
-- ai
-- database
-- computer-science
+  - ai
+  - database
+  - computer-science
   - write-workloads
   - ai
   - consistency-tradeoffs

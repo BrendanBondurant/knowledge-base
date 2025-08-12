@@ -24,9 +24,9 @@ topics:
   - Boring technology preferences for reliability
   - Infrastructure stability over novelty
 tags:
-- ai
-- postgres
-- kubernetes
+  - ai
+  - postgres
+  - kubernetes
   - clean-code-evolution
   - pragmatic-technology
   - developer-experience

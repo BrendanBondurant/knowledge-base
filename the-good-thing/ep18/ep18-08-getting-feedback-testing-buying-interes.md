@@ -5,47 +5,47 @@ series: The Good Thing
 episode: 18
 chunk: 8
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Overcoming relationship bias in customer feedback
 timecode: 00:44:35:22 – 00:52:06:11
 start_time: 00:44:35:22
 end_time: 00:52:06:11
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Relationship bias in customer feedback
-- People lying to be nice and avoid hurting feelings
-- Bank customer brutal honesty example
-- Static API strategy vs AI trends
-- Techniques to elicit honest feedback
-- Testing actual buying interest vs politeness
-- Manager introduction as commitment test
-- Beta participation and payment willingness
+  - Relationship bias in customer feedback
+  - People lying to be nice and avoid hurting feelings
+  - Bank customer brutal honesty example
+  - Static API strategy vs AI trends
+  - Techniques to elicit honest feedback
+  - Testing actual buying interest vs politeness
+  - Manager introduction as commitment test
+  - Beta participation and payment willingness
 tags:
-- startup
+  - startup
 topic_tags:
-- customer-feedback
-- relationship-bias
-- honest-feedback
-- buying-interest
-- commitment-testing
-- beta-participation
+  - customer-feedback
+  - relationship-bias
+  - honest-feedback
+  - buying-interest
+  - commitment-testing
+  - beta-participation
 entities:
-- Bank customer
-- Cosmo
-- AI
+  - Bank customer
+  - Cosmo
+  - AI
 mentions:
-- people don't want to hurt feelings
-- lying to be nice behavior
-- bank customer humiliation story
-- ship faster vs six times per year
-- static API strategy
-- AI and what's going on
-- forget about Cosmo approach
-- manager introduction request
-- beta willingness testing
+  - people don't want to hurt feelings
+  - lying to be nice behavior
+  - bank customer humiliation story
+  - ship faster vs six times per year
+  - static API strategy
+  - AI and what's going on
+  - forget about Cosmo approach
+  - manager introduction request
+  - beta willingness testing
 summary: Stefan and Jens address the challenge of getting honest feedback when existing
   relationships bias responses toward politeness. They share a humorous example of
   a bank customer who brutally honest about not wanting to ship faster or modernize

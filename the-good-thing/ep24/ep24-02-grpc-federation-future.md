@@ -22,9 +22,9 @@ topics:
   - Data loading and batching solutions
   - WunderGraph's approach to Federation
 tags:
-- grpc
-- federation
-- graphql-federation
+  - grpc
+  - federation
+  - graphql-federation
   - grpc
   - graphql-federation
   - type-safety

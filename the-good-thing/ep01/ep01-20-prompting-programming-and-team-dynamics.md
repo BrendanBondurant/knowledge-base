@@ -5,43 +5,43 @@ series: The Good Thing
 episode: 1
 chunk: 20
 participants:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 segment: From Code to Customer and Building Together
 timecode: 01:03:28 – 01:07:15
 start_time: 01:03:28
 end_time: 01:07:15
 speakers:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 topics:
-- Programming and prompting as the same skill
-- Translating business needs into working products
-- Coding as a means not the end
-- Learning compilers by building parsers and ASTs
-- Writing a GraphQL parser from scratch
-- Communication and collaboration in tech teams
-- WunderGraph success rooted in team diversity and chemistry
+  - Programming and prompting as the same skill
+  - Translating business needs into working products
+  - Coding as a means not the end
+  - Learning compilers by building parsers and ASTs
+  - Writing a GraphQL parser from scratch
+  - Communication and collaboration in tech teams
+  - WunderGraph success rooted in team diversity and chemistry
 tags:
-- graphql
+  - graphql
 topic_tags:
-- graphql
+  - graphql
 entities:
-- Jens Neuse
-- Stefan Avram
-- WunderGraph
-- GraphQL
-- AST
-- Parser
-- Lexor
-- Bytecode
-- India
+  - Jens Neuse
+  - Stefan Avram
+  - WunderGraph
+  - GraphQL
+  - AST
+  - Parser
+  - Lexor
+  - Bytecode
+  - India
 mentions:
-- prompt engineering as programming
-- understanding compilers
-- building programming languages
-- translating business to product
-- team dynamics and trust
+  - prompt engineering as programming
+  - understanding compilers
+  - building programming languages
+  - translating business to product
+  - team dynamics and trust
 summary: Jens argues that whether you are writing code or prompting an AI, both require
   clear thinking and accurate translation of business requirements into real solutions.
   For him, the ability to turn customer needs into working software is more valuable

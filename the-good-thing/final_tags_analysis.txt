@@ -1,0 +1,123 @@
+FINAL TAGS ANALYSIS AFTER FORMATTING FIXES
+==================================================
+
+SUMMARY:
+- Master tags: 116
+- Found tags: 216
+- Extra tags: 112
+- Files with compound tags: 0
+
+EXTRA TAGS NOT IN MASTER LIST:
+
+  - WunderGraph
+  - acquisitions
+  - apache-license
+  - apollo
+  - aws-competition
+  - bare-metal
+  - batching-strategies
+  - battle-hardening
+  - bsl-licensing
+  - business-models
+  - capital-allocation
+  - capital-efficiency
+  - ceo-coding
+  - chaos-engineering
+  - cloud-providers
+  - cluster-orchestration
+  - cncf
+  - code-quality
+  - collaboration-features
+  - collaboration-tools
+  - community-contributions
+  - company-culture
+  - competitive-advantage
+  - competitive-markets
+  - competitor-analysis
+  - consistency-tradeoffs
+  - copycat-accusations
+  - copying-competitors
+  - cost-optimization
+  - cost-structure
+  - customer-relationships
+  - database-companies
+  - database-engineering
+  - devtools-space
+  - distribution-strategy
+  - engineering-philosophy
+  - enterprise-predictability
+  - enterprise-procurement
+  - enterprise-sales
+  - ephemeral-infrastructure
+  - episode-closing
+  - episode-introduction
+  - exit-timelines
+  - expert-leadership
+  - faang-companies
+  - feature-copying
+  - funding-rounds
+  - funding-strategy
+  - fundraising
+  - future-episodes
+  - gratitude
+  - growth-metrics
+  - hasura
+  - high-availability
+  - infrastructure-companies
+  - infrastructure-strategy
+  - infrastructure-vs-collaboration
+  - investor-relations
+  - learning-from-failure
+  - maintainership
+  - market-timing
+  - marketing-strategy
+  - multiple-writers
+  - n-plus-one-problem
+  - node-expiry
+  - nvme
+  - operational-expertise
+  - performance
+  - personal-updates
+  - physics-constraints
+  - planetscale-metal
+  - pricing-models
+  - product-development
+  - product-differentiation
+  - product-evolution
+  - product-pivot
+  - product-strategy
+  - product-vision
+  - profitability
+  - project-governance
+  - real-world-scale
+  - reliability
+  - reliability-engineering
+  - replication
+  - router-architecture
+  - sales-process
+  - scale-fascination
+  - sharding
+  - shared-nothing-architecture
+  - startup-competition
+  - startup-strategy
+  - stateful-workloads
+  - sustainable-growth
+  - team-building
+  - team-dynamics
+  - team-size
+  - team-structure
+  - team-updates
+  - technical-challenges
+  - technical-content
+  - technical-evaluation
+  - testing
+  - trust-based-management
+  - type-safety
+  - upstream-collaboration
+  - usage-based-pricing
+  - vc-dynamics
+  - vitess-maintenance
+  - wedding-preparation
+  - work-life-balance
+  - write-workloads
+  - wundergraph-origin

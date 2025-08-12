@@ -5,47 +5,47 @@ series: The Good Thing
 episode: 17
 chunk: 11
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: AI-powered development and federation acceleration
 timecode: 00:50:19 – 00:56:05
 start_time: 00:50:19
 end_time: 00:56:05
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Big companies adopting Cursor for development
-- Senior architects developing prompts
-- Legacy migration to federation acceleration
-- GraphQL guild community meetings
-- Single query replacing 20 API calls
-- AI increasing developer velocity
-- Need for orchestration layer and operating system
+  - Big companies adopting Cursor for development
+  - Senior architects developing prompts
+  - Legacy migration to federation acceleration
+  - GraphQL guild community meetings
+  - Single query replacing 20 API calls
+  - AI increasing developer velocity
+  - Need for orchestration layer and operating system
 tags:
-- ai
-- graphql-guild
+  - ai
+  - graphql-guild
 topic_tags:
-- ai-collaboration
-- cursor-adoption
-- legacy-migration
-- federation-acceleration
-- graphql-guild
-- developer-velocity
-- orchestration-layer
+  - ai-collaboration
+  - cursor-adoption
+  - legacy-migration
+  - federation-acceleration
+  - graphql-guild
+  - developer-velocity
+  - orchestration-layer
 entities:
-- Cursor
-- WunderGraph
-- GraphQL guild
+  - Cursor
+  - WunderGraph
+  - GraphQL guild
 mentions:
-- collaboration productivity and safeguards intersection
-- senior architects prompt development
-- lightning speed legacy migration
-- Friday GraphQL guild meetings
-- seven subgraphs single query
-- 20 API calls reduction to one
-- AI LLM adoption trend
-- orchestration layer need
+  - collaboration productivity and safeguards intersection
+  - senior architects prompt development
+  - lightning speed legacy migration
+  - Friday GraphQL guild meetings
+  - seven subgraphs single query
+  - 20 API calls reduction to one
+  - AI LLM adoption trend
+  - orchestration layer need
 summary: Stefan positions their product at the intersection of collaboration, productivity,
   and safeguards while Jens observes big companies using Cursor to accelerate legacy
   migration to federation. He describes a GraphQL guild meeting where one query replaced

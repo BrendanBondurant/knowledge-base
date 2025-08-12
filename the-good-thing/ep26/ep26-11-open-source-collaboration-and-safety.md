@@ -24,9 +24,9 @@ topics:
   - Collaboration without contracts
   - Large scale open source project governance
 tags:
-- ai
-- postgres
-- open-source
+  - ai
+  - postgres
+  - open-source
   - open-source
   - vitess-maintenance
   - community-contributions

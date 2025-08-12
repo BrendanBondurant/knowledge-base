@@ -5,48 +5,48 @@ series: The Good Thing
 episode: 1
 chunk: 8
 participants:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 segment: Procrastination, AI Support, and Learning the Fundamentals
 timecode: 00:23:12 – 00:26:23
 start_time: 00:23:12
 end_time: 00:26:23
 speakers:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 topics:
-- Productive procrastination and learning retention
-- Encouragement for junior engineers to just start
-- Using ChatGPT and Cursor for programming help
-- Difference between shallow tutorials and deep understanding
-- Importance of learning how things actually work (e.g. compilers, runtimes, networks)
+  - Productive procrastination and learning retention
+  - Encouragement for junior engineers to just start
+  - Using ChatGPT and Cursor for programming help
+  - Difference between shallow tutorials and deep understanding
+  - Importance of learning how things actually work (e.g. compilers, runtimes, networks)
 tags:
-- ai
-- github-copilot
-- computer-science
+  - ai
+  - github-copilot
+  - computer-science
 topic_tags:
-- procrastination
-- learning
-- learning
-- junior-dev-advice
-- fundamentals
+  - procrastination
+  - learning
+  - learning
+  - junior-dev-advice
+  - fundamentals
 entities:
-- Jens Neuse
-- Stefan Avram
-- WunderGraph
-- ChatGPT
-- Cursor
-- React
-- Vercel
-- Compilers
-- Networks
+  - Jens Neuse
+  - Stefan Avram
+  - WunderGraph
+  - ChatGPT
+  - Cursor
+  - React
+  - Vercel
+  - Compilers
+  - Networks
 mentions:
-- productive procrastination
-- “just do things”
-- learning fundamentals
-- AI-assisted learning
-- going deep into topics
-- web architecture understanding
+  - productive procrastination
+  - “just do things”
+  - learning fundamentals
+  - AI-assisted learning
+  - going deep into topics
+  - web architecture understanding
 summary: 'Stefan introduces the idea from the book *Originals* that procrastination
   can aid learning, noting that Jens’ mix of gaming and programming may have supported
   retention. He then emphasizes that new developers should just start building, especially

@@ -24,9 +24,9 @@ topics:
   - Open source vs commercial gateway options
   - SaaS control plane with distributed data plane architecture
 tags:
-- ai
-- api-design
-- open-source
+  - ai
+  - api-design
+  - open-source
   - cto-decisions
   - risk-management
   - tool-recommendations

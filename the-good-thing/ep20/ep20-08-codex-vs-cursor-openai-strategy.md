@@ -5,40 +5,40 @@ series: The Good Thing
 episode: 20
 chunk: 8
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: AI Development Tools and Platform Strategy
 timecode: 00:40:23:25 – 00:47:02:24
 start_time: 00:40:23:25
 end_time: 00:47:02:24
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Codex vs Cursor in AI-powered development
-- OpenAI's platform strategy and positioning
-- AI development tool competition
-- Developer tool market dynamics
+  - Codex vs Cursor in AI-powered development
+  - OpenAI's platform strategy and positioning
+  - AI development tool competition
+  - Developer tool market dynamics
 tags:
-- ai
+  - ai
 topic_tags:
-- codex
-- cursor
-- openai
-- platform-strategy
-- ai-development-tools
-- developer-tools
+  - codex
+  - cursor
+  - openai
+  - platform-strategy
+  - ai-development-tools
+  - developer-tools
 entities:
-- OpenAI Codex
-- Cursor
-- OpenAI
-- Stefan Avram
-- Jens Neuse
+  - OpenAI Codex
+  - Cursor
+  - OpenAI
+  - Stefan Avram
+  - Jens Neuse
 mentions:
-- Codex capabilities and limitations
-- Cursor's market position
-- OpenAI strategic decisions
-- Developer tool competition
+  - Codex capabilities and limitations
+  - Cursor's market position
+  - OpenAI strategic decisions
+  - Developer tool competition
 summary: Comparison of OpenAI's Codex and Cursor as AI development tools, analyzing
   OpenAI's platform strategy and the competitive dynamics in the AI-powered developer
   tool market.

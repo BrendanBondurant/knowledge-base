@@ -5,45 +5,45 @@ series: The Good Thing
 episode: 12
 chunk: 15
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Devtools Business Model Analysis
 timecode: 00:54:11:28 – 00:58:19:17
 start_time: 00:54:11:28
 end_time: 00:58:19:17
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Persisted GraphQL operations via SDK
-- Individual to organization adoption ladder
-- WunderGraph SDK lessons learned
-- Cosmo backwards adoption pattern
-- Prisma vs Drizzle competition
-- Open source vs commercial monetization
+  - Persisted GraphQL operations via SDK
+  - Individual to organization adoption ladder
+  - WunderGraph SDK lessons learned
+  - Cosmo backwards adoption pattern
+  - Prisma vs Drizzle competition
+  - Open source vs commercial monetization
 tags:
-- open-source
+  - open-source
 topic_tags:
-- devtools-adoption
-- sdk-strategy
-- adoption-ladder
-- cosmo-strategy
-- open-source-monetization
-- prisma-drizzle
+  - devtools-adoption
+  - sdk-strategy
+  - adoption-ladder
+  - cosmo-strategy
+  - open-source-monetization
+  - prisma-drizzle
 entities:
-- WunderGraph SDK
-- Cosmo
-- Prisma
-- Drizzle
-- Stefan Avram
-- Jens Neuse
+  - WunderGraph SDK
+  - Cosmo
+  - Prisma
+  - Drizzle
+  - Stefan Avram
+  - Jens Neuse
 mentions:
-- persisted GraphQL operations
-- three-tier adoption model
-- enterprise tooling space
-- backwards adoption pattern
-- open source ORM challenges
-- commercial vs community motivation
+  - persisted GraphQL operations
+  - three-tier adoption model
+  - enterprise tooling space
+  - backwards adoption pattern
+  - open source ORM challenges
+  - commercial vs community motivation
 summary: Stefan outlines his devtools adoption ladder theory (individual → group →
   organization) and reflects on WunderGraph SDK's failure versus Cosmo's backwards
   adoption success. Jens discusses the challenges of monetizing open source tools

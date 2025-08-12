@@ -23,9 +23,9 @@ topics:
   - Apollo ecosystem lock-in concerns
   - Code-first vs schema-first approaches
 tags:
-- federation
-- graphql-federation
-- grpc
+  - federation
+  - graphql-federation
+  - grpc
   - grpc
   - type-safety
   - performance-optimization

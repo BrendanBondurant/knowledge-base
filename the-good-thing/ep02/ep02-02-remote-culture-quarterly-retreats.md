@@ -5,40 +5,40 @@ series: The Good Thing
 episode: 2
 chunk: 2
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Remote Work Culture and Team Building
 timecode: 00:04:44:00 – 00:08:36:29
 start_time: 00:04:44:00
 end_time: 00:08:36:29
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Remote work culture at WunderGraph
-- Quarterly retreats and team building
-- Zoom fatigue and in-person collaboration
-- Company benefits and flexibility
+  - Remote work culture at WunderGraph
+  - Quarterly retreats and team building
+  - Zoom fatigue and in-person collaboration
+  - Company benefits and flexibility
 tags:
-- startup
-- founder
+  - startup
+  - founder
 topic_tags:
-- startup
-- founder
+  - startup
+  - founder
 entities:
-- WunderGraph
-- Stefan Avram
-- Jens Neuse
-- Alta, Norway
-- Majorca
-- Austria
-- Amsterdam
+  - WunderGraph
+  - Stefan Avram
+  - Jens Neuse
+  - Alta, Norway
+  - Majorca
+  - Austria
+  - Amsterdam
 mentions:
-- flexible PTO
-- equipment setup
-- Frankfurt schnitzel
-- team energy
-- customer proximity
+  - flexible PTO
+  - equipment setup
+  - Frankfurt schnitzel
+  - team energy
+  - customer proximity
 summary: Stefan and Jens discuss WunderGraph's remote work culture, emphasizing the
   importance of quarterly in-person retreats to combat zoom fatigue and build stronger
   team bonds. They explain how the company balances remote flexibility with regular

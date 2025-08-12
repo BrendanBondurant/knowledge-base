@@ -5,38 +5,38 @@ series: The Good Thing
 episode: 1
 chunk: 4
 participants:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 segment: Education, Recovery, and Career Redirection
 timecode: 00:10:02:17 – 00:13:23:14
 start_time: 00:10:02:17
 end_time: 00:13:23:14
 speakers:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 topics:
-- Educational detour after motorcycle accident
-- Studying business and psychology
-- Persistence through non-traditional path
-- Transitioning into programming without CS degree
-- Night school and private university in Germany
+  - Educational detour after motorcycle accident
+  - Studying business and psychology
+  - Persistence through non-traditional path
+  - Transitioning into programming without CS degree
+  - Night school and private university in Germany
 tags:
-- resilience
-- founder
+  - resilience
+  - founder
 topic_tags:
-- resilience
-- founder
+  - resilience
+  - founder
 entities:
-- Jens Neuse
-- Stefan Avram
-- WunderGraph
-- Germany
-- Business Psychology
+  - Jens Neuse
+  - Stefan Avram
+  - WunderGraph
+  - Germany
+  - Business Psychology
 mentions:
-- night school
-- associate’s degree
-- bachelor’s in business psychology
-- raver
+  - night school
+  - associate’s degree
+  - bachelor’s in business psychology
+  - raver
 summary: Jens describes the turning point in his recovery when he decided that life
   as a systems administrator wasn’t enough. Motivated to pursue something greater,
   he attended night school five nights a week and Saturdays, transforming from a poor-performing

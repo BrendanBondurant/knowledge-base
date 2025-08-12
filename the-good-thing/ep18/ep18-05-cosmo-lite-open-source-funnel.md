@@ -5,47 +5,47 @@ series: The Good Thing
 episode: 18
 chunk: 5
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Open source strategy and managed service value
 timecode: 00:26:47:12 – 00:32:13:10
 start_time: 00:26:47:12
 end_time: 00:32:13:10
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Open source trial advantages over closed source
-- Shortened sales cycles through easy evaluation
-- Healthcare company staging environment setup
-- Eight-month advantage over closed source competitors
-- Open source maintenance and collaboration overhead
-- Managed service value proposition
-- When to transition from open source to managed
+  - Open source trial advantages over closed source
+  - Shortened sales cycles through easy evaluation
+  - Healthcare company staging environment setup
+  - Eight-month advantage over closed source competitors
+  - Open source maintenance and collaboration overhead
+  - Managed service value proposition
+  - When to transition from open source to managed
 tags:
-- open-source
+  - open-source
 topic_tags:
-- open-source-funnel
-- sales-cycle
-- managed-services
-- maintenance-overhead
-- competitive-advantage
-- staging-environment
+  - open-source-funnel
+  - sales-cycle
+  - managed-services
+  - maintenance-overhead
+  - competitive-advantage
+  - staging-environment
 entities:
-- Lovable
-- Cosmo
-- Healthcare company
-- SoC (Security Operations Center)
-- Brendan
+  - Lovable
+  - Cosmo
+  - Healthcare company
+  - SoC (Security Operations Center)
+  - Brendan
 mentions:
-- Lovable web app example
-- try this out to wow moment
-- healthcare company staging setup
-- closed source eight-month delay
-- open source maintenance requirements
-- security issues consideration
-- Brendan's blog post on leaving open source
-- production safety guarantees
+  - Lovable web app example
+  - try this out to wow moment
+  - healthcare company staging setup
+  - closed source eight-month delay
+  - open source maintenance requirements
+  - security issues consideration
+  - Brendan's blog post on leaving open source
+  - production safety guarantees
 summary: Stefan explains how open source creates competitive advantages by shortening
   sales cycles, using healthcare company and Lovable examples where immediate trial
   access led to faster adoption. He discusses the tradeoff between offering free open

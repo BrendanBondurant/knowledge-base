@@ -21,9 +21,9 @@ topics:
   - Developer-focused design playfulness
   - Creative vs traditional landing page approaches
 tags:
-- ai
-- rust
-- startup
+  - ai
+  - rust
+  - startup
   - landing-pages
   - sentry
   - design-review

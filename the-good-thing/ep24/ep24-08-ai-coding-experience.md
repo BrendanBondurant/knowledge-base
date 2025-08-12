@@ -23,9 +23,9 @@ topics:
   - Research bias and methodology critique
   - WunderGraph employee survey satire
 tags:
-- graphql
-- ai
-- cosmo-router
+  - graphql
+  - ai
+  - cosmo-router
   - ai-tools
   - cursor
   - claude-coder

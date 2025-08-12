@@ -5,46 +5,46 @@ series: The Good Thing
 episode: 12
 chunk: 4
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Proprietary vs Open Source Discussion
 timecode: 00:10:01:18 – 00:14:14:07
 start_time: 00:10:01:18
 end_time: 00:14:14:07
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Limited value in most code
-- Distribution and brand as real moats
-- Open source strategy for Cosmo
-- Code becoming outdated quickly
-- Building universe of products
-- Salesforce distribution example
+  - Limited value in most code
+  - Distribution and brand as real moats
+  - Open source strategy for Cosmo
+  - Code becoming outdated quickly
+  - Building universe of products
+  - Salesforce distribution example
 tags:
-- open-source
-- startup
+  - open-source
+  - startup
 topic_tags:
-- code-value
-- open-source-strategy
-- distribution-moats
-- brand-value
-- product-roadmaps
-- cosmo-strategy
+  - code-value
+  - open-source-strategy
+  - distribution-moats
+  - brand-value
+  - product-roadmaps
+  - cosmo-strategy
 entities:
-- Cursor
-- Meta
-- Cosmo
-- Salesforce
-- Stefan Avram
-- Jens Neuse
+  - Cursor
+  - Meta
+  - Cosmo
+  - Salesforce
+  - Stefan Avram
+  - Jens Neuse
 mentions:
-- billion dollar companies using Cursor
-- Meta code without data example
-- changing user behavior challenges
-- feed algorithm concerns
-- Cosmo open source benefits
-- universe of products vision
+  - billion dollar companies using Cursor
+  - Meta code without data example
+  - changing user behavior challenges
+  - feed algorithm concerns
+  - Cosmo open source benefits
+  - universe of products vision
 summary: Discussion of proprietary code ethics with AI access, where Jens argues most
   code has limited value compared to distribution, brand, and execution capability.
   He explains WunderGraph's open source strategy for Cosmo, noting that code becomes

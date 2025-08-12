@@ -5,45 +5,45 @@ series: The Good Thing
 episode: 22
 chunk: 3
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: David vs Goliath Strategy and Apollo Analysis
 timecode: 00:11:01:10 – 00:16:05:00
 start_time: 00:11:01:10
 end_time: 00:16:05:00
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Small startup competitive advantages
-- Apollo GraphQL principles document
-- Big brother vs little brother dynamics
-- Principled GraphQL framework analysis
+  - Small startup competitive advantages
+  - Apollo GraphQL principles document
+  - Big brother vs little brother dynamics
+  - Principled GraphQL framework analysis
 tags:
-- startup
-- principled-graphql
+  - startup
+  - principled-graphql
 topic_tags:
-- small-startup-strategy
-- apollo-principles
-- competitive-dynamics
-- david-goliath
-- principled-graphql
+  - small-startup-strategy
+  - apollo-principles
+  - competitive-dynamics
+  - david-goliath
+  - principled-graphql
 entities:
-- Stefan Avram
-- Jens Neuse
-- Apollo
-- Supabase
-- Google
-- Jeff (Apollo CEO)
-- Matt (Apollo CTO)
-- WunderGraph
+  - Stefan Avram
+  - Jens Neuse
+  - Apollo
+  - Supabase
+  - Google
+  - Jeff (Apollo CEO)
+  - Matt (Apollo CTO)
+  - WunderGraph
 mentions:
-- small startup advantages
-- big brother little brother analogy
-- Supabase vs Google example
-- Principled GraphQL document
-- Apollo CEO and CTO authorship
-- competitive positioning tactics
+  - small startup advantages
+  - big brother little brother analogy
+  - Supabase vs Google example
+  - Principled GraphQL document
+  - Apollo CEO and CTO authorship
+  - competitive positioning tactics
 summary: Stefan explains the "little brother advantage" where small startups can aggressively
   challenge larger competitors without retaliation, using Supabase's bold marketing
   against Google as an example. They transition to analyzing Apollo's "Principled

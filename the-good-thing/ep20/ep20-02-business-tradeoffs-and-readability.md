@@ -5,37 +5,37 @@ series: The Good Thing
 episode: 20
 chunk: 2
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Language Choice and Business Impact
 timecode: 00:06:28:26 – 00:12:00:17
 start_time: 00:06:28:26
 end_time: 00:12:00:17
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Business tradeoffs in programming language selection
-- Code readability and maintainability considerations
-- Team productivity and hiring implications
-- Language ecosystem and tooling impact
+  - Business tradeoffs in programming language selection
+  - Code readability and maintainability considerations
+  - Team productivity and hiring implications
+  - Language ecosystem and tooling impact
 tags:
-- ai
-- cosmo-router
-- typescript
+  - ai
+  - cosmo-router
+  - typescript
 topic_tags:
-- ai
-- cosmo-router
-- typescript
+  - ai
+  - cosmo-router
+  - typescript
 entities:
-- Stefan Avram
-- Jens Neuse
-- Programming languages
+  - Stefan Avram
+  - Jens Neuse
+  - Programming languages
 mentions:
-- Language selection criteria
-- Code maintainability factors
-- Team productivity metrics
-- Hiring and skill availability
+  - Language selection criteria
+  - Code maintainability factors
+  - Team productivity metrics
+  - Hiring and skill availability
 summary: Deep dive into the business considerations behind programming language choice,
   focusing on readability, maintainability, team productivity, and the broader implications
   for hiring and ecosystem support.

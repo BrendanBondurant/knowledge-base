@@ -5,33 +5,33 @@ series: The Good Thing
 episode: 15
 chunk: 16
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Episode Conclusion
 timecode: 01:13:12 – 01:14:19
 start_time: 01:13:12
 end_time: 01:14:19
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Episode wrap-up and thanks to audience
-- Landing page review format feedback
-- WunderGraph landing page rating discussion
-- Future episode plans and improvements
-- Invitation for audience submissions
+  - Episode wrap-up and thanks to audience
+  - Landing page review format feedback
+  - WunderGraph landing page rating discussion
+  - Future episode plans and improvements
+  - Invitation for audience submissions
 tags:
-- ai
+  - ai
 topic_tags:
-- ai
+  - ai
 entities:
-- WunderGraph
+  - WunderGraph
 mentions:
-- Running over time acknowledgment
-- Unbiased review promise
-- Four out of ten rating for WunderGraph
-- Series A success despite landing page issues
-- Next week special guest possibility
+  - Running over time acknowledgment
+  - Unbiased review promise
+  - Four out of ten rating for WunderGraph
+  - Series A success despite landing page issues
+  - Next week special guest possibility
 summary: Stefan and Jens wrap up their landing page review episode, acknowledging
   they ran over time but had fun with the format. Jens rates their own WunderGraph
   landing page a four out of ten, noting it worked for their Series A but needs improvement.

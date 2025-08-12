@@ -5,41 +5,41 @@ series: The Good Thing
 episode: 1
 chunk: 10
 participants:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 segment: Realizing What You Dont Know
 timecode: 00:29:55 – 00:32:55
 start_time: 00:29:55
 end_time: 00:32:55
 speakers:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 topics:
-- Early career overconfidence and the Dunning Kruger curve
-- Running into real experts and adjusting ego
-- Bold statements as a sign of inexperience
-- Seniority and the phrase it depends
-- Learning humility through experience
-- Lead in to startup failure reflection
+  - Early career overconfidence and the Dunning Kruger curve
+  - Running into real experts and adjusting ego
+  - Bold statements as a sign of inexperience
+  - Seniority and the phrase it depends
+  - Learning humility through experience
+  - Lead in to startup failure reflection
 tags:
-- startup
+  - startup
 topic_tags:
-- career-growth
-- dunning-kruger
-- startup-lessons
-- humility
-- imposter-syndrome
+  - career-growth
+  - dunning-kruger
+  - startup-lessons
+  - humility
+  - imposter-syndrome
 entities:
-- Jens Neuse
-- Stefan Avram
-- WunderGraph
-- Dunning Kruger
+  - Jens Neuse
+  - Stefan Avram
+  - WunderGraph
+  - Dunning Kruger
 mentions:
-- bold statements
-- it depends
-- learning humility
-- realizing you dont know everything
-- senior mindset
+  - bold statements
+  - it depends
+  - learning humility
+  - realizing you dont know everything
+  - senior mindset
 summary: Jens reflects on an early moment in his career when he encountered someone
   vastly more experienced, which humbled him and changed how he spoke about technical
   topics. He ties this to the Dunning Kruger effect and the common early-career mistake

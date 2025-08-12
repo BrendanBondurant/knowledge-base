@@ -25,9 +25,9 @@ topics:
 summary: |
   Stefan and Jens discuss the challenges of copying competitors, the technical evaluation of REST connectors, and the importance of thoughtful engineering and product strategy in a competitive landscape.
 tags:
-- graphql
-- ai
-- apollo-graphql
+  - graphql
+  - ai
+  - apollo-graphql
   - competitor-analysis
   - rest-connectors
   - technical-evaluation
@@ -35,9 +35,9 @@ tags:
   - engineering-philosophy
   - startup-competition
 topic_tags:
-- graphql
-- ai
-- apollo-graphql
+  - graphql
+  - ai
+  - apollo-graphql
   - competitor-analysis
   - rest-connectors
   - technical-evaluation

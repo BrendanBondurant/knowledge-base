@@ -5,41 +5,41 @@ series: The Good Thing
 episode: 11
 chunk: 11
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Hiring Call and Episode Conclusion
 timecode: 01:02:15:05 – 01:03:09:10
 start_time: 01:02:15:05
 end_time: 01:03:09:10
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- AI agents will accelerate development
-- Hiring across all fronts
-- Essential plumbing for companies
-- Conway's Law team structure
-- Query planning engine work
+  - AI agents will accelerate development
+  - Hiring across all fronts
+  - Essential plumbing for companies
+  - Conway's Law team structure
+  - Query planning engine work
 tags:
-- ai
-- query-planning
+  - ai
+  - query-planning
 topic_tags:
-- hiring
-- team-structure
-- ai-acceleration
-- essential-infrastructure
-- query-planning
+  - hiring
+  - team-structure
+  - ai-acceleration
+  - essential-infrastructure
+  - query-planning
 entities:
-- WunderGraph
-- Dustin
-- Stefan Avram
-- Jens Neuse
+  - WunderGraph
+  - Dustin
+  - Stefan Avram
+  - Jens Neuse
 mentions:
-- retro meeting after podcast
-- hiring across all fronts
-- two team structure
-- query planning engine team
-- essential plumbing positioning
+  - retro meeting after podcast
+  - hiring across all fronts
+  - two team structure
+  - query planning engine team
+  - essential plumbing positioning
 summary: Stefan wraps up the episode with a hiring call, emphasizing WunderGraph is
   hiring across all fronts to build essential API plumbing. He references their Conway's
   Law structure of mostly one big team plus a small query planning engine team, and

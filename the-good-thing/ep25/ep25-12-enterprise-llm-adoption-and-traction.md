@@ -24,9 +24,9 @@ topics:
   - Digital native vs traditional company differences
   - MCP early adoption by newer companies
 tags:
-- mcp
-- ai
-- github-copilot
+  - mcp
+  - ai
+  - github-copilot
   - netflix-ad-model
   - llm-accessibility
   - enterprise-ai-adoption

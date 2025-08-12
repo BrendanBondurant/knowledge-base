@@ -5,40 +5,40 @@ series: The Good Thing
 episode: 11
 chunk: 9
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Future of API Unification
 timecode: 00:48:14:16 – 00:53:01:04
 start_time: 00:48:14:16
 end_time: 00:53:01:04
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- WunderGraph's Conway's Law application
-- API unification through supergraph
-- MCP and SDK integration strategy
-- Moving beyond connector approach
-- GraphQL Gateway evolution
-- Fundamental architecture piece vision
+  - WunderGraph's Conway's Law application
+  - API unification through supergraph
+  - MCP and SDK integration strategy
+  - Moving beyond connector approach
+  - GraphQL Gateway evolution
+  - Fundamental architecture piece vision
 tags:
-- connector-approach
+  - connector-approach
 topic_tags:
-- connector-approach
+  - connector-approach
 entities:
-- WunderGraph
-- GraphQL Gateway
-- Backstage
-- Dustin
-- Stefan Avram
-- Jens Neuse
+  - WunderGraph
+  - GraphQL Gateway
+  - Backstage
+  - Dustin
+  - Stefan Avram
+  - Jens Neuse
 mentions:
-- one engineering team structure
-- GraphQL Go tools outpost
-- thousand REST APIs problem
-- 2019 GraphQL Gateway
-- directives approach rejection
-- supergraph as fundamental piece
+  - one engineering team structure
+  - GraphQL Go tools outpost
+  - thousand REST APIs problem
+  - 2019 GraphQL Gateway
+  - directives approach rejection
+  - supergraph as fundamental piece
 summary: Jens outlines WunderGraph's strategy for API unification through supergraphs,
   explaining how organizations need to move beyond tools like Backstage to handle
   thousands of APIs. He discusses plans to simplify bringing APIs onto supergraphs

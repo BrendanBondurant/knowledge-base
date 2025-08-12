@@ -5,42 +5,42 @@ series: The Good Thing
 episode: 1
 chunk: 15
 participants:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 segment: Career Moves and Build Versus Buy Lessons
 timecode: 00:46:53 – 00:49:40
 start_time: 00:46:53
 end_time: 00:49:40
 speakers:
-- Jens
-- Stefan
+  - Jens
+  - Stefan
 topics:
-- Collaborative API focus and entry into federation
-- Applying above your level to accelerate growth
-- Importance of soft skills in career progression
-- Startup politics and engineering credibility
-- Meeting WunderGraph cofounder at early job
-- Build versus buy mindset shift
-- Rejecting AWS for bare metal in early infra days
+  - Collaborative API focus and entry into federation
+  - Applying above your level to accelerate growth
+  - Importance of soft skills in career progression
+  - Startup politics and engineering credibility
+  - Meeting WunderGraph cofounder at early job
+  - Build versus buy mindset shift
+  - Rejecting AWS for bare metal in early infra days
 tags:
-- graphql
+  - graphql
 topic_tags:
-- graphql
+  - graphql
 entities:
-- Jens Neuse
-- Stefan Avram
-- WunderGraph
-- AWS
-- Tonline
-- GraphQL
-- Federation
+  - Jens Neuse
+  - Stefan Avram
+  - WunderGraph
+  - AWS
+  - Tonline
+  - GraphQL
+  - Federation
 mentions:
-- soft skills in tech
-- overconfidence in senior hires
-- bare metal infra vs cloud
-- bold career moves
-- politics in engineering promotions
-- build versus buy mindset
+  - soft skills in tech
+  - overconfidence in senior hires
+  - bare metal infra vs cloud
+  - bold career moves
+  - politics in engineering promotions
+  - build versus buy mindset
 summary: Jens shares how his desire to unify APIs and help teams collaborate led him
   deeper into architecture and GraphQL. Stefan reinforces that his boldness in applying
   for jobs above his experience level paid off, thanks in part to soft skills, networking,

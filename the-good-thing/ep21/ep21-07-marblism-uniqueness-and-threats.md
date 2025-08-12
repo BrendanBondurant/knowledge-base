@@ -5,43 +5,43 @@ series: The Good Thing
 episode: 21
 chunk: 7
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Marblism Evaluation - Part 3
 timecode: 00:20:06:08 – 00:23:13:00
 start_time: 00:20:06:08
 end_time: 00:23:13:00
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Website optimization and scroll depth
-- Pricing clarity and transparency issues
-- Marblism differentiation assessment
-- Target market evaluation
+  - Website optimization and scroll depth
+  - Pricing clarity and transparency issues
+  - Marblism differentiation assessment
+  - Target market evaluation
 tags:
-- ai
-- websocket
-- founder
+  - ai
+  - websocket
+  - founder
 topic_tags:
-- ai
-- websocket
-- founder
+  - ai
+  - websocket
+  - founder
 entities:
-- Marblism
-- Stefan Avram
-- Jens Neuse
-- PostHog
-- David (chat participant)
+  - Marblism
+  - Stefan Avram
+  - Jens Neuse
+  - PostHog
+  - David (chat participant)
 mentions:
-- scroll depth analytics suggestion
-- PostHog website tracking
-- confusing pricing structure
-- $25-$119 pricing range
-- money back guarantee
-- LinkedIn founder research
-- agencies and SMB target market
-- AI wrapper concern
+  - scroll depth analytics suggestion
+  - PostHog website tracking
+  - confusing pricing structure
+  - $25-$119 pricing range
+  - money back guarantee
+  - LinkedIn founder research
+  - agencies and SMB target market
+  - AI wrapper concern
 summary: Jens suggests improving scroll depth analytics and criticizes Marblism's
   confusing pricing that ranges from $25-$119 without clarity. They research the founders
   on LinkedIn and debate differentiation - Stefan sees unique positioning for agencies/SMBs,

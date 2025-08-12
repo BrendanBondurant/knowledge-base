@@ -5,37 +5,37 @@ series: The Good Thing
 episode: 2
 chunk: 3
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Customer Proximity and Team Collaboration
 timecode: 00:08:37:01 – 00:12:34:02
 start_time: 00:08:37:01
 end_time: 00:12:34:02
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Customer proximity and direct feedback
-- Engineering team collaboration
-- Short feedback loops in development
-- On-call engineering rotation
+  - Customer proximity and direct feedback
+  - Engineering team collaboration
+  - Short feedback loops in development
+  - On-call engineering rotation
 tags:
-- startup
-- founder
+  - startup
+  - founder
 topic_tags:
-- startup
-- founder
+  - startup
+  - founder
 entities:
-- WunderGraph
-- Stefan Avram
-- Jens Neuse
-- SoundCloud
+  - WunderGraph
+  - Stefan Avram
+  - Jens Neuse
+  - SoundCloud
 mentions:
-- on-call engineering rotation
-- direct customer access
-- technical support
-- soft skills development
-- customer relationships
+  - on-call engineering rotation
+  - direct customer access
+  - technical support
+  - soft skills development
+  - customer relationships
 summary: Stefan and Jens discuss WunderGraph's unique approach to customer proximity,
   where engineers directly interact with customers through an on-call rotation system.
   They emphasize the importance of short feedback loops and how this creates happier

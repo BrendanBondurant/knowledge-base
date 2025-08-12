@@ -22,8 +22,8 @@ topics:
   - Future episode scheduling
   - Gratitude and final thoughts
 tags:
-- ai
-- database
+  - ai
+  - database
   - episode-closing
   - ai
   - future-episodes

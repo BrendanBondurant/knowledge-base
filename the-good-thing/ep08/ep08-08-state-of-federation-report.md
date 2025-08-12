@@ -1,4 +1,3 @@
-
 ---
 title: State of GraphQL Federation Report Launch
 slug: ep08-08-state-of-federation-report
@@ -22,9 +21,9 @@ topics:
   - Market expansion beyond Apollo customers
   - Federation as emerging enterprise standard
 tags:
-- federation
-- graphql-federation
-- ai
+  - federation
+  - graphql-federation
+  - ai
   - state-of-federation
   - market-research
   - enterprise-adoption

@@ -5,51 +5,51 @@ series: The Good Thing
 episode: 11
 chunk: 6
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: API Ecosystem Analysis
 timecode: 00:30:13:19 – 00:36:28:19
 start_time: 00:30:13:19
 end_time: 00:36:28:19
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Three API categories: SDKs, MCP, GraphQL
-- SDK generation from OpenAPI
-- GraphQL federation vs query interface
-- Microservices architecture scaling
-- Federation vs custom BFF layers
-- gRPC consumption challenges
+  - Three API categories: SDKs, MCP, GraphQL
+  - SDK generation from OpenAPI
+  - GraphQL federation vs query interface
+  - Microservices architecture scaling
+  - Federation vs custom BFF layers
+  - gRPC consumption challenges
 tags:
-- api-ecosystem
-- graphql-federation
-- microservices
-- openapi
-- grpc
-- bff-pattern
+  - api-ecosystem
+  - graphql-federation
+  - microservices
+  - openapi
+  - grpc
+  - bff-pattern
 topic_tags:
-- api-ecosystem
-- graphql-federation
-- microservices
-- openapi
-- grpc
-- bff-pattern
+  - api-ecosystem
+  - graphql-federation
+  - microservices
+  - openapi
+  - grpc
+  - bff-pattern
 entities:
-- Eric Wilde
-- INNOQ
-- OpenAPI
-- GraphQL
-- gRPC
-- News Corp
-- Stefan Avram
-- Jens Neuse
+  - Eric Wilde
+  - INNOQ
+  - OpenAPI
+  - GraphQL
+  - gRPC
+  - News Corp
+  - Stefan Avram
+  - Jens Neuse
 mentions:
-- Eric Wilde API consultation
-- SDK vs MCP vs GraphQL categories
-- Federation algorithm invention
-- REST API middleware layers
-- 20 teams 30 subgraphs example
+  - Eric Wilde API consultation
+  - SDK vs MCP vs GraphQL categories
+  - Federation algorithm invention
+  - REST API middleware layers
+  - 20 teams 30 subgraphs example
 summary: 'Jens outlines three API ecosystem categories: SDKs for humans, MCP for LLMs,
   and GraphQL for diverse applications. He explains how most people use GraphQL for
   federation rather than query interface, discussing the challenges of scaling microservices

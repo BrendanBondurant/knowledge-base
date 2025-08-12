@@ -24,9 +24,9 @@ topics:
   - Investor interest in AI and API companies
   - Changing priorities and decision-making processes
 tags:
-- mcp
-- ai
-- rest
+  - mcp
+  - ai
+  - rest
   - vendor-consulting-difference
   - enterprise-customers
   - platform-teams

@@ -5,36 +5,36 @@ series: The Good Thing
 episode: 15
 chunk: 10
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: Apollo Landing Page Critique
 timecode: 00:45:13 – 00:50:17
 start_time: 00:45:13
 end_time: 00:50:17
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Apollo vs Apollo.io naming confusion
-- GraphQL visibility in branding decisions
-- Hero messaging effectiveness issues
-- Company name SEO strategy
-- Brand recognition challenges
+  - Apollo vs Apollo.io naming confusion
+  - GraphQL visibility in branding decisions
+  - Hero messaging effectiveness issues
+  - Company name SEO strategy
+  - Brand recognition challenges
 tags:
-- apollo-graphql
+  - apollo-graphql
 topic_tags:
-- apollo-graphql
+  - apollo-graphql
 entities:
-- Apollo GraphQL
-- Apollo.io
-- WunderGraph
-- GraphQL
+  - Apollo GraphQL
+  - Apollo.io
+  - WunderGraph
+  - GraphQL
 mentions:
-- Apollo.io email finding tool confusion
-- GraphQL term removal and return to landing page
-- Company name Apollo GraphQL for SEO
-- WunderGraph naming decision rationale
-- Brand recognition versus clarity tradeoffs
+  - Apollo.io email finding tool confusion
+  - GraphQL term removal and return to landing page
+  - Company name Apollo GraphQL for SEO
+  - WunderGraph naming decision rationale
+  - Brand recognition versus clarity tradeoffs
 summary: Stefan and Jens critique Apollo's landing page and branding challenges, noting
   confusion with Apollo.io (the sales tool) and discussing Apollo's strategy of including
   "GraphQL" in their company name for SEO purposes. They compare this to Jens' decision

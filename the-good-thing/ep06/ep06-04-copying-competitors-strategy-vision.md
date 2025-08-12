@@ -26,17 +26,17 @@ topics:
 summary: |
   Jens and Stefan reflect on the temptation to copy competitors, the importance of having a vision, and the need to focus on customers rather than just features. They discuss the pitfalls of feature parity and the value of original strategy in startup success.
 tags:
-- ai
-- apollo-graphql
-- startup
+  - ai
+  - apollo-graphql
+  - startup
   - competitor-analysis
   - startup
   - product-vision
   - product-differentiation
 topic_tags:
-- ai
-- apollo-graphql
-- startup
+  - ai
+  - apollo-graphql
+  - startup
   - competitor-analysis
   - startup-strategy
   - product-vision

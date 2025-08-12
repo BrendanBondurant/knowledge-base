@@ -5,46 +5,46 @@ series: The Good Thing
 episode: 11
 chunk: 10
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: AI Integration and Future Hiring
 timecode: 00:53:01:11 – 01:02:15:03
 start_time: 00:53:01:11
 end_time: 01:02:15:03
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- GraphQL adoption patterns
-- Supergraph pattern for every company
-- Fortune 500 API infrastructure
-- Engineering challenges and opportunities
-- AI agents and MCP integration
-- Assembly line analogy for APIs
-- New internet through AI and supergraphs
+  - GraphQL adoption patterns
+  - Supergraph pattern for every company
+  - Fortune 500 API infrastructure
+  - Engineering challenges and opportunities
+  - AI agents and MCP integration
+  - Assembly line analogy for APIs
+  - New internet through AI and supergraphs
 tags:
-- ai-agents
+  - ai-agents
 topic_tags:
-- ai-agents
+  - ai-agents
 entities:
-- WunderGraph
-- Khan Academy
-- Anthropic
-- ChatGPT
-- Cursor
-- Excel
-- Henry Ford
-- General Motors
-- Stefan Avram
-- Jens Neuse
+  - WunderGraph
+  - Khan Academy
+  - Anthropic
+  - ChatGPT
+  - Cursor
+  - Excel
+  - Henry Ford
+  - General Motors
+  - Stefan Avram
+  - Jens Neuse
 mentions:
-- Fortune 500 standardization
-- AST transformations
-- high performance networking
-- graph theory applications
-- Khan founder assembly line analogy
-- agents autonomously doing tasks
-- Web3 new internet comparison
+  - Fortune 500 standardization
+  - AST transformations
+  - high performance networking
+  - graph theory applications
+  - Khan founder assembly line analogy
+  - agents autonomously doing tasks
+  - Web3 new internet comparison
 summary: Jens discusses GraphQL adoption patterns and envisions every company standardizing
   on supergraphs. Stefan uses an assembly line analogy for APIs and they explore how
   AI agents with MCP access through supergraphs could create a new internet paradigm.

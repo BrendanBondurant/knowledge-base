@@ -20,9 +20,9 @@ topics:
   - Marblism introduction and Y Combinator status
   - AI employees branding and positioning
 tags:
-- ai
-- startup
-- founder
+  - ai
+  - startup
+  - founder
   - marblism
   - founder
   - y-combinator

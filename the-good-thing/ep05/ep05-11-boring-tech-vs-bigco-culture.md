@@ -5,45 +5,45 @@ series: The Good Thing
 episode: 5
 chunk: 11
 participants:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 segment: The value of boring tech, big company culture, and episode wrap-up
 timecode: 01:06:41:00 - 01:11:00:21
 start_time: 01:06:41:00
 end_time: 01:11:00:21
 speakers:
-- Stefan
-- Jens
+  - Stefan
+  - Jens
 topics:
-- Boring tech
-- Big company culture
-- Internal tooling
-- Developer motivation
-- Business value
-- Layoffs
-- Company focus
-- Product complexity
-- Teamwork
-- Episode wrap-up
+  - Boring tech
+  - Big company culture
+  - Internal tooling
+  - Developer motivation
+  - Business value
+  - Layoffs
+  - Company focus
+  - Product complexity
+  - Teamwork
+  - Episode wrap-up
 tags:
-- startup
-- founder
+  - startup
+  - founder
 topic_tags:
-- startup
-- founder
+  - startup
+  - founder
 entities:
-- Stefan Avram
-- Jens Neuse
-- WunderGraph
+  - Stefan Avram
+  - Jens Neuse
+  - WunderGraph
 mentions:
-- boring tech philosophy
-- big company culture
-- internal tooling complexity
-- developer motivation factors
-- business value focus
-- technology choices impact
-- layoffs discussion
-- company focus strategies
+  - boring tech philosophy
+  - big company culture
+  - internal tooling complexity
+  - developer motivation factors
+  - business value focus
+  - technology choices impact
+  - layoffs discussion
+  - company focus strategies
 summary: Stefan and Jens discuss the value of boring tech, why big companies often
   build complex internal tools, and the importance of focusing on business value.
   They reflect on developer motivation, layoffs, and how choosing the right technology

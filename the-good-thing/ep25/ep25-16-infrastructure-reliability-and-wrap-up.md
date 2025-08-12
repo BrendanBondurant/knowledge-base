@@ -24,9 +24,9 @@ topics:
   - Next episode preview with Sam Lambert
   - PlanetScale uptime superiority discussion
 tags:
-- ai
-- database
-- rust
+  - ai
+  - database
+  - rust
   - boring-infrastructure
   - vendor-reliability
   - episode-wrap-up

@@ -1,4 +1,3 @@
-
 ---
 title: Episode Closing and Hiring Announcement
 slug: ep08-09-closing-and-hiring-announcement
@@ -22,9 +21,9 @@ topics:
   - February feature update compilation
   - Team growth and recruiting expansion
 tags:
-- federation
-- graphql-federation
-- ai
+  - federation
+  - graphql-federation
+  - ai
   - episode-wrap
   - hiring-announcement
   - upcoming-content

@@ -1,4 +1,3 @@
-
 ---
 title: Infrastructure vs Collaboration Value and Pricing Models
 slug: ep08-03-infra-vs-collaboration-and-pricing
@@ -22,9 +21,9 @@ topics:
   - Per-seat vs per-request pricing models
   - Open source ecosystem strategy
 tags:
-- federation
-- ai
-- cosmo-router
+  - federation
+  - ai
+  - cosmo-router
   - business-model
   - startup
   - collaboration-tools

@@ -5,38 +5,38 @@ series: The Good Thing
 episode: 3
 chunk: 08
 participants:
-- Stefan
-- Dustin
+  - Stefan
+  - Dustin
 segment: Discussion about ClickHouse requirements and self-hosting considerations
 timecode: 00:32:26:15 - 00:37:00:14
 start_time: 00:32:26:15
 end_time: 00:37:00:14
 speakers:
-- Stefan
-- Dustin
+  - Stefan
+  - Dustin
 topics:
-- ClickHouse
-- Self-Hosting
-- Managed Services
-- Infrastructure
+  - ClickHouse
+  - Self-Hosting
+  - Managed Services
+  - Infrastructure
 tags:
-- cosmo
+  - cosmo
 topic_tags:
-- cosmo
+  - cosmo
 entities:
-- Stefan
-- Dustin
-- Cosmo
-- ClickHouse
-- PostgreSQL
-- GCP
+  - Stefan
+  - Dustin
+  - Cosmo
+  - ClickHouse
+  - PostgreSQL
+  - GCP
 mentions:
-- ClickHouse
-- PostgreSQL
-- managed services
-- self-hosting
-- analytics
-- schema registry
+  - ClickHouse
+  - PostgreSQL
+  - managed services
+  - self-hosting
+  - analytics
+  - schema registry
 summary: Stefan and Dustin discuss the common question about whether ClickHouse is
   required for self-hosting Cosmo. They explain that while technically possible with
   PostgreSQL, ClickHouse is needed for analytics workloads and they prefer using managed

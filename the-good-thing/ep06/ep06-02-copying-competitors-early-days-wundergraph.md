@@ -25,9 +25,9 @@ topics:
 summary: |
   Stefan and Jens introduce the main theme of the episode: should you copy your competitors? They discuss the early days of WunderGraph, accusations of being a copycat, and the reality of product differentiation in the devtools space.
 tags:
-- federation
-- ai
-- cosmo
+  - federation
+  - ai
+  - cosmo
   - copying-competitors
   - startup-strategy
   - product-differentiation
@@ -35,9 +35,9 @@ tags:
   - devtools-space
   - wundergraph-origin
 topic_tags:
-- federation
-- ai
-- cosmo
+  - federation
+  - ai
+  - cosmo
   - copying-competitors
   - startup-strategy
   - product-differentiation

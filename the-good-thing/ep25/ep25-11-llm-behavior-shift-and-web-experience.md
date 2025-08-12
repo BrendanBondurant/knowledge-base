@@ -24,9 +24,9 @@ topics:
   - LLM experience vs web experience trade-offs
   - Ad revenue disruption in LLM world
 tags:
-- ai
-- rust
-- rest
+  - ai
+  - rust
+  - rest
   - web-evolution
   - search-behavior-change
   - chatgpt-adoption

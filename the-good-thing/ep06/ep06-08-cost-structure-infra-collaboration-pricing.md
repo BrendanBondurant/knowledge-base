@@ -25,16 +25,16 @@ topics:
 summary: |
   Jens and Stefan discuss the cost structure of infrastructure and collaboration tools, pricing strategies, and the importance of aligning value with customer needs in the startup landscape.
 tags:
-- ai
-- cosmo-router
-- postgres
+  - ai
+  - cosmo-router
+  - postgres
   - cost-structure
   - infrastructure-vs-collaboration
   - startup
 topic_tags:
-- ai
-- cosmo-router
-- postgres
+  - ai
+  - cosmo-router
+  - postgres
   - cost-structure
   - infrastructure-vs-collaboration
   - pricing-strategy
