@@ -1,4 +1,3 @@
-
 ---
 title: Venture Risk and Founder Perspective
 slug: ep26-08-venture-risk-and-founder-perspective
@@ -25,9 +24,6 @@ topics:
   - Young founders and capital efficiency
   - Venture math and dilution risks
 tags:
-- ai
-- postgres
-- rust
   - startup
   - database-companies
   - exit-timelines

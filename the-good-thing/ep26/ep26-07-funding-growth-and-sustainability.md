@@ -1,4 +1,3 @@
-
 ---
 title: Funding Growth and Sustainability
 slug: ep26-07-funding-growth-and-sustainability
@@ -25,9 +24,6 @@ topics:
   - Free tier economics and sustainability
   - Small companies defeating large competitors
 tags:
-- ai
-- database
-- rest
   - funding-strategy
   - sustainable-growth
   - vc-dynamics

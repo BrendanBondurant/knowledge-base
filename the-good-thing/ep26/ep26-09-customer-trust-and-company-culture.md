@@ -1,4 +1,3 @@
-
 ---
 title: Customer Trust and Company Culture
 slug: ep26-09-customer-trust-and-company-culture
@@ -25,9 +24,6 @@ topics:
   - Expert-led leadership philosophy
   - Low management overhead
 tags:
-- ai
-- postgres
-- rust
   - company-culture
   - capital-allocation
   - trust-based-management
