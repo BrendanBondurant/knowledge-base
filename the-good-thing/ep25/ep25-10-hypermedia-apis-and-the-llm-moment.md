@@ -1,4 +1,3 @@
-
 ---
 title: Hypermedia APIs and the LLM Moment
 slug: ep25-10-hypermedia-apis-and-the-llm-moment
@@ -30,7 +29,7 @@ tags:
   - distributed-cloud
   - siren-hypermedia
   - html-comparison
-  - llm-agents
+  - ai-agents
   - mcp-ui-track
   - hypermedia-patterns
   - dynamic-api-interactions

@@ -1,4 +1,3 @@
-
 ---
 title: Working Group Doubts and Federation Spec Concerns
 slug: ep24-05-working-group-doubts
@@ -29,10 +28,10 @@ tags:
   - graphql-foundation
   - federation-spec
   - working-group
-  - ChilliCream
-  - HotChocolate
-  - Gartner-hype-cycle
-  - market-adoption
+  - graphql
+  - graphql
+  - startup
+  - startup
 entities:
   - Curtis (Uber)
   - GraphQL Foundation

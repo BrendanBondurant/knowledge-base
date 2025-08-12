@@ -1,4 +1,3 @@
-
 ---
 title: Monopolies, Market Positioning, and Coldplay Controversy
 slug: ep24-11-monopolies-branding-coldplay
@@ -26,10 +25,10 @@ tags:
   - federation
   - ai
   - open-source
-  - CEO-leadership
+  - startup
   - strategic-investments
   - monopoly-theory
-  - market-positioning
+  - startup
   - workplace-ethics
   - coldplay
 entities:

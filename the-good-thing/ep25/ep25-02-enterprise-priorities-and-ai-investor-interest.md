@@ -1,4 +1,3 @@
-
 ---
 title: Enterprise Priorities and AI Investor Interest
 slug: ep25-02-enterprise-priorities-and-ai-investor-interest
@@ -31,8 +30,8 @@ tags:
   - enterprise-customers
   - platform-teams
   - investor-perspective
-  - ai-impact
-  - customer-priorities
+  - ai
+  - startup
 entities:
   - Tyk Technologies
   - WunderGraph

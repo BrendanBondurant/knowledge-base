@@ -1,4 +1,3 @@
-
 ---
 title: Tech Bubble vs Enterprise Reality
 slug: ep25-03-tech-bubble-vs-enterprise-reality
@@ -33,7 +32,7 @@ tags:
   - enterprise-reality
   - mainframe-computing
   - bleeding-edge
-  - ai-adoption-gap
+  - ai
 entities:
   - TechCrunch
   - ChatGPT

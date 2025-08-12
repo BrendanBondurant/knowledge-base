@@ -25,7 +25,7 @@ topics:
 tags:
   - scale-fascination
   - infrastructure-companies
-  - customer-relationships
+  - startup
   - cluster-orchestration
   - real-world-scale
 entities:

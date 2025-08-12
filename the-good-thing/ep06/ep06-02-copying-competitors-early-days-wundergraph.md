@@ -29,8 +29,8 @@ tags:
   - ai
   - cosmo
   - copying-competitors
-  - startup-strategy
-  - product-differentiation
+  - startup
+  - startup
   - copycat-accusations
   - devtools-space
   - wundergraph-origin

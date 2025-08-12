@@ -31,8 +31,8 @@ tags:
   - startup
   - competitor-analysis
   - startup
-  - product-vision
-  - product-differentiation
+  - startup
+  - startup
 topic_tags:
   - ai
   - apollo-graphql

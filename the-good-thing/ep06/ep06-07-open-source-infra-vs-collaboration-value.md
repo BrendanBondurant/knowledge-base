@@ -30,7 +30,7 @@ tags:
   - ai
   - open-source
   - infrastructure-vs-collaboration
-  - product-strategy
+  - startup
   - pricing-models
   - startup
 topic_tags:

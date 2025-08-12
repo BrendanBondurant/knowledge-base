@@ -1,4 +1,3 @@
-
 ---
 title: Lovable AI Scaling and Bubble Concerns
 slug: ep24-09-lovable-ai-scaling
@@ -28,8 +27,8 @@ tags:
   - websocket
   - lovable
   - unicorn-status
-  - ai-development
-  - European-tech
+  - ai
+  - startup
   - bubble-speculation
   - defensibility
   - scalability

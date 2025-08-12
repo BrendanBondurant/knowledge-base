@@ -31,9 +31,9 @@ tags:
   - competitor-analysis
   - rest-connectors
   - technical-evaluation
-  - product-strategy
+  - startup
   - engineering-philosophy
-  - startup-competition
+  - startup
 topic_tags:
   - graphql
   - ai

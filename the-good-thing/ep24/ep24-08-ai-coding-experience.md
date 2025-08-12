@@ -1,4 +1,3 @@
-
 ---
 title: AI Coding Experience and Personal Observations
 slug: ep24-08-ai-coding-experience
@@ -26,7 +25,7 @@ tags:
   - graphql
   - ai
   - cosmo-router
-  - ai-tools
+  - ai
   - cursor
   - claude-coder
   - personal-experience

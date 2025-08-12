@@ -1,4 +1,3 @@
-
 ---
 title: gRPC Type Safety and Performance Benefits
 slug: ep24-03-grpc-type-safety-performance
@@ -31,7 +30,7 @@ tags:
   - performance-optimization
   - n-plus-one
   - graphql-parsing
-  - Apollo-ecosystem
+  - apollo-graphql
   - schema-first
 entities:
   - WunderGraph

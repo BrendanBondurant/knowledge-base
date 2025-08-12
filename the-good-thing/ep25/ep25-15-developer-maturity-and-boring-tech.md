@@ -1,4 +1,3 @@
-
 ---
 title: Developer Maturity and Boring Tech
 slug: ep25-15-developer-maturity-and-boring-tech

@@ -32,8 +32,8 @@ tags:
   - infrastructure-strategy
   - collaboration-features
   - cloud-providers
-  - startup-strategy
-  - product-differentiation
+  - startup
+  - startup
 topic_tags:
   - federation
   - ai

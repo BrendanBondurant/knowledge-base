@@ -1,4 +1,3 @@
-
 ---
 title: From GraphQL to Collaboration
 slug: ep25-05-from-graphql-to-collaboration

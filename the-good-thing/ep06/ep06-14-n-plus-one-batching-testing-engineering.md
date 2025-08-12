@@ -30,7 +30,7 @@ tags:
   - batching-strategies
   - testing
   - engineering-philosophy
-  - product-development
+  - startup
   - technical-challenges
 topic_tags:
   - graphql

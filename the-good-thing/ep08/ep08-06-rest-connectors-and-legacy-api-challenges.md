@@ -1,4 +1,3 @@
-
 ---
 title: REST Connectors and Legacy API Integration Challenges
 slug: ep08-06-rest-connectors-and-legacy-api-challenges

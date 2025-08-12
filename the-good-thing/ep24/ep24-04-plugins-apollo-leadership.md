@@ -1,4 +1,3 @@
-
 ---
 title: Plugins, Connectors and Apollo Leadership Changes
 slug: ep24-04-plugins-apollo-leadership
@@ -29,10 +28,10 @@ tags:
   - apollo-graphql
   - plugin-system
   - co-processor
-  - LLM-automation
+  - llm
   - legacy-integration
-  - Apollo-leadership
-  - CEO-transition
+  - apollo-graphql
+  - startup
 entities:
   - WunderGraph
   - Cosmo Router

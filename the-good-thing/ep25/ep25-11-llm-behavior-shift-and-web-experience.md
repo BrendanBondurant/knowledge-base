@@ -1,4 +1,3 @@
-
 ---
 title: LLM Behavior Shift and Web Experience
 slug: ep25-11-llm-behavior-shift-and-web-experience

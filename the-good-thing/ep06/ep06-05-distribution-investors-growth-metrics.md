@@ -32,9 +32,9 @@ tags:
   - distribution-strategy
   - investor-relations
   - growth-metrics
-  - startup-strategy
+  - startup
   - fundraising
-  - product-differentiation
+  - startup
 topic_tags:
   - ai
   - apollo-graphql

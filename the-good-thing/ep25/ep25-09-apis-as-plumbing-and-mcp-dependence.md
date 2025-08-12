@@ -1,4 +1,3 @@
-
 ---
 title: APIs as Plumbing and MCP Dependence
 slug: ep25-09-apis-as-plumbing-and-mcp-dependence

@@ -30,7 +30,7 @@ tags:
   - type-safety
   - router-architecture
   - data-loading
-  - WunderGraph
+  - graphql
 entities:
   - WunderGraph
   - Cosmo Router

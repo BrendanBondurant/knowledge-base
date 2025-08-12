@@ -31,7 +31,7 @@ tags:
   - apollo
   - feature-copying
   - distribution-strategy
-  - product-strategy
+  - startup
   - competitive-markets
 topic_tags:
   - graphql

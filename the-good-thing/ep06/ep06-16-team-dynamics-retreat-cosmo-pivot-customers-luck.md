@@ -30,8 +30,8 @@ tags:
   - startup
   - team-dynamics
   - startup
-  - product-pivot
-  - product-evolution
+  - startup
+  - startup
 topic_tags:
   - cosmo
   - startup

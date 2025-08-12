@@ -1,4 +1,3 @@
-
 ---
 title: Analyst Influence and Vendor Complexity
 slug: ep25-07-analyst-influence-and-vendor-complexity

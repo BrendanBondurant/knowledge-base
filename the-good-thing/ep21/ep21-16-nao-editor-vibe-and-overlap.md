@@ -28,8 +28,7 @@ tags:
   - data-security
   - feature-convergence
   - amy
-  - private-market-investors
-  - startup-humility
+  - startup
 entities:
   - Nao
   - Cursor

@@ -25,7 +25,7 @@ tags:
   - graphql-federation
   - ai
   - state-of-federation
-  - market-research
+  - startup
   - enterprise-adoption
   - gartner-predictions
   - competitive-ecosystem

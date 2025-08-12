@@ -26,7 +26,7 @@ topics:
 tags:
   - postgres
   - sharding
-  - market-timing
+  - startup
   - database-engineering
   - battle-hardening
   - open-source

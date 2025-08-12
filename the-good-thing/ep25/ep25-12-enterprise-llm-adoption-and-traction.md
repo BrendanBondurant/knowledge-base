@@ -1,4 +1,3 @@
-
 ---
 title: Enterprise LLM Adoption and Traction
 slug: ep25-12-enterprise-llm-adoption-and-traction
@@ -29,7 +28,7 @@ tags:
   - github-copilot
   - netflix-ad-model
   - llm-accessibility
-  - enterprise-ai-adoption
+  - ai
   - digital-native-companies
   - mcp-early-adoption
   - copilot-to-cursor-progression

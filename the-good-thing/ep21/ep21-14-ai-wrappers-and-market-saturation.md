@@ -23,12 +23,12 @@ tags:
   - ai
   - websocket
   - startup
-  - ai-wrappers
-  - market-saturation
+  - ai
+  - startup
   - nao
   - data-tools
   - enterprise-pace
-  - startup-viability
+  - startup
 entities:
   - Stefan Avram
   - Jens Neuse

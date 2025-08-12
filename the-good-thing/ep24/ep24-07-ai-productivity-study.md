@@ -1,4 +1,3 @@
-
 ---
 title: AI Productivity Study Critique and Sample Size Issues
 slug: ep24-07-ai-productivity-study
@@ -26,7 +25,7 @@ tags:
   - ai
   - open-source
   - founder
-  - ai-productivity
+  - ai
   - research-methodology
   - sample-size
   - selection-bias

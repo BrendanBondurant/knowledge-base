@@ -1,9 +1,44 @@
-# ep14-02-explaining-mcp-with-metaphors
-
-**Time Range:** 00:05:15 - 00:09:24
-
-**Topic:** Explaining MCP with metaphors and federation as a gateway
-
+---
+title: Explaining MCP with Metaphors
+slug: ep14-02-explaining-mcp-with-metaphors
+series: The Good Thing
+episode: 14
+chunk: 2
+participants:
+  - Stefan
+  - Jens
+  - Dustin
+segment: Explaining MCP with metaphors and federation as a gateway
+timecode: 00:05:15 – 00:09:24
+start_time: 00:05:15
+end_time: 00:09:24
+speakers:
+  - Stefan
+  - Jens
+  - Dustin
+topics:
+  - MCP metaphors and explanations
+  - Federation as a gateway
+  - Tool descriptions and accessibility
+tags:
+  - mcp
+  - metaphors
+  - federation
+topic_tags:
+  - mcp
+  - metaphors
+  - federation
+entities:
+  - Stefan Avram
+  - Jens Neuse
+  - Dustin
+  - WunderGraph
+  - MCP
+mentions:
+  - MCP explanations
+  - federation metaphors
+  - tool accessibility
+summary: Stefan and team explain MCP using metaphors and discuss how federation acts as a gateway, making tools more accessible and understandable.
 ---
 
 00:05:15:24 - 00:05:31:23

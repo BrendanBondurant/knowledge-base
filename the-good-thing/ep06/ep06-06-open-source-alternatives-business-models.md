@@ -30,7 +30,7 @@ tags:
   - apollo-graphql
   - open-source
   - business-models
-  - product-differentiation
+  - startup
   - startup
   - collaboration-tools
 topic_tags:

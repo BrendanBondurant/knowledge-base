@@ -1,4 +1,3 @@
-
 ---
 title: Investor Criteria and API Gateway Market
 slug: ep25-06-investor-criteria-and-api-gateway-market
@@ -31,7 +30,7 @@ tags:
   - gateway-commoditization
   - company-differentiation
   - cloud-utilities
-  - customer-success
+  - startup
 entities:
   - Field CTO role
   - Postman

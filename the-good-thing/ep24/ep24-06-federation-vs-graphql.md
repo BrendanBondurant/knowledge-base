@@ -1,4 +1,3 @@
-
 ---
 title: Federation vs GraphQL Philosophy and Team Size
 slug: ep24-06-federation-vs-graphql

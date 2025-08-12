@@ -1,4 +1,3 @@
-
 ---
 title: Meta's Open Source Strategy Shift and AI Arms Race
 slug: ep24-10-meta-open-source-shift
@@ -27,9 +26,9 @@ tags:
   - cosmo-router
   - rest
   - meta
-  - open-source-AI
+  - open-source-ai
   - government-pressure
-  - ai-arms-race
+  - ai
   - business-model
   - advertising
 entities:

@@ -1,4 +1,3 @@
-
 ---
 title: LLM Accessibility and Enterprise Stickiness
 slug: ep25-13-llm-accessibility-and-enterprise-stickiness
@@ -27,12 +26,12 @@ tags:
   - graphql
   - mcp
   - ai
-  - ai-attribution
+  - ai
   - data-scraping-ethics
   - cloudflare-blocking
   - graphql-rest-llm
   - technology-persistence
-  - ai-ethics
+  - ai
 entities:
   - OpenAI
   - Cloudflare
