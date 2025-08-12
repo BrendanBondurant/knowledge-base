@@ -1,0 +1,1152 @@
+10x-engineer — low retrieval utility
+AI-development — absent in transcripts, low retrieval utility
+AI-integration — absent in transcripts, low retrieval utility
+AI-transformation — absent in transcripts, low retrieval utility
+WunderGraph — low retrieval utility
+ab-testing — low retrieval utility
+accelerator-insights — absent in transcripts, low retrieval utility
+access-control — low retrieval utility
+accessibility — absent in transcripts, low retrieval utility
+accuracy — low retrieval utility
+adam-frankl — found but not technical, low retrieval utility
+adaptive-sports — absent in transcripts, low retrieval utility
+adoption-barriers — absent in transcripts, low retrieval utility
+adoption-ladder — absent in transcripts, low retrieval utility
+advisor-importance — absent in transcripts, low retrieval utility
+agent-control — absent in transcripts
+agent-tools — absent in transcripts
+agents → ai-agents — merged variant
+ai — low retrieval utility
+ai-acceleration — absent in transcripts, low retrieval utility
+ai-adoption — absent in transcripts, low retrieval utility
+ai-agent-competition — absent in transcripts
+ai-and-careers — absent in transcripts, low retrieval utility
+ai-assisted-development — absent in transcripts, low retrieval utility
+ai-autonomy — absent in transcripts, low retrieval utility
+ai-blackmail — absent in transcripts, low retrieval utility
+ai-boom — low retrieval utility
+ai-bubble — low retrieval utility
+ai-code-percentage — absent in transcripts, low retrieval utility
+ai-collaboration — absent in transcripts, low retrieval utility
+ai-data-patterns — absent in transcripts
+ai-detection — absent in transcripts, low retrieval utility
+ai-development — absent in transcripts, low retrieval utility
+ai-development-tools — absent in transcripts, low retrieval utility
+ai-discovery — low retrieval utility
+ai-economics — absent in transcripts, low retrieval utility
+ai-ecosystems — absent in transcripts, low retrieval utility
+ai-employees — low retrieval utility
+ai-empowerment — absent in transcripts, low retrieval utility
+ai-engineer — absent in transcripts, low retrieval utility
+ai-first-strategy — absent in transcripts
+ai-gaming-tests — absent in transcripts, low retrieval utility
+ai-generated-libraries — absent in transcripts
+ai-governance — absent in transcripts
+ai-impact — absent in transcripts, low retrieval utility
+ai-incentives — absent in transcripts, low retrieval utility
+ai-infrastructure — absent in transcripts, low retrieval utility
+ai-integration — absent in transcripts, low retrieval utility
+ai-integrations — absent in transcripts, low retrieval utility
+ai-investment — absent in transcripts, low retrieval utility
+ai-investment-trends — absent in transcripts, low retrieval utility
+ai-investment-wave — absent in transcripts, low retrieval utility
+ai-languages — absent in transcripts, low retrieval utility
+ai-limitations — absent in transcripts, low retrieval utility
+ai-mandate — low retrieval utility
+ai-misconceptions — absent in transcripts, low retrieval utility
+ai-news-analysis — absent in transcripts, low retrieval utility
+ai-productivity — absent in transcripts, low retrieval utility
+ai-quality-standards — absent in transcripts, low retrieval utility
+ai-research — absent in transcripts, low retrieval utility
+ai-roleplay — absent in transcripts, low retrieval utility
+ai-search-engine — absent in transcripts, low retrieval utility
+ai-startups — low retrieval utility
+ai-testing — low retrieval utility
+ai-tool-monetization — absent in transcripts, low retrieval utility
+ai-tooling — absent in transcripts, low retrieval utility
+ai-tools — low retrieval utility
+ai-transformation — absent in transcripts, low retrieval utility
+ai-trends — absent in transcripts, low retrieval utility
+ai-trust-issues — absent in transcripts
+ai-valuations — absent in transcripts, low retrieval utility
+ai-verification — absent in transcripts, low retrieval utility
+ai-workflows — low retrieval utility
+ai-wrappers — absent in transcripts, low retrieval utility
+airbnb — low retrieval utility
+amy — low retrieval utility
+analytics — low retrieval utility
+analytics-driven-optimization — absent in transcripts, low retrieval utility
+android-dev — absent in transcripts, low retrieval utility
+anthropic — low retrieval utility
+api-dependency — absent in transcripts
+api-evolution — absent in transcripts
+api-exploration — absent in transcripts
+api-first — found but not technical
+api-gateway-patterns — absent in transcripts
+api-governance — absent in transcripts
+api-infrastructure — found but not technical
+api-paradigm — absent in transcripts
+api-positioning — absent in transcripts
+api-safety — absent in transcripts
+api-unification — absent in transcripts
+apogee — absent in transcripts, low retrieval utility
+apollo — low retrieval utility
+apollo-comparison — absent in transcripts, low retrieval utility
+apollo-competition — absent in transcripts, low retrieval utility
+apollo-criticism — absent in transcripts
+apollo-exclusion — absent in transcripts, low retrieval utility
+apollo-federation → graphql-federation — merged variant
+apollo-innovation-stagnation — absent in transcripts, low retrieval utility
+apollo-innovations — absent in transcripts, low retrieval utility
+apollo-layoffs — absent in transcripts, low retrieval utility
+apollo-principles — absent in transcripts
+apollo-summit — low retrieval utility
+app-generation — absent in transcripts, low retrieval utility
+apple-intelligence — low retrieval utility
+architecture-decisions — absent in transcripts
+architecture-design — absent in transcripts, low retrieval utility
+architecture-evolution — absent in transcripts, low retrieval utility
+architecture-patterns — absent in transcripts, low retrieval utility
+assembly-line-metaphor — absent in transcripts, low retrieval utility
+ast-statistics — absent in transcripts, low retrieval utility
+ast-transformation — low retrieval utility
+attack-prevention — absent in transcripts, low retrieval utility
+audience-engagement — absent in transcripts, low retrieval utility
+audits — low retrieval utility
+authorization-concerns — absent in transcripts
+automation-accessibility — absent in transcripts, low retrieval utility
+autonomous-systems — absent in transcripts, low retrieval utility
+aws — low retrieval utility
+aws-experience — absent in transcripts, low retrieval utility
+aws-wrappers — absent in transcripts, low retrieval utility
+b2b-sales — absent in transcripts, low retrieval utility
+b2b-theory — absent in transcripts, low retrieval utility
+b2b-transformation — absent in transcripts, low retrieval utility
+b2c-evolution — absent in transcripts, low retrieval utility
+backend-dev — absent in transcripts, low retrieval utility
+backend-development — low retrieval utility
+backend-for-frontend — absent in transcripts, low retrieval utility
+bank-restrictions — absent in transcripts
+batching-strategies — absent in transcripts
+bell-curve-meme — low retrieval utility
+beta-participation — absent in transcripts
+bff-pattern — low retrieval utility
+blogging — low retrieval utility
+bootcamps — low retrieval utility
+bootstrapping — low retrieval utility
+boring-tech — low retrieval utility
+borrow-checker — low retrieval utility
+brand-building — absent in transcripts, low retrieval utility
+brand-confusion — absent in transcripts, low retrieval utility
+brand-creativity — absent in transcripts, low retrieval utility
+brand-identity — absent in transcripts, low retrieval utility
+brand-value — absent in transcripts, low retrieval utility
+branding — low retrieval utility
+breaking-change-detection — low retrieval utility
+breaking-changes — low retrieval utility
+broken-abstraction — absent in transcripts, low retrieval utility
+bubble-discussion — absent in transcripts, low retrieval utility
+build-vs-buy — absent in transcripts, low retrieval utility
+business-benefits — absent in transcripts, low retrieval utility
+business-categories — absent in transcripts
+business-focus — absent in transcripts, low retrieval utility
+business-impact — low retrieval utility
+business-model — low retrieval utility
+business-model-fragility — absent in transcripts, low retrieval utility
+business-models — absent in transcripts, low retrieval utility
+business-priorities — absent in transcripts, low retrieval utility
+business-psychology — low retrieval utility
+business-responsibilities — absent in transcripts, low retrieval utility
+business-strategy — absent in transcripts
+business-tools — absent in transcripts, low retrieval utility
+business-tradeoffs — absent in transcripts, low retrieval utility
+business-understanding — absent in transcripts, low retrieval utility
+business-users — low retrieval utility
+business-value — low retrieval utility
+business-vs-technical — absent in transcripts, low retrieval utility
+buying-interest — absent in transcripts
+career — low retrieval utility
+career-development — absent in transcripts, low retrieval utility
+career-journey — absent in transcripts, low retrieval utility
+career-transitions — absent in transcripts, low retrieval utility
+case-studies — low retrieval utility
+case-study — low retrieval utility
+cerner — low retrieval utility
+champion-filtering — absent in transcripts, low retrieval utility
+chatgpt-competition — absent in transcripts, low retrieval utility
+ci-testing — absent in transcripts
+cisco-experience — absent in transcripts
+claude-configuration — absent in transcripts, low retrieval utility
+claude-desktop — low retrieval utility
+cli-security — absent in transcripts, low retrieval utility
+clickhouse — low retrieval utility
+closing — low retrieval utility
+closing-remarks — absent in transcripts, low retrieval utility
+cloud-infrastructure — low retrieval utility
+cloud-providers — low retrieval utility
+co-founders — low retrieval utility
+code-forking — absent in transcripts, low retrieval utility
+code-generation — low retrieval utility
+code-optimization — absent in transcripts, low retrieval utility
+code-organization — absent in transcripts, low retrieval utility
+code-quality — low retrieval utility
+code-readability — absent in transcripts, low retrieval utility
+code-value — absent in transcripts, low retrieval utility
+codex — low retrieval utility
+cofounders — absent in transcripts, low retrieval utility
+coin-flip-tier — absent in transcripts, low retrieval utility
+cold-start — low retrieval utility
+cold-starts — low retrieval utility
+collaboration — low retrieval utility
+collaboration-bottlenecks — absent in transcripts, low retrieval utility
+collaboration-compute-debate — absent in transcripts, low retrieval utility
+collaboration-features — absent in transcripts, low retrieval utility
+collaboration-platforms — absent in transcripts, low retrieval utility
+collaboration-tools — absent in transcripts, low retrieval utility
+collaboration-value — absent in transcripts, low retrieval utility
+collaborative-tooling — low retrieval utility
+commitment-testing — absent in transcripts, low retrieval utility
+communication-challenges — absent in transcripts, low retrieval utility
+communication-complexity — absent in transcripts, low retrieval utility
+communication-skills — low retrieval utility
+communication-strategy — absent in transcripts
+community-contributions — absent in transcripts, low retrieval utility
+community-engagement — absent in transcripts, low retrieval utility
+community-feedback — absent in transcripts, low retrieval utility
+community-management — absent in transcripts, low retrieval utility
+company-benefits — absent in transcripts, low retrieval utility
+company-growth — absent in transcripts, low retrieval utility
+company-scale — absent in transcripts, low retrieval utility
+company-strategy — absent in transcripts
+competition — low retrieval utility
+competition-analysis — absent in transcripts, low retrieval utility
+competitive-advantage — absent in transcripts, low retrieval utility
+competitive-analysis — absent in transcripts, low retrieval utility
+competitive-dynamics — absent in transcripts, low retrieval utility
+competitive-intelligence — absent in transcripts, low retrieval utility
+competitive-landscape — absent in transcripts, low retrieval utility
+competitive-markets — absent in transcripts, low retrieval utility
+competitive-moats — absent in transcripts, low retrieval utility
+competitive-strategy — absent in transcripts
+competitor-analysis — absent in transcripts, low retrieval utility
+compiler-development — absent in transcripts, low retrieval utility
+compiler-feedback — absent in transcripts, low retrieval utility
+complexity-management — absent in transcripts, low retrieval utility
+complexity-scoring — absent in transcripts, low retrieval utility
+component-design — absent in transcripts, low retrieval utility
+compute-margins — absent in transcripts, low retrieval utility
+compute-reselling — absent in transcripts, low retrieval utility
+conference-marketing — absent in transcripts, low retrieval utility
+conference-strategy — absent in transcripts
+configuration-bias — absent in transcripts, low retrieval utility
+connector-alternative — absent in transcripts
+connector-critique — absent in transcripts
+consistency — low retrieval utility
+construction-tech — absent in transcripts, low retrieval utility
+consulting — absent in transcripts, low retrieval utility
+content-creation — absent in transcripts, low retrieval utility
+content-marketing — absent in transcripts, low retrieval utility
+content-quality — absent in transcripts, low retrieval utility
+context-definition — absent in transcripts, low retrieval utility
+context-limitations — absent in transcripts, low retrieval utility
+context-management — absent in transcripts, low retrieval utility
+continuous-learning — low retrieval utility
+conversion-optimization — absent in transcripts, low retrieval utility
+conversion-rates — absent in transcripts
+conways-law — absent in transcripts, low retrieval utility
+copilot — low retrieval utility
+copilot-workflows — absent in transcripts, low retrieval utility
+copycat-accusations — absent in transcripts, low retrieval utility
+copying-competitors — low retrieval utility
+corporate-competition — absent in transcripts
+corporate-culture — absent in transcripts
+cosmo-architecture — absent in transcripts, low retrieval utility
+cosmo-integration — absent in transcripts, low retrieval utility
+cosmo-pivot — absent in transcripts, low retrieval utility
+cosmo-strategy — absent in transcripts
+cost-analysis — absent in transcripts, low retrieval utility
+cost-management — absent in transcripts, low retrieval utility
+cost-optimization — absent in transcripts, low retrieval utility
+cost-structure — absent in transcripts, low retrieval utility
+cost-transparency — absent in transcripts, low retrieval utility
+cpp — absent in transcripts, low retrieval utility
+cta-placement — absent in transcripts, low retrieval utility
+cta-strategy — absent in transcripts
+cultural-diversity — absent in transcripts, low retrieval utility
+cursor-adoption — absent in transcripts, low retrieval utility
+cursor-growth — absent in transcripts, low retrieval utility
+cursor-integration — absent in transcripts, low retrieval utility
+cursor-pricing — absent in transcripts
+custom-cms — absent in transcripts, low retrieval utility
+customer-abandonment — absent in transcripts, low retrieval utility
+customer-advocacy — absent in transcripts, low retrieval utility
+customer-behavior — absent in transcripts, low retrieval utility
+customer-communication — absent in transcripts, low retrieval utility
+customer-development — absent in transcripts, low retrieval utility
+customer-education — absent in transcripts, low retrieval utility
+customer-empathy — absent in transcripts, low retrieval utility
+customer-excitement — absent in transcripts
+customer-expectations — absent in transcripts, low retrieval utility
+customer-experience — low retrieval utility
+customer-first — absent in transcripts, low retrieval utility
+customer-listening — absent in transcripts, low retrieval utility
+customer-logos — absent in transcripts
+customer-needs — found but not technical, low retrieval utility
+customer-onboarding — absent in transcripts, low retrieval utility
+customer-partnerships — absent in transcripts, low retrieval utility
+customer-patterns — absent in transcripts, low retrieval utility
+customer-proximity — absent in transcripts, low retrieval utility
+customer-research — absent in transcripts, low retrieval utility
+customer-stories — low retrieval utility
+customer-success — low retrieval utility
+customer-support — low retrieval utility
+customer-validation — absent in transcripts, low retrieval utility
+data-analytics — absent in transcripts
+data-pipeline — absent in transcripts
+data-security — absent in transcripts
+data-tools — absent in transcripts
+database-analogy — absent in transcripts
+database-hosting — absent in transcripts
+database-sharding — absent in transcripts
+database-usage — absent in transcripts
+datadog-exporter — absent in transcripts
+datadog-grafana — absent in transcripts
+david-goliath — absent in transcripts
+dbt-integration — absent in transcripts, low retrieval utility
+deep-tech-content — absent in transcripts, low retrieval utility
+demo-setup — absent in transcripts, low retrieval utility
+design-partners — absent in transcripts, low retrieval utility
+design-review — absent in transcripts, low retrieval utility
+deterministic-tasks — absent in transcripts, low retrieval utility
+dev-workflows — absent in transcripts, low retrieval utility
+developer-accessibility — absent in transcripts, low retrieval utility
+developer-adoption — absent in transcripts, low retrieval utility
+developer-advice — absent in transcripts, low retrieval utility
+developer-advocacy — found but not technical, low retrieval utility
+developer-anxiety — absent in transcripts, low retrieval utility
+developer-evolution — absent in transcripts, low retrieval utility
+developer-impact — absent in transcripts, low retrieval utility
+developer-marketing — found but not technical, low retrieval utility
+developer-mindset — low retrieval utility
+developer-motivation — absent in transcripts, low retrieval utility
+developer-productivity — low retrieval utility
+developer-psychology — absent in transcripts, low retrieval utility
+developer-purchasing — absent in transcripts, low retrieval utility
+developer-replacement — absent in transcripts, low retrieval utility
+developer-requirements — absent in transcripts, low retrieval utility
+developer-value — absent in transcripts, low retrieval utility
+developer-velocity — absent in transcripts
+development — low retrieval utility
+development-tools — absent in transcripts, low retrieval utility
+devtools — absent in transcripts, low retrieval utility
+devtools-adoption — absent in transcripts, low retrieval utility
+devtools-future — absent in transcripts, low retrieval utility
+devtools-space — absent in transcripts, low retrieval utility
+diagrams — low retrieval utility
+differentiation — low retrieval utility
+digital-transformation — absent in transcripts, low retrieval utility
+dilution — absent in transcripts, low retrieval utility
+direct-communication — absent in transcripts, low retrieval utility
+direct-customer-access — absent in transcripts, low retrieval utility
+directive-problems — absent in transcripts, low retrieval utility
+directives — low retrieval utility
+disability — low retrieval utility
+discord-support — absent in transcripts, low retrieval utility
+disruptive-technology — low retrieval utility
+distributed-systems — low retrieval utility
+distribution — low retrieval utility
+distribution-challenges — absent in transcripts, low retrieval utility
+distribution-moats — absent in transcripts, low retrieval utility
+distribution-strategy — absent in transcripts
+distribution-vs-product — absent in transcripts, low retrieval utility
+diversity — low retrieval utility
+document-indexing — absent in transcripts, low retrieval utility
+documentation — low retrieval utility
+documentation-integration — absent in transcripts, low retrieval utility
+documentation-planning — absent in transcripts, low retrieval utility
+documentation-workflow — absent in transcripts, low retrieval utility
+domain-expertise — low retrieval utility
+due-diligence — low retrieval utility
+dunning-kruger — found but not technical, low retrieval utility
+e-commerce — low retrieval utility
+early-stage — low retrieval utility
+early-stage-concerns — absent in transcripts, low retrieval utility
+easter-weekend — low retrieval utility
+economic-incentives — absent in transcripts, low retrieval utility
+edge-cases — low retrieval utility
+edge-computing — absent in transcripts, low retrieval utility
+education — low retrieval utility
+elite-sports-team — found but not technical, low retrieval utility
+embeddings — low retrieval utility
+emotional-attachment — absent in transcripts, low retrieval utility
+employee-management — absent in transcripts, low retrieval utility
+employee-type — low retrieval utility
+endpoint-management — absent in transcripts, low retrieval utility
+energy-mismatch — absent in transcripts, low retrieval utility
+engineer-evaluation — absent in transcripts, low retrieval utility
+engineering-collaboration — absent in transcripts, low retrieval utility
+engineering-complexity — absent in transcripts, low retrieval utility
+engineering-culture — low retrieval utility
+engineering-decisions — absent in transcripts
+engineering-dna — low retrieval utility
+engineering-hiring — absent in transcripts, low retrieval utility
+engineering-impact — absent in transcripts, low retrieval utility
+engineering-mindset — absent in transcripts, low retrieval utility
+engineering-philosophy — absent in transcripts, low retrieval utility
+engineering-velocity — absent in transcripts
+enterprise — low retrieval utility
+enterprise-adoption — absent in transcripts, low retrieval utility
+enterprise-ai — absent in transcripts, low retrieval utility
+enterprise-customers — low retrieval utility
+enterprise-diversity — absent in transcripts, low retrieval utility
+enterprise-features — low retrieval utility
+enterprise-integration — low retrieval utility
+enterprise-pace — absent in transcripts, low retrieval utility
+enterprise-predictability — absent in transcripts, low retrieval utility
+enterprise-procurement — absent in transcripts, low retrieval utility
+enterprise-sales — low retrieval utility
+enterprise-scale — low retrieval utility
+entity-batching — absent in transcripts, low retrieval utility
+entity-clarity — absent in transcripts, low retrieval utility
+entity-concept — absent in transcripts, low retrieval utility
+entity-resolution — absent in transcripts, low retrieval utility
+epic-games — low retrieval utility
+episode-intro — absent in transcripts, low retrieval utility
+episode-introduction — absent in transcripts, low retrieval utility
+episode-wrap — absent in transcripts, low retrieval utility
+episode-wrap-up — absent in transcripts, low retrieval utility
+essential-infrastructure — absent in transcripts, low retrieval utility
+ethical-hacking — absent in transcripts, low retrieval utility
+evaluation-criteria — absent in transcripts, low retrieval utility
+event-preparation — absent in transcripts, low retrieval utility
+execution-config — low retrieval utility
+external-apis — absent in transcripts
+faang — low retrieval utility
+faang-companies — low retrieval utility
+family-balance — absent in transcripts, low retrieval utility
+family-support — absent in transcripts, low retrieval utility
+feature-convergence — absent in transcripts, low retrieval utility
+feature-copying — absent in transcripts, low retrieval utility
+feature-flags — low retrieval utility
+feature-overlap — absent in transcripts, low retrieval utility
+feature-positioning — absent in transcripts, low retrieval utility
+feature-release — absent in transcripts, low retrieval utility
+federation-acceleration — absent in transcripts
+federation-advantages — absent in transcripts
+federation-ai-alignment — absent in transcripts
+federation-alternatives — absent in transcripts
+federation-analysis — absent in transcripts
+federation-architecture — absent in transcripts
+federation-challenges — absent in transcripts
+federation-collaboration — absent in transcripts
+federation-complexity — absent in transcripts
+federation-evolution — absent in transcripts
+federation-expansion — absent in transcripts
+federation-history — absent in transcripts
+federation-keys — absent in transcripts
+federation-performance — absent in transcripts
+federation-scale — absent in transcripts
+federation-vs-rest — absent in transcripts
+federation-without-graphql — absent in transcripts
+feedback — low retrieval utility
+feedback-integration — absent in transcripts, low retrieval utility
+feedback-loops — absent in transcripts, low retrieval utility
+first-startup — low retrieval utility
+first-time-founders — low retrieval utility
+fly-io — low retrieval utility
+flyio — absent in transcripts, low retrieval utility
+flywheels — absent in transcripts, low retrieval utility
+focus — low retrieval utility
+fortune-500 — low retrieval utility
+founder-accountability — absent in transcripts, low retrieval utility
+founder-advantage — absent in transcripts, low retrieval utility
+founder-background — absent in transcripts, low retrieval utility
+founder-drive — absent in transcripts, low retrieval utility
+founder-empathy — absent in transcripts, low retrieval utility
+founder-led — low retrieval utility
+founder-mindset — absent in transcripts, low retrieval utility
+founder-mode — low retrieval utility
+founder-pressure — absent in transcripts, low retrieval utility
+founder-quality — absent in transcripts, low retrieval utility
+founder-stress — absent in transcripts, low retrieval utility
+founder-transparency — absent in transcripts, low retrieval utility
+founder-trust — absent in transcripts
+fragment-architecture — absent in transcripts, low retrieval utility
+fragment-hoisting — absent in transcripts, low retrieval utility
+frontend-backend — absent in transcripts, low retrieval utility
+frontend-development — low retrieval utility
+frontend-driven-adoption — absent in transcripts, low retrieval utility
+frontend-friction — absent in transcripts, low retrieval utility
+frontend-scaling — absent in transcripts, low retrieval utility
+funding-efficiency — absent in transcripts
+funding-philosophy — absent in transcripts, low retrieval utility
+funding-scaling — absent in transcripts, low retrieval utility
+fundraising — low retrieval utility
+fundraising-lessons — absent in transcripts, low retrieval utility
+fundraising-mistakes — absent in transcripts, low retrieval utility
+fundraising-process — absent in transcripts, low retrieval utility
+fundraising-strategy — absent in transcripts
+future-episodes — absent in transcripts, low retrieval utility
+future-outlook — absent in transcripts, low retrieval utility
+future-predictions — absent in transcripts, low retrieval utility
+game-show-format — absent in transcripts, low retrieval utility
+garbage-collection — low retrieval utility
+gcp — low retrieval utility
+gcp-reliability — absent in transcripts, low retrieval utility
+generation-gap — low retrieval utility
+generic-messaging — absent in transcripts, low retrieval utility
+git-migration — absent in transcripts, low retrieval utility
+github-activity — absent in transcripts
+github-ai — absent in transcripts
+go-language — absent in transcripts
+golang → go — merged variant
+graph-theory — low retrieval utility
+graphql-adoption — absent in transcripts
+graphql-as-sql — absent in transcripts
+graphql-collections — absent in transcripts
+graphql-complexity — absent in transcripts
+graphql-dependency — absent in transcripts
+graphql-directives — absent in transcripts
+graphql-history — absent in transcripts
+graphql-limitations — absent in transcripts
+graphql-mapping — absent in transcripts
+graphql-meta-language — absent in transcripts
+graphs — low retrieval utility
+green-energy — low retrieval utility
+group-chatbot — absent in transcripts, low retrieval utility
+growth — low retrieval utility
+growth-expectations — absent in transcripts, low retrieval utility
+growth-inflection — absent in transcripts, low retrieval utility
+growth-metrics — low retrieval utility
+guerrilla-marketing — absent in transcripts, low retrieval utility
+guest-announcements — absent in transcripts, low retrieval utility
+guest-appearance — absent in transcripts, low retrieval utility
+guest-introduction — absent in transcripts, low retrieval utility
+hacker-news — low retrieval utility
+hallucination-prevention — absent in transcripts
+hardware-monopoly — absent in transcripts, low retrieval utility
+hasura — low retrieval utility
+healthcare-company — low retrieval utility
+henry-ford-quote — absent in transcripts, low retrieval utility
+hiring-invitation — absent in transcripts, low retrieval utility
+hiring-policies — absent in transcripts
+honest-feedback — absent in transcripts, low retrieval utility
+hospital-security — absent in transcripts, low retrieval utility
+human-touch — low retrieval utility
+human-validation — absent in transcripts, low retrieval utility
+humanization — absent in transcripts, low retrieval utility
+humility — absent in transcripts, low retrieval utility
+humor-marketing — absent in transcripts, low retrieval utility
+hyperbound — low retrieval utility
+hypermedia — low retrieval utility
+icp — low retrieval utility
+ide-integration — absent in transcripts, low retrieval utility
+implementation-bias — absent in transcripts, low retrieval utility
+implementation-guidance — absent in transcripts, low retrieval utility
+implementation-issues — absent in transcripts, low retrieval utility
+inaccessible-entities — absent in transcripts, low retrieval utility
+incident-collaboration — absent in transcripts
+industry-mandates — absent in transcripts, low retrieval utility
+industry-respect — absent in transcripts, low retrieval utility
+infinite-regress — low retrieval utility
+infrastructure — low retrieval utility
+infrastructure-strategy — absent in transcripts
+infrastructure-vs-collaboration — absent in transcripts, low retrieval utility
+injury-recovery — absent in transcripts, low retrieval utility
+innovation — low retrieval utility
+instant-dismissal — absent in transcripts, low retrieval utility
+instant-integration — low retrieval utility
+integration — low retrieval utility
+interactive-demo — absent in transcripts, low retrieval utility
+interfaces-unions — absent in transcripts, low retrieval utility
+internal-app-building — absent in transcripts, low retrieval utility
+internal-tools — absent in transcripts, low retrieval utility
+internet-navigation — absent in transcripts, low retrieval utility
+interviews — low retrieval utility
+introduction — low retrieval utility
+introspection — low retrieval utility
+investment-debate — absent in transcripts, low retrieval utility
+investment-decisions — absent in transcripts
+investment-patterns — absent in transcripts, low retrieval utility
+investor-relations — absent in transcripts, low retrieval utility
+ipo — low retrieval utility
+javascript-complexity — absent in transcripts
+job-losses — absent in transcripts, low retrieval utility
+json-rpc — low retrieval utility
+json-schema-limitations — absent in transcripts
+json-schema-metadata — absent in transcripts
+json-validation — absent in transcripts, low retrieval utility
+junior-dev-advice — absent in transcripts, low retrieval utility
+junior-developers — low retrieval utility
+junior-engineer-influence — absent in transcripts, low retrieval utility
+jwt-security — absent in transcripts, low retrieval utility
+jwt-validation — absent in transcripts, low retrieval utility
+klavis — low retrieval utility
+kotlin — low retrieval utility
+kubecon — low retrieval utility
+kubernetes-stability — absent in transcripts
+landing-page-analysis — absent in transcripts, low retrieval utility
+landing-page-reviews — absent in transcripts, low retrieval utility
+landing-pages — low retrieval utility
+language-complexity — absent in transcripts, low retrieval utility
+language-ecosystem — absent in transcripts, low retrieval utility
+language-preferences — absent in transcripts, low retrieval utility
+language-tradeoffs — absent in transcripts, low retrieval utility
+latency — low retrieval utility
+layoff-strategy — absent in transcripts
+leapfrogging — low retrieval utility
+learn-to-code — low retrieval utility
+learning-curve — absent in transcripts, low retrieval utility
+learning-from-failure — absent in transcripts, low retrieval utility
+learning-fundamentals — absent in transcripts, low retrieval utility
+led-trucks — found but not technical, low retrieval utility
+lee-robinson — found but not technical, low retrieval utility
+legacy-migration — absent in transcripts, low retrieval utility
+legacy-systems — absent in transcripts, low retrieval utility
+lessons-learned — absent in transcripts, low retrieval utility
+licensing — low retrieval utility
+linear-example — absent in transcripts, low retrieval utility
+linkedin-controversy — absent in transcripts, low retrieval utility
+linting — low retrieval utility
+listening-methodology — absent in transcripts, low retrieval utility
+live-data-manipulation — absent in transcripts
+llm-behavior — absent in transcripts
+llm-code-generation — absent in transcripts
+llm-communication — absent in transcripts
+llm-constraints — absent in transcripts
+llm-context — absent in transcripts
+llm-education — absent in transcripts
+llm-optimization — absent in transcripts
+llm-safety — absent in transcripts
+llm-tools — absent in transcripts
+local-vulnerabilities — absent in transcripts, low retrieval utility
+location-bias — absent in transcripts, low retrieval utility
+low-code — low retrieval utility
+lumona — low retrieval utility
+maintainability — low retrieval utility
+maintainer-responsibilities — absent in transcripts, low retrieval utility
+maintenance-overhead — absent in transcripts, low retrieval utility
+managed-router-critique — absent in transcripts
+managed-services — absent in transcripts, low retrieval utility
+marathon-runners — low retrieval utility
+marblism — low retrieval utility
+market-analysis — found but not technical, low retrieval utility
+market-challenger — absent in transcripts, low retrieval utility
+market-concentration — absent in transcripts, low retrieval utility
+market-consolidation — absent in transcripts, low retrieval utility
+market-differentiation — absent in transcripts, low retrieval utility
+market-dominance — absent in transcripts, low retrieval utility
+market-dynamics — absent in transcripts, low retrieval utility
+market-entry — absent in transcripts, low retrieval utility
+market-knowledge — absent in transcripts, low retrieval utility
+market-maturity — absent in transcripts, low retrieval utility
+market-oversaturation — absent in transcripts, low retrieval utility
+market-positioning — absent in transcripts, low retrieval utility
+market-saturation — absent in transcripts, low retrieval utility
+market-signals — low retrieval utility
+market-size — low retrieval utility
+market-timing — absent in transcripts, low retrieval utility
+marketing-critique — absent in transcripts, low retrieval utility
+marketplace-design — absent in transcripts, low retrieval utility
+marriage — low retrieval utility
+mass-adoption — absent in transcripts, low retrieval utility
+mcp-availability — absent in transcripts
+mcp-benefits — absent in transcripts
+mcp-challenges — absent in transcripts
+mcp-configuration — absent in transcripts
+mcp-demo — absent in transcripts
+mcp-implementation — absent in transcripts
+mcp-integration → mcp — merged variant
+mcp-marketplace — absent in transcripts
+mcp-security — absent in transcripts
+mcp-validation — absent in transcripts
+media-sensationalism — absent in transcripts, low retrieval utility
+mental-health — absent in transcripts, low retrieval utility
+mermaid-diagrams — absent in transcripts, low retrieval utility
+messaging — low retrieval utility
+messaging-consistency — absent in transcripts, low retrieval utility
+messaging-critique — absent in transcripts, low retrieval utility
+metadata-transformation — absent in transcripts
+metrics — low retrieval utility
+microservices-scaling — absent in transcripts
+microservices-sprawl — absent in transcripts
+microsoft — low retrieval utility
+microsoft-strategy — absent in transcripts
+mid-market — low retrieval utility
+migration — low retrieval utility
+milestone-celebration — absent in transcripts, low retrieval utility
+mistakes — low retrieval utility
+mlop — absent in transcripts, low retrieval utility
+model-context-protocol → mcp — merged variant
+model-limitations — absent in transcripts, low retrieval utility
+modernization — low retrieval utility
+modular-design — absent in transcripts, low retrieval utility
+mono-repo — low retrieval utility
+monolithic-database — absent in transcripts
+multi-protocol — absent in transcripts, low retrieval utility
+mutation-exclusion — absent in transcripts, low retrieval utility
+n-plus-one-problem — low retrieval utility
+n-plus-one-queries — absent in transcripts, low retrieval utility
+naming-strategy — absent in transcripts
+nao — found but not technical, low retrieval utility
+negotiation-skills — absent in transcripts
+netflix — low retrieval utility
+network-attacks — absent in transcripts, low retrieval utility
+network-effects — low retrieval utility
+network-ports — absent in transcripts, low retrieval utility
+next-episode — low retrieval utility
+nextjs — absent in transcripts, low retrieval utility
+nextjs-app — absent in transcripts, low retrieval utility
+nextjs-demo — absent in transcripts, low retrieval utility
+nginx — absent in transcripts, low retrieval utility
+night-school — low retrieval utility
+nlp — absent in transcripts, low retrieval utility
+no-code-interfaces — absent in transcripts, low retrieval utility
+no-code-solutions — absent in transcripts, low retrieval utility
+node-id-routing — absent in transcripts, low retrieval utility
+node-interface — low retrieval utility
+non-developer-movement — absent in transcripts, low retrieval utility
+non-technical-prompts — absent in transcripts
+non-technical-users — absent in transcripts, low retrieval utility
+normalized-cache — found but not technical
+norway — low retrieval utility
+nvme-storage — absent in transcripts, low retrieval utility
+objection-handling — low retrieval utility
+on-call-rotation — absent in transcripts, low retrieval utility
+on-premise — low retrieval utility
+open-source-alternatives — absent in transcripts, low retrieval utility
+open-source-business — absent in transcripts, low retrieval utility
+open-source-commitment — absent in transcripts, low retrieval utility
+open-source-community — absent in transcripts, low retrieval utility
+open-source-funnel — absent in transcripts, low retrieval utility
+open-source-game-theory — absent in transcripts, low retrieval utility
+open-source-maintenance — absent in transcripts, low retrieval utility
+open-source-monetization — absent in transcripts, low retrieval utility
+openai — low retrieval utility
+openai-advantage — absent in transcripts, low retrieval utility
+openai-risk — absent in transcripts, low retrieval utility
+openai-threat — absent in transcripts, low retrieval utility
+openapi-patterns — absent in transcripts
+operation-control — low retrieval utility
+operational-overhead — absent in transcripts, low retrieval utility
+optimization — low retrieval utility
+orchestration-layer — low retrieval utility
+organizational-barriers — absent in transcripts, low retrieval utility
+organizational-benefits — absent in transcripts, low retrieval utility
+organizational-design — absent in transcripts, low retrieval utility
+organizational-problems — low retrieval utility
+organizational-scaling — absent in transcripts, low retrieval utility
+origin-story — absent in transcripts, low retrieval utility
+orm — low retrieval utility
+otel-configuration — absent in transcripts, low retrieval utility
+otel-metrics — low retrieval utility
+overengineering — absent in transcripts, low retrieval utility
+override-directive — low retrieval utility
+pain-point-validation — absent in transcripts, low retrieval utility
+pain-points — low retrieval utility
+paradigm-shift — low retrieval utility
+parenting-analogy — absent in transcripts, low retrieval utility
+pattern-discovery — absent in transcripts, low retrieval utility
+pattern-matching — low retrieval utility
+pattern-replication — absent in transcripts, low retrieval utility
+payment — absent in transcripts, low retrieval utility
+performance-claims — absent in transcripts, low retrieval utility
+performance-improvements — low retrieval utility
+performance-monitoring — absent in transcripts, low retrieval utility
+performance-optimization — absent in transcripts, low retrieval utility
+persistent-operations — low retrieval utility
+personal-relationships — absent in transcripts, low retrieval utility
+personal-style — absent in transcripts, low retrieval utility
+personal-updates — absent in transcripts, low retrieval utility
+pii-handling — absent in transcripts, low retrieval utility
+pitch-decks — found but not technical, low retrieval utility
+pitfalls — low retrieval utility
+pivot-decisions — absent in transcripts
+pivot-potential — absent in transcripts, low retrieval utility
+pivot-strategy — absent in transcripts
+planetscale — low retrieval utility
+planetscale-pricing — absent in transcripts
+platform — low retrieval utility
+platform-advantages — absent in transcripts, low retrieval utility
+platform-dynamics — absent in transcripts, low retrieval utility
+platform-moats — absent in transcripts, low retrieval utility
+platform-strategy — absent in transcripts
+plugin-federation — absent in transcripts
+poc-limitations — absent in transcripts, low retrieval utility
+podcast — low retrieval utility
+podcast-intro — absent in transcripts, low retrieval utility
+podcast-schedule — absent in transcripts, low retrieval utility
+portfolio-management — absent in transcripts, low retrieval utility
+positioning-evolution — absent in transcripts, low retrieval utility
+posthog — low retrieval utility
+postman — low retrieval utility
+practice — low retrieval utility
+pragmatism — low retrieval utility
+premature-scaling — absent in transcripts, low retrieval utility
+presentation-critique — absent in transcripts, low retrieval utility
+pretzel-marketing — absent in transcripts, low retrieval utility
+pricing-clarity — absent in transcripts
+pricing-comparison — absent in transcripts
+pricing-models — absent in transcripts
+prisma — low retrieval utility
+prisma-drizzle — absent in transcripts, low retrieval utility
+private-market-investors — low retrieval utility
+problem-solution-fit — absent in transcripts, low retrieval utility
+problem-solving — found but not technical, low retrieval utility
+procrastination — absent in transcripts, low retrieval utility
+procurement — low retrieval utility
+product — low retrieval utility
+product-adoption — absent in transcripts, low retrieval utility
+product-complexity — absent in transcripts, low retrieval utility
+product-criticism — absent in transcripts
+product-demo — absent in transcripts, low retrieval utility
+product-development — absent in transcripts, low retrieval utility
+product-direction — found but not technical, low retrieval utility
+product-evolution — absent in transcripts, low retrieval utility
+product-identity — absent in transcripts, low retrieval utility
+product-iteration — absent in transcripts, low retrieval utility
+product-market-fit — low retrieval utility
+product-marketing — absent in transcripts, low retrieval utility
+product-pivot — absent in transcripts, low retrieval utility
+product-pivots — absent in transcripts, low retrieval utility
+product-roadmaps — low retrieval utility
+product-success — absent in transcripts, low retrieval utility
+product-vision — low retrieval utility
+production-performance — absent in transcripts, low retrieval utility
+production-safety — absent in transcripts, low retrieval utility
+productivity — low retrieval utility
+productivity-metrics — absent in transcripts, low retrieval utility
+profitability-planning — absent in transcripts, low retrieval utility
+programming-education — absent in transcripts, low retrieval utility
+programming-fundamentals — absent in transcripts, low retrieval utility
+programming-journey — absent in transcripts, low retrieval utility
+programming-languages — absent in transcripts, low retrieval utility
+programming-motivation — absent in transcripts, low retrieval utility
+prompt-driven-development — absent in transcripts
+prompt-engineering — found but not technical
+proprietary-architecture — absent in transcripts, low retrieval utility
+protobuf — low retrieval utility
+protocol-design — absent in transcripts, low retrieval utility
+protocol-implementation — absent in transcripts, low retrieval utility
+provides-directive — low retrieval utility
+pull-requests — low retrieval utility
+qa-efficiency — absent in transcripts
+qa-processes — absent in transcripts, low retrieval utility
+quarterly-retreats — low retrieval utility
+query-generation — absent in transcripts
+query-mapping — absent in transcripts
+query-optimization — absent in transcripts
+query-plan-analysis — absent in transcripts
+query-validation — absent in transcripts
+real-world-testing — absent in transcripts, low retrieval utility
+recruitment — absent in transcripts, low retrieval utility
+recursive-types — absent in transcripts, low retrieval utility
+reddit-integration — absent in transcripts, low retrieval utility
+refetching-patterns — absent in transcripts, low retrieval utility
+rejection — found but not technical, low retrieval utility
+relationship-bias — absent in transcripts, low retrieval utility
+relationship-building — absent in transcripts, low retrieval utility
+relationships — low retrieval utility
+relay-adoption — absent in transcripts, low retrieval utility
+relay-fragments — absent in transcripts, low retrieval utility
+relay-support — absent in transcripts, low retrieval utility
+remote-collaboration — absent in transcripts, low retrieval utility
+remote-tooling — absent in transcripts, low retrieval utility
+remote-work — low retrieval utility
+requires-directive — low retrieval utility
+research-tools — absent in transcripts, low retrieval utility
+responsible-disclosure — absent in transcripts, low retrieval utility
+rest-api-challenges — absent in transcripts
+rest-fragmentation — absent in transcripts
+rest-vs-graphql — absent in transcripts
+results-focus — absent in transcripts, low retrieval utility
+resume-driven-development — absent in transcripts, low retrieval utility
+resume-funding — absent in transcripts, low retrieval utility
+retool — low retrieval utility
+retool-comparison — absent in transcripts, low retrieval utility
+retreat — low retrieval utility
+reverse-psychology — absent in transcripts, low retrieval utility
+rfc-development — absent in transcripts, low retrieval utility
+rfc-process — low retrieval utility
+rfc-writing — absent in transcripts, low retrieval utility
+role-evolution — absent in transcripts, low retrieval utility
+rookie-mistakes — absent in transcripts, low retrieval utility
+router-architecture — absent in transcripts
+router-compatibility — absent in transcripts
+router-implementation — absent in transcripts
+router-lifecycle — absent in transcripts
+rpc — low retrieval utility
+rpc-simplicity — absent in transcripts
+runway-management — absent in transcripts, low retrieval utility
+rust-borrow-checker — absent in transcripts
+rust-language — absent in transcripts
+safety-controls — absent in transcripts, low retrieval utility
+safety-mechanisms — absent in transcripts, low retrieval utility
+sales — low retrieval utility
+sales-cycle — low retrieval utility
+sales-documentation — absent in transcripts, low retrieval utility
+sales-enablement — low retrieval utility
+sales-experience — absent in transcripts, low retrieval utility
+sales-philosophy — absent in transcripts, low retrieval utility
+sales-process — low retrieval utility
+sales-strategy — absent in transcripts
+sales-training — absent in transcripts, low retrieval utility
+sam-lambert — absent in transcripts, low retrieval utility
+scalability — low retrieval utility
+scale-requirements — absent in transcripts, low retrieval utility
+scaling — low retrieval utility
+schema-comments — absent in transcripts
+schema-complexity — absent in transcripts
+schema-composition — absent in transcripts
+schema-explicitness — absent in transcripts
+schema-generation — absent in transcripts
+schema-noise — absent in transcripts
+schema-optimization — absent in transcripts
+schema-proposals — absent in transcripts
+schema-safety — absent in transcripts
+schema-size — absent in transcripts
+schema-slicing — absent in transcripts
+schema-standards — absent in transcripts
+schema-transparency — absent in transcripts
+schema-visualization — absent in transcripts
+scroll-depth — found but not technical, low retrieval utility
+sdk-generation — absent in transcripts, low retrieval utility
+sdk-lessons — absent in transcripts, low retrieval utility
+sdk-preference — absent in transcripts, low retrieval utility
+sdk-strategy — absent in transcripts
+sdks — low retrieval utility
+search-differentiation — absent in transcripts, low retrieval utility
+secure-workflows — absent in transcripts, low retrieval utility
+security — low retrieval utility
+security-concerns — low retrieval utility
+security-education — absent in transcripts, low retrieval utility
+security-vulnerabilities — low retrieval utility
+seed-funding — low retrieval utility
+seed-vs-series-a — absent in transcripts, low retrieval utility
+selection-criteria — absent in transcripts, low retrieval utility
+self-critique — absent in transcripts, low retrieval utility
+self-hosting-preference — absent in transcripts, low retrieval utility
+self-service — low retrieval utility
+self-taught — low retrieval utility
+self-taught-engineer — low retrieval utility
+self-taught-engineers — absent in transcripts, low retrieval utility
+semantic-similarity — absent in transcripts, low retrieval utility
+sentry — low retrieval utility
+seo — low retrieval utility
+series-a — low retrieval utility
+serverless-architecture — low retrieval utility
+service-architecture — low retrieval utility
+shopify-memo — absent in transcripts, low retrieval utility
+show-format — absent in transcripts, low retrieval utility
+sign-off — low retrieval utility
+site-reliability-engineering — low retrieval utility
+sla-requirements — absent in transcripts, low retrieval utility
+slide-formatting — absent in transcripts, low retrieval utility
+small-business — low retrieval utility
+small-startup-strategy — absent in transcripts
+small-team-challenges — absent in transcripts, low retrieval utility
+small-teams — low retrieval utility
+social-impact — absent in transcripts
+social-media-search — absent in transcripts
+soft-skills — low retrieval utility
+software-complexity — absent in transcripts, low retrieval utility
+software-development — low retrieval utility
+software-development-future — absent in transcripts, low retrieval utility
+software-impact — absent in transcripts, low retrieval utility
+software-liability — absent in transcripts, low retrieval utility
+soundcloud — low retrieval utility
+specification-evolution — absent in transcripts
+speed-vs-reliability — absent in transcripts, low retrieval utility
+sre-incident-management — absent in transcripts
+sre-tools — low retrieval utility
+sse-vulnerabilities — absent in transcripts, low retrieval utility
+ssh-troubleshooting — absent in transcripts, low retrieval utility
+stack-complexity — absent in transcripts, low retrieval utility
+staging-environment — low retrieval utility
+stakeholder-mapping — absent in transcripts, low retrieval utility
+standards — low retrieval utility
+stargate-project — absent in transcripts, low retrieval utility
+startup-advantages — absent in transcripts, low retrieval utility
+startup-advice — found but not technical, low retrieval utility
+startup-competition — absent in transcripts, low retrieval utility
+startup-creativity — absent in transcripts, low retrieval utility
+startup-credits — low retrieval utility
+startup-culture — absent in transcripts, low retrieval utility
+startup-defensibility — absent in transcripts, low retrieval utility
+startup-ecosystem — absent in transcripts, low retrieval utility
+startup-evaluation — absent in transcripts, low retrieval utility
+startup-feedback — absent in transcripts, low retrieval utility
+startup-funding — absent in transcripts, low retrieval utility
+startup-growth — absent in transcripts, low retrieval utility
+startup-humility — absent in transcripts, low retrieval utility
+startup-ideas — low retrieval utility
+startup-journey — absent in transcripts, low retrieval utility
+startup-leadership — absent in transcripts, low retrieval utility
+startup-life — absent in transcripts, low retrieval utility
+startup-luck — absent in transcripts, low retrieval utility
+startup-maturity — absent in transcripts, low retrieval utility
+startup-mechanics — low retrieval utility
+startup-mistakes — absent in transcripts, low retrieval utility
+startup-moats — absent in transcripts, low retrieval utility
+startup-operations — absent in transcripts, low retrieval utility
+startup-philosophy — absent in transcripts, low retrieval utility
+startup-reliability — absent in transcripts, low retrieval utility
+startup-retreat — absent in transcripts, low retrieval utility
+startup-revenue — absent in transcripts, low retrieval utility
+startup-security — absent in transcripts, low retrieval utility
+startup-success — low retrieval utility
+startup-trends — absent in transcripts, low retrieval utility
+startup-viability — absent in transcripts, low retrieval utility
+startup-vision — absent in transcripts, low retrieval utility
+startup-waves — absent in transcripts, low retrieval utility
+static-analysis — low retrieval utility
+stdio-implementation — absent in transcripts, low retrieval utility
+strategic-investors — absent in transcripts
+strategic-positioning — absent in transcripts
+strategic-reflection — absent in transcripts
+streaming — low retrieval utility
+stripe — low retrieval utility
+stripe-integration — absent in transcripts, low retrieval utility
+structured-contracts — absent in transcripts
+subgraph-federation — absent in transcripts
+subgraph-jumps — absent in transcripts
+subscription-support — absent in transcripts
+super-bowl — low retrieval utility
+super-graph — low retrieval utility
+super-graph-advantages — absent in transcripts, low retrieval utility
+supergraph-adoption — absent in transcripts
+supergraph-benefits — absent in transcripts
+supergraph-strategy — absent in transcripts
+support — low retrieval utility
+tab-insights — absent in transcripts, low retrieval utility
+talent-acquisition — absent in transcripts, low retrieval utility
+tanzania-project — absent in transcripts, low retrieval utility
+target-audience — low retrieval utility
+target-customer — absent in transcripts, low retrieval utility
+target-market — low retrieval utility
+team-architecture — absent in transcripts, low retrieval utility
+team-building — low retrieval utility
+team-collaboration — absent in transcripts, low retrieval utility
+team-communication — absent in transcripts, low retrieval utility
+team-coordination — absent in transcripts, low retrieval utility
+team-culture — absent in transcripts, low retrieval utility
+team-discovery — absent in transcripts, low retrieval utility
+team-efficiency — absent in transcripts
+team-energy — absent in transcripts, low retrieval utility
+team-friction — absent in transcripts, low retrieval utility
+team-productivity — absent in transcripts, low retrieval utility
+team-scale-development — absent in transcripts, low retrieval utility
+team-size — low retrieval utility
+team-structure — low retrieval utility
+team-updates — absent in transcripts, low retrieval utility
+tech-obsession — absent in transcripts, low retrieval utility
+tech-shifts — absent in transcripts, low retrieval utility
+technical-advisory-board — low retrieval utility
+technical-challenges — absent in transcripts, low retrieval utility
+technical-critique — absent in transcripts, low retrieval utility
+technical-debt — low retrieval utility
+technical-evaluation — absent in transcripts, low retrieval utility
+technical-excellence — absent in transcripts, low retrieval utility
+technical-feasibility — absent in transcripts, low retrieval utility
+technical-founder — low retrieval utility
+technical-knowledge — low retrieval utility
+technical-marketing — absent in transcripts, low retrieval utility
+technical-messaging — absent in transcripts, low retrieval utility
+technical-positioning — absent in transcripts, low retrieval utility
+technical-skills — absent in transcripts, low retrieval utility
+technical-strategy — absent in transcripts
+technical-validation — absent in transcripts, low retrieval utility
+technical-vs-business — absent in transcripts, low retrieval utility
+technology-choices — absent in transcripts, low retrieval utility
+technology-cycles — absent in transcripts, low retrieval utility
+technology-obsolescence — absent in transcripts, low retrieval utility
+technology-transfer — absent in transcripts, low retrieval utility
+technology-waves — absent in transcripts, low retrieval utility
+temperature-settings — absent in transcripts, low retrieval utility
+test-driven-development — absent in transcripts, low retrieval utility
+test-generation — absent in transcripts, low retrieval utility
+test-suite — low retrieval utility
+testing — low retrieval utility
+textai — absent in transcripts, low retrieval utility
+third-party-evaluation — absent in transcripts, low retrieval utility
+thundercode — low retrieval utility
+tier-list — low retrieval utility
+tier-list-summary — absent in transcripts, low retrieval utility
+tier-placement — absent in transcripts, low retrieval utility
+timezone-management — absent in transcripts, low retrieval utility
+token-limits — absent in transcripts, low retrieval utility
+tokenization — low retrieval utility
+tool-apis — absent in transcripts
+tool-descriptions — absent in transcripts, low retrieval utility
+tool-packaging — absent in transcripts, low retrieval utility
+tool-permissions — absent in transcripts, low retrieval utility
+trade-offs — low retrieval utility
+tradeoffs — low retrieval utility
+travel-requirements — absent in transcripts, low retrieval utility
+trpc-comparison — absent in transcripts, low retrieval utility
+tyk — low retrieval utility
+tyk-technologies — low retrieval utility
+type-safety — low retrieval utility
+typescript-rewrite — absent in transcripts
+ui-architecture — absent in transcripts, low retrieval utility
+ui-ux — absent in transcripts, low retrieval utility
+uniform-api-interfaces — absent in transcripts
+unikernel — low retrieval utility
+universal-ai-adoption — absent in transcripts, low retrieval utility
+unreal-engine — low retrieval utility
+use-cases — low retrieval utility
+user-abstraction — absent in transcripts, low retrieval utility
+user-experience — low retrieval utility
+user-research — absent in transcripts, low retrieval utility
+ux-design — absent in transcripts, low retrieval utility
+validation — low retrieval utility
+value — low retrieval utility
+value-delivery — absent in transcripts, low retrieval utility
+value-demonstration — absent in transcripts, low retrieval utility
+value-proposition — absent in transcripts, low retrieval utility
+vc-automation — absent in transcripts, low retrieval utility
+vc-funding — low retrieval utility
+vc-industry — absent in transcripts, low retrieval utility
+vc-relationships — absent in transcripts, low retrieval utility
+vector-databases — absent in transcripts
+vendor-bias — absent in transcripts, low retrieval utility
+vendor-experience — absent in transcripts, low retrieval utility
+vercel — low retrieval utility
+vercel-strategy — absent in transcripts
+vibe-coding — low retrieval utility
+vibe-coding-limitations — absent in transcripts, low retrieval utility
+vibe-coding-risks — absent in transcripts, low retrieval utility
+vision — low retrieval utility
+vision-clarification — absent in transcripts, low retrieval utility
+vision-funding — absent in transcripts, low retrieval utility
+visual-design — absent in transcripts, low retrieval utility
+vs-code-fork — absent in transcripts, low retrieval utility
+war-room — low retrieval utility
+web-crawling — absent in transcripts, low retrieval utility
+webhooks — low retrieval utility
+website-optimization — absent in transcripts, low retrieval utility
+website-review — absent in transcripts, low retrieval utility
+websockets — low retrieval utility
+wedding-preparation — absent in transcripts, low retrieval utility
+wheelchair-technology — absent in transcripts, low retrieval utility
+work-life-balance — absent in transcripts, low retrieval utility
+work-tradeoffs — absent in transcripts, low retrieval utility
+workflow — low retrieval utility
+workflow-analysis — absent in transcripts, low retrieval utility
+workflow-design — absent in transcripts, low retrieval utility
+workflow-enhancement — absent in transcripts, low retrieval utility
+workflow-iteration — absent in transcripts, low retrieval utility
+workflow-optimization — absent in transcripts, low retrieval utility
+workflows — low retrieval utility
+working-group — low retrieval utility
+working-retreats — found but not technical, low retrieval utility
+wundergraph-architecture — absent in transcripts, low retrieval utility
+wundergraph-hiring — absent in transcripts, low retrieval utility
+wundergraph-investors — absent in transcripts, low retrieval utility
+wundergraph-origin — absent in transcripts, low retrieval utility
+wundergraph-reinvention — absent in transcripts, low retrieval utility
+y-combinator — low retrieval utility
+y-combinator-quality — absent in transcripts, low retrieval utility
+yelp-concept — absent in transcripts, low retrieval utility
+youtube-scaling — absent in transcripts, low retrieval utility
+zoom-fatigue — low retrieval utility
