@@ -60,7 +60,7 @@ Topics sorted by frequency (highest to lowest):
 - "ClickHouse" (2)
 - "Managed Services" (2)
 - "Infrastructure" (2)
-- "Startup Lessons" (2)
+- "Startup lessons" (2)
 - "Fly.io" (2)
 - "AWS" (2)
 - "Support challenges" (2)

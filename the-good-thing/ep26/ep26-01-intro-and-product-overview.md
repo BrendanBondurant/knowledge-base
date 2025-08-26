@@ -17,12 +17,10 @@ speakers:
   - Jens
   - Sam Lambert
 topics:
-  - PlanetScale introduction and background
-  - MySQL vs Postgres hosting
-  - Sharded vs unsharded database products
-  - Sam Lambert's background at GitHub and Meta
-  - Vitess technology explanation
-  - Database platform positioning
+  - PlanetScale Overview
+  - MySQL and Postgres
+  - Sharded vs Unsharded Databases
+  - Vitess Technology
 tags:
   - mysql
   - postgres

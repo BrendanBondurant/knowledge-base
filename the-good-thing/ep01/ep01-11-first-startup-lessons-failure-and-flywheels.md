@@ -1,5 +1,5 @@
 ---
-title: First Startup Lessons Failure and Flywheels
+title: First Startup lessons Failure and Flywheels
 slug: ep01-11-first-startup-lessons-failure-and-flywheels
 series: The Good Thing
 episode: 1

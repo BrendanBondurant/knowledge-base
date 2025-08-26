@@ -17,12 +17,10 @@ speakers:
   - Jens
   - Sam Lambert
 topics:
-  - Surplus and reinvestment strategy
-  - Durable vs bought growth
-  - VC-backed profitability challenges
-  - User growth metrics skepticism
-  - Free tier economics and sustainability
-  - Small companies defeating large competitors
+  - Sustainable Growth
+  - VC Funding Challenges
+  - Free Tier Economics
+  - Competing with Large Companies
 tags:
   - ai
   - api-design

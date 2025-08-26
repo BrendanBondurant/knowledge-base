@@ -17,7 +17,7 @@ speakers:
 topics:
   - Role Evolution
   - Technical Founder
-  - Startup Lessons
+  - Startup lessons
   - AI Impact
 tags:
   - startup

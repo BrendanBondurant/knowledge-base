@@ -17,12 +17,10 @@ speakers:
   - Jens
   - Sam Lambert
 topics:
-  - Capital allocation and growth strategies
-  - Neon acquisition by Databricks
-  - Building culture with 55 people
-  - Trust-based management approach
-  - Expert-led leadership philosophy
-  - Low management overhead
+  - Capital Allocation
+  - Startup Culture
+  - Trust-Based Leadership
+  - Employee Autonomy
 tags:
   - api-design
   - rust

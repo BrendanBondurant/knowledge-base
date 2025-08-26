@@ -17,12 +17,10 @@ speakers:
   - Jens
   - Sam Lambert
 topics:
-  - Open source licensing philosophy
-  - Internal forks vs upstream contributions
-  - Vitess maintainership responsibilities
-  - Community contributions from major companies
-  - Collaboration without contracts
-  - Large scale open source project governance
+  - Open Source Licensing
+  - Community Contributions
+  - Vitess Governance
+  - Collaboration Practices
 tags:
   - ai
   - postgres

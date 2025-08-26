@@ -17,12 +17,10 @@ speakers:
   - Jens
   - Sam Lambert
 topics:
-  - Postgres sharding market timing
-  - Previous sharding attempts and failures
-  - First principles approach to sharding
-  - Battle-hardening at scale vs open source
-  - Sam's path into databases
-  - GitHub and Meta background
+  - Postgres Sharding
+  - Market Timing
+  - Open Source vs Scale
+  - Database Engineering Journey
 tags:
   - postgres
   - startup
