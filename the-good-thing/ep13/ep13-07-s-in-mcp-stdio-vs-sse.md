@@ -27,6 +27,10 @@ tags:
   - ai
   - cosmo
   - go
+topic_tags:
+  - mcp
+  - ai
+  - websocket
 entities:
   - MCP
   - Hacker News

@@ -26,12 +26,8 @@ tags:
   - go
   - rest
 topic_tags:
-  - AI-transformation
-  - shopify-memo
-  - apple-intelligence
-  - tech-shifts
-  - industry-mandates
-  - ai-adoption
+  - ai
+  - api-design
 entities:
   - Shopify
   - Tobias Lütke

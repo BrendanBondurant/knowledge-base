@@ -28,13 +28,9 @@ tags:
   - go
   - llm
 topic_tags:
-  - ai-mandate
-  - paradigm-shift
-  - developer-requirements
-  - claude-desktop
-  - MCP-server
-  - api-first
-  - workflow-automation
+  - ai
+  - mcp
+  - llm
 entities:
   - Shopify
   - Claude Desktop

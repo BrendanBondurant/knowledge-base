@@ -27,12 +27,9 @@ tags:
   - go
   - rest
 topic_tags:
-  - AI-integration
-  - MCP
-  - devtools
+  - ai
+  - mcp
   - cosmo
-  - workflow-automation
-  - software-development
 entities:
   - MCP (Model Context Protocol)
   - Cosmo

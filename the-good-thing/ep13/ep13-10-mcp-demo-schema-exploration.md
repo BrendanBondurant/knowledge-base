@@ -33,7 +33,9 @@ tags:
   - graphql-federation
   - mcp
 topic_tags:
-  - schema-exploration
+  - mcp
+  - ai
+  - cosmo
 entities:
   - Cosmo
   - MCP

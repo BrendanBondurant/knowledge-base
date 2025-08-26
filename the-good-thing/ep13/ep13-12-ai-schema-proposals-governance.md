@@ -32,12 +32,8 @@ tags:
   - graphql-federation
   - llm
 topic_tags:
-  - schema-proposals
-  - ai-governance
-  - dream-query
-  - frontend-backend
-  - workflow-automation
-  - mcp-marketplace
+  - ai
+  - mcp
   - schema-evolution
 entities:
   - Iron Man/Jarvis

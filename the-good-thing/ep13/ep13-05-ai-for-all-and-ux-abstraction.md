@@ -32,13 +32,9 @@ tags:
   - query-planning
   - rest-connectors
 topic_tags:
-  - universal-ai-adoption
-  - small-business
-  - user-experience
-  - non-technical-users
-  - cursor-growth
-  - mcp-configuration
-  - accessibility
+  - ai
+  - mcp
+  - cursor
 entities:
   - Shopify
   - Cursor
