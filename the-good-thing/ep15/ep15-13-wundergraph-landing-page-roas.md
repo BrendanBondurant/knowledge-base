@@ -34,6 +34,10 @@ tags:
   - open-source
   - startup
   - telemetry
+topic_tags:
+  - federation
+  - graphql-federation
+  - cosmo
 entities:
   - WunderGraph
   - Dustin (CTO)

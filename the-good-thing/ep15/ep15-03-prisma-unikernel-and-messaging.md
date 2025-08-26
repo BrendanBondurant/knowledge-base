@@ -30,6 +30,10 @@ tags:
   - database
   - go
   - open-source
+topic_tags:
+  - database
+  - api-design
+  - ai
 entities:
   - Prisma
   - Postgres

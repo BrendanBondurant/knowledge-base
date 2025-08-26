@@ -31,6 +31,10 @@ tags:
   - go
   - graphql
   - rest-connectors
+topic_tags:
+  - federation
+  - graphql-federation
+  - ai
 entities:
   - Apollo
   - Kong

@@ -30,6 +30,10 @@ tags:
   - mysql
   - startup
   - vitess
+topic_tags:
+  - database
+  - benchmarking
+  - startup
 entities:
   - PlanetScale
   - eBay

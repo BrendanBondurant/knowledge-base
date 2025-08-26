@@ -33,6 +33,10 @@ tags:
   - graphql
   - monolith
   - startup
+topic_tags:
+  - federation
+  - cosmo
+  - schema-registry
 entities:
   - WunderGraph
   - Cosmo

@@ -26,6 +26,9 @@ tags:
   - startup
   - go
   - observability
+topic_tags:
+  - startup
+  - observability
 entities:
   - Sentry
   - GitHub

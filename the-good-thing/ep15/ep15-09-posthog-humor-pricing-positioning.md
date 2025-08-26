@@ -29,6 +29,10 @@ tags:
   - apollo-graphql
   - go
   - open-source
+topic_tags:
+  - apollo-graphql
+  - startup
+  - graphql
 entities:
   - PostHog
 mentions:
