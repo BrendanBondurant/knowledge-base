@@ -33,6 +33,10 @@ tags:
   - graphql
   - open-source
   - rest
+topic_tags:
+  - federation
+  - graphql
+  - startup
 entities:
   - State of GraphQL Federation Report
   - Postman

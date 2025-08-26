@@ -33,6 +33,10 @@ tags:
   - rest
   - rest-apis
   - startup
+topic_tags:
+  - federation
+  - rest-connectors
+  - api-design
 entities:
   - Apollo
   - graphql

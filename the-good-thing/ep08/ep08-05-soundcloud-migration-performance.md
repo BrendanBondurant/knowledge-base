@@ -34,6 +34,10 @@ tags:
   - kubernetes
   - query-planning
   - startup
+topic_tags:
+  - federation
+  - cosmo
+  - benchmarking
 entities:
   - SoundCloud
   - Node.js

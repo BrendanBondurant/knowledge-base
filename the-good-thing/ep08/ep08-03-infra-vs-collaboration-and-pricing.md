@@ -36,6 +36,10 @@ tags:
   - open-source
   - query-planning
   - rest
+topic_tags:
+  - federation
+  - startup
+  - cosmo
 entities:
   - Prisma
   - Vercel

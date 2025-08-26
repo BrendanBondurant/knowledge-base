@@ -29,6 +29,10 @@ tags:
   - graphql
   - rest
   - startup
+topic_tags:
+  - federation
+  - startup
+  - graphql
 entities:
   - WunderGraph
   - Stefan Avram

@@ -39,12 +39,9 @@ tags:
   - rust
   - telemetry
 topic_tags:
-  - soundcloud
+  - startup
+  - open-source
   - case-study
-  - competitive-moats
-  - customer-partnerships
-  - open-source-strategy
-  - engineering-collaboration
 entities:
   - SoundCloud
   - Prometheus

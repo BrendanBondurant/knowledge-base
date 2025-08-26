@@ -40,6 +40,8 @@ tags:
   - startup
 topic_tags:
   - open-source
+  - startup
+  - cosmo
 entities:
   - Sentry
   - HashiCorp

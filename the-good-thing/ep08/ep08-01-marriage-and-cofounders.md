@@ -27,12 +27,8 @@ tags:
   - go
   - rest
 topic_tags:
-  - marriage
-  - cofounders
-  - relationships
-  - work-life-balance
-  - y-combinator
-  - startup-advice
+  - startup
+  - founder
 entities:
   - Stefan Avram
   - Jens Neuse
