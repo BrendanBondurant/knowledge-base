@@ -33,7 +33,9 @@ tags:
   - rust
   - typescript
 topic_tags:
+  - ai
   - authentication
+  - mcp
 entities:
   - MCP Hub
   - Docker Registry

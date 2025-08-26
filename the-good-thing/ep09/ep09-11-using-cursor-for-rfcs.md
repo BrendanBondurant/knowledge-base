@@ -31,6 +31,7 @@ tags:
   - rest
 topic_tags:
   - graphql-spec
+  - ai
 entities:
   - Cursor
   - WunderGraph

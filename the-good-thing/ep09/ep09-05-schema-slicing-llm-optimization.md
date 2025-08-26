@@ -25,9 +25,6 @@ tags:
   - llm
   - ai
   - benchmarking
-  - go
-  - graphql
-  - rest
 topic_tags:
   - llm-optimization
   - schema-slicing

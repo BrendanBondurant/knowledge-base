@@ -30,6 +30,7 @@ tags:
   - graphql-federation
 topic_tags:
   - authenticity
+  - ai
 entities:
   - Cursor
   - Wikipedia

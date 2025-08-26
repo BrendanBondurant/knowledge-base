@@ -30,12 +30,9 @@ tags:
   - graphql-federation
   - supergraph
 topic_tags:
-  - ai-tools
-  - query-generation
-  - developer-experience
-  - schema-complexity
-  - business-users
-  - accessibility
+  - ai
+  - federation
+  - graphql
 entities:
   - GitHub
   - GraphQL

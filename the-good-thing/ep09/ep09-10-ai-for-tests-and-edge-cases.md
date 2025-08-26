@@ -26,12 +26,9 @@ tags:
   - go
   - rust
 topic_tags:
-  - test-generation
-  - edge-cases
+  - ai
   - validation
-  - ai-testing
-  - implementation-bias
-  - context-management
+  - edge-cases
 entities:
   - Cursor
   - Go

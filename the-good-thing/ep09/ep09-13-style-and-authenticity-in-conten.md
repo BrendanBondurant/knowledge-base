@@ -27,12 +27,9 @@ tags:
   - go
   - rest
 topic_tags:
-  - personal-style
   - authenticity
-  - ai-detection
+  - ai
   - brand-identity
-  - content-quality
-  - human-validation
 entities:
   - WunderGraph
   - Search Engines

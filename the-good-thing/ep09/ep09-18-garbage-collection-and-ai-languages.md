@@ -30,12 +30,8 @@ tags:
   - rust
 topic_tags:
   - garbage-collection
-  - rust-borrow-checker
-  - ast-transformation
-  - ai-languages
+  - rust
   - typescript
-  - kotlin
-  - compiler-feedback
 entities:
   - Rust
   - Go

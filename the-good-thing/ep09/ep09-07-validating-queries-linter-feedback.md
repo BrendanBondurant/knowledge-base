@@ -26,11 +26,8 @@ tags:
   - go
   - graphql
 topic_tags:
-  - query-validation
-  - feedback-loops
-  - hallucination-prevention
-  - ai-development
-  - linting
+  - ai
+  - graphql
   - cursor
 entities:
   - GraphQL

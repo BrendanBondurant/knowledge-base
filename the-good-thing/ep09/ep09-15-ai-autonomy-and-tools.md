@@ -31,12 +31,9 @@ tags:
   - mcp
   - rest
 topic_tags:
-  - ai-autonomy
+  - ai
+  - mcp
   - hypermedia
-  - rpc
-  - tool-packaging
-  - model-limitations
-  - internet-navigation
 entities:
   - MCP
   - Docker

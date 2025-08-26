@@ -21,11 +21,10 @@ topics:
   - Test-driven development approach
   - Context management strategies
   - Hard-coding vs dynamic implementation
-tags:
+topic_tags:
   - ai
-  - database
-  - go
   - graphql
+  - code-generation
 topic_tags:
   - code-generation
   - ast-transformation

@@ -37,7 +37,6 @@ tags:
 topic_tags:
   - schema-registry
   - observability
-  - contract-testing
   - cosmo
 entities:
   - Cosmo

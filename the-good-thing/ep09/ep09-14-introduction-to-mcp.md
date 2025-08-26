@@ -30,11 +30,8 @@ tags:
   - rest
 topic_tags:
   - mcp
-  - model-context-protocol
-  - anthropic
-  - json-rpc
-  - tool-apis
-  - protocol-design
+  - ai
+  - api-design
 entities:
   - Model Context Protocol
   - Anthropic

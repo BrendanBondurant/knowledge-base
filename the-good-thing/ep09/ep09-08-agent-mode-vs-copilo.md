@@ -31,7 +31,7 @@ tags:
 topic_tags:
   - github-copilot
   - agent-mode
-entities:
+  - ai
   - GitHub Copilot
   - Cursor
   - Next.js

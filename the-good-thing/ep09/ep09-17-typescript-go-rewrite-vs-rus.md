@@ -30,8 +30,8 @@ tags:
   - python
   - rest
 topic_tags:
-  - ai
   - typescript
+  - go
   - rust
 entities:
   - Microsoft
