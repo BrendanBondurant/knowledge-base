@@ -32,8 +32,8 @@ tags:
   - rust
 topic_tags:
   - mcp
-  - metaphors
   - federation
+  - ai
 entities:
   - Stefan Avram
   - Jens Neuse

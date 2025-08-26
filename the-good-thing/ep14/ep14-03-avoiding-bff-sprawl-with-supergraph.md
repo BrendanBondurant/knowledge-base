@@ -38,9 +38,8 @@ tags:
   - supergraph
 topic_tags:
   - bff-pattern
+  - federation
   - api-consumers
-  - authorization
-  - telemetry
 entities:
   - BFF (Backend for Frontend)
   - MCP server

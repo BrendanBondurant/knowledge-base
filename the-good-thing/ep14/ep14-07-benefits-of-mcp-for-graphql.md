@@ -41,10 +41,6 @@ topic_tags:
   - mcp-benefits
   - graphql-api
   - ai-discovery
-  - operation-control
-  - rich-metadata
-  - instant-integration
-  - trusted-documents
 entities:
   - GraphQL API
   - MCP protocol

@@ -35,10 +35,6 @@ topic_tags:
   - demo-setup
   - persistent-operations
   - trusted-documents
-  - mcp-configuration
-  - safety-controls
-  - endpoint-management
-  - mutation-exclusion
 entities:
   - MCP server
   - Trusted documents

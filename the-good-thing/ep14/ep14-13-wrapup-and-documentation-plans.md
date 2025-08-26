@@ -32,6 +32,10 @@ tags:
   - go
   - postgres
   - rest
+topic_tags:
+  - mcp
+  - ai
+  - cosmo
 entities:
   - Retool
   - Postgres database
