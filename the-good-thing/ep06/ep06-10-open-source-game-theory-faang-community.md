@@ -37,15 +37,9 @@ tags:
   - rest-apis
   - rest-connectors
 topic_tags:
+  - startup
   - graphql
   - ai
-  - apollo-graphql
-  - open-source-game-theory
-  - faang-companies
-  - community-contributions
-  - open-source-strategy
-  - product-adoption
-  - startup-growth
 entities:
   - Stefan Avram
   - Jens Neuse

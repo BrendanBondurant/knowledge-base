@@ -31,12 +31,8 @@ tags:
   - go
 topic_tags:
   - graphql
-  - n-plus-one-problem
-  - batching-strategies
-  - testing
-  - engineering-philosophy
-  - product-development
-  - technical-challenges
+  - startup
+  - benchmarking
 entities:
   - Stefan Avram
   - Jens Neuse

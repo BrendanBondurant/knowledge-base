@@ -28,19 +28,10 @@ summary: |
 tags:
   - cosmo
   - startup
-  - startup
-  - startup
-  - startup
   - go
 topic_tags:
-  - cosmo
   - startup
-  - team-dynamics
-  - startup-retreat
-  - product-pivot
-  - customer-onboarding
-  - startup-growth
-  - product-evolution
+  - cosmo
 entities:
   - Stefan Avram
   - Jens Neuse

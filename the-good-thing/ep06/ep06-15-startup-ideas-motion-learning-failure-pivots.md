@@ -29,14 +29,8 @@ tags:
   - startup
   - go
 topic_tags:
-  - ai
   - startup
-  - startup-ideas
-  - product-pivots
-  - learning-from-failure
-  - startup-growth
-  - team-dynamics
-  - customer-feedback
+  - ai
 entities:
   - Jens Neuse
   - Stefan Avram

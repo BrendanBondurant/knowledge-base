@@ -36,15 +36,9 @@ tags:
   - go
   - graphql
 topic_tags:
-  - ai
-  - apollo-graphql
   - startup
-  - competitor-analysis
-  - startup-strategy
-  - product-vision
-  - customer-focus
-  - product-differentiation
-  - market-entry
+  - apollo-graphql
+  - graphql
 entities:
   - Stefan Avram
   - Jens Neuse

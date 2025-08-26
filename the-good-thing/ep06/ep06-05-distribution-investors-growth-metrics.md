@@ -36,15 +36,9 @@ tags:
   - rest
   - telemetry
 topic_tags:
-  - ai
-  - apollo-graphql
   - startup
-  - distribution-strategy
-  - investor-relations
-  - growth-metrics
-  - startup-strategy
-  - fundraising
-  - product-differentiation
+  - ai
+  - graphql
 entities:
   - Stefan Avram
   - Jens Neuse

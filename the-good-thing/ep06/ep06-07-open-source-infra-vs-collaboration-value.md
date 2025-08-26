@@ -37,13 +37,8 @@ tags:
   - graphql
 topic_tags:
   - federation
-  - graphql-federation
+  - graphql
   - ai
-  - open-source-strategy
-  - infrastructure-vs-collaboration
-  - product-strategy
-  - pricing-models
-  - customer-value
 entities:
   - Stefan Avram
   - Jens Neuse

@@ -34,12 +34,6 @@ topic_tags:
   - graphql
   - apollo-graphql
   - startup
-  - hasura
-  - apollo
-  - feature-copying
-  - distribution-strategy
-  - product-strategy
-  - competitive-markets
 entities:
   - Stefan Avram
   - Jens Neuse

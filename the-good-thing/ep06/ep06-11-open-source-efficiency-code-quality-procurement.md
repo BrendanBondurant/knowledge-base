@@ -41,15 +41,9 @@ tags:
   - rest-apis
   - rest-connectors
 topic_tags:
-  - federation
-  - graphql-federation
+  - startup
+  - open-source
   - ai
-  - open-source-strategy
-  - code-quality
-  - enterprise-procurement
-  - sales-process
-  - product-adoption
-  - startup-operations
 entities:
   - Stefan Avram
   - Jens Neuse

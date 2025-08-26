@@ -36,15 +36,9 @@ tags:
   - go
   - graphql
 topic_tags:
-  - ai
-  - postgres
+  - startup
+  - open-source
   - apollo-graphql
-  - open-source-alternatives
-  - business-models
-  - product-differentiation
-  - market-positioning
-  - startup-strategy
-  - collaboration-tools
 entities:
   - Stefan Avram
   - Jens Neuse

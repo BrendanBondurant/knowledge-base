@@ -37,14 +37,9 @@ tags:
   - open-source
   - rust
 topic_tags:
+  - startup
   - ai
   - cosmo-router
-  - postgres
-  - cost-structure
-  - infrastructure-vs-collaboration
-  - pricing-strategy
-  - customer-value
-  - startup-strategy
 entities:
   - Stefan Avram
   - Jens Neuse

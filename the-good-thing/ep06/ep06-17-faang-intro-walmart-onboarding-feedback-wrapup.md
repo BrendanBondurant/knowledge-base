@@ -37,15 +37,9 @@ tags:
   - rust
   - telemetry
 topic_tags:
+  - startup
   - federation
-  - graphql-federation
-  - ai
-  - faang-companies
-  - customer-experience
-  - customer-onboarding
-  - customer-feedback
-  - startup-journey
-  - product-success
+  - graphql
 entities:
   - Stefan Avram
   - Jens Neuse

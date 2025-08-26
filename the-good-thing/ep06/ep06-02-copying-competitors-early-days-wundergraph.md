@@ -8,7 +8,6 @@ participants:
   - Stefan
   - Jens
 segment: Should you copy your competitors? Early days of WunderGraph
-
 timecode: 00:02:32:20 - 00:04:54:07
 start_time: 00:02:32:20
 end_time: 00:04:54:07
@@ -35,15 +34,9 @@ tags:
   - graphql-federation
   - rest
 topic_tags:
+  - startup
   - federation
-  - ai
   - cosmo
-  - copying-competitors
-  - startup-strategy
-  - product-differentiation
-  - copycat-accusations
-  - devtools-space
-  - wundergraph-origin
 entities:
   - Stefan Avram
   - Jens Neuse

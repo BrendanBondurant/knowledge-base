@@ -38,15 +38,9 @@ tags:
   - graphql-federation
   - open-source
 topic_tags:
+  - startup
   - federation
   - ai
-  - cosmo-router
-  - cost-optimization
-  - infrastructure-strategy
-  - collaboration-features
-  - cloud-providers
-  - startup-strategy
-  - product-differentiation
 entities:
   - Stefan Avram
   - Jens Neuse

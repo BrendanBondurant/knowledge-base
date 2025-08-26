@@ -33,15 +33,8 @@ tags:
   - startup
   - go
 topic_tags:
-  - ai
-  - websocket
   - startup
-  - personal-updates
-  - wedding-preparation
-  - team-updates
-  - episode-introduction
-  - startup-life
-  - work-life-balance
+  - ai
 entities:
   - Stefan Avram
   - Jens Neuse

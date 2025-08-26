@@ -40,12 +40,6 @@ topic_tags:
   - graphql
   - ai
   - apollo-graphql
-  - competitor-analysis
-  - rest-connectors
-  - technical-evaluation
-  - product-strategy
-  - engineering-philosophy
-  - startup-competition
 entities:
   - Stefan Avram
   - Jens Neuse
