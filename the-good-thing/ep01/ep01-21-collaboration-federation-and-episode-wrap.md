@@ -32,11 +32,11 @@ tags:
   - graphql-federation
   - query-planning
 topic_tags:
-  - team-culture
   - graphql
-  - api-governance
-  - podcast-schedule
-  - wundergraph
+  - startup
+  - ai
+  - api-design
+  - federation
 entities:
   - Jens Neuse
   - Stefan Avram

@@ -36,7 +36,7 @@ tags:
 topic_tags:
   - graphql
   - api-design
-entities:
+  - federation
   - Jens Neuse
   - Stefan Avram
   - WunderGraph

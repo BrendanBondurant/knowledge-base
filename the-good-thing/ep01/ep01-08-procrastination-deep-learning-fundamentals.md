@@ -27,11 +27,8 @@ tags:
   - go
   - rest
 topic_tags:
-  - procrastination
-  - learning
-  - learning
-  - junior-dev-advice
-  - fundamentals
+  - ai
+  - computer-science
 entities:
   - Jens Neuse
   - Stefan Avram

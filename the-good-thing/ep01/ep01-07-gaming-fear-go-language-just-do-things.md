@@ -27,6 +27,10 @@ tags:
   - founder
   - ai
   - rest
+topic_tags:
+  - go
+  - resilience
+  - founder
 entities:
   - Jens Neuse
   - Stefan Avram

@@ -31,11 +31,10 @@ tags:
   - graphql
   - startup
 topic_tags:
-  - customer-empathy
-  - ai-and-careers
-  - developer-advice
-  - fundamentals
-  - product-strategy
+  - ai
+  - api-design
+  - graphql
+  - startup
 entities:
   - Jens Neuse
   - Stefan Avram

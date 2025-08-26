@@ -28,11 +28,9 @@ tags:
   - go
   - rest
 topic_tags:
-  - airbnb
-  - marketplace-design
-  - flywheels
-  - economic-incentives
-  - startup-lessons
+  - startup
+  - founder
+  - ai
 entities:
   - Jens Neuse
   - Stefan Avram

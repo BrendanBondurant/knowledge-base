@@ -34,10 +34,8 @@ tags:
   - rest-apis
 topic_tags:
   - graphql
-  - career-growth
   - api-design
-  - backend-for-frontend
-  - imposter-syndrome
+  - federation
 entities:
   - Jens Neuse
   - Stefan Avram

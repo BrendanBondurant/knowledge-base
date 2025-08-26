@@ -28,11 +28,9 @@ tags:
   - go
   - rest
 topic_tags:
-  - career-growth
-  - startup-lessons
-  - career-growth
-  - mental-health
-  - career-growth
+  - startup
+  - founder
+  - ai
 entities:
   - Jens Neuse
   - Stefan Avram

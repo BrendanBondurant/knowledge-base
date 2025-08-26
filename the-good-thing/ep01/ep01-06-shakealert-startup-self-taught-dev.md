@@ -25,11 +25,7 @@ tags:
   - go
   - rest
 topic_tags:
-  - android-dev
-  - self-taught
-  - backend-dev
-  - startup-lessons
-  - programming-motivation
+  - startup
 entities:
   - Jens Neuse
   - Shakealert

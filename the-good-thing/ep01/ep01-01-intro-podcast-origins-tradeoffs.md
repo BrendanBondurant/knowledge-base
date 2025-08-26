@@ -24,10 +24,9 @@ tags:
   - startup
   - founder
 topic_tags:
-  - podcast-intro
-  - engineering-philosophy
-  - tradeoffs
-  - GraphQL
+  - graphql
+  - startup
+  - founder
 entities:
   - The Good Thing
   - WunderGraph

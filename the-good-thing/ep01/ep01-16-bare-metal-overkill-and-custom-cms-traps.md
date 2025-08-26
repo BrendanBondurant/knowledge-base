@@ -28,6 +28,7 @@ tags:
 topic_tags:
   - kubernetes
   - startup
+  - go
 entities:
   - Jens Neuse
   - Kubernetes

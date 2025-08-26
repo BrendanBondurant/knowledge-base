@@ -32,6 +32,8 @@ tags:
   - startup
 topic_tags:
   - graphql
+  - ai
+  - startup
 entities:
   - Jens Neuse
   - Stefan Avram

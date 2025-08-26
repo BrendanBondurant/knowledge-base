@@ -34,6 +34,9 @@ tags:
   - startup
 topic_tags:
   - graphql
+  - api-design
+  - federation
+  - startup
 entities:
   - Jens Neuse
   - Stefan Avram

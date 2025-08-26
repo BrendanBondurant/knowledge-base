@@ -26,11 +26,9 @@ tags:
   - ai
   - go
 topic_tags:
-  - career-growth
-  - dunning-kruger
-  - startup-lessons
-  - humility
-  - imposter-syndrome
+  - startup
+  - ai
+  - go
 entities:
   - Jens Neuse
   - Stefan Avram

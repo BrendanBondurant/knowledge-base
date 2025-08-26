@@ -32,11 +32,7 @@ topic_tags:
   - computer-science
   - ai
   - github-copilot
-  - fundamentals
-  - imposter-syndrome
-  - fundamentals
-  - learning
-  - learning
+  - startup
 entities:
   - Jens Neuse
   - Stefan Avram

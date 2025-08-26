@@ -30,11 +30,9 @@ tags:
   - graphql-federation
   - kubernetes
 topic_tags:
-  - build-vs-buy
-  - product-strategy
-  - startup-lessons
-  - engineering-decisions
-  - focus
+  - startup
+  - federation
+  - kubernetes
 entities:
   - Jens Neuse
   - Stefan Avram

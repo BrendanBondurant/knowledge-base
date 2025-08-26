@@ -26,11 +26,9 @@ tags:
   - go
   - rest
 topic_tags:
-  - startup-lessons
-  - team-culture
-  - founder-mindset
-  - lessons-learned
-  - career-growth
+  - startup
+  - founder
+  - ai
 entities:
   - Jens Neuse
   - WunderGraph

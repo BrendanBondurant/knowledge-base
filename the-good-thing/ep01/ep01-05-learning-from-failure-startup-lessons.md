@@ -27,10 +27,7 @@ tags:
   - rest
   - rust
 topic_tags:
-  - startup-lessons
-  - self-taught
-  - first-startup
-  - programming-journey
+  - startup
 entities:
   - Jens Neuse
   - Stefan Avram

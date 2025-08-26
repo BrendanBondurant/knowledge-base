@@ -29,10 +29,10 @@ tags:
   - go
   - rest
 topic_tags:
+topic_tags:
   - resilience
-  - startup-lessons
-  - injury-recovery
-  - career-growth
+  - startup
+  - founder
 entities:
   - Jens Neuse
   - Stefan Avram
