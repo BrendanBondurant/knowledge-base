@@ -29,6 +29,10 @@ tags:
   - database
   - go
   - llm
+topic_tags:
+  - postgres
+  - kubernetes
+  - database
 entities:
   - Clean Code book
   - Digital Ocean

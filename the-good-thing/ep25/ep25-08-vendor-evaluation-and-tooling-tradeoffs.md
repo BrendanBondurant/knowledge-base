@@ -28,6 +28,10 @@ tags:
   - open-source
   - go
   - startup
+topic_tags:
+  - api-design
+  - open-source
+  - startup
 entities:
   - Fortune 100 companies
   - Kong

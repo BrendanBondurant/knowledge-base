@@ -33,6 +33,10 @@ tags:
   - apollo-graphql
   - go
   - rest
+topic_tags:
+  - federation
+  - graphql-federation
+  - working-groups
 entities:
   - Curtis (Uber)
   - GraphQL Foundation

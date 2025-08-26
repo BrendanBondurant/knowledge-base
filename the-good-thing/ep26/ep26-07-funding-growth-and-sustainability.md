@@ -27,6 +27,10 @@ tags:
   - ai
   - api-design
   - startup
+topic_tags:
+  - ai
+  - api-design
+  - startup
 entities:
   - PlanetScale
   - Amazon

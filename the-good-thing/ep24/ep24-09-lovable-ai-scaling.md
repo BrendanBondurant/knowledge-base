@@ -31,6 +31,10 @@ tags:
   - founder
   - go
   - telemetry
+topic_tags:
+  - ai
+  - startup
+  - market-dynamics
 entities:
   - Lovable
   - Crandham

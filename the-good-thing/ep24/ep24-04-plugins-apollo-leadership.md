@@ -41,6 +41,10 @@ tags:
   - rest
   - rest-apis
   - rest-connectors
+topic_tags:
+  - plugin-system
+  - llm
+  - apollo-graphql
 entities:
   - WunderGraph
   - Cosmo Router

@@ -27,6 +27,9 @@ tags:
   - ai
   - go
   - rest
+topic_tags:
+  - ai
+  - database
 entities:
   - PlanetScale
   - AI

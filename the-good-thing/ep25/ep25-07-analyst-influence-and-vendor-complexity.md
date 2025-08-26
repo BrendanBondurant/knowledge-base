@@ -29,6 +29,10 @@ tags:
   - api-design
   - go
   - startup
+topic_tags:
+  - rest
+  - api-design
+  - startup
 entities:
   - Kong
   - Apogee

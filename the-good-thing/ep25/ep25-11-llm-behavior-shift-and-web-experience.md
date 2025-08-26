@@ -30,6 +30,10 @@ tags:
   - go
   - llm
   - startup
+topic_tags:
+  - ai
+  - llm
+  - startup
 entities:
   - Web directories
   - Google Search

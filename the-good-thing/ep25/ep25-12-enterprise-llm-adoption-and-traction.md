@@ -32,6 +32,10 @@ tags:
   - llm
   - rest
   - startup
+topic_tags:
+  - mcp
+  - ai
+  - llm
 entities:
   - Netflix
   - ChatGPT premium/free tiers

@@ -37,6 +37,10 @@ tags:
   - graphql
   - startup
   - typescript
+topic_tags:
+  - grpc
+  - type-safety
+  - performance
 entities:
   - WunderGraph
   - Cosmo Router

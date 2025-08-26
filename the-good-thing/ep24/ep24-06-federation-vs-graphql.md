@@ -33,6 +33,10 @@ tags:
   - go
   - graphql
   - startup
+topic_tags:
+  - federation
+  - graphql-federation
+  - governance
 entities:
   - Stefan Avram
   - Jens Neuse

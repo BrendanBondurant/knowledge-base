@@ -28,6 +28,10 @@ tags:
   - database
   - go
   - rest
+topic_tags:
+  - startup
+  - ai
+  - database
 entities:
   - PlanetScale
   - Amazon

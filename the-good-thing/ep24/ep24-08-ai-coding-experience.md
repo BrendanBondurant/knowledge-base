@@ -34,6 +34,10 @@ tags:
   - rust
   - startup
   - typescript
+topic_tags:
+  - ai
+  - coding-experience
+  - developer-productivity
 entities:
   - Stefan Avram
   - Jens Neuse

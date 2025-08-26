@@ -31,6 +31,10 @@ tags:
   - go
   - graphql-federation
   - rest
+topic_tags:
+  - federation
+  - ai
+  - open-source
 entities:
   - Mark Zuckerberg
   - Meta

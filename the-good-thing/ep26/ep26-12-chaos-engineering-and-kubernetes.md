@@ -30,6 +30,10 @@ tags:
   - go
   - observability
   - startup
+topic_tags:
+  - kubernetes
+  - database
+  - observability
 entities:
   - PlanetScale
   - Kubernetes

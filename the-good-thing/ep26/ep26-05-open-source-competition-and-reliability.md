@@ -33,6 +33,10 @@ tags:
   - postgres
   - rest
   - startup
+topic_tags:
+  - open-source
+  - vitess
+  - database
 entities:
   - Vitess
   - Google

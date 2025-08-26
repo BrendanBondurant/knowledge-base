@@ -28,6 +28,10 @@ tags:
   - vitess
   - mysql
   - postgres
+topic_tags:
+  - database
+  - vitess
+  - mysql
 entities:
   - PlanetScale
   - AWS

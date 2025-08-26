@@ -27,6 +27,10 @@ tags:
   - api-design
   - rust
   - startup
+topic_tags:
+  - api-design
+  - rust
+  - startup
 entities:
   - PlanetScale
   - Neon

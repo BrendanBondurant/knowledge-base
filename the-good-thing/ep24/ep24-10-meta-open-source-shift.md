@@ -32,6 +32,10 @@ tags:
   - go
   - open-source
   - startup
+topic_tags:
+  - ai
+  - open-source
+  - meta
 entities:
   - Meta
   - Alexander Wang

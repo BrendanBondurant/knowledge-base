@@ -32,6 +32,10 @@ tags:
   - go
   - rest
   - startup
+topic_tags:
+  - database
+  - founder
+  - startup
 entities:
   - PlanetScale
   - Ben

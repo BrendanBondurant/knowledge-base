@@ -29,6 +29,10 @@ tags:
   - go
   - kubernetes
   - startup
+topic_tags:
+  - database
+  - kubernetes
+  - startup
 entities:
   - GCP Kubernetes
   - Vendor Slack notifications

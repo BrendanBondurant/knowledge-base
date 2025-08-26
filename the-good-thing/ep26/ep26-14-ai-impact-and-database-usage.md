@@ -34,8 +34,6 @@ topic_tags:
   - ai-impact
   - database-usage
   - cursor-integration
-  - ai-data-patterns
-  - development-tools
 entities:
   - AI
   - Cursor

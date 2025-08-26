@@ -40,6 +40,10 @@ tags:
   - rest-connectors
   - startup
   - typescript
+topic_tags:
+  - grpc
+  - federation
+  - graphql-federation
 entities:
   - WunderGraph
   - Cosmo Router

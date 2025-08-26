@@ -31,6 +31,10 @@ tags:
   - go
   - llm
   - startup
+topic_tags:
+  - ai
+  - rest
+  - llm
 entities:
   - TechCrunch
   - ChatGPT

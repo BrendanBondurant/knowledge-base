@@ -32,6 +32,10 @@ tags:
   - go
   - postgres
   - rust
+topic_tags:
+  - startup
+  - founder
+  - database
 entities:
   - PlanetScale
   - Figma

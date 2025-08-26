@@ -39,10 +39,6 @@ topic_tags:
   - podcast-intro
   - AI-development
   - developer-productivity
-  - gRPC
-  - GraphQL-federation
-  - startup-funding
-  - open-source
 entities:
   - The Good Thing
   - WunderGraph

@@ -30,6 +30,10 @@ tags:
   - api-design
   - go
   - llm
+topic_tags:
+  - mcp
+  - ai
+  - rest
 entities:
   - Siren hypermedia type
   - HTML

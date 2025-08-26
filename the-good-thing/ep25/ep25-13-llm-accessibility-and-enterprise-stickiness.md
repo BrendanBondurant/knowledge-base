@@ -34,6 +34,10 @@ tags:
   - rest
   - rest-apis
   - startup
+topic_tags:
+  - graphql
+  - mcp
+  - ai
 entities:
   - OpenAI
   - Cloudflare

@@ -30,6 +30,10 @@ tags:
   - llm
   - rest
   - startup
+topic_tags:
+  - graphql
+  - ai
+  - llm
 entities:
   - Dunning-Kruger curve
   - Mount Stupid concept

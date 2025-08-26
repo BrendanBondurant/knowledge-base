@@ -33,6 +33,10 @@ tags:
   - mysql
   - rest
   - vitess
+topic_tags:
+  - postgres
+  - startup
+  - open-source
 entities:
   - Postgres
   - MySQL

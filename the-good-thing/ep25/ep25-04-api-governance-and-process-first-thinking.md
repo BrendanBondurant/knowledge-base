@@ -33,6 +33,10 @@ tags:
   - llm
   - rest-apis
   - startup
+topic_tags:
+  - microservices
+  - api-sprawl
+  - api-design
 entities:
   - Fortune 500 companies
   - Enterprise architects

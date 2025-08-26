@@ -30,6 +30,10 @@ tags:
   - startup
   - api-design
   - go
+topic_tags:
+  - mcp
+  - ai
+  - rest
 entities:
   - Tyk Technologies
   - WunderGraph

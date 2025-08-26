@@ -28,6 +28,10 @@ tags:
   - ai
   - go
   - rest
+topic_tags:
+  - ai
+  - developer-productivity
+  - research-methodology
 entities:
   - Stefan Avram
   - Jens Neuse

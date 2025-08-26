@@ -33,6 +33,10 @@ tags:
   - graphql
   - rest
   - startup
+topic_tags:
+  - federation
+  - graphql-federation
+  - api-design
 entities:
   - WunderGraph
   - graphql

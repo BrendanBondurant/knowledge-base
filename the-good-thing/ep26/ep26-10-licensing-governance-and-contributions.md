@@ -35,6 +35,10 @@ tags:
   - rest
   - startup
   - vitess
+topic_tags:
+  - ai
+  - open-source
+  - websocket
 entities:
   - PlanetScale
   - CNCF

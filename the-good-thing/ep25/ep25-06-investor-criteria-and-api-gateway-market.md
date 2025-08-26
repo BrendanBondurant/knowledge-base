@@ -28,6 +28,10 @@ tags:
   - startup
   - api-gateway
   - go
+topic_tags:
+  - api-gateway
+  - api-design
+  - startup
 entities:
   - Field CTO role
   - Postman

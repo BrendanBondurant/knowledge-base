@@ -32,6 +32,10 @@ tags:
   - go
   - mysql
   - vitess
+topic_tags:
+  - postgres
+  - open-source
+  - vitess
 entities:
   - Vitess
   - PlanetScale
