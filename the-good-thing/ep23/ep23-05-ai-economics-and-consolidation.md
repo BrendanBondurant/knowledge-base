@@ -32,8 +32,6 @@ topic_tags:
   - ai-economics
   - business-model-fragility
   - microsoft-strategy
-  - market-consolidation
-  - platform-dynamics
 entities:
   - Stefan Avram
   - Jens Neuse

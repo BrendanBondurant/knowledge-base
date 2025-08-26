@@ -31,8 +31,6 @@ topic_tags:
   - emotional-attachment
   - developer-psychology
   - startup-feedback
-  - product-identity
-  - small-startup-strategy
 entities:
   - Stefan Avram
   - Jens Neuse

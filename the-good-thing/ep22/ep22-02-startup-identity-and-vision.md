@@ -34,8 +34,6 @@ topic_tags:
   - bell-curve-meme
   - startup-vision
   - communication-strategy
-  - startup-maturity
-  - positioning-evolution
 entities:
   - Stefan Avram
   - Jens Neuse

@@ -34,8 +34,6 @@ tags:
 topic_tags:
   - small-startup-strategy
   - apollo-principles
-  - competitive-dynamics
-  - david-goliath
   - principled-graphql
 entities:
   - Stefan Avram
