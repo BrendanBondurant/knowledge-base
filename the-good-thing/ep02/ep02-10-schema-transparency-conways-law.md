@@ -33,6 +33,8 @@ tags:
   - rest-apis
 topic_tags:
   - conways-law
+  - federation
+  - graphql
 entities:
   - WunderGraph
   - Conway's Law

@@ -39,7 +39,6 @@ tags:
 topic_tags:
   - go
   - typescript
-  - query-planning
   - cosmo-router
 entities:
   - WunderGraph

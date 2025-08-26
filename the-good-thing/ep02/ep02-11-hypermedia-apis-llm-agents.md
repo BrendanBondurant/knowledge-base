@@ -37,11 +37,9 @@ tags:
   - rest
   - startup
 topic_tags:
-  - hypermedia-apis
-  - llm-agents
-  - rest-apis
-  - openapi
+  - ai
   - api-design
+  - startup
 entities:
   - WunderGraph
   - GraphQL Federation

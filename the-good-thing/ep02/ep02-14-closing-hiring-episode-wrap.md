@@ -33,6 +33,7 @@ tags:
 topic_tags:
   - startup
   - founder
+  - ai
 entities:
   - WunderGraph
   - The Good Thing Podcast

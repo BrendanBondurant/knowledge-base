@@ -34,11 +34,9 @@ tags:
   - graphql-federation
   - startup
 topic_tags:
-  - cache-warmer
-  - analytics
+  - cache-warming
   - query-planning
-  - cdn
-  - federation-complexity
+  - federation
 entities:
   - WunderGraph
   - GraphQL Federation

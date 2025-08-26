@@ -32,7 +32,9 @@ tags:
   - rest
   - startup
 topic_tags:
-  - federation-descriptions
+  - federation
+  - api-design
+  - graphql
 entities:
   - WunderGraph
   - GraphQL Federation

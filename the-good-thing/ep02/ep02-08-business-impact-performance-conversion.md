@@ -36,11 +36,9 @@ tags:
   - rest
   - rest-apis
 topic_tags:
-  - business-impact
-  - performance
-  - conversion-rates
-  - federation-vs-rest
-  - customer-abandonment
+  - startup
+  - api-design
+  - graphql
 entities:
   - WunderGraph
   - Coinbase

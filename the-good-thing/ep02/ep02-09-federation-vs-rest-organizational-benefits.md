@@ -33,7 +33,9 @@ tags:
   - rest-apis
   - startup
 topic_tags:
-  - bff-pattern
+  - api-design
+  - federation
+  - graphql
 entities:
   - WunderGraph
   - GraphQL Federation
