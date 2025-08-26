@@ -28,8 +28,9 @@ tags:
   - go
   - startup
 topic_tags:
-  - ai
+  - startup
   - founder
+  - ai
 entities:
   - Stefan Avram
   - Jens Neuse

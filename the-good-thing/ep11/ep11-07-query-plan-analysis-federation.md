@@ -38,6 +38,8 @@ tags:
   - startup
 topic_tags:
   - query-planning
+  - federation
+  - graphql
 entities:
   - Stefan Avram
   - Jens Neuse

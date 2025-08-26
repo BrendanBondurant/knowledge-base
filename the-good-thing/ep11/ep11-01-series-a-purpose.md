@@ -29,12 +29,9 @@ tags:
   - go
   - graphql-federation
 topic_tags:
-  - series-a
-  - fundraising
-  - venture-capital
-  - funding-philosophy
-  - dilution
-  - wundergraph
+  - startup
+  - founder
+  - graphql-federation
 entities:
   - WunderGraph
   - Karma Ventures

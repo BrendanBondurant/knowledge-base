@@ -40,12 +40,9 @@ tags:
   - rest-apis
   - startup
 topic_tags:
-  - api-ecosystem
-  - graphql-federation
-  - microservices
-  - openapi
-  - grpc
-  - bff-pattern
+  - graphql
+  - federation
+  - api-design
 entities:
   - Eric Wilde
   - INNOQ

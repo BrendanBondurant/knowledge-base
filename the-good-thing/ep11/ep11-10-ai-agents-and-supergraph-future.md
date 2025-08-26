@@ -43,7 +43,9 @@ tags:
   - supergraph
   - telemetry
 topic_tags:
+  - ai
   - ai-agents
+  - supergraph
 entities:
   - WunderGraph
   - Khan Academy

@@ -30,12 +30,9 @@ tags:
   - rust
   - telemetry
 topic_tags:
-  - enterprise-customers
-  - strategic-investors
-  - fundraising-process
-  - customer-focus
-  - founder-transparency
-  - design-partners
+  - startup
+  - founder
+  - ai
 entities:
   - eBay
   - WunderGraph

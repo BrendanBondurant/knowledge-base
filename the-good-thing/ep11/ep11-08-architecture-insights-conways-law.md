@@ -40,7 +40,8 @@ tags:
   - telemetry
 topic_tags:
   - conways-law
-  - microservices-architecture
+  - microservices
+  - federation
 entities:
   - Conway's Law
   - Jeff Bezos

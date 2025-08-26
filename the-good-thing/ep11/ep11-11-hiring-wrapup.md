@@ -27,11 +27,9 @@ tags:
   - go
   - rest
 topic_tags:
-  - hiring
-  - team-structure
-  - ai-acceleration
-  - essential-infrastructure
+  - ai
   - query-planning
+  - api-design
 entities:
   - WunderGraph
   - Dustin

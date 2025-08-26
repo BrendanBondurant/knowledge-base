@@ -36,7 +36,9 @@ tags:
   - startup
   - supergraph
 topic_tags:
-  - connector-approach
+  - supergraph
+  - api-design
+  - cosmo
 entities:
   - WunderGraph
   - GraphQL Gateway

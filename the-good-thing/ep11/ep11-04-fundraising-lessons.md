@@ -30,9 +30,9 @@ tags:
   - go
   - startup
 topic_tags:
+  - startup
+  - founder
   - ai
-  - rest
-  - websocket
 entities:
   - Stefan Avram
   - Jens Neuse
