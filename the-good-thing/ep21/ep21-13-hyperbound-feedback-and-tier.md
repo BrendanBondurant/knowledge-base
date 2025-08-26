@@ -24,6 +24,8 @@ tags:
   - websocket
   - startup
   - go
+topic_tags:
+  - ai
 entities:
   - Hyperbound
   - Stefan Avram

@@ -30,10 +30,6 @@ topic_tags:
   - marblism
   - klavis
   - ai-agents
-  - market-saturation
-  - openai-threat
-  - mcp-integration
-  - coin-flip-tier
 entities:
   - Marblism
   - Klavis

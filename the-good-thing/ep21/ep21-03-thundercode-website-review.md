@@ -22,8 +22,9 @@ topics:
 tags:
   - ai
   - startup
-  - ai
   - go
+topic_tags:
+  - ai
 entities:
   - ThunderCode
   - Stefan Avram

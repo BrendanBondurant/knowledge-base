@@ -26,6 +26,8 @@ tags:
   - startup
   - api-design
   - go
+topic_tags:
+  - ai
 entities:
   - Nao
   - Cursor

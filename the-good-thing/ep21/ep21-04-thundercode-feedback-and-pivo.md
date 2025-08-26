@@ -29,9 +29,6 @@ topic_tags:
   - thundercode
   - product-criticism
   - early-stage
-  - pivot-potential
-  - target-customer
-  - ui-ux
 entities:
   - ThunderCode
   - Stefan Avram

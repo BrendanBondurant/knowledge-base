@@ -23,11 +23,10 @@ tags:
   - ai
   - startup
   - founder
-  - founder
-  - ai
-  - startup
   - go
   - kubernetes
+topic_tags:
+  - ai
 entities:
   - Stefan Avram
   - Jens Neuse

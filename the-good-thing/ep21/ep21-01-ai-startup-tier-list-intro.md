@@ -29,8 +29,6 @@ topic_tags:
   - ai-startups
   - tier-list
   - venture-capital
-  - startup-evaluation
-  - game-show-format
 entities:
   - Stefan Avram
   - Jens Neuse
