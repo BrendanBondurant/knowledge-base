@@ -35,11 +35,8 @@ tags:
   - graphql
   - rust
 topic_tags:
-  - founder-trust
-  - team-dynamics
-  - startup-mistakes
-  - premature-scaling
-  - product-market-fit
+  - founder
+  - startup
   - pivot-decisions
 entities:
   - WunderGraph

@@ -40,7 +40,7 @@ tags:
 topic_tags:
   - federation
   - graphql-federation
-  - ai
+  - startup
 entities:
   - Cosmo
   - Apollo

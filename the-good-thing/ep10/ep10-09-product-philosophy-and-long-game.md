@@ -41,12 +41,9 @@ tags:
   - rest
   - rest-apis
 topic_tags:
-  - federation-evolution
-  - ai-integration
-  - multi-protocol
-  - open-source-commitment
-  - github-for-apis
-  - customer-validation
+  - federation
+  - ai
+  - open-source
 entities:
   - WunderGraph
   - Cosmo

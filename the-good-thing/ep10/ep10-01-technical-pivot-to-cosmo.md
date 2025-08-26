@@ -39,6 +39,8 @@ tags:
   - typescript
 topic_tags:
   - open-source
+  - cosmo
+  - startup
 entities:
   - WunderGraph
   - Cosmo

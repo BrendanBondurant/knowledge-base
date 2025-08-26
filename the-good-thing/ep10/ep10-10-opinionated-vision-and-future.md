@@ -34,12 +34,9 @@ tags:
   - graphql
   - open-source
 topic_tags:
-  - graphql-meta-language
-  - company-growth
-  - engineering-dna
-  - customer-communication
-  - open-source-commitment
-  - milestone-celebration
+  - graphql
+  - open-source
+  - startup
 entities:
   - WunderGraph
   - GraphQL

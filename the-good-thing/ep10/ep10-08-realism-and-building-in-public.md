@@ -34,11 +34,8 @@ tags:
   - startup
 topic_tags:
   - work-life-balance
-  - results-focus
-  - elite-sports-team
-  - funding-efficiency
-  - founder-stress
-  - family-support
+  - founder
+  - ai
 entities:
   - WunderGraph
   - Uber

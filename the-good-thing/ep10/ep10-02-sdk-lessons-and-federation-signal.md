@@ -46,12 +46,9 @@ tags:
   - rest
   - rest-apis
 topic_tags:
-  - sdk-lessons
-  - market-signals
-  - customer-feedback
-  - technology-transfer
-  - graphql-engine
-  - sales-documentation
+  - graphql
+  - federation
+  - cosmo
 entities:
   - WunderGraph SDK
   - Cosmo

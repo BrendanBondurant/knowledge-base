@@ -37,11 +37,8 @@ tags:
   - rest
 topic_tags:
   - guerrilla-marketing
+  - startup
   - competitive-dynamics
-  - led-trucks
-  - apollo-exclusion
-  - market-challenger
-  - startup-creativity
 entities:
   - GraphQL Summit
   - Apollo
