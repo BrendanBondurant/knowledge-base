@@ -27,12 +27,9 @@ tags:
   - llm
   - startup
 topic_tags:
-  - ai-tools
-  - workflow
-  - copilot
-  - cursor
-  - learning
-  - development
+  - ai
+  - github-copilot
+  - startup
 entities:
   - Stefan
   - Dustin

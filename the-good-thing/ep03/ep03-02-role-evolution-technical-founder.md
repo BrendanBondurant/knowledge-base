@@ -28,6 +28,7 @@ tags:
 topic_tags:
   - startup
   - ai
+  - founder
 entities:
   - Dustin
   - Stefan

@@ -34,6 +34,7 @@ tags:
 topic_tags:
   - cosmo
   - kubernetes
+  - startup
 entities:
   - Stefan
   - Dustin

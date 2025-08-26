@@ -36,6 +36,7 @@ tags:
 topic_tags:
   - graphql
   - open-source
+  - startup
 entities:
   - Dustin
   - Stefan

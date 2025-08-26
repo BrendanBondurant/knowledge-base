@@ -31,6 +31,7 @@ tags:
 topic_tags:
   - cosmo
   - observability
+  - startup
 entities:
   - Stefan
   - Dustin

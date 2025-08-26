@@ -37,6 +37,7 @@ tags:
 topic_tags:
   - cdn
   - rust
+  - cosmo
 entities:
   - Stefan
   - Dustin

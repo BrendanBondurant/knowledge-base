@@ -34,6 +34,7 @@ tags:
 topic_tags:
   - observability
   - datadog
+  - startup
 entities:
   - Stefan
   - Dustin
