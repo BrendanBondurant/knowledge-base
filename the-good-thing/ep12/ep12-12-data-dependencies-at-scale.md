@@ -32,6 +32,8 @@ tags:
   - rest-apis
 topic_tags:
   - data-dependencies
+  - api-design
+  - graphql
 entities:
   - Relay
   - tRPC

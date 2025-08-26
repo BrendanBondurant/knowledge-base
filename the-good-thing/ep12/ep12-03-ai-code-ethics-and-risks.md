@@ -26,11 +26,8 @@ tags:
   - graphql
   - rest
 topic_tags:
-  - ai-incentives
-  - test-driven-development
-  - ai-gaming-tests
-  - security-concerns
-  - disruptive-technology
+  - ai
+  - security
 entities:
   - WunderGraph
   - Cursor

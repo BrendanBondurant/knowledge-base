@@ -33,8 +33,8 @@ tags:
   - telemetry
 topic_tags:
   - federation
-  - ai
   - apollo-graphql
+  - ai
 entities:
   - Apollo
   - AWS

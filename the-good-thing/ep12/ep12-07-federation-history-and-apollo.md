@@ -33,12 +33,9 @@ tags:
   - mcp
   - microservices
 topic_tags:
-  - federation-history
-  - apollo-innovations
-  - entity-concept
-  - startup-waves
-  - universal-data-graph
-  - graphql-adoption
+  - federation
+  - apollo-graphql
+  - graphql
 entities:
   - Apollo
   - GraphQL Federation

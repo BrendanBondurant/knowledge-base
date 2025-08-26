@@ -32,12 +32,9 @@ tags:
   - graphql-federation
   - startup
 topic_tags:
-  - devtools-adoption
-  - sdk-strategy
-  - adoption-ladder
-  - cosmo-strategy
-  - open-source-monetization
-  - prisma-drizzle
+  - open-source
+  - cosmo
+  - federation
 entities:
   - WunderGraph SDK
   - Cosmo

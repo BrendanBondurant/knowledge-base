@@ -34,6 +34,8 @@ tags:
   - startup
 topic_tags:
   - zero-incidents
+  - federation
+  - cosmo
 entities:
   - GCP
   - Kubernetes

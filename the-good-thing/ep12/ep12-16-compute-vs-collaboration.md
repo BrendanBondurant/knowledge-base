@@ -28,11 +28,8 @@ tags:
   - go
   - rust
 topic_tags:
+  - startup
   - compute-reselling
-  - aws-wrappers
-  - developer-purchasing
-  - self-hosting-preference
-  - startup-reliability
   - vercel-strategy
 entities:
   - Prisma

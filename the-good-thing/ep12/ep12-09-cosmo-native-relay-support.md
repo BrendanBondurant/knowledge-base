@@ -35,6 +35,8 @@ tags:
   - rest-apis
 topic_tags:
   - cosmo-router
+  - cosmo
+  - graphql
 entities:
   - Relay
   - Isograph

@@ -31,12 +31,9 @@ tags:
   - go
   - graphql-federation
 topic_tags:
-  - code-value
-  - open-source-strategy
-  - distribution-moats
-  - brand-value
-  - product-roadmaps
-  - cosmo-strategy
+  - open-source
+  - startup
+  - cosmo
 entities:
   - Cursor
   - Meta

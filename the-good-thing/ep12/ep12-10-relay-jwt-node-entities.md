@@ -31,8 +31,8 @@ tags:
   - graphql
 topic_tags:
   - federation
-  - graphql-federation
-  - ai
+  - graphql
+  - cosmo-router
 entities:
   - JWT
   - GraphQL Federation

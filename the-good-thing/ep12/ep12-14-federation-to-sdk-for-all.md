@@ -37,6 +37,7 @@ tags:
 topic_tags:
   - graphql-operations
   - json-schema
+  - federation
 entities:
   - GraphQL
   - OpenAPI

@@ -37,6 +37,8 @@ tags:
   - rest
 topic_tags:
   - cosmo-router
+  - mcp
+  - graphql
 entities:
   - GraphQL
   - MCP

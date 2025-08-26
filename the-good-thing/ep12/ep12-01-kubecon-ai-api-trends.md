@@ -30,11 +30,9 @@ tags:
   - rest
   - startup
 topic_tags:
-  - kubecon
-  - ai-trends
-  - conference-strategy
-  - api-positioning
-  - technology-waves
+  - ai
+  - api-design
+  - startup
 entities:
   - KubeCon
   - Stefan Avram

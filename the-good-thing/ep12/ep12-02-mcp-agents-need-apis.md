@@ -29,10 +29,8 @@ tags:
   - rust
 topic_tags:
   - mcp
-  - ai-limitations
-  - technology-cycles
-  - api-dependency
-  - ai-trust-issues
+  - ai
+  - api-design
 entities:
   - Anthropic
   - ChatGPT

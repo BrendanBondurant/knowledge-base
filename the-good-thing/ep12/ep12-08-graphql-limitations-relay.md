@@ -35,7 +35,7 @@ tags:
   - rest-connectors
 topic_tags:
   - federation
-  - graphql-federation
+  - graphql
   - ai
 entities:
   - Apollo
