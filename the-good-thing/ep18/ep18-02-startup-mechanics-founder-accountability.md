@@ -35,9 +35,6 @@ topic_tags:
   - startup-mechanics
   - founder-accountability
   - layoff-strategy
-  - growth-expectations
-  - runway-management
-  - profitability-planning
 entities:
   - Startups
 mentions:

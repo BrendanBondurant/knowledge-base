@@ -33,8 +33,6 @@ topic_tags:
   - managed-services
   - customer-support
   - domain-expertise
-  - business-responsibilities
-  - implementation-guidance
 entities:
   - Cosmo
 mentions:

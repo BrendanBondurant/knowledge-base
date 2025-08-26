@@ -32,11 +32,8 @@ tags:
   - rest
   - startup
 topic_tags:
-  - unreal-engine
   - open-source-strategy
   - mass-adoption
-  - epic-games
-  - federation
   - competitive-strategy
 entities:
   - Epic Games

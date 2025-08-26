@@ -34,10 +34,7 @@ tags:
 topic_tags:
   - open-source-business
   - developer-tools
-  - nginx
-  - tyk
   - enterprise-features
-  - api-gateway
 entities:
   - Nginx
   - Tyk

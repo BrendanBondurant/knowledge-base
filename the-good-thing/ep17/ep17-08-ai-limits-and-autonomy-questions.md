@@ -28,9 +28,7 @@ tags:
   - mcp
 topic_tags:
   - ai-autonomy
-  - future-predictions
   - ai-limitations
-  - developer-replacement
   - autonomous-systems
 entities:
   - Iron Man

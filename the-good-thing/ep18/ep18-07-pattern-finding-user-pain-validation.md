@@ -37,10 +37,6 @@ topic_tags:
   - pattern-discovery
   - user-research
   - stakeholder-mapping
-  - workflow-analysis
-  - pain-point-validation
-  - growth-inflection
-  - customer-behavior
 entities:
   - Cosmo
   - GraphQL

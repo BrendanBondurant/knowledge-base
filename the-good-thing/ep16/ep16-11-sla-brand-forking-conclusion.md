@@ -33,8 +33,6 @@ topic_tags:
   - sla-requirements
   - brand-building
   - customer-logos
-  - market-maturity
-  - content-marketing
 entities:
   - WunderGraph
   - eBay

@@ -39,9 +39,6 @@ topic_tags:
   - open-source-funnel
   - sales-cycle
   - managed-services
-  - maintenance-overhead
-  - competitive-advantage
-  - staging-environment
 entities:
   - Lovable
   - Cosmo

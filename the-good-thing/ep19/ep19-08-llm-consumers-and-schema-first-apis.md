@@ -41,9 +41,6 @@ topic_tags:
   - llm
   - ai
   - schema-first
-  - graphql
-  - metadata
-  - api-consumers
 entities:
   - Robert Farr
   - Stefan Avram

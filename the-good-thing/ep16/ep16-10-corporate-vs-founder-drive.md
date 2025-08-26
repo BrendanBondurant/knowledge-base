@@ -28,6 +28,10 @@ tags:
   - startup
   - go
   - graphql
+topic_tags:
+  - corporate-vs-founder
+  - work-culture
+  - startup-tradeoffs
 entities:
   - Google
   - FAANG

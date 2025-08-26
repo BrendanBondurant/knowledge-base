@@ -30,8 +30,6 @@ topic_tags:
   - henry-ford-quote
   - customer-needs
   - modernization
-  - product-vision
-  - episode-conclusion
 entities:
   - Henry Ford
   - Cosmo

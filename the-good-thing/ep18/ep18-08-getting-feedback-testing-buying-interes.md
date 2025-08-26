@@ -34,9 +34,6 @@ topic_tags:
   - customer-feedback
   - relationship-bias
   - honest-feedback
-  - buying-interest
-  - commitment-testing
-  - beta-participation
 entities:
   - Bank customer
   - Cosmo

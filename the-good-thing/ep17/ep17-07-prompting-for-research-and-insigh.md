@@ -30,8 +30,6 @@ topic_tags:
   - ai-research
   - prompt-engineering
   - problem-solving
-  - rfc-development
-  - developer-evolution
 entities:
   - ChatGPT
   - Cursor

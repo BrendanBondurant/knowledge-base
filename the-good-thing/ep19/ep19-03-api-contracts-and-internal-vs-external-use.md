@@ -34,7 +34,6 @@ topic_tags:
   - api-design
   - contracts
   - governance
-  - internal-apis
 entities:
   - Procore
   - Robert Farr

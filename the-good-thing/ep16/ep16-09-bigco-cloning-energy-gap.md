@@ -32,6 +32,10 @@ tags:
   - cosmo
   - go
   - rest
+topic_tags:
+  - founder-advantage
+  - startup-vs-enterprise
+  - competitive-limitations
 entities:
   - KubeCon
   - VCs

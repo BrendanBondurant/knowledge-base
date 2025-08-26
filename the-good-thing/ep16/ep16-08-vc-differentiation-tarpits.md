@@ -30,6 +30,10 @@ tags:
   - apollo-graphql
   - founder
   - go
+topic_tags:
+  - vc-funding
+  - market-differentiation
+  - tar-pit-ideas
 entities:
   - WunderGraph
   - Apollo

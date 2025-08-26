@@ -32,9 +32,6 @@ topic_tags:
   - product-market-fit
   - sales-strategy
   - customer-listening
-  - market-dynamics
-  - startup-strategy
-  - pain-points
 entities:
   - TAB (Technical Advisory Board)
 mentions:

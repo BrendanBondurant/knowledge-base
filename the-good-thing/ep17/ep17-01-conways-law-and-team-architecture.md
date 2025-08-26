@@ -33,9 +33,6 @@ topic_tags:
   - conways-law
   - organizational-design
   - team-architecture
-  - federation
-  - monolith
-  - customer-patterns
 entities:
   - Conway's Law
   - WunderGraph

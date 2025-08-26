@@ -32,9 +32,6 @@ topic_tags:
   - apollo-layoffs
   - founder-empathy
   - competitive-dynamics
-  - job-losses
-  - market-analysis
-  - industry-respect
 entities:
   - Apollo
   - GraphQL

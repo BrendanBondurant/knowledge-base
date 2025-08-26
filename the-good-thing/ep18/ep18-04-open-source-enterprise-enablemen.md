@@ -37,10 +37,6 @@ topic_tags:
   - open-source-strategy
   - enterprise-sales
   - organizational-barriers
-  - poc-limitations
-  - engineer-evaluation
-  - healthcare-company
-  - bank-restrictions
 entities:
   - TAB (Technical Advisory Board)
   - Healthcare company

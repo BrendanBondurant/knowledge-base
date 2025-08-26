@@ -37,10 +37,6 @@ topic_tags:
   - ai-collaboration
   - cursor-adoption
   - legacy-migration
-  - federation-acceleration
-  - graphql-guild
-  - developer-velocity
-  - orchestration-layer
 entities:
   - Cursor
   - WunderGraph

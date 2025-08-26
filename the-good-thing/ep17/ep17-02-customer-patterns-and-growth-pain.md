@@ -36,8 +36,6 @@ topic_tags:
   - customer-patterns
   - code-organization
   - team-communication
-  - architecture-design
-  - workflow-optimization
 entities:
   - Conway's Law
   - WunderGraph

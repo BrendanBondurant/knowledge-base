@@ -32,8 +32,6 @@ topic_tags:
   - resume-driven-development
   - customer-focus
   - problem-solving
-  - business-understanding
-  - developer-mindset
 entities:
   - Cursor
   - Windsurf

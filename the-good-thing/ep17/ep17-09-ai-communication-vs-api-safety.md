@@ -31,11 +31,8 @@ tags:
   - rest
 topic_tags:
   - ai-collaboration
-  - organizational-scaling
   - communication-challenges
-  - agent-control
   - api-safety
-  - context-definition
 entities:
   - Cursor
 mentions:

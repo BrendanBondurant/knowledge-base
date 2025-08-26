@@ -41,9 +41,6 @@ topic_tags:
   - organizational-problems
   - tab-insights
   - company-scale
-  - enterprise-diversity
-  - ai-tooling
-  - episode-conclusion
 entities:
   - Fortune 500 companies
   - Healthcare startups

@@ -32,10 +32,6 @@ topic_tags:
   - sales-philosophy
   - negotiation-skills
   - customer-success
-  - junior-engineer-influence
-  - enterprise-sales
-  - relationship-building
-  - parenting-analogy
 entities:
   - Sam Altman
   - Junior engineers

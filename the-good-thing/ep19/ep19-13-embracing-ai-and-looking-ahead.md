@@ -30,8 +30,6 @@ topic_tags:
   - ai-boom
   - value-delivery
   - future-outlook
-  - enterprise-ai
-  - episode-conclusion
 entities:
   - Robert Farr
   - Stefan Avram

@@ -35,9 +35,6 @@ topic_tags:
   - ai-first-strategy
   - procore
   - enterprise-ai
-  - customer-expectations
-  - internal-tools
-  - ai-transformation
 entities:
   - Procore
   - Robert Farr

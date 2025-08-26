@@ -30,9 +30,6 @@ topic_tags:
   - ai-productivity
   - developer-evolution
   - career-development
-  - technology-obsolescence
-  - learning-curve
-  - imposter-syndrome
 entities:
   - Cursor
   - ChatGPT

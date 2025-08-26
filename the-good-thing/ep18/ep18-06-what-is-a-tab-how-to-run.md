@@ -34,9 +34,6 @@ topic_tags:
   - technical-advisory-board
   - customer-research
   - product-development
-  - listening-methodology
-  - vision-clarification
-  - adam-frankl
 entities:
   - Technical Advisory Board (TAB)
   - Adam Frankl

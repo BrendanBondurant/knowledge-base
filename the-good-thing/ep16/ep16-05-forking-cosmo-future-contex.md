@@ -32,9 +32,7 @@ tags:
 topic_tags:
   - code-forking
   - business-strategy
-  - competitive-analysis
   - open-source-maintenance
-  - business-categories
 entities:
   - Cosmo
   - GraphQL Go Tools

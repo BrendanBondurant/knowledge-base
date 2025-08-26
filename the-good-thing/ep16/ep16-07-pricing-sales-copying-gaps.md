@@ -30,8 +30,6 @@ tags:
 topic_tags:
   - pricing-strategy
   - sales-experience
-  - market-knowledge
-  - competitive-intelligence
   - go-to-market
 entities:
   - WunderGraph

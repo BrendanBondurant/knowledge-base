@@ -31,6 +31,10 @@ tags:
   - graphql
   - rest
   - startup
+topic_tags:
+  - open-source
+  - federation
+  - graphql-federation
 entities:
   - Discord
   - Cosmo
