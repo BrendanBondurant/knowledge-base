@@ -29,9 +29,6 @@ topic_tags:
   - distribution
   - market-dominance
   - startup-defensibility
-  - competitive-moats
-  - platform-advantages
-  - network-effects
 entities:
   - Stefan Avram
   - Jens Neuse

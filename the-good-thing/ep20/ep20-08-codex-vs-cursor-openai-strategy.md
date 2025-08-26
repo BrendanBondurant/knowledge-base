@@ -31,9 +31,6 @@ topic_tags:
   - codex
   - cursor
   - openai
-  - platform-strategy
-  - ai-development-tools
-  - developer-tools
 entities:
   - OpenAI Codex
   - Cursor

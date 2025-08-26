@@ -31,9 +31,6 @@ topic_tags:
   - stargate-project
   - ai-infrastructure
   - hardware-monopoly
-  - market-concentration
-  - competition
-  - ai-investment
 entities:
   - Stargate project
   - Stefan Avram

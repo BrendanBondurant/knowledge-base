@@ -28,9 +28,6 @@ topic_tags:
   - ai-blackmail
   - media-sensationalism
   - llm-behavior
-  - ai-misconceptions
-  - pattern-matching
-  - ai-news-analysis
 entities:
   - Stefan Avram
   - Jens Neuse

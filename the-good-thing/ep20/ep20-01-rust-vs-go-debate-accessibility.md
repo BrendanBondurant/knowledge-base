@@ -34,9 +34,6 @@ topic_tags:
   - rust
   - go
   - programming-languages
-  - developer-accessibility
-  - linkedin-controversy
-  - llm-code-generation
 entities:
   - Stefan Avram
   - Jens Neuse

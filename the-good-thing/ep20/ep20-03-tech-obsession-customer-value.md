@@ -37,9 +37,6 @@ topic_tags:
   - tech-obsession
   - customer-value
   - software-complexity
-  - business-impact
-  - technical-excellence
-  - pragmatism
 entities:
   - Stefan Avram
   - Jens Neuse

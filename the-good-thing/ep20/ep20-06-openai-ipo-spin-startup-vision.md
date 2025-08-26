@@ -30,9 +30,6 @@ topic_tags:
   - openai
   - ipo
   - startup-ecosystem
-  - vision-funding
-  - ai-valuations
-  - business-model
 entities:
   - OpenAI
   - Stefan Avram

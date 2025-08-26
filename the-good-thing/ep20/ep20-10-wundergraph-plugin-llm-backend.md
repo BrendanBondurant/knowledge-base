@@ -44,10 +44,6 @@ topic_tags:
   - wundergraph
   - plugin-system
   - llm-optimization
-  - backend-development
-  - graphql
-  - rest
-  - federation
 entities:
   - WunderGraph
   - Stefan Avram
