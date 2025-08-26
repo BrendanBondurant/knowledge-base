@@ -39,11 +39,9 @@ tags:
   - rust
   - startup
 topic_tags:
-  - introduction
-  - content-marketing
-  - founder-led
-  - authenticity
-  - podcast
+  - startup
+  - founder
+  - graphql
 entities:
   - Stefan
   - Jens

@@ -25,12 +25,8 @@ topics:
   - Customer feedback
   - Sales calls
   - Building confidence
-tags:
+topic_tags:
   - startup
-  - ai
-  - api-design
-  - go
-  - rest
 topic_tags:
   - startup
 entities:

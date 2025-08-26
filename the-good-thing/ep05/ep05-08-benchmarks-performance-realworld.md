@@ -46,12 +46,9 @@ tags:
   - rust
   - telemetry
 topic_tags:
-  - benchmarks
-  - performance
-  - real-world-testing
   - graphql
-  - technical-validation
-  - customer-education
+  - startup
+  - benchmarks
 entities:
   - Stefan Avram
   - Jens Neuse

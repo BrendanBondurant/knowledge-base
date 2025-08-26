@@ -35,11 +35,9 @@ tags:
   - graphql-federation
   - rest
 topic_tags:
-  - sales
-  - rejection
-  - indecision
-  - customer-focus
   - startup
+  - federation
+  - indecision
 entities:
   - Jens
   - Stefan

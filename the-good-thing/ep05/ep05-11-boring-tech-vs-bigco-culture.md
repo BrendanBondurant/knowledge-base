@@ -36,6 +36,7 @@ tags:
 topic_tags:
   - startup
   - founder
+  - ai
 entities:
   - Stefan Avram
   - Jens Neuse

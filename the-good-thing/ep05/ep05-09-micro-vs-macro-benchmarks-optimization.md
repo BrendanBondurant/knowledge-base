@@ -38,8 +38,9 @@ tags:
   - rest
   - startup
 topic_tags:
-  - micro-benchmarks
-  - macro-benchmarks
+  - startup
+  - graphql
+  - benchmarks
 entities:
   - Jens Neuse
   - Stefan Avram

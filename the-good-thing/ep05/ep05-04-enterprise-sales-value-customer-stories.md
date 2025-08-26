@@ -42,12 +42,9 @@ tags:
   - graphql-federation
   - microservices
 topic_tags:
-  - enterprise-sales
-  - customer-stories
-  - value-demonstration
-  - b2b-sales
-  - customer-advocacy
-  - startup-growth
+  - startup
+  - enterprise
+  - founder
 entities:
   - Stefan Avram
   - Jens Neuse

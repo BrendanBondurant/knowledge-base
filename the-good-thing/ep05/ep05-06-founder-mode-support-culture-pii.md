@@ -40,12 +40,9 @@ tags:
   - go
   - graphql
 topic_tags:
-  - founder-mode
-  - customer-support
-  - company-culture
-  - pii-handling
-  - customer-first
-  - startup-philosophy
+  - startup
+  - founder
+  - graphql
 entities:
   - Stefan Avram
   - Jens Neuse

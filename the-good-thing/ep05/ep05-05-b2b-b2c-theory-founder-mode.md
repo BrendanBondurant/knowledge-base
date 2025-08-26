@@ -35,12 +35,9 @@ tags:
   - open-source
   - rest
 topic_tags:
-  - b2b-theory
-  - b2c-evolution
-  - founder-mode
-  - startup-leadership
-  - company-culture
-  - scalability
+  - startup
+  - founder
+  - open-source
 entities:
   - Stefan Avram
   - Jens Neuse

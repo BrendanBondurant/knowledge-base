@@ -42,12 +42,9 @@ tags:
   - postgres
   - rust
 topic_tags:
-  - customer-focus
-  - competition
+  - startup
   - benchmarks
-  - technical-validation
-  - startup-strategy
-  - market-positioning
+  - graphql
 entities:
   - Stefan Avram
   - Jens Neuse

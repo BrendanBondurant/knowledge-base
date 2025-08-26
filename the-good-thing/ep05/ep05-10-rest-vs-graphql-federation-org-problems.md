@@ -49,9 +49,9 @@ tags:
   - startup
   - typescript
 topic_tags:
+  - graphql
   - federation
   - api-design
-  - microservices
 entities:
   - Stefan Avram
   - Jens Neuse
