@@ -39,12 +39,9 @@ tags:
   - graphql-federation
   - rest
 topic_tags:
-  - vision
-  - feedback
-  - ab-testing
-  - startup-luck
-  - product-direction
-  - founder-mindset
+  - startup
+  - founder
+  - ai
 entities:
   - Jens Neuse
   - Stefan Avram

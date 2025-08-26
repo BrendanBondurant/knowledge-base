@@ -34,6 +34,8 @@ tags:
   - rust
 topic_tags:
   - startup
+  - founder
+  - open-source
 entities:
   - Stefan
   - Jens

@@ -33,10 +33,9 @@ tags:
   - founder
   - go
 topic_tags:
-  - customer-focus
-  - icp
-  - growth
-  - feedback
+  - startup
+  - founder
+  - api-design
 entities:
   - Stefan
   - Jens

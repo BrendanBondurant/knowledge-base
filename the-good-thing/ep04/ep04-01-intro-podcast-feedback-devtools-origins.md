@@ -27,6 +27,7 @@ tags:
   - go
 topic_tags:
   - startup
+  - founder
 entities:
   - Stefan
   - Jens

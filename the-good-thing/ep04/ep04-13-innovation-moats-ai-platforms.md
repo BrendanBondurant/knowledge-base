@@ -40,6 +40,8 @@ tags:
   - startup
 topic_tags:
   - ai
+  - startup
+  - open-source
 entities:
   - Jens Neuse
   - Stefan Avram

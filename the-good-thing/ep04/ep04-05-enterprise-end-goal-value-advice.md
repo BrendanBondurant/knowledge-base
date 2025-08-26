@@ -28,9 +28,8 @@ tags:
   - go
 topic_tags:
   - enterprise
-  - value
-  - startup-advice
-  - product
+  - startup
+  - founder
 entities:
   - Stefan
   - Jens

@@ -27,10 +27,9 @@ tags:
   - cosmo
   - go
 topic_tags:
-  - pricing
-  - customer-value
+  - startup
   - enterprise
-  - mid-market
+  - customer-value
 entities:
   - Jens
   - Stefan

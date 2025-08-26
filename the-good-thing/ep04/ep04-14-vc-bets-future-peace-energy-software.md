@@ -36,12 +36,9 @@ tags:
   - go
   - graphql-federation
 topic_tags:
-  - venture-capital
-  - future-predictions
-  - green-energy
-  - software-impact
-  - collaboration
-  - episode-wrap-up
+  - startup
+  - ai
+  - federation
 entities:
   - Stefan Avram
   - Jens Neuse

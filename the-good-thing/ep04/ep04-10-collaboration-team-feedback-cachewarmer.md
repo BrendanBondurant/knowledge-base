@@ -51,12 +51,9 @@ tags:
   - rest
   - telemetry
 topic_tags:
-  - collaboration
-  - team-energy
-  - feedback-loops
-  - cache-warmer
-  - customer-development
-  - product-iteration
+  - startup
+  - cache-warming
+  - founder
 entities:
   - Jens Neuse
   - Stefan Avram

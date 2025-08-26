@@ -34,10 +34,9 @@ tags:
   - open-source
   - rest
 topic_tags:
-  - customer-development
-  - validation
-  - payment
   - startup
+  - founder
+  - open-source
 entities:
   - Jens
   - Stefan

@@ -33,12 +33,9 @@ tags:
   - go
   - graphql-federation
 topic_tags:
-  - market-size
-  - venture-capital
-  - founder-quality
-  - market-timing
-  - startup-success
-  - investment-decisions
+  - startup
+  - founder
+  - ai
 entities:
   - Jens Neuse
   - Stefan Avram
