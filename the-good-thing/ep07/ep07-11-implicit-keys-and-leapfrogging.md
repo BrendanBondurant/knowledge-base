@@ -33,6 +33,8 @@ tags:
   - microservices
   - startup
 topic_tags:
+  - federation
+  - graphql
   - implicit-behavior
 entities:
   - GraphQL

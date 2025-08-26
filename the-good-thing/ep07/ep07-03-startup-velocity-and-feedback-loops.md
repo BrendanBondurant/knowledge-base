@@ -33,11 +33,8 @@ tags:
   - graphql-federation
   - rest
 topic_tags:
-  - startup-culture
-  - customer-feedback
-  - engineering-velocity
-  - qa-processes
-  - direct-communication
+  - startup
+  - federation
 entities:
   - WunderGraph
   - Jira

@@ -37,10 +37,8 @@ tags:
   - rest
 topic_tags:
   - query-planning
-  - reliability
-  - testing
-  - router-architecture
-  - startup-moats
+  - cosmo
+  - startup
 entities:
   - Cosmo
   - WunderGraph

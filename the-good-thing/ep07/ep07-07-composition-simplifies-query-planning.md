@@ -40,8 +40,7 @@ tags:
 topic_tags:
   - composition
   - query-planning
-  - metadata
-  - typescript
+  - cosmo
 entities:
   - Cosmo
   - Apollo

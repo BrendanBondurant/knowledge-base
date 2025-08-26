@@ -37,6 +37,8 @@ tags:
   - startup
 topic_tags:
   - cache-warming
+  - cosmo
+  - graphql-federation
 entities:
   - Cosmo Router
   - WunderGraph

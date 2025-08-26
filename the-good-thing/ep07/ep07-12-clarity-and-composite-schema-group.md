@@ -37,7 +37,8 @@ tags:
   - rest
 topic_tags:
   - composite-schema
-  - subgraph-libraries
+  - federation
+  - graphql
 entities:
   - GraphQL Foundation
   - Composite Schema Working Group

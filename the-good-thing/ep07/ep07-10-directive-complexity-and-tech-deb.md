@@ -33,11 +33,9 @@ tags:
   - graphql
   - startup
 topic_tags:
-  - apollo-federation
-  - technical-debt
-  - directive-problems
-  - implicit-behavior
-  - specification-evolution
+  - graphql-federation
+  - apollo-graphql
+  - startup
 entities:
   - Apollo Federation
   - Facebook

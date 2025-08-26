@@ -36,6 +36,8 @@ tags:
   - supergraph
 topic_tags:
   - composition
+  - cosmo
+  - graphql
 entities:
   - Cosmo
   - Apollo

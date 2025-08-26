@@ -34,12 +34,9 @@ tags:
   - rest
   - rust
 topic_tags:
-  - audits
-  - benchmarks
-  - vendor-bias
-  - federation-complexity
-  - customer-experience
-  - third-party-evaluation
+  - federation
+  - benchmarking
+  - apollo-graphql
 entities:
   - Federation
   - Apollo

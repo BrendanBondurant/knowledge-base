@@ -34,7 +34,7 @@ tags:
   - query-planning
 topic_tags:
   - federation
-  - microservices
+  - graphql
 entities:
   - GraphQL
   - Federation

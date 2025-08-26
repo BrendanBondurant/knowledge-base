@@ -34,9 +34,7 @@ tags:
 topic_tags:
   - graphql
   - federation
-  - directives
-  - schema-composition
-  - customer-feedback
+  - cosmo
 entities:
   - WunderGraph
   - Cosmo

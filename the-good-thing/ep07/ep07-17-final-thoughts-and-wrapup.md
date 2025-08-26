@@ -29,12 +29,9 @@ tags:
   - graphql-federation
   - rest
 topic_tags:
-  - episode-wrap
+  - startup
+  - federation
   - collaborative-tooling
-  - self-taught-engineer
-  - community-feedback
-  - deep-tech-content
-  - startup-journey
 entities:
   - WunderGraph
   - GraphQL

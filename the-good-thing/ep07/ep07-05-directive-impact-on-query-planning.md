@@ -34,6 +34,10 @@ tags:
   - graphql
   - query-planning
   - supergraph
+topic_tags:
+  - federation
+  - graphql
+  - apollo-graphql
 entities:
   - graphql
   - Federation

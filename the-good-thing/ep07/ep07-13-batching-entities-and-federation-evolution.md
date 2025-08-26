@@ -37,12 +37,9 @@ tags:
   - rest
   - telemetry
 topic_tags:
-  - entity-batching
-  - apollo-federation
-  - composite-schema
-  - benchmarking
+  - graphql-federation
   - query-planning
-  - performance
+  - benchmarking
 entities:
   - Apollo Federation
   - GraphQL

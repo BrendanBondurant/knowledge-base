@@ -34,12 +34,9 @@ tags:
   - query-planning
   - rest
 topic_tags:
-  - education
-  - continuous-learning
   - computer-science
-  - git-migration
-  - apollo-federation
-  - specifications
+  - graphql
+  - apollo-graphql
 entities:
   - Computer Science
   - Git
