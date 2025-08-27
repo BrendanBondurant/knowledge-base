@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Startup strategy ownership and accountability
-  - Product-market fit recognition and feelings
-  - Sales as listening vs forcing solutions
-  - Push vs pull market dynamics
-  - Everything feeling "off" without PMF
-  - Identifying customer pain points and company problems
+  - Product Market Fit
+  - Founder Responsibility
+  - Sales as Listening
+  - Market Pull vs Push
 tags:
   - startup
   - ai

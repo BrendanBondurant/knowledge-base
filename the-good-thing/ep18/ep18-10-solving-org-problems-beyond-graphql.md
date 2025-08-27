@@ -15,13 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Parenting and negotiation parallels with enterprise sales
-  - TAB findings from Fortune 500 to startups
-  - Company scale diversity from 50 to 10,000 engineers
-  - Organizational problems beyond technical solutions
-  - AI tooling for filtering TAB insights
-  - Healthcare startup to public company range
-  - Episode conclusion and format preferences
+  - Organizational Problems
+  - TAB Insights
+  - Company Scale
+  - Future Product Direction
 tags:
   - ai
   - api-design
