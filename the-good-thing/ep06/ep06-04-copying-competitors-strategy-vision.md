@@ -16,13 +16,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Copying competitors
-  - Startup strategy
-  - Vision
-  - Customer focus
-  - Product differentiation
-  - Market entry
-  - Distribution
+  - Copying Competitors
+  - Startup Vision
+  - Customer Focus
+  - Product Differentiation
 summary: |
   Jens and Stefan reflect on the temptation to copy competitors, the importance of having a vision, and the need to focus on customers rather than just features. They discuss the pitfalls of feature parity and the value of original strategy in startup success.
 tags:

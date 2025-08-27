@@ -17,12 +17,9 @@ speakers:
   - Stefan
 topics:
   - Distribution
-  - Investor conversations
-  - Growth metrics
-  - Startup strategy
-  - Market entry
-  - Product differentiation
-  - Fundraising
+  - Investor Conversations
+  - Growth Metrics
+  - Fundraising Challenges
 summary: |
   Jens and Stefan discuss the importance of distribution in startup success, the kinds of questions investors ask, and the need for growth metrics beyond feature parity. They reflect on the challenges of fundraising and the pitfalls of simply copying competitors.
 tags:

@@ -16,12 +16,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - N+1 problems
+  - N+1 Problems
   - Batching
   - Testing
-  - Engineering philosophy
-  - Product development
-  - Technical challenges
+  - Engineering Philosophy
 summary: |
   Jens and Stefan discuss the N+1 problem, batching strategies, the importance of testing, and their overall engineering philosophy for building robust products.
 tags:

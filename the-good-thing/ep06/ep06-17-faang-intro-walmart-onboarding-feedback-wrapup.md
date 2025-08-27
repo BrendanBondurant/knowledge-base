@@ -16,13 +16,11 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - FAANG intro
+  - FAANG Intro
   - Walmart
   - Onboarding
-  - Customer feedback
-  - Episode wrap-up
-  - Startup journey
-  - Product success
+  - Customer Feedback
+  - Episode Wrap-up
 summary: |
   Jens and Stefan discuss their introduction to FAANG companies, the Walmart experience, onboarding, customer feedback, and wrap up the episode with reflections on their startup journey and product success.
 tags:

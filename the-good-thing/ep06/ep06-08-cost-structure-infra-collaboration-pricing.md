@@ -16,12 +16,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Cost structure
-  - Infrastructure vs. collaboration
-  - Pricing
-  - Value alignment
-  - Startup strategy
-  - Customer value
+  - Cost Structure
+  - Pricing Alignment
+  - Infra vs Collaboration
+  - Customer Value
 summary: |
   Jens and Stefan discuss the cost structure of infrastructure and collaboration tools, pricing strategies, and the importance of aligning value with customer needs in the startup landscape.
 tags:

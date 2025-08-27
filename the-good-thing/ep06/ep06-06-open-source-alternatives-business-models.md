@@ -16,12 +16,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Open source alternatives
-  - Business models
-  - Product differentiation
-  - Market positioning
-  - Startup strategy
-  - Collaboration tools
+  - Open Source Alternatives
+  - Business Models
+  - Product Differentiation
+  - Market Positioning
 summary: |
   Jens and Stefan discuss the role of open source alternatives in the market, different business models, and how product differentiation is achieved beyond just feature parity. They reflect on the importance of positioning and strategy in building a successful company.
 tags:

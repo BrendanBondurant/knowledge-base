@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Copying competitors
-  - Startup strategy
-  - Early days of WunderGraph
-  - Copycat accusations
-  - Product differentiation
-  - Team stories
+  - Copying Competitors
+  - Startup Strategy
+  - Early Days of WunderGraph
+  - Product Differentiation
 summary: |
   Stefan and Jens introduce the main theme of the episode: should you copy your competitors? They discuss the early days of WunderGraph, accusations of being a copycat, and the reality of product differentiation in the devtools space.
 tags:

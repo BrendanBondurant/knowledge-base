@@ -16,13 +16,11 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Team dynamics
+  - Team Dynamics
   - Retreat
-  - Cosmo pivot
-  - First customers
+  - Cosmo Pivot
+  - First Customers
   - Luck
-  - Startup growth
-  - Product evolution
 summary: |
   Jens and Stefan discuss the dynamics of their team, the pivotal retreat that led to the Cosmo pivot, onboarding their first customers, and the role of luck in startup growth and product evolution.
 tags:

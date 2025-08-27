@@ -18,11 +18,9 @@ speakers:
 topics:
   - Hasura
   - Apollo
-  - Copying features
-  - Distribution vs. features
-  - Product strategy
-  - Startup mistakes
-  - Market entry
+  - Copying Features
+  - Distribution vs Features
+  - Startup Mistakes
 tags:
   - graphql
   - apollo-graphql

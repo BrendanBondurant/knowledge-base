@@ -16,12 +16,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Usage-based pricing
-  - Enterprise needs
+  - Usage-Based Pricing
+  - Enterprise Needs
   - Predictability
-  - Pricing models
-  - Startup sales
-  - Customer requirements
+  - Pricing Models
 tags:
   - ai
   - open-source

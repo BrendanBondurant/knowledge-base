@@ -16,12 +16,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Open source game theory
-  - FAANG
-  - Community contributions
-  - Open source strategy
-  - Product adoption
-  - Startup growth
+  - Open Source Game Theory
+  - FAANG Companies
+  - Community Contributions
+  - Startup Growth
 summary: |
   Jens and Stefan explore the game theory behind open source, the role of FAANG companies, and the importance of community contributions in building successful products and growing startups.
 tags:

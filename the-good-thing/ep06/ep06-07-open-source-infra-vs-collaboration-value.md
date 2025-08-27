@@ -16,12 +16,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Open source
-  - Infrastructure vs. collaboration
-  - Value perception
-  - Product strategy
-  - Pricing models
-  - Customer needs
+  - Open Source
+  - Infrastructure vs Collaboration
+  - Value Perception
+  - Pricing Models
 summary: |
   Jens and Stefan explore the differences between infrastructure and collaboration tools, the value perception of each, and how open source plays a role in product strategy and pricing models.
 tags:

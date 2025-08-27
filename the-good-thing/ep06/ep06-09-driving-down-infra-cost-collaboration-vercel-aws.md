@@ -16,12 +16,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Driving down infrastructure cost
-  - Collaboration features
-  - Vercel
-  - AWS
-  - Startup strategy
-  - Product differentiation
+  - Infrastructure Cost Reduction
+  - Collaboration Features
+  - Vercel Strategy
+  - AWS Strategy
 summary: |
   Jens and Stefan discuss strategies for driving down infrastructure costs, the importance of collaboration features, and how companies like Vercel and AWS approach these challenges in the startup ecosystem.
 tags:

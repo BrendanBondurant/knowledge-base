@@ -16,12 +16,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Open source efficiency
-  - Code quality
+  - Open Source Efficiency
+  - Code Quality
   - Procurement
-  - Sales
-  - Product adoption
-  - Startup operations
+  - Sales Strategy
 summary: |
   Jens and Stefan discuss the efficiency benefits of open source, the impact on code quality, and how open source can streamline procurement and sales processes for startups.
 tags:

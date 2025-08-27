@@ -16,13 +16,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Startup ideas
+  - Startup Ideas
   - Motion
-  - Learning from failure
-  - Product pivots
-  - Team dynamics
-  - Customer feedback
-  - Startup growth
+  - Learning from Failure
+  - Product Pivots
 tags:
   - ai
   - startup
