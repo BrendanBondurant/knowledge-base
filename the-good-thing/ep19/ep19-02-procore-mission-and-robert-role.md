@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Robert Farr
 topics:
-  - Procore's mission in construction technology
-  - Construction industry digital transformation
-  - Robert's role as Principal Architect
-  - Post-IPO growth and scaling challenges
+  - Procore Mission
+  - Construction Technology
+  - Principal Architect Role
+  - Post-IPO Growth
 tags:
   - principal-architect
   - ai

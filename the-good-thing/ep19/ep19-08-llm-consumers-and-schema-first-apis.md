@@ -17,10 +17,10 @@ speakers:
   - Robert Farr
   - Jens
 topics:
-  - AI and LLMs as new API consumers
-  - Schema-first approach value proposition
-  - GraphQL's metadata and introspection advantages
-  - API design for AI integration
+  - AI as API Consumer
+  - Schema-First Design
+  - GraphQL Metadata Advantages
+  - API Design for AI
 tags:
   - llm
   - ai

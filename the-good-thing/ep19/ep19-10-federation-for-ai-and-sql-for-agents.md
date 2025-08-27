@@ -17,10 +17,10 @@ speakers:
   - Robert Farr
   - Jens
 topics:
-  - Federation's role in enabling AI systems
-  - Structured contracts for AI integration
-  - GraphQL as SQL for AI agents
-  - AI-driven API consumption patterns
+  - Federation and AI
+  - Structured Contracts
+  - GraphQL as SQL for Agents
+  - AI API Consumption
 tags:
   - federation
   - ai

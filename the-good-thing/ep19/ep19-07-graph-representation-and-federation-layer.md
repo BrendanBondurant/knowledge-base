@@ -17,10 +17,10 @@ speakers:
   - Robert Farr
   - Jens
 topics:
-  - Distinction between graphs and GraphQL
-  - Hypermedia as graph interface pattern
-  - Procore's internal federation implementation journey
-  - Graph representation strategies
+  - Graph vs GraphQL
+  - Hypermedia as Graph Interface
+  - Internal Federation Journey
+  - Graph Representation Strategies
 tags:
   - graphql
   - federation
