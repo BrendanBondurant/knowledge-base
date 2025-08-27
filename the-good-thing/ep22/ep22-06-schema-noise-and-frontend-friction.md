@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - GraphQL schema complexity
-  - Frontend development friction
-  - Developer experience challenges
-  - Legacy system integration
+  - GraphQL Schema Noise
+  - Frontend Friction
+  - Developer Experience
+  - Legacy Integration
 tags:
   - federation
   - graphql-federation

@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Small startup competitive advantages
-  - Apollo GraphQL principles document
-  - Big brother vs little brother dynamics
-  - Principled GraphQL framework analysis
+  - Small Startup Advantages
+  - Apollo Principles
+  - Principled GraphQL
+  - Competitive Positioning
 tags:
   - startup
   - principled-graphql

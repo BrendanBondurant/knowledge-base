@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - GraphQL entity accessibility
-  - N+1 query performance problems
-  - Federation implementation issues
-  - Query optimization challenges
+  - Entity Accessibility
+  - N+1 Problem
+  - Federation Issues
+  - Query Optimization
 tags:
   - federation
   - graphql-federation

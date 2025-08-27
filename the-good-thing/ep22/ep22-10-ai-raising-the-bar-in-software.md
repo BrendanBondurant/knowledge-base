@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - AI raising software quality standards
-  - Developer value proposition
-  - Engineering complexity evolution
-  - Software development future
+  - AI Raising Software Standards
+  - Developer Value Proposition
+  - Engineering Complexity
+  - Future of Development
 tags:
   - ai
   - cosmo

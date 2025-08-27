@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - WunderGraph plugin-based architecture
-  - Alternative to Apollo connectors
-  - Modular federation design
-  - Plugin system benefits
+  - Plugin Architecture
+  - Modular Federation
+  - Apollo Connector Alternatives
+  - Federation Design
 tags:
   - plugin-system
   - ai

@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Apollo connectors abstraction issues
-  - GraphQL complexity problems
-  - Federation implementation challenges
-  - Technical architecture critique
-tags:
+  - Apollo Connectors
+  - Broken Abstraction
+  - Federation Complexity
+  - Architecture Critique
   - apollo-connectors
   - ai
   - apollo-graphql

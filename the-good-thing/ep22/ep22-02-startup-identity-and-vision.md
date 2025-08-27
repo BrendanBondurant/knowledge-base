@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Bell curve meme applied to startup vision
-  - Early stage vs mature startup communication
-  - Vision-driven messaging evolution
-  - Startup maturity and positioning
+  - Startup Vision
+  - Bell Curve Meme
+  - Communication Strategy
+  - Maturity and Positioning
 tags:
   - startup
   - ai
