@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Lee Robinson departure from Vercel
-  - Developer advocacy evolution
-  - Next.js community impact
-  - Developer relations careers
+  - Developer Relations
+  - Career Transitions
+  - Next.js Community
+  - Vercel Impact
 tags:
   - ai
   - postgres

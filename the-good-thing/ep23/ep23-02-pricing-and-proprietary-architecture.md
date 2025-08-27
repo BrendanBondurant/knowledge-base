@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - PlanetScale pricing strategy
-  - Proprietary vs open source architecture
-  - NVMe storage technology
-  - Database hosting business models
+  - Pricing Strategy
+  - Proprietary Architecture
+  - NVMe Storage
+  - Business Model
 tags:
   - ai
   - postgres

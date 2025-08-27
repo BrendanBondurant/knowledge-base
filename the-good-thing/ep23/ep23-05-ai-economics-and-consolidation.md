@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Business model fragility in AI
-  - Microsoft's long-term strategy
-  - AI market consolidation
-  - Platform economic dynamics
+  - AI Business Models
+  - Microsoft Strategy
+  - Market Consolidation
+  - Platform Economics
 tags:
   - ai
   - startup

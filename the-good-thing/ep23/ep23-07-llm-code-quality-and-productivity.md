@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - 50% AI code claims analysis
-  - Software liability concerns
-  - AI-generated code quality
-  - Development productivity metrics
+  - AI Code Quality
+  - Software Liability
+  - Productivity Metrics
+  - LLM Adoption
 tags:
   - ai-generated-code
   - ai

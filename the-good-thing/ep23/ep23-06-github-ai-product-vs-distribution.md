@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Distribution vs product quality
-  - GitHub's AI integrations
-  - AI's impact on development
-  - Platform competitive dynamics
+  - Product vs Distribution
+  - GitHub AI Strategy
+  - Developer Platforms
+  - Competitive Dynamics
 tags:
   - ai
   - github-copilot

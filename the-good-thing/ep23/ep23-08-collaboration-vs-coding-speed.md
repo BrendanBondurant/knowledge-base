@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - AI-generated libraries
-  - Collaboration bottlenecks
-  - Development workflows
-  - Team dynamics and productivity
+  - AI Libraries
+  - Collaboration Bottlenecks
+  - Team Workflows
+  - Productivity Tradeoffs
 tags:
   - graphql
   - ai
