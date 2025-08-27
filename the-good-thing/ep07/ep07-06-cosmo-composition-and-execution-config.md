@@ -17,11 +17,10 @@ speakers:
   - Sergiy
   - David
 topics:
-  - Cosmo vs Apollo composition approaches
-  - Router execution config architecture
-  - Protobuf and JSON metadata transformation
-  - Composition and query planning integration
-  - Resolvability and satisfiability checking
+  - Cosmo vs Apollo
+  - Execution Config
+  - Metadata Architecture
+  - Resolvability Checks
 tags:
   - composition
   - ai

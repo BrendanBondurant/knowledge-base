@@ -17,11 +17,11 @@ speakers:
   - Sergiy
   - David
 topics:
-  - Query planner reliability safeguards
-  - Router headless mode implementation
-  - Query plan regression prevention
-  - Batch query planning for testing
-  - Startup moats and velocity advantages
+  - Query Planner Reliability
+  - Router Headless Mode
+  - Regression Safeguards
+  - Batch Query Planning
+  - Startup Moats
 tags:
   - query-planning
   - startup

@@ -17,11 +17,10 @@ speakers:
   - Sergiy
   - David
 topics:
-  - Computer science education value in practice
-  - Continuous learning in fast-changing tech landscape
-  - Git migration from SVN experience
-  - Apollo Federation specification critique
-  - GraphQL Federation working group participation
+  - Computer Science Education
+  - Continuous Learning
+  - Apollo Federation Critique
+  - Working Group Participation
 tags:
   - computer-science
   - graphql-federation

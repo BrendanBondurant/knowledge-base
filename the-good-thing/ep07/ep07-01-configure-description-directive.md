@@ -15,10 +15,10 @@ speakers:
   - Jens
   - David
 topics:
-  - Configure Description directive implementation
-  - Schema description propagation in federation
-  - Customer-driven feature development
-  - Large-scale schema metadata challenges
+  - Configure Description Directive
+  - Schema Description Propagation
+  - Customer-Driven Features
+  - Large-Scale Federation Challenges
 tags:
   - graphql
   - federation

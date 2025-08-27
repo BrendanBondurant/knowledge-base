@@ -17,11 +17,10 @@ speakers:
   - Sergiy
   - David
 topics:
-  - Quality of life improvements in federation
-  - Team diversity and global collaboration
-  - Problem-solving culture and engineering impact
-  - Leading vs following in the GraphQL space
-  - Self-taught engineer opportunities
+  - Team Diversity
+  - Problem-Solving Culture
+  - GraphQL Federation Leadership
+  - Engineering Impact
 tags:
   - federation
   - graphql-federation

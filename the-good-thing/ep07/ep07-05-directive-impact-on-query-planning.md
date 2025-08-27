@@ -17,11 +17,10 @@ speakers:
   - Sergiy
   - David
 topics:
-  - Federation directive behavior in query planning
-  - "@provides directive as optimization strategy"
-  - "@requires directive and field dependencies"
-  - "@override directive and field resolution changes"
-  - Query plan visualization and human readability
+  - Federation Directives
+  - Provides Requires Override
+  - Query Plan Optimization
+  - Visualization and Readability
 tags:
   - federation
   - graphql-federation

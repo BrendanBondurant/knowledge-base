@@ -17,11 +17,10 @@ speakers:
   - Sergiy
   - David
 topics:
-  - Explicit vs implicit entity keys
-  - Leapfrogging through multiple subgraphs
-  - Schema visibility and team coordination
-  - Federation directive improvements
-  - Interface and union handling across subgraphs
+  - Explicit vs Implicit Keys
+  - Leapfrogging Between Subgraphs
+  - Schema Visibility
+  - Interface and Union Handling
 tags:
   - implicit-behavior
   - ai

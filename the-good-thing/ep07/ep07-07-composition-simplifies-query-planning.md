@@ -17,10 +17,10 @@ speakers:
   - Sergiy
   - David
 topics:
-  - Composition precomputing metadata for query planning
-  - TypeScript vs Golang architecture decisions
-  - Avoiding duplicate work between composition and planning
-  - Apollo supergraph format vs custom metadata approach
+  - Composition Metadata
+  - Query Planning Optimization
+  - TypeScript vs Go
+  - Compiler Hints Analogy
 tags:
   - composition
   - query-planning

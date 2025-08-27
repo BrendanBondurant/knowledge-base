@@ -17,11 +17,10 @@ speakers:
   - Sergiy
   - David
 topics:
-  - Third-party audit value and limitations
-  - Vendor benchmark bias and marketing purposes
-  - Federation complexity and edge case discovery
-  - Customer-driven importance vs vendor priorities
-  - Infinite directive combinations and testing challenges
+  - Third-Party Audits
+  - Vendor Benchmark Bias
+  - Federation Complexity
+  - Customer-Driven Reliability
 tags:
   - startup
   - ai

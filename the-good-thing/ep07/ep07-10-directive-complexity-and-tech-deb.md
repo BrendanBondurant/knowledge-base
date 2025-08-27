@@ -17,11 +17,10 @@ speakers:
   - Sergiy
   - David
 topics:
-  - Apollo Federation directive problems
-  - Implicit behavior and edge cases
-  - Evolution of federation specifications
-  - Lord of the Rings "one ring to rule them all" metaphor
-  - Power concentration in single directives
+  - Federation Directive Complexity
+  - Implicit Behavior
+  - Technical Debt
+  - Evolution of Federation Specs
 tags:
   - graphql-federation
   - implicit-behavior

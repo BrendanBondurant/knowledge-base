@@ -17,11 +17,10 @@ speakers:
   - Sergiy
   - David
 topics:
-  - _entities field batching in Apollo Federation
-  - Regular GraphQL fields vs entity representations
-  - Composite schema spec batching approaches
-  - Benchmark bias and methodology challenges
-  - Query planning performance considerations
+  - Entity Batching
+  - Composite Schema Spec
+  - Benchmark Bias
+  - Query Planning Performance
 tags:
   - graphql-federation
   - composite-schema

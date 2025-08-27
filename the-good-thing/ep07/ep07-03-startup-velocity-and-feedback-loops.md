@@ -17,11 +17,11 @@ speakers:
   - Sergiy
   - David
 topics:
-  - Startup velocity and rapid iteration
-  - Direct customer feedback loops
-  - Engineering and customer communication
-  - Quality assurance in fast-paced environment
-  - Comparison with traditional enterprise processes
+  - Startup Velocity
+  - Customer Feedback Loops
+  - Direct Engineer Communication
+  - QA in Fast Environments
+  - Enterprise vs Startup Processes
 tags:
   - startup
   - ai

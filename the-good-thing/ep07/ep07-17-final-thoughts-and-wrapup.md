@@ -15,11 +15,10 @@ speakers:
   - Jens
   - David
 topics:
-  - Collaborative tooling mission
-  - Self-taught engineer journey
-  - Working with major companies through federation
-  - Deep tech vs business-focused episodes
-  - Community feedback request
+  - Collaborative Tooling
+  - Self-Taught Engineer Journey
+  - Federation Work with Enterprises
+  - Community Feedback
 tags:
   - startup
   - api-design
