@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Entity resolution in federation
-  - JWT-signed node IDs for security
-  - Router entity lookup mechanism
-  - Subgraph routing for entities
-  - Type name and key combinations
-  - Attack prevention through signing
+  - Entity Resolution
+  - JWT-Signed Node IDs
+  - Router Lookup Mechanism
+  - Federation Security
 tags:
   - federation
   - graphql-federation

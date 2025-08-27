@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Relay vs tRPC/REST scalability
-  - Fragment-based component architecture
-  - Node interface concept explanation
-  - Cosmo Router native Relay support plans
-  - Normalized cache and refetching patterns
+  - Relay vs REST/tRPC
+  - Fragment Architecture
+  - Node Interface
+  - Cosmo Relay Support
 tags:
   - cosmo-router
   - ai

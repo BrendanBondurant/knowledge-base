@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Limited value in most code
-  - Distribution and brand as real moats
-  - Open source strategy for Cosmo
-  - Code becoming outdated quickly
-  - Building universe of products
-  - Salesforce distribution example
+  - Code Value Limits
+  - Open Source Strategy
+  - Distribution and Brand
+  - Product Ecosystem Vision
 tags:
   - open-source
   - startup

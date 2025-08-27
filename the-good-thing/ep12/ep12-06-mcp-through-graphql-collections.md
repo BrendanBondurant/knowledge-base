@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - MCP as GraphQL query collections
-  - Fine-grained access control for AI
-  - No-code MCP interface creation
-  - Cosmo router proxy capabilities
-  - Unified API approach benefits
+  - MCP via GraphQL Collections
+  - Fine-Grained Access Control
+  - Cosmo Router Proxy
+  - No Code MCP Interfaces
 tags:
   - cosmo-router
   - ai

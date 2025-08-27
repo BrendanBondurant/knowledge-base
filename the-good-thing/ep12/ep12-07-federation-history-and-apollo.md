@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - AI startup waves and SDK generation
-  - Federation concept history
-  - Apollo's entity and key innovations
-  - Universal data graph attempts
-  - Federation adoption challenges
-  - Apollo's mistakes and success
+  - Federation History
+  - Apollo Innovation
+  - Entity and Key Concepts
+  - Adoption Challenges
 tags:
   - startup
   - universal-data-graph
