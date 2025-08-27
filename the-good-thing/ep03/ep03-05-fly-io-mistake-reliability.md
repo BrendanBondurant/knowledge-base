@@ -18,7 +18,7 @@ topics:
   - Fly.io
   - Cloud Infrastructure
   - Reliability
-  - Startup lessons
+  - Startup Lessons
   - AWS
 tags:
   - startup

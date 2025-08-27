@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Dustin
 topics:
-  - AI Tools
-  - Development Workflow
-  - Copilot
-  - Cursor
-  - Learning
+  - Hiring
+  - AI-Generated Code
+  - Interview Process
+  - Technical Skills
 tags:
   - ai
   - github-copilot
