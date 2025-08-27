@@ -16,11 +16,10 @@ speakers:
   - Kevin
   - Jens
 topics:
-  - Field CTO role and customer success
-  - Investment criteria for API companies
-  - API gateway commoditization trends
-  - Company differentiation requirements
-  - Cloud provider utility impact on market
+  - API Gateway Commoditization
+  - Investment Criteria
+  - Market Differentiation
+  - Cloud Utility Impact
 tags:
   - ai
   - rest

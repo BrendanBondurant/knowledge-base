@@ -17,11 +17,10 @@ speakers:
   - Kevin
   - Jens
 topics:
-  - Pragmatic consulting approach appreciation
-  - Developer maturity and opinion evolution
-  - Dunning-Kruger effect in technology learning
-  - Mount Stupid concept and humbling experiences
-  - Knowledge breadth vs depth trade-offs
+  - Pragmatic Consulting
+  - Developer Maturity
+  - Dunning-Kruger Effect
+  - Knowledge Depth vs Breadth
 tags:
   - graphql
   - ai

@@ -17,11 +17,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - AI attribution and data source transparency
-  - Content scraping monetization ethics
-  - Cloudflare scraper blocking considerations
-  - GraphQL vs REST with LLM query capabilities
-  - Technology adoption lifecycle and persistence
+  - AI Attribution and Ethics
+  - Data Scraping Concerns
+  - GraphQL with LLMs
+  - Technology Lifecycle Persistence
 tags:
   - graphql
   - mcp

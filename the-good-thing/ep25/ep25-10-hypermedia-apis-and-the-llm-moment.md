@@ -17,11 +17,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Distributed cloud applications and APIs
-  - Siren hypermedia type introduction
-  - Hypermedia vs HTML comparison
-  - LLM and agent API interaction potential
-  - MCP UI track and hypermedia patterns
+  - Hypermedia APIs
+  - Siren Specification
+  - LLM and MCP Interaction
+  - Changing Internet Behavior
 tags:
   - mcp
   - ai

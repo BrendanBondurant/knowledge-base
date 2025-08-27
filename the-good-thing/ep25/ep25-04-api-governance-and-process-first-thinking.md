@@ -17,11 +17,10 @@ speakers:
   - Jens
   - Kevin
 topics:
-  - Enterprise API governance needs
-  - Process before technology principle
-  - Microservice landscape complexity management
-  - API sprawl and duplication problems
-  - Autonomous teams vs visibility trade-offs
+  - Enterprise API Governance
+  - Process-First Thinking
+  - Microservice Complexity
+  - API Sprawl Challenges
 tags:
   - ai
   - microservices

@@ -17,11 +17,10 @@ speakers:
   - Stefan
   - Kevin
 topics:
-  - Netflix ad model parallel for ChatGPT
-  - LLM accessibility benefits
-  - Enterprise AI adoption patterns
-  - Digital native vs traditional company differences
-  - MCP early adoption by newer companies
+  - Enterprise AI Adoption
+  - LLM Accessibility
+  - Digital Native vs Traditional Companies
+  - MCP Early Adoption
 tags:
   - mcp
   - ai

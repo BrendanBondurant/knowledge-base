@@ -17,11 +17,10 @@ speakers:
   - Kevin
   - Stefan
 topics:
-  - Boring infrastructure benefits and stability
-  - Vendor reliability horror stories
-  - Episode wrap-up and guest appreciation
-  - Next episode preview with Sam Lambert
-  - PlanetScale uptime superiority discussion
+  - Infrastructure Reliability
+  - Vendor Trust Issues
+  - Episode Wrap-up
+  - PlanetScale Uptime
 tags:
   - ai
   - database
