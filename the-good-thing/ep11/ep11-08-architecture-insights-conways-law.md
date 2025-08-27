@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Machine learning approach to schema optimization
-  - Conway's Law in practice
-  - Microservices architecture evaluation
-  - Organization structure and service design
-  - Jeff Bezos API mandate
-  - Team communication through APIs
+  - Conway's Law
+  - Schema and Teams
+  - Architecture Evaluation
+  - API Mandate
 tags:
   - conways-law
   - microservices-architecture

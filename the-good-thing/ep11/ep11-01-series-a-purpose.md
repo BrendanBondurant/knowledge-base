@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Series A funding announcement
-  - Why dilute equity for funding
-  - Funding as a tool not celebration
-  - Investor dilution philosophy
-  - Market timing and opportunities
+  - Series A Funding
+  - Investor Dilution
+  - Funding as Tool
+  - Market Timing
 tags:
   - startup
   - ai

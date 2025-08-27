@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Enterprise customer requirements
-  - eBay as design partner and investor
-  - Fundraising process challenges
-  - Customer focus vs investor validation
-  - Transparency as founder
-  - Power law and investor motivation
+  - Enterprise Customers
+  - Strategic Investors
+  - Fundraising Challenges
+  - Founder Transparency
 tags:
   - startup
   - founder

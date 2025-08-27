@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Fundraising as selling tickets on your ship
-  - VCs vs customers have different needs
-  - Building VC relationships over time
-  - Pivoting and learning from failure
-  - Series A vs seed stage differences
-  - Early fundraising mistakes
+  - Fundraising as Sales
+  - VC Relationships
+  - Pivot Lessons
+  - Series A vs Seed
 tags:
   - ai
   - founder

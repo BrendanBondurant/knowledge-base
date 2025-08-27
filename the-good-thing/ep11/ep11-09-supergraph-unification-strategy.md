@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - WunderGraph's Conway's Law application
-  - API unification through supergraph
-  - MCP and SDK integration strategy
-  - Moving beyond connector approach
-  - GraphQL Gateway evolution
-  - Fundamental architecture piece vision
+  - Supergraph Unification
+  - Connector Alternatives
+  - API Gateway Evolution
+  - Fundamental Architecture
 tags:
   - connector-approach
   - ai

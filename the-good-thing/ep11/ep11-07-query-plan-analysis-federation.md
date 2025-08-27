@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Static query plan analysis
-  - CI system for schema testing
-  - AST statistics and insights
-  - Federation directive impacts
-  - Schema change analysis
-  - Query planning optimization
+  - Static Query Analysis
+  - CI Testing
+  - Directive Impacts
+  - Schema Optimization
 tags:
   - query-planning
   - ai

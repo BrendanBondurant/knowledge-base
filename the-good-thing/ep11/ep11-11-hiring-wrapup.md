@@ -15,11 +15,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - AI agents will accelerate development
-  - Hiring across all fronts
-  - Essential plumbing for companies
-  - Conway's Law team structure
-  - Query planning engine work
+  - AI Agents
+  - Hiring Opportunities
+  - Essential Infrastructure
+  - Conway's Law
+  - Query Planning
 tags:
   - ai
   - query-planning

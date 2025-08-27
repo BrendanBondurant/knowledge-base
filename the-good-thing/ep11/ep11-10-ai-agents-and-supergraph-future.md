@@ -15,13 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - GraphQL adoption patterns
-  - Supergraph pattern for every company
-  - Fortune 500 API infrastructure
-  - Engineering challenges and opportunities
-  - AI agents and MCP integration
-  - Assembly line analogy for APIs
-  - New internet through AI and supergraphs
+  - GraphQL Adoption
+  - Supergraph Standardization
+  - AI Agent Integration
+  - Future Hiring Needs
 tags:
   - ai-agents
   - ai
