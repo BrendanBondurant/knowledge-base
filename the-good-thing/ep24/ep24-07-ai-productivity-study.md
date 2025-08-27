@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - AI slowing developer workflows study
-  - Sample size critique (16 developers)
-  - Scientific methodology and peer review
-  - Selection bias in research
-  - Media headline-driven narratives
-  - Psychology research standards
+  - AI Productivity Study
+  - Research Methodology Issues
+  - Selection Bias
+  - Media Narratives
 tags:
   - ai
   - open-source

@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Mark Zuckerberg as top CEO
-  - Meta's strategic investments and acquisitions
-  - Monopoly disguise strategies
-  - Peter Thiel's market positioning theory
-  - WunderGraph's market positioning
-  - Coldplay concert workplace controversy
+  - Meta Strategic Investments
+  - Monopoly Positioning
+  - Market Disguise Theory
+  - Workplace Controversy
 tags:
   - federation
   - ai
