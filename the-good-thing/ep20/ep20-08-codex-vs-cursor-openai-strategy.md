@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Codex vs Cursor in AI-powered development
-  - OpenAI's platform strategy and positioning
-  - AI development tool competition
-  - Developer tool market dynamics
+  - Codex vs Cursor
+  - OpenAI Strategy
+  - Developer Tools
+  - Market Dynamics
 tags:
   - ai
   - api-design

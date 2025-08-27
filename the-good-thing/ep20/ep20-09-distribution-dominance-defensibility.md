@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Distribution channels and market dominance
-  - Startup defensibility strategies
-  - Competitive moats and market position
-  - Platform advantages and network effects
+  - Distribution Dominance
+  - Startup Defensibility
+  - Competitive Moats
+  - Platform Advantages
 tags:
   - startup
   - ai

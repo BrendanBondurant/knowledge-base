@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Technology obsession vs customer value delivery
-  - Software complexity and business impact
-  - Balancing technical excellence with pragmatism
-  - Customer-focused development approaches
+  - Tech Obsession
+  - Customer Value
+  - Software Complexity
+  - Pragmatic Development
 tags:
   - startup
   - ai

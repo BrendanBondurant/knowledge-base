@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Rust vs Go programming language debate
-  - Developer accessibility and learning curves
-  - LinkedIn controversy over language preferences
-  - LLM-generated code considerations
+  - Rust vs Go
+  - Developer Accessibility
+  - LinkedIn Controversy
+  - LLM Code Generation
 tags:
   - rust
   - go
