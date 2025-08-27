@@ -15,10 +15,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Remote work culture at WunderGraph
-  - Quarterly retreats and team building
-  - Zoom fatigue and in-person collaboration
-  - Company benefits and flexibility
+  - Remote Work Culture
+  - Quarterly Retreats
+  - Zoom Fatigue
+  - Team Building
+  - Company Transparency
 tags:
   - startup
   - founder

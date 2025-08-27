@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Customer proximity and direct feedback
-  - Engineering team collaboration
-  - Short feedback loops in development
-  - On-call engineering rotation
+  - Customer Proximity
+  - Feedback Loops
+  - On-Call Engineering
+  - Soft Skills Development
 tags:
   - startup
   - founder

@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Cache warmer implementation
-  - Analytics data analysis
-  - Query plan pre-computation
-  - CDN integration
-  - Federation complexity limitations
+  - Cache Warmer Implementation
+  - Analytics Data
+  - Query Plan Pre-Computation
+  - CDN Integration
 tags:
   - cache-warming
   - query-planning

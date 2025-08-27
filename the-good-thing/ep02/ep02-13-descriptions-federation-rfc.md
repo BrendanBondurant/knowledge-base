@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Federation descriptions and documentation
-  - RFC process for federation improvements
-  - Public vs private descriptions
-  - Team collaboration challenges
-  - Schema documentation standards
+  - Federation Descriptions
+  - RFC Process
+  - Public vs Private Documentation
+  - Team Collaboration
 tags:
   - federation-descriptions
   - ai

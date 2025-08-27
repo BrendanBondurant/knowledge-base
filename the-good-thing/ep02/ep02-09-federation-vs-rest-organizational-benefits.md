@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Federation vs REST comparison
-  - BFF pattern limitations
-  - Organizational benefits of federation
-  - Team collaboration advantages
-  - Schema transparency
+  - Federation vs REST
+  - BFF Limitations
+  - Organizational Benefits
+  - Schema Transparency
 tags:
   - bff-pattern
   - ai

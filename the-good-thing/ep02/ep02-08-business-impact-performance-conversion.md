@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Business impact of slow performance
-  - E-commerce conversion rates
-  - Customer abandonment
-  - Federation vs REST comparison
-  - Organizational benefits
+  - Business Impact of Performance
+  - Conversion Rates
+  - Customer Abandonment
+  - Federation vs REST
 tags:
   - startup
   - ai
