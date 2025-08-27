@@ -16,17 +16,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - VC bets
-  - Future predictions
-  - Peace
-  - Green energy
-  - Future of software
+  - VC Bets
+  - Future Predictions
+  - Peace and Energy
+  - Future of Software
   - Collaboration
-  - API platforms
-  - Teamwork
-  - Human impact
-  - Company mission
-  - Episode wrap-up
 tags:
   - startup
   - ai

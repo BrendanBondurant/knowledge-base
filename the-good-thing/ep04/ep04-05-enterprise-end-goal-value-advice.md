@@ -16,11 +16,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Enterprise as end goal
-  - Value creation
-  - Startup advice
-  - Customer relationships
-  - Product evolution
+  - Enterprise as End Goal
+  - Value Creation
+  - Startup Advice
+  - Customer Relationships
+  - Product Evolution
 tags:
   - startup
   - ai

@@ -16,16 +16,11 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Vision vs. feedback
-  - AB testing
-  - Startup luck
-  - Product direction
-  - Founder mindset
-  - Customer requests
-  - Product management
-  - Experimentation
-  - Survivorship bias
-  - Startup advice
+  - Vision vs Feedback
+  - AB Testing
+  - Startup Luck
+  - Product Direction
+  - Founder Mindset
 tags:
   - startup
   - founder

@@ -17,29 +17,10 @@ speakers:
   - Stefan
 topics:
   - Collaboration
-  - Team energy
-  - Feedback loops
-  - Cache warmer
-  - Customer-driven development
-  - Product impact
-  - Engineering culture
-  - Customer relationships
-  - Technical anecdotes
-  - Product iteration
-  - Customer success
-  - Team motivation
-  - Customer feedback
-  - Slack connect
-  - Product polish
-  - Customer screenshots
-  - Magic moments
-  - Customer requirements
-  - Product delivery
-  - Customer impact
-  - Customer engagement
-  - Customer stories
-  - Customer collaboration
-  - Customer-driven features
+  - Team Energy
+  - Feedback Loops
+  - Cache Warmer
+  - Customer-Driven Development
 tags:
   - cache-warming
   - startup

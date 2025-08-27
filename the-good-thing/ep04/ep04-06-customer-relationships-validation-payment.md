@@ -16,15 +16,11 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Customer relationships
-  - Problem validation
-  - Willingness to pay
-  - Startup lessons
-  - Open source
-  - Procurement
-  - Customer feedback
-  - Early sales
-  - Product-market fit
+  - Customer Relationships
+  - Problem Validation
+  - Willingness to Pay
+  - Startup Lessons
+  - Open Source
 tags:
   - startup
   - ai

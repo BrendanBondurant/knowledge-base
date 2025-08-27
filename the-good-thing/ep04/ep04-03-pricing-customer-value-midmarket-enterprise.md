@@ -16,11 +16,11 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Pricing models
-  - Customer value
-  - Mid-market vs. enterprise
-  - Customer behavior
-  - Support challenges
+  - Pricing Models
+  - Customer Value
+  - Mid-Market vs Enterprise
+  - Customer Behavior
+  - Support Challenges
 tags:
   - startup
   - ai

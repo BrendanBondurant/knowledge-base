@@ -16,15 +16,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Customer focus
-  - ICP changes
-  - Company growth
-  - Listening to users
-  - Company pivots
-  - Support
-  - Product-market fit
-  - Customer feedback
-  - Company vision
+  - Customer Focus
+  - ICP Changes
+  - Company Growth
+  - Listening to Users
+  - Company Pivots
 tags:
   - startup
   - ai

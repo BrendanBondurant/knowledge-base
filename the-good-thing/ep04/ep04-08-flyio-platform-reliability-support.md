@@ -17,13 +17,10 @@ speakers:
   - Jens
 topics:
   - Fly.io
-  - Platform building
+  - Platform Building
   - Reliability
   - Support
-  - Product focus
-  - Vendor relationships
-  - API integration
-  - Customer support
+  - Product Focus
 tags:
   - startup
   - founder

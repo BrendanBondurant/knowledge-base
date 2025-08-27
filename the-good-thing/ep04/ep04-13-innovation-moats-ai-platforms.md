@@ -17,15 +17,10 @@ speakers:
   - Stefan
 topics:
   - Innovation
-  - Platform moats
-  - AI
-  - Collaboration platforms
-  - Distribution
-  - Product differentiation
-  - Long-term value
-  - Platform vs. product
-  - AI trends
-  - Team collaboration
+  - Platform Moats
+  - AI Trends
+  - Collaboration Platforms
+  - Long-Term Value
 tags:
   - ai
   - api-design

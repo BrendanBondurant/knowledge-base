@@ -16,14 +16,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Customer willingness to pay
+  - Customer Willingness to Pay
   - Procurement
-  - Startup validation
-  - Zip story
-  - Early sales
-  - Problem size
-  - Customer feedback
-  - Building with customers
+  - Startup Validation
+  - Zip Story
+  - Early Sales
 tags:
   - startup
   - ai

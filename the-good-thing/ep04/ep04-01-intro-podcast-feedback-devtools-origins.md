@@ -15,11 +15,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Podcast feedback
-  - Show tone
-  - Devtools startup origins
-  - Early team
-  - Company beginnings
+  - Podcast Feedback
+  - Show Tone
+  - Devtools Origins
+  - Early Team
+  - Company Beginnings
 tags:
   - startup
   - ai
