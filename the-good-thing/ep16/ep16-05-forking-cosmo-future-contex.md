@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Code forking vs business cloning challenges
-  - Long-term open source maintenance experience
-  - Multiple business aspects beyond code
-  - Competitive differentiation through context
-  - Complete business category requirements
+  - Code Forking
+  - Business Strategy
+  - Open Source Maintenance
+  - Competitive Differentiation
 tags:
   - open-source
   - ai

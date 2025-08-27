@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - VC investment competition questions
-  - Market validation through competition existence
-  - Differentiation strategy for investors
-  - Current AI investment wave vs previous trends
-  - First-time founder competition misunderstanding
+  - VC Funding
+  - Market Differentiation
+  - Competition Analysis
+  - Tar Pit Ideas
 tags:
   - graphql
   - ai

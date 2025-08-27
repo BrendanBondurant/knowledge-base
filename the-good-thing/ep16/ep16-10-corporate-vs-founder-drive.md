@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Corporate employee motivation misalignment
-  - Big company vs startup tradeoffs
-  - FAANG stress level comparisons
-  - Politics and bureaucracy in large companies
-  - Individual contributor versus founder dedication
+  - Corporate vs Founder
+  - Work Culture
+  - Startup Tradeoffs
+  - Motivation Differences
 tags:
   - ai
   - cosmo

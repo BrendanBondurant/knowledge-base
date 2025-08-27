@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Open source time expectations management
-  - Community collaboration vs support demands
-  - Discord question categories and etiquette
-  - Pull request maintenance responsibilities
-  - External contribution quality challenges
+  - Open Source Maintenance
+  - Community Collaboration
+  - Pull Request Challenges
+  - Contributor Expectations
 tags:
   - federation
   - graphql-federation

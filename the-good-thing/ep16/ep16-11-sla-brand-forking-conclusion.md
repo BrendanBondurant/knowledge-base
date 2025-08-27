@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Enterprise SLA requirements and complexity
-  - Brand building through content marketing
-  - Customer logos and social proof value
-  - Market maturity and competitive positioning
-  - Startup innovation versus big company resources
+  - SLA Requirements
+  - Brand Building
+  - Customer Logos
+  - Competitive Positioning
 tags:
   - startup
   - ai

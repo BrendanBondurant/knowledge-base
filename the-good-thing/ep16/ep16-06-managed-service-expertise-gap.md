@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Code copying limitations and knowledge gaps
-  - Customer support and education requirements
-  - Domain expertise for effective guidance
-  - Business responsibilities with paying customers
-  - Implementation decision context understanding
+  - Managed Services
+  - Customer Support
+  - Domain Expertise
+  - Knowledge Gaps
 tags:
   - startup
   - ai
