@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Apollo REST connectors critique
-  - GraphQL directive complexity for REST mapping
-  - Testing and CI/CD challenges with directive-based APIs
-  - Real-world REST API complexity beyond simple examples
-  - Mutation and POST request handling difficulties
+  - REST Connectors
+  - Legacy API Challenges
+  - Directive Complexity
+  - Testing and CI/CD Issues
 tags:
   - federation
   - graphql-federation

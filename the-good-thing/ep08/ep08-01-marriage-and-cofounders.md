@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Stefan's wedding celebration and marriage insights
-  - Cofounder relationships as life partnerships
-  - Yin and yang complementary dynamics
-  - Y Combinator cofounder advice
-  - Work-life balance through partnerships
+  - Marriage and Cofounders
+  - Life Partnerships
+  - Complementary Dynamics
+  - Work-Life Balance
 tags:
   - startup
   - ai

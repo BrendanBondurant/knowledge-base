@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Infrastructure vs collaboration value propositions
-  - SDK vs Cosmo revenue differences
-  - Impact radius and multi-team solutions
-  - Per-seat vs per-request pricing models
-  - Open source ecosystem strategy
+  - Infrastructure vs Collaboration
+  - Revenue Impact
+  - Pricing Models
+  - Open Source Ecosystem
 tags:
   - federation
   - ai

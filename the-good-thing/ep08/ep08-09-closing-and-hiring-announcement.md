@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Episode conclusion and next week preview
-  - Active hiring across multiple roles
-  - Upcoming case studies and feature announcements
-  - February feature update compilation
-  - Team growth and recruiting expansion
+  - Episode Wrap-up
+  - Hiring Announcement
+  - Case Studies
+  - Feature Updates
 tags:
   - federation
   - graphql-federation

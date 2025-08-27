@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - State of GraphQL Federation 2024 report announcement
-  - Survey methodology and customer base insights
-  - Gartner predictions for GraphQL adoption
-  - Market expansion beyond Apollo customers
-  - Federation as emerging enterprise standard
+  - Federation Report
+  - Market Insights
+  - Enterprise Adoption
+  - Competitive Ecosystem
 tags:
   - federation
   - graphql-federation

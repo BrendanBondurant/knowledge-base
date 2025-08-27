@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Schema quality as primary concern
-  - Subgraph implementation verification
-  - Type safety and developer experience improvements
-  - REST API abstraction leakage into GraphQL schemas
-  - Federation directive complexity (@provides, @requires)
+  - Schema Quality
+  - Subgraph Verification
+  - Type Safety
+  - REST Abstraction Leakage
 tags:
   - federation
   - graphql-federation
