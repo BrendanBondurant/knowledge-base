@@ -19,13 +19,10 @@ speakers:
   - Dustin
   - Jens
 topics:
-  - Founder team trust and decision-making
-  - Netherlands retreat pivot moment
-  - Role specialization and expertise
-  - First-time founder mistakes
-  - Premature team scaling
-  - Imitating successful startups
-  - Product-market fit requirements
+  - Founder Trust
+  - Pivot Decisions
+  - Role Specialization
+  - Scaling Mistakes
 tags:
   - founder
   - startup

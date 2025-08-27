@@ -19,12 +19,10 @@ speakers:
   - Dustin
   - Jens
 topics:
-  - In-person 10th episode celebration
-  - Co-founder introductions and roles
-  - Open source architecture decisions
-  - Amsterdam retreat and Cosmo pivot
-  - Mono repo development approach
-  - Connect Buff and protobuf tooling
+  - Cosmo Pivot
+  - Open Source Architecture
+  - Mono Repo Development
+  - Protobuf Tooling
 tags:
   - open-source
   - ai

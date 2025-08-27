@@ -19,14 +19,10 @@ speakers:
   - Dustin
   - Jens
 topics:
-  - Team growth and personal impact
-  - Federation beyond GraphQL
-  - AI as newest client type
-  - Multi-protocol federation vision
-  - Open source commitment
-  - GitHub for APIs vision
-  - Customer-driven product development
-  - Vision validation through enterprise feedback
+  - Product Philosophy
+  - Multi-Protocol Federation
+  - AI as Client
+  - Open Source Commitment
 tags:
   - ai
   - startup

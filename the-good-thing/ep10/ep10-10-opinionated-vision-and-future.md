@@ -19,13 +19,10 @@ speakers:
   - Dustin
   - Jens
 topics:
-  - GraphQL as meta language evolution
-  - Company growth and professionalization
-  - Engineering DNA preservation
-  - Customer communication philosophy
-  - Open source commitment
-  - 10th episode milestone celebration
-  - Podcast journey reflection
+  - GraphQL Evolution
+  - Company Growth
+  - Engineering DNA
+  - Open Source Future
 tags:
   - startup
   - ai

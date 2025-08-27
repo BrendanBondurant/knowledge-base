@@ -19,13 +19,10 @@ speakers:
   - Dustin
   - Jens
 topics:
-  - Remote work tooling strategies
-  - Family life balance challenges
-  - Work-life boundary management
-  - Company culture and mistake handling
-  - Remote team friction issues
-  - In-person energy vs virtual collaboration
-  - Travel requirements for remote workers
+  - Remote Work Tools
+  - Family Balance
+  - Company Culture
+  - Team Friction
 tags:
   - ai
   - websocket

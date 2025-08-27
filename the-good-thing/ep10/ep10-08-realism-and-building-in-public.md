@@ -19,13 +19,10 @@ speakers:
   - Dustin
   - Jens
 topics:
-  - Results vs hours focus philosophy
-  - Elite sports team vs family company
-  - Working with senior engineers
-  - Funding constraints and efficiency
-  - Work boundary challenges
-  - Founder stress and personal growth
-  - Family support importance
+  - Work-Life Balance
+  - Founder Stress
+  - Results vs Hours
+  - Family Support
 tags:
   - founder
   - ai

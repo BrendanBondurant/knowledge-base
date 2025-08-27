@@ -19,13 +19,10 @@ speakers:
   - Dustin
   - Jens
 topics:
-  - GraphQL Summit exclusion incident
-  - LED truck guerrilla marketing
-  - Apollo intimidation tactics
-  - Creative marketing retention
-  - Market challenger strategies
-  - Corporate vs startup dynamics
-  - Customer-focused innovation
+  - Guerrilla Marketing
+  - Apollo Exclusion
+  - Startup Creativity
+  - Competitive Dynamics
 tags:
   - startup
   - ai
