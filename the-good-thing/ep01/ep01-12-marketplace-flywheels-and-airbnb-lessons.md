@@ -15,12 +15,11 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Flywheel dynamics and local network effects
-  - Chicken egg problem in marketplace growth
-  - Scaling failure from city to city
-  - Lessons from Airbnb early go to market
-  - Doing things that dont scale
-  - Learning programming through failure
+  - Marketplace Flywheels
+  - Chicken Egg Problem
+  - Airbnb Lessons
+  - Scaling Challenges
+  - Doing Things That Don’t Scale
 tags:
   - startup
   - ai

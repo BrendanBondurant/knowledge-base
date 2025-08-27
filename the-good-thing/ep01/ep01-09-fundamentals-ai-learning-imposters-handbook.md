@@ -15,12 +15,12 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Importance of understanding fundamentals like HTTP TCP TLS
-  - Using AI tools like Copilot and ChatGPT to learn the basics
-  - Knowledge decay and the lasting value of fundamentals
-  - Book recommendation Imposters Handbook
-  - Startup culture in Germany vs the US
-  - Jens early imposter syndrome in programming
+  - Fundamentals of Computing
+  - HTTP TCP TLS
+  - AI-Assisted Learning
+  - Knowledge Decay
+  - Imposters Handbook
+  - Startup Culture
 tags:
   - computer-science
   - ai

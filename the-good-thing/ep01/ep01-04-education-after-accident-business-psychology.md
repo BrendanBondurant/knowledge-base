@@ -15,11 +15,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Educational detour after motorcycle accident
-  - Studying business and psychology
-  - Persistence through non-traditional path
-  - Transitioning into programming without CS degree
-  - Night school and private university in Germany
+  - Education Path
+  - Business Psychology
+  - Persistence
+  - Non-Traditional Career
 tags:
   - resilience
   - founder

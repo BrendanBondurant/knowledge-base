@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Business pressure exposing engineering distractions
-  - Building cool things vs building the right things
-  - Abandoning custom systems midstream
-  - Real cost of internal platform ownership
-  - Importance of build versus buy discipline
-  - Engineers aligning with product and customer goals
+  - Build vs Buy Regret
+  - Internal Platform Abandonment
+  - Product Alignment
+  - Customer-Centric Engineering
 tags:
   - startup
   - ai

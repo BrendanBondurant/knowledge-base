@@ -15,13 +15,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Build versus buy mistakes from inexperience
-  - Federation platform complexity misunderstood
-  - Cosmo as an evolving system with real depth
-  - Danger of building feature by feature rewrites
-  - Lightweight replacements that spiral into bad clones
-  - Vendor trust and relying on infrastructure partners
-  - Prioritizing customer value over internal engineering
+  - Federation Pitfalls
+  - Lightweight Clone Failures
+  - Vendor Partnerships
+  - Customer Value Focus
 tags:
   - graphql
   - api-design

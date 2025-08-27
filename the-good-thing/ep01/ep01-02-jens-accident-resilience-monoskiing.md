@@ -13,11 +13,10 @@ end_time: 00:06:42:11
 speakers:
   - Jens
 topics:
-  - Motorcycle accident and recovery
-  - Impact on career path
-  - Learning mono skiing with disability
-  - Freedom through adaptive sports
-  - Lessons in persistence and resilience
+  - Motorcycle Accident
+  - Mono Skiing
+  - Disability and Recovery
+  - Resilience and Persistence
 tags:
   - resilience
   - ai

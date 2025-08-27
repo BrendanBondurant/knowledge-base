@@ -15,12 +15,12 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Illusion of automatic app success
-  - Shifting from founder to engineer mindset
-  - Early boldness and self promotion post startup
-  - Underpaid junior dev experience
-  - Overconfident salary negotiation
-  - Applying for senior and architect roles without experience
+  - Startup Shutdown
+  - Transition to Engineering
+  - Junior Developer Experience
+  - Inflated Confidence
+  - Salary Negotiation
+  - Bold Job Applications
 tags:
   - startup
   - ai

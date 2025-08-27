@@ -15,12 +15,11 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Team dynamics and working with people you like
-  - Collaboration as key to successful projects and startups
-  - Federation enabling API collaboration at scale
-  - Hinting at future plans for 2025
-  - Podcast schedule and community engagement
-  - Social media clips and audience feedback
+  - Team Collaboration
+  - Federation for API Teams
+  - Startup Success Factors
+  - Podcast Wrap-up
+  - Future Plans
 tags:
   - graphql
   - startup

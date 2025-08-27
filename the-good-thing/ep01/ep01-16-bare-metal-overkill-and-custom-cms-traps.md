@@ -13,12 +13,12 @@ end_time: 00:53:29
 speakers:
   - Jens
 topics:
-  - Running Kubernetes on bare metal instead of using cloud
-  - Overengineering internal systems for fun not value
-  - Building own CI CD runners and GitLab setup
-  - Developers far removed from customer problems
-  - Neglecting business priorities in corporate engineering
-  - Choosing to build a custom CMS instead of buying one
+  - Kubernetes on Bare Metal
+  - Overengineering
+  - Custom CI/CD
+  - Developer Distractions
+  - Ignoring Business Priorities
+  - Custom CMS Trap
 tags:
   - kubernetes
   - startup

@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Early career overconfidence and the Dunning Kruger curve
-  - Running into real experts and adjusting ego
-  - Bold statements as a sign of inexperience
-  - Seniority and the phrase it depends
-  - Learning humility through experience
-  - Lead in to startup failure reflection
+  - Dunning-Kruger Effect
+  - Overconfidence
+  - Seniority and Humility
+  - Saying It Depends
 tags:
   - startup
   - ai
