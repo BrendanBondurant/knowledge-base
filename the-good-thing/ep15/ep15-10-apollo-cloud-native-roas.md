@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Apollo vs Apollo.io naming confusion
-  - GraphQL visibility in branding decisions
-  - Hero messaging effectiveness issues
-  - Company name SEO strategy
-  - Brand recognition challenges
+  - Apollo Branding
+  - GraphQL Messaging
+  - Hero Copy Issues
+  - SEO Strategy
 tags:
   - apollo-graphql
   - ai

@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Cosmo as Apollo GraphOS replacement
-  - Technical features vs business benefits
-  - Schema registry business value unclear
-  - Animation and design elements
-  - Feature positioning precision
+  - Cosmo Features
+  - Apollo Replacement
+  - Schema Registry
+  - Business Value Gaps
 tags:
   - federation
   - graphql-federation

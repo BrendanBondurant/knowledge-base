@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Bold database performance claims
-  - Simplified landing page design philosophy
-  - Technical audience targeting strategy
-  - Social proof through case studies
-  - Performance benchmarking links
+  - PlanetScale Landing Page
+  - Bold Performance Claims
+  - Technical Audience Targeting
+  - Case Study Proof
 tags:
   - ai
   - database

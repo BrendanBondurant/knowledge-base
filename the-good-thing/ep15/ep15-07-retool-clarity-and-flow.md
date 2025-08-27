@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Clear use case communication
-  - Internal software building positioning
-  - Visual dashboard demonstration
-  - CTA button visibility issues
-  - Animated transitions and distractions
+  - Retool Landing Page
+  - Internal Software Tools
+  - Visual Communication
+  - CTA and Flow Issues
 tags:
   - graphql
   - ai

@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Prisma landing page messaging flaws
-  - Missing business value metrics
-  - Lack of quantifiable improvements
-  - Database ORM positioning issues
-  - Technical vs business buyer disconnect
+  - Prisma Landing Page
+  - Business Value Messaging
+  - Missing Metrics
+  - ORM Positioning
 tags:
   - database
   - ai

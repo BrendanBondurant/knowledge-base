@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Unikernel technology positioning confusion
-  - Technical messaging clarity issues
-  - Landing page link strategy problems
-  - Product positioning prioritization
-  - AI-powered optimization features
+  - Unikernel Technology
+  - Messaging Clarity
+  - Product Positioning
+  - AI Optimization Features
 tags:
   - ai
   - postgres

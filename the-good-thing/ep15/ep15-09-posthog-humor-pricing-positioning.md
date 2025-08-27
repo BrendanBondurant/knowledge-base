@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Reverse psychology marketing approach
-  - Usage-based pricing positioning
-  - Objection handling on landing page
-  - Humorous anti-sales messaging
-  - Free tier generosity strategy
+  - PostHog Marketing
+  - Reverse Psychology
+  - Pricing Strategy
+  - Objection Handling
 tags:
   - graphql
   - ai

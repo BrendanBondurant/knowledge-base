@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Vitess technology and YouTube origins
-  - Performance diagram visualization
-  - PlanetScale Metal product positioning
-  - Cache warmer comparison with Cosmo
-  - Database performance as primary selling point
+  - Vitess Technology
+  - Performance Visualization
+  - PlanetScale Metal
+  - Database Proof Points
 tags:
   - vitess
   - ai
