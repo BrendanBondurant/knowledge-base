@@ -17,11 +17,10 @@ speakers:
   - Stefan
   - Dustin
 topics:
-  - Cost transparency in federation architecture
-  - MCP gateway landing page introduction
-  - Trusted documents as MCP tools
-  - Automatic JSON schema inference
-  - Type-safe LLM tool calling
+  - MCP Gateway
+  - Trusted Documents
+  - JSON Schema
+  - Type-Safe LLM Calls
 tags:
   - mcp-gateway
   - json-schema

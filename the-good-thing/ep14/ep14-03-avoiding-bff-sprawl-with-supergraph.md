@@ -16,11 +16,10 @@ speakers:
   - Jens
   - Dustin
 topics:
-  - MCP servers as Backend for Frontend (BFF) pattern
-  - BFF sprawl problems with hundreds of microservices
-  - Federation vs BFF maintenance challenges
-  - Models as new API consumers
-  - Authorization and telemetry duplication issues
+  - BFF Pattern
+  - Federation vs BFF
+  - Model API Consumers
+  - Authorization Duplication
 tags:
   - bff-pattern
   - api-consumers

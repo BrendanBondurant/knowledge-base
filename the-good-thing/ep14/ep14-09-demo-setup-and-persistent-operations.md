@@ -16,12 +16,10 @@ speakers:
   - Stefan
   - Dustin
 topics:
-  - MCP server configuration options
-  - Trusted document storage and management
-  - Port and endpoint configuration
-  - Schema exposure options
-  - Safety controls for mutations
-  - Find employees operation example
+  - Demo Setup
+  - Persistent Operations
+  - Trusted Document Storage
+  - Safety Controls
 tags:
   - trusted-documents
   - mcp

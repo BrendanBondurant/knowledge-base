@@ -17,11 +17,10 @@ speakers:
   - Stefan
   - Dustin
 topics:
-  - Internal app building transformation
-  - Comparison to legacy tools like Retool
-  - Super graph advantage over manual data source connections
-  - Documentation planning for MCP gateway
-  - Easter weekend plans
+  - Internal App Building
+  - Retool Comparison
+  - Supergraph Advantage
+  - Documentation Plans
 tags:
   - mcp
   - ai

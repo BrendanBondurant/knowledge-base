@@ -17,11 +17,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - JSON schema complexity with recursive input types
-  - LLM limitations with full JSON schema specification
-  - Edge cases in schema generation for LLM usage
-  - Vibe coding risks for schema generation
-  - Deterministic vs creative LLM tasks
+  - JSON Schema Limits
+  - LLM Constraints
+  - Recursive Input Types
+  - Deterministic vs Creative Tasks
 tags:
   - graphql
   - mcp

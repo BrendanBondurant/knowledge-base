@@ -17,12 +17,10 @@ speakers:
   - Jens
   - Dustin
 topics:
-  - MCP introduction
-  - On-premise solutions
-  - Easter weekend recording
-  - AI integration
-  - Cosmo vision
-  - Episode format
+  - MCP Introduction
+  - On-Prem Solutions
+  - AI Integration
+  - Cosmo Vision
 tags:
   - mcp
   - ai

@@ -15,12 +15,10 @@ end_time: 00:34:58
 speakers:
   - Jens
 topics:
-  - Problems with exposing raw APIs to LLMs
-  - Context limitations with large GraphQL schemas
-  - Trusted documents for workflow control
-  - Dream query workflow example
-  - Tool interaction storytelling for LLMs
-  - Democratizing MCP access through no-code solutions
+  - Trusted Documents
+  - Workflow Security
+  - Dream Query Workflow
+  - No Code MCP Access
 tags:
   - trusted-documents
   - dream-query-workflow

@@ -17,11 +17,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - GraphQL schema comment processing
-  - Automatic documentation integration into JSON schema
-  - Tool description generation from comments
-  - Claude Desktop configuration for MCP
-  - Next.js employee dashboard demo preparation
+  - Schema Metadata
+  - Tool Descriptions
+  - Documentation Integration
+  - LLM Context Enhancement
 tags:
   - graphql
   - mcp
