@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - JWT validation for trusted requests
-  - Entity authentication vs authorization
-  - Fragment-based component design
-  - Relay's GraphQL dependency
-  - UI component data requirements
-  - Feed overview vs detail patterns
+  - JWT Validation
+  - Relay Fragments
+  - Component Data Requirements
+  - UI Architecture at Scale
 tags:
   - federation
   - graphql-federation

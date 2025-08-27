@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Persisted GraphQL operations via SDK
-  - Individual to organization adoption ladder
-  - WunderGraph SDK lessons learned
-  - Cosmo backwards adoption pattern
-  - Prisma vs Drizzle competition
-  - Open source vs commercial monetization
+  - Devtools Adoption Ladder
+  - SDK Persistence
+  - Open Source vs Commercial
+  - Prisma and Drizzle
 tags:
   - open-source
   - ai

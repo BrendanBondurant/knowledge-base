@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Limited companies with 100+ frontend developers
-  - Federation adoption challenges
-  - Small team GraphQL experiences
-  - Federation without GraphQL feasibility
-  - RPC vs GraphQL complexity
-  - Uniform API interface value
+  - Federation Adoption Barriers
+  - Scale Requirements
+  - RPC vs GraphQL
+  - Uniform API Interfaces
 tags:
   - federation
   - graphql-federation
