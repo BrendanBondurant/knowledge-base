@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Text.ai group chatbot platform
-  - AI agent market competition
-  - Platform oversaturation concerns
-  - Immediate dismissal reasoning
+  - TextAI Group Chatbot
+  - AI Agent Market
+  - Platform Oversaturation
+  - RIP Tier Placement
 tags:
   - ai
   - open-source

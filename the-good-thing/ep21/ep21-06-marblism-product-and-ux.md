@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Marblism website design and UX analysis
-  - AI employee humanization strategy
-  - Interactive demo experience
-  - User onboarding and conversion tactics
+  - Marblism UX
+  - Humanized AI Employees
+  - Interactive Demo
+  - User Onboarding
 tags:
   - ai
   - websocket

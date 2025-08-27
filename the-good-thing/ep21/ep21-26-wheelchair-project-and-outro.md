@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Jens' Tanzania wheelchair project
-  - Social impact technology
-  - Episode conclusion and reflections
-  - Community engagement
+  - Wheelchair Project
+  - Social Impact Tech
+  - Episode Wrap-up
+  - Community Engagement
 tags:
   - ai
   - founder

@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Website optimization and scroll depth
-  - Pricing clarity and transparency issues
-  - Marblism differentiation assessment
-  - Target market evaluation
+  - Marblism Pricing
+  - Differentiation Assessment
+  - Market Positioning
+  - Target Customers
 tags:
   - ai
   - websocket

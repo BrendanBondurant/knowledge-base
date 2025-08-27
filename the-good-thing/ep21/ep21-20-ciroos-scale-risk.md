@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Ciroos unclear value proposition
-  - SRE incident management confusion
-  - Seed funding based on resumes
-  - Competitive landscape assessment
+  - Ciroos Value Proposition
+  - SRE Incident Management
+  - Resume-Based Fundraising
+  - Coin Flip Tier Placement
 tags:
   - ciroos
   - ai

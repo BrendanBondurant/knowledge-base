@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Lumona social media search differentiation
-  - Reddit integration comparison
-  - ChatGPT search competition
-  - OpenAI competitive advantage
+  - Lumona Differentiation
+  - Social Media Search
+  - ChatGPT Competition
+  - OpenAI Advantage
 tags:
   - ai
   - founder

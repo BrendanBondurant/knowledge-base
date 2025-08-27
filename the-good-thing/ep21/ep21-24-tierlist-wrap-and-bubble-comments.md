@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Final tier list results summary
-  - AI startup market bubble discussion
-  - Y Combinator batch quality assessment
-  - Market saturation observations
+  - Tier List Summary
+  - AI Market Bubble
+  - YC Batch Quality
+  - Market Saturation
 tags:
   - ai
   - websocket

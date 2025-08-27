@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - VC industry AI adoption resistance
-  - Personal relationships in venture capital
-  - Amy's problem-solution fit assessment
-  - Tier placement discussion
+  - VC Industry Resistance
+  - Relationship-Driven Investing
+  - Amy Market Fit Questions
+  - Coin Flip Tier Placement
 tags:
   - ai
   - websocket

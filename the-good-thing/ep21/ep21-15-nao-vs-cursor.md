@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Nao vs Cursor feature comparison
-  - VS Code fork identification
-  - Data-specific IDE differentiation
-  - DBT and analytics integration
+  - Nao vs Cursor
+  - Data IDE Differentiation
+  - DBT and Analytics Integration
+  - VS Code Forks
 tags:
   - ai
   - python

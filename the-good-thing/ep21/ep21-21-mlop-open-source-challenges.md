@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Mlop competitive landscape analysis
-  - Distribution challenges vs incumbents
-  - Technical feasibility assessment
-  - Funding and scaling concerns
+  - Mlop Competition
+  - Distribution Challenges
+  - Technical Feasibility
+  - Funding Concerns
 tags:
   - ai
   - rest

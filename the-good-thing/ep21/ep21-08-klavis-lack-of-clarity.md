@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Marblism final evaluation and tier placement
-  - AI agent market saturation concerns
-  - OpenAI competitive threat analysis
-  - Klavis MCP integration introduction
+  - Marblism Final Evaluation
+  - AI Agent Market
+  - OpenAI Competition
+  - Klavis MCP Introduction
 tags:
   - ai-agents
   - startup

@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Y Combinator selection criteria
-  - WunderGraph investor relationships
-  - Startup accelerator insights
-  - Investment pattern analysis
+  - YC Selection
+  - WunderGraph Investors
+  - Accelerator Insights
+  - Funding Patterns
 tags:
   - ai
   - startup
