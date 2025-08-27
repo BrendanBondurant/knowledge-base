@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Two-team compiler example
-  - Code proximity and change patterns
-  - WunderGraph's internal architecture structure
-  - Customer communication patterns and meeting structures
-  - API styles influence on Conway's Law
-  - Workflow alignment with organizational reality
+  - Customer Patterns
+  - Code Organization
+  - Team Communication
+  - Workflow Alignment
 tags:
   - startup
   - ai

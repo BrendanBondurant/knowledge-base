@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Communication as biggest challenge in 1000-dev organizations
-  - Scalable software building approaches
-  - Thousands of AI agents collaboration problem
-  - Layers of agents and control mechanisms
-  - AI context definition and safety
-  - API contracts for AI interaction safety
+  - AI Collaboration
+  - Communication Challenges
+  - API Safety
+  - Multi-Agent Systems
 tags:
   - ai
   - api-design

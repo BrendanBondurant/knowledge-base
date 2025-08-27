@@ -15,13 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Big companies adopting Cursor for development
-  - Senior architects developing prompts
-  - Legacy migration to federation acceleration
-  - GraphQL guild community meetings
-  - Single query replacing 20 API calls
-  - AI increasing developer velocity
-  - Need for orchestration layer and operating system
+  - AI Collaboration
+  - Cursor Adoption
+  - Legacy Migration
+  - API Exploration
 tags:
   - ai
   - graphql-guild

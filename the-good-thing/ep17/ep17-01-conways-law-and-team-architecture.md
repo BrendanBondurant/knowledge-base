@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Conway's Law explanation and definition
-  - Software architecture mirroring organizational structure
-  - Customer patterns from monolith to federation
-  - Team collaboration and communication patterns
-  - Personal learning story about recursion
+  - Conway's Law
+  - Organizational Design
+  - Team Architecture
+  - Federation Patterns
 tags:
   - conways-law
   - federation

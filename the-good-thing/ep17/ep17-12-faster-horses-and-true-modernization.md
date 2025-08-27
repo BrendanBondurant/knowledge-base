@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Henry Ford faster horses quote
-  - Customer requests vs actual needs
-  - Developer speed vs modernization
-  - Cosmo as the "car" solution
-  - True collaboration and modernization
-  - Episode format feedback request
+  - Henry Ford Quote
+  - Customer Needs
+  - Modernization
+  - Developer Speed
 tags:
   - startup
   - ai

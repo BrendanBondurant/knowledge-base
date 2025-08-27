@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Imposter syndrome and developer anxiety
-  - Evolution of development stack complexity
-  - Modern stack vs simple PHP/Apache setup
-  - Majority of developers having less than 3 years experience
-  - AI and cursor impact on junior developers
-  - Apprenticeship model vs bootcamp approach
+  - Developer Anxiety
+  - Junior Engineers
+  - Bootcamp Bubble
+  - AI Coding Tools
 tags:
   - ai
   - postgres

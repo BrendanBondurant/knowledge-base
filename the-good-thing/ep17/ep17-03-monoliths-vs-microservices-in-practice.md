@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Microservices anti-patterns for small teams
-  - Monolith success stories vs microservices complexity
-  - Focus on problem-solving over architecture trends
-  - Cosmo's boring monolith approach
-  - RPC contracts and client generation
+  - Microservices
+  - Monolith
+  - Problem-Solving
+  - RPC Contracts
 tags:
   - microservices
   - monolith

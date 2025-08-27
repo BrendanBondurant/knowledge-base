@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Understanding business problems behind code
-  - Customer-focused engineering approach
-  - Form follows function in software design
-  - Developer obsession with technology over problems
-  - Windsurf vs technical implementation focus
+  - Resume-Driven Development
+  - Customer Focus
+  - Problem-Solving
+  - Tool Mindset
 tags:
   - startup
   - ai
