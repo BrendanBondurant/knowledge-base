@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - Schema slicing techniques
-  - LLM token limitations and costs
-  - Performance optimization strategies
-  - Context window management
-  - Query accuracy improvements
-  - Cost scaling considerations
+  - Schema Slicing
+  - LLM Token Limits
+  - Performance Optimization
+  - Cost Scaling
 tags:
   - llm
   - ai

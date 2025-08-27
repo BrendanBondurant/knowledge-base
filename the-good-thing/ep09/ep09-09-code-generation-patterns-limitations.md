@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - AI effectiveness in repetitive tasks
-  - Pattern replication challenges
-  - AST transformation complexity
-  - Test-driven development approach
-  - Context management strategies
-  - Hard-coding vs dynamic implementation
+  - AI Code Generation
+  - Pattern Replication
+  - AST Transformation
+  - Test-Driven Development
 topic_tags:
   - ai
   - graphql

@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - AI for documentation and research
-  - Non-developer AI use cases
-  - Blogging as an art form
-  - Authenticity in AI-generated content
-  - Agent mode vs autocompletion for writing
-  - Human touch in content creation
+  - AI for Documentation
+  - Blogging Authenticity
+  - Non-Developer AI Use Cases
+  - Human Touch in Writing
 tags:
   - authenticity
   - ai

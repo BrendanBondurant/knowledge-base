@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - Schema registry and supergraph coordination
-  - Client query analytics and monitoring
-  - Breaking change prevention
-  - QA time savings through contract testing
-  - Schema mapping and team coordination
-  - Federation flywheel effect
+  - Schema Registry
+  - Client Query Analytics
+  - Breaking Change Prevention
+  - Federation Flywheel
 tags:
   - schema-registry
   - observability

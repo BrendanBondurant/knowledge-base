@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - RFC refactoring with AI assistance
-  - Root concept changes in documentation
-  - Comment integration and feedback application
-  - Document indexing capabilities
-  - GraphQL specification research
-  - Non-coding AI applications
+  - RFC Writing with AI
+  - Documentation Refactoring
+  - Comment Integration
+  - GraphQL Spec Research
 tags:
   - graphql-spec
   - ai

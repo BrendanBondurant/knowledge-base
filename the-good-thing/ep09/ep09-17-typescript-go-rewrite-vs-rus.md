@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - Microsoft TypeScript compiler rewrite
-  - Go vs Rust for compiler development
-  - Language characteristics and trade-offs
-  - GitHub's internal Go usage
-  - Garbage collection in compiler context
-  - Function-by-function rewrite approach
+  - TypeScript Compiler Rewrite
+  - Go vs Rust
+  - Language Tradeoffs
+  - Garbage Collection
 tags:
   - ai
   - typescript

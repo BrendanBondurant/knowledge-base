@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - Go language advantages for AI
-  - TypeScript for web development
-  - Python and C++ for AI backends
-  - Ecosystem tool availability
-  - Model tracking and monitoring
-  - JVM language alternatives
+  - Go for AI
+  - TypeScript for Web
+  - Python and C++ Backends
+  - JVM Alternatives
 tags:
   - go
   - typescript

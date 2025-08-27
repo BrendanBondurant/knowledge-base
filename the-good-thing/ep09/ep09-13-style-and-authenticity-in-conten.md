@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - AI content detection by search engines
-  - Human validation of AI output
-  - Personal style and taste in content
-  - Brand identity and authenticity
-  - Non-native speaker identity
-  - AI limitations in creativity
+  - Personal Style
+  - Content Authenticity
+  - Brand Identity
+  - AI Limitations
 tags:
   - authenticity
   - ai

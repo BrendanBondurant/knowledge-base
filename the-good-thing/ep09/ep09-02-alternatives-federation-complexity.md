@@ -15,13 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - Client-side federation (multiple API calls)
-  - Backend federation approaches
-  - Backend for Frontend (BFF) pattern
-  - Microservice authentication complexity
-  - REST API expansion problems
-  - Matrix configuration complexity
-  - Contract testing challenges
+  - Client-Side Federation
+  - Backend Federation
+  - BFF Pattern
+  - Microservice Complexity
 tags:
   - bff-pattern
   - microservices
