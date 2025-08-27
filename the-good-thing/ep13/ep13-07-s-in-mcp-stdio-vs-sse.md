@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - MCP security concerns viral Hacker News post
-  - Standard input/output vs SSE implementation models
-  - CLI security posture analysis
-  - Network vulnerability risks with SSE servers
-  - Local machine attack vectors
+  - MCP Security
+  - STDIO vs SSE
+  - Network Vulnerabilities
+  - Local Attack Risks
 tags:
   - mcp
   - websocket

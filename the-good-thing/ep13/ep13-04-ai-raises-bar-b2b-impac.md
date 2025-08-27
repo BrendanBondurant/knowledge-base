@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - B2B SaaS transformation due to AI
-  - Shopify's mandate on demonstrating AI usage before hiring
-  - AI raising the competitive bar
-  - Small team empowerment through AI
-  - Communication complexity vs team size
+  - B2B Transformation
+  - Competitive Advantage
+  - Hiring Policies
+  - Team Efficiency
 topic_tags:
   - ai
   - benchmarking

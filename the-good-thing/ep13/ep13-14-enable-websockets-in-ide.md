@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - OTEL configuration through prompting
-  - JSON schema validation reliability
-  - Datadog exporter configuration
-  - WebSocket subscription support
-  - IDE-integrated documentation workflow
+  - WebSocket Support
+  - IDE Workflows
+  - JSON Schema Validation
+  - Datadog Integration
 tags:
   - mcp
   - ai

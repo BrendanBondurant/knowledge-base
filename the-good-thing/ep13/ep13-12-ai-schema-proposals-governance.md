@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Dream query workflow execution
-  - AI-generated schema change proposals
-  - Automatic field addition to GraphQL types
-  - Frontend-backend workflow transformation
-  - MCP tool marketplace vision
+  - AI Schema Proposals
+  - Governance Workflows
+  - Dream Query Execution
+  - MCP Tool Marketplace
 tags:
   - ai
   - dream-query

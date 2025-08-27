@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - AI model plateau and integration focus
-  - MCP (Model Context Protocol) introduction
-  - Software development workflow changes
-  - WunderGraph/Cosmo MCP integration
+  - AI Shift
+  - Industry Mandates
+  - Shopify Memo
+  - Apple Intelligence
 tags:
   - ai
   - mcp

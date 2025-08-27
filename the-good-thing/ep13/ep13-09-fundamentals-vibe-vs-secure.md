@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Pre-vibe coding era programming education
-  - Real-world SSH/port blocking example in hospital
-  - Fundamental knowledge vs AI dependency
-  - Network troubleshooting skills
-  - Port 22 (SSH) vs port 443 (HTTPS) understanding
+  - Programming Fundamentals
+  - Vibe Coding Limitations
+  - Network Troubleshooting
+  - SSH and HTTPS Ports
 tags:
   - mcp
   - ai

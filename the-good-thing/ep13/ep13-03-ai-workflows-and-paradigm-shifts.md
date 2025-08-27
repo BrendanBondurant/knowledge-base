@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Mandatory AI usage at Shopify
-  - Developer requirement to understand LLMs
-  - Paradigm shift in software development
-  - MCP server demo with Claude Desktop
-  - API-first development approach
+  - B2B Transformation
+  - Competitive Advantage
+  - Hiring Policies
+  - Team Efficiency
 tags:
   - ai
   - mcp

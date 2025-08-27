@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - MCP marketplace and connector ecosystems
-  - Abstraction for non-technical users
-  - Web crawling vs API paradigms
-  - "Turtles all the way down" - APIs everywhere
-  - Evolution from HTML/CSS to JavaScript complexity
+  - MCP Accessibility
+  - Connector Marketplaces
+  - API Paradigm
+  - Turtles All the Way Down
 tags:
   - mcp
   - ai

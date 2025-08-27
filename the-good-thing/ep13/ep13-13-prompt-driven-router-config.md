@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - MCP tool ecosystem overview
-  - AI workflow iteration capabilities
-  - Schema verification and composition checks
-  - JSON schema embedding for router config
-  - OTEL metrics and tracing setup
+  - Router Configuration
+  - JSON Schema Validation
+  - Composition Checks
+  - OTEL and Tracing
 tags:
   - router-configuration
   - json-schema

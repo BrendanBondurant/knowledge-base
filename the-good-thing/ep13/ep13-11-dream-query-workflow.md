@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Employee type schema exploration
-  - Architecture visualization with Mermaid diagrams
-  - Dream query workflow concept (from Yelp)
-  - Live schema modification attempt
-  - Serverless architecture challenges
+  - Dream Query Workflow
+  - Schema Visualization
+  - Mermaid Diagrams
+  - Serverless Challenges
 tags:
   - dream-query
   - schema-evolution
