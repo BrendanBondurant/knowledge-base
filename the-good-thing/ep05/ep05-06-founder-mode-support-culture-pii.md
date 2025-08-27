@@ -16,20 +16,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Founder mode
-  - Support culture
-  - Company values
-  - Customer focus
-  - PII handling
-  - Healthcare use cases
-  - Product iteration
-  - Team leadership
-  - Customer collaboration
-  - Native solutions
-  - Security
-  - HIPAA
-  - JWT claims
-  - Product responsibility
+  - Founder Mode
+  - Support Culture
+  - Customer Focus
+  - PII Handling
+  - Security and Compliance
 tags:
   - founder
   - startup

@@ -19,12 +19,10 @@ topics:
   - Wedding Theme
   - Episode Introduction
   - Life Events
-
 tags:
+  - startup
   - ai
   - websocket
-  - startup
-  - startup
   - go
 topic_tags:
   - startup

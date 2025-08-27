@@ -8,7 +8,6 @@ participants:
   - Jens
   - Stefan
 segment: N+1 problems, batching, testing, and engineering philosophy
-
 timecode: 00:45:00:15 - 00:50:22:01
 start_time: 00:45:00:15
 end_time: 00:50:22:01

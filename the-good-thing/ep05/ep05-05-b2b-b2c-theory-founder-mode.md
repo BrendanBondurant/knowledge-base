@@ -15,17 +15,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - B2B vs. B2C
-  - Company evolution
-  - Founder mode
-  - Startup scalability
-  - Team dynamics
-  - Paul Graham's essay
-  - Startup leadership
-  - Company culture
-  - Product for enterprise vs. individual
-  - App store success
-  - Hypotheses in business
+  - B2B vs B2C
+  - Founder Mode
+  - Startup Scalability
+  - Team Dynamics
+  - Company Culture
 tags:
   - founder
   - startup

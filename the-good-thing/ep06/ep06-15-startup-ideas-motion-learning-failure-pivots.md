@@ -8,7 +8,6 @@ participants:
   - Jens
   - Stefan
 segment: Startup ideas, motion, learning from failure, and product pivots
-
 timecode: 00:50:22:01 - 00:55:10:15
 start_time: 00:50:22:01
 end_time: 00:55:10:15
@@ -21,9 +20,8 @@ topics:
   - Learning from Failure
   - Product Pivots
 tags:
+  - startup
   - ai
-  - startup
-  - startup
   - go
 topic_tags:
   - startup

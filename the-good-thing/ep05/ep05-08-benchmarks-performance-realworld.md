@@ -18,18 +18,9 @@ speakers:
 topics:
   - Benchmarks
   - Performance
-  - Real-world use cases
-  - Synthetic benchmarks
-  - Cache warming
-  - Super Bowl traffic
+  - Real-World Use Cases
+  - Cache Warming
   - Autoscaling
-  - Cold starts
-  - Customer needs
-  - Product improvement
-  - Macro vs. micro benchmarks
-  - Code optimization
-  - Developer experience
-  - Product marketing
 tags:
   - graphql
   - startup

@@ -8,7 +8,6 @@ participants:
   - Jens
   - Stefan
 segment: Team dynamics, retreat, Cosmo pivot, first customers, and luck
-
 timecode: 00:55:10:15 - 01:03:21:19
 start_time: 00:55:10:15
 end_time: 01:03:21:19

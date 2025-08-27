@@ -8,7 +8,6 @@ participants:
   - Jens
   - Stefan
 segment: Driving down infrastructure cost, collaboration features, Vercel, and AWS
-
 timecode: 00:23:31:29 - 00:27:30:06
 start_time: 00:23:31:29
 end_time: 00:27:30:06
@@ -20,14 +19,11 @@ topics:
   - Collaboration Features
   - Vercel Strategy
   - AWS Strategy
-summary: |
-  Jens and Stefan discuss strategies for driving down infrastructure costs, the importance of collaboration features, and how companies like Vercel and AWS approach these challenges in the startup ecosystem.
 tags:
+  - startup
   - federation
   - ai
   - cosmo-router
-  - startup
-  - startup
   - api-design
   - apollo-graphql
   - benchmarking
@@ -52,6 +48,8 @@ mentions:
   - infrastructure cost scaling
   - middlemen margin issues
   - team productivity tools
+summary: |
+  Jens and Stefan discuss strategies for driving down infrastructure costs, the importance of collaboration features, and how companies like Vercel and AWS approach these challenges in the startup ecosystem.
 ---
 
 00:23:31:29 - 00:27:30:06

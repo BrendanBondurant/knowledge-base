@@ -8,7 +8,6 @@ participants:
   - Stefan
   - Jens
 segment: Copying competitors, startup strategy, vision, and customer focus
-
 timecode: 00:07:17:15 - 00:10:42:27
 start_time: 00:07:17:15
 end_time: 00:10:42:27
@@ -20,15 +19,10 @@ topics:
   - Startup Vision
   - Customer Focus
   - Product Differentiation
-summary: |
-  Jens and Stefan reflect on the temptation to copy competitors, the importance of having a vision, and the need to focus on customers rather than just features. They discuss the pitfalls of feature parity and the value of original strategy in startup success.
 tags:
+  - startup
   - ai
   - apollo-graphql
-  - startup
-  - startup
-  - startup
-  - startup
   - benchmarking
   - go
   - graphql
@@ -49,6 +43,8 @@ mentions:
   - feature parity pitfalls
   - original strategy value
   - distribution challenges
+summary: |
+  Jens and Stefan reflect on the temptation to copy competitors, the importance of having a vision, and the need to focus on customers rather than just features. They discuss the pitfalls of feature parity and the value of original strategy in startup success.
 ---
 
 00:07:17:15 - 00:07:48:04

@@ -19,14 +19,11 @@ topics:
   - Startup Strategy
   - Early Days of WunderGraph
   - Product Differentiation
-summary: |
-  Stefan and Jens introduce the main theme of the episode: should you copy your competitors? They discuss the early days of WunderGraph, accusations of being a copycat, and the reality of product differentiation in the devtools space.
 tags:
+  - startup
   - federation
   - ai
   - cosmo
-  - startup
-  - startup
   - apollo-graphql
   - go
   - graphql-federation
@@ -46,6 +43,8 @@ mentions:
   - product differentiation
   - devtools space dynamics
   - startup strategy
+summary: |
+  Stefan and Jens introduce the main theme of the episode: should you copy your competitors? They discuss the early days of WunderGraph, accusations of being a copycat, and the reality of product differentiation in the devtools space.
 ---
 
 00:02:32:20 - 00:02:45:19

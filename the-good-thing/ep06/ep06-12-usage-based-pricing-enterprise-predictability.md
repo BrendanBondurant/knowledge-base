@@ -8,7 +8,6 @@ participants:
   - Stefan
   - Jens
 segment: Usage-based pricing, enterprise needs, and predictability
-
 timecode: 00:36:26:27 - 00:41:07:19
 start_time: 00:36:26:27
 end_time: 00:41:07:19
@@ -21,17 +20,14 @@ topics:
   - Predictability
   - Pricing Models
 tags:
+  - startup
   - ai
   - open-source
-  - startup
-  - startup
   - go
 topic_tags:
   - startup
   - ai
   - open-source
-summary: |
-  Stefan and Jens discuss the pros and cons of usage-based pricing, the needs of enterprise customers, and the importance of predictability in pricing models for successful sales and adoption.
 entities:
   - Stefan Avram
   - Jens Neuse
@@ -43,6 +39,8 @@ mentions:
   - employee count vs usage
   - pricing model evolution
   - customer acquisition costs
+summary: |
+  Stefan and Jens discuss the pros and cons of usage-based pricing, the needs of enterprise customers, and the importance of predictability in pricing models for successful sales and adoption.
 ---
 
 00:36:26:27 - 00:36:41:28

@@ -8,7 +8,6 @@ participants:
   - Jens
   - Stefan
 segment: Open source alternatives, business models, and product differentiation
-
 timecode: 00:13:34:09 - 00:16:56:18
 start_time: 00:13:34:09
 end_time: 00:16:56:18
@@ -20,15 +19,12 @@ topics:
   - Business Models
   - Product Differentiation
   - Market Positioning
-summary: |
-  Jens and Stefan discuss the role of open source alternatives in the market, different business models, and how product differentiation is achieved beyond just feature parity. They reflect on the importance of positioning and strategy in building a successful company.
 tags:
+  - startup
   - ai
   - postgres
   - apollo-graphql
   - open-source
-  - startup
-  - startup
   - cosmo-router
   - database
   - go
@@ -50,6 +46,8 @@ mentions:
   - Supabase vs Firebase example
   - product strategy evolution
   - collaboration tools market
+summary: |
+  Jens and Stefan discuss the role of open source alternatives in the market, different business models, and how product differentiation is achieved beyond just feature parity. They reflect on the importance of positioning and strategy in building a successful company.
 ---
 
 00:13:56:18 - 00:14:16:03
