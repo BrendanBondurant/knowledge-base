@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Don't try to impress VCs
-  - Pitch decks don't matter much
-  - Bootstrap to revenue before fundraising
-  - Importance of experienced advisors
-  - First-time founder advantages vs disadvantages
-  - Fundraising like dating
+  - Pitch Deck Myths
+  - Revenue Growth Proof
+  - Advisor Importance
+  - First-Time Founder Lessons
 tags:
   - ai
   - rest
@@ -30,9 +28,9 @@ tags:
   - go
   - startup
 topic_tags:
+  - startup
+  - founder
   - ai
-  - rest
-  - websocket
 entities:
   - Stefan Avram
   - Jens Neuse

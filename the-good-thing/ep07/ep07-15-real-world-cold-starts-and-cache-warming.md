@@ -17,11 +17,10 @@ speakers:
   - Sergiy
   - David
 topics:
-  - Configuration bias in benchmarking
-  - Production router lifecycle management
-  - Config invalidation and cold start problems
-  - Heuristic-based cache warming solution
-  - Real-world performance vs lab testing
+  - Cold Start Problems
+  - Cache Warming
+  - Production vs Lab Benchmarks
+  - Router Lifecycle Management
 tags:
   - cache-warming
   - ai
@@ -37,6 +36,8 @@ tags:
   - startup
 topic_tags:
   - cache-warming
+  - cosmo
+  - graphql-federation
 entities:
   - Cosmo Router
   - WunderGraph

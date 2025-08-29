@@ -8,7 +8,6 @@ participants:
   - Stefan
   - Jens
 segment: Copying competitors, REST connectors, and technical evaluation
-
 timecode: 00:41:07:19 - 00:45:00:15
 start_time: 00:41:07:19
 end_time: 00:45:00:15
@@ -16,36 +15,26 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Copying competitors
-  - REST connectors
-  - Technical evaluation
-  - Product strategy
-  - Engineering philosophy
-  - Startup competition
-summary: |
-  Stefan and Jens discuss the challenges of copying competitors, the technical evaluation of REST connectors, and the importance of thoughtful engineering and product strategy in a competitive landscape.
+  - Copying Competitors
+  - REST Connectors
+  - Technical Evaluation
+  - Engineering Philosophy
 tags:
+  - startup
   - graphql
   - ai
   - apollo-graphql
   - rest-connectors
-  - startup
-  - startup
   - api-design
   - cosmo-router
   - go
   - rest
   - rest-apis
 topic_tags:
+  - startup
   - graphql
   - ai
   - apollo-graphql
-  - competitor-analysis
-  - rest-connectors
-  - technical-evaluation
-  - product-strategy
-  - engineering-philosophy
-  - startup-competition
 entities:
   - Stefan Avram
   - Jens Neuse
@@ -59,6 +48,8 @@ mentions:
   - technical architecture review
   - customer migration compatibility
   - engineering philosophy
+summary: |
+  Stefan and Jens discuss the challenges of copying competitors, the technical evaluation of REST connectors, and the importance of thoughtful engineering and product strategy in a competitive landscape.
 ---
 
 00:41:07:19 - 00:45:00:15

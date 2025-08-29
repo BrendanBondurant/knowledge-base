@@ -19,13 +19,10 @@ speakers:
   - Dustin
   - Jens
 topics:
-  - Remote work talent acquisition
-  - Multi-timezone management challenges
-  - Legal entity complexity
-  - Communication skills in remote hiring
-  - Cultural diversity benefits
-  - In-person collaboration advantages
-  - Working retreats vs traditional offices
+  - Remote Hiring
+  - Multi-Timezone Management
+  - Cultural Diversity
+  - Working Retreats
 tags:
   - ai
   - cosmo

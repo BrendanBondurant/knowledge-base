@@ -26,6 +26,8 @@ tags:
   - rest
 topic_tags:
   - ai-generated-code
+  - ai
+  - go
 entities:
   - Stefan
   - Dustin

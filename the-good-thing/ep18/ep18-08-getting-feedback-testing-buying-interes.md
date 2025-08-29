@@ -15,14 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Relationship bias in customer feedback
-  - People lying to be nice and avoid hurting feelings
-  - Bank customer brutal honesty example
-  - Static API strategy vs AI trends
-  - Techniques to elicit honest feedback
-  - Testing actual buying interest vs politeness
-  - Manager introduction as commitment test
-  - Beta participation and payment willingness
+  - Customer Feedback
+  - Relationship Bias
+  - Honest Validation
+  - Buying Intent Testing
 tags:
   - startup
   - ai
@@ -34,9 +30,6 @@ topic_tags:
   - customer-feedback
   - relationship-bias
   - honest-feedback
-  - buying-interest
-  - commitment-testing
-  - beta-participation
 entities:
   - Bank customer
   - Cosmo

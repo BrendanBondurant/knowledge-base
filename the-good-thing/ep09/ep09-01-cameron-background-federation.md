@@ -15,11 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - Cameron's introduction to WunderGraph
-  - Background as senior software engineer focusing on AI
-  - Previous experience as CISO at WunderGraph customer
-  - GraphQL Federation implementation at previous company
-  - 13 microservices federated through Cosmo
+  - Cameron’s Background
+  - AI Engineering Focus
+  - Federation Experience
+  - Cosmo Adoption
 tags:
   - graphql-federation
   - cosmo

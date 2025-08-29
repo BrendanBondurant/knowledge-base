@@ -17,10 +17,10 @@ speakers:
   - Robert Farr
   - Jens
 topics:
-  - AI-first strategy implementation at Procore
-  - Enterprise AI impact and transformation
-  - Customer reactions to AI initiatives
-  - Internal tool development with AI
+  - AI-First Strategy
+  - Enterprise AI Impact
+  - Customer Reactions
+  - Internal AI Tools
 tags:
   - ai
   - startup
@@ -35,9 +35,6 @@ topic_tags:
   - ai-first-strategy
   - procore
   - enterprise-ai
-  - customer-expectations
-  - internal-tools
-  - ai-transformation
 entities:
   - Procore
   - Robert Farr

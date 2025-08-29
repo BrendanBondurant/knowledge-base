@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - MCP tool packaging and reusability
-  - Docker daemon integration example
-  - Hypermedia APIs vs RPC approaches
-  - AI navigation limitations
-  - Internet exploration capabilities
-  - Model architecture constraints
+  - MCP Tool Packaging
+  - Hypermedia APIs
+  - AI Autonomy Limits
+  - Internet Navigation
 tags:
   - ai
   - api-design
@@ -31,12 +29,9 @@ tags:
   - mcp
   - rest
 topic_tags:
-  - ai-autonomy
+  - ai
+  - mcp
   - hypermedia
-  - rpc
-  - tool-packaging
-  - model-limitations
-  - internet-navigation
 entities:
   - MCP
   - Docker

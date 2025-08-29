@@ -15,12 +15,12 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Illusion of automatic app success
-  - Shifting from founder to engineer mindset
-  - Early boldness and self promotion post startup
-  - Underpaid junior dev experience
-  - Overconfident salary negotiation
-  - Applying for senior and architect roles without experience
+  - Startup Shutdown
+  - Transition to Engineering
+  - Junior Developer Experience
+  - Inflated Confidence
+  - Salary Negotiation
+  - Bold Job Applications
 tags:
   - startup
   - ai
@@ -28,11 +28,9 @@ tags:
   - go
   - rest
 topic_tags:
-  - career-growth
-  - startup-lessons
-  - career-growth
-  - mental-health
-  - career-growth
+  - startup
+  - founder
+  - ai
 entities:
   - Jens Neuse
   - Stefan Avram

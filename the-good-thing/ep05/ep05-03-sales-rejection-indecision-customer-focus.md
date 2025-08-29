@@ -16,16 +16,11 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Sales mindset
+  - Sales Mindset
   - Rejection
-  - Indecision in sales
-  - Customer focus
+  - Indecision in Sales
+  - Customer Focus
   - Negotiation
-  - Enterprise sales
-  - Value demonstration
-  - Emotional aspect of sales
-  - Startup lessons
-  - Customer relationships
 tags:
   - indecision
   - startup
@@ -35,11 +30,9 @@ tags:
   - graphql-federation
   - rest
 topic_tags:
-  - sales
-  - rejection
-  - indecision
-  - customer-focus
   - startup
+  - federation
+  - indecision
 entities:
   - Jens
   - Stefan

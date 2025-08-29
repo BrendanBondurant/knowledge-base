@@ -15,11 +15,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Psychological resilience from near-death experience
-  - How injury reframed startup stress
-  - Career rehabilitation after trauma
-  - Learning programming during recovery
-  - Early career as a systems administrator
+  - Psychological Resilience
+  - Career Pivot
+  - Startup Stress Perspective
+  - Learning Programming
 tags:
   - resilience
   - startup
@@ -29,10 +28,10 @@ tags:
   - go
   - rest
 topic_tags:
+topic_tags:
   - resilience
-  - startup-lessons
-  - injury-recovery
-  - career-growth
+  - startup
+  - founder
 entities:
   - Jens Neuse
   - Stefan Avram

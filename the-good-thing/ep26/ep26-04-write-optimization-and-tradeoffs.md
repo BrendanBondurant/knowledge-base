@@ -17,12 +17,10 @@ speakers:
   - Jens
   - Sam Lambert
 topics:
-  - Write-heavy workloads from AI boom
-  - Multiple writer nodes for scaling
-  - Consistency vs performance tradeoffs
-  - Consumer app data patterns
-  - Physics constraints in database systems
-  - Pragmatic approach to proven architectures
+  - Write-Heavy Workloads
+  - AI Data Storage
+  - Consistency Tradeoffs
+  - Computer Science Constraints
 tags:
   - ai
   - database
@@ -31,6 +29,10 @@ tags:
   - benchmarking
   - go
   - startup
+topic_tags:
+  - ai
+  - database
+  - computer-science
 entities:
   - AI
   - PlanetScale

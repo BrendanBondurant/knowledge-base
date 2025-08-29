@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Live MCP demo with Cosmo
-  - Schema exploration workflow
-  - MCP-enhanced development workflows
-  - Prompt-driven API exploration
-  - Super graph architecture analysis
+  - Live MCP Demo
+  - Schema Exploration
+  - Prompt-Driven Workflows
+  - Supergraph Architecture
 tags:
   - schema-exploration
   - ai
@@ -33,7 +32,9 @@ tags:
   - graphql-federation
   - mcp
 topic_tags:
-  - schema-exploration
+  - mcp
+  - ai
+  - cosmo
 entities:
   - Cosmo
   - MCP

@@ -15,14 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Scoping TAB conversations to relevant domains
-  - Cosmo usage patterns in B2C digital applications
-  - Multi-team federation dynamics
-  - Stakeholder mapping and workflow analysis
-  - Priority identification and pain point discovery
-  - Pattern overlap identification across customers
-  - Hockey stick growth inflection point finding
-  - Customer behavior exploration methodology
+  - Pattern Discovery
+  - User Research
+  - Stakeholder Mapping
+  - Hockey Stick Growth
 tags:
   - startup
   - ai
@@ -37,10 +33,6 @@ topic_tags:
   - pattern-discovery
   - user-research
   - stakeholder-mapping
-  - workflow-analysis
-  - pain-point-validation
-  - growth-inflection
-  - customer-behavior
 entities:
   - Cosmo
   - GraphQL

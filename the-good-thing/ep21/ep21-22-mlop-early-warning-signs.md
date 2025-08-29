@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Mlop GitHub activity concerns
-  - Open source commitment questions
-  - Early stage development issues
-  - Investment justification debate
+  - Mlop GitHub Activity
+  - Open Source Commitment
+  - Early Development Signs
+  - Investment Debate
 tags:
   - ai
   - cosmo

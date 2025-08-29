@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Uniform schema and entity clarity
-  - SDK generation from supergraphs
-  - Opening federation beyond Relay users
-  - OpenAPI to SDK generation patterns
-  - GraphQL operations as SDK functions
-  - JSON schema for input/output
+  - Federation to SDK
+  - Supergraph Schema
+  - SDK Generation Patterns
+  - JSON Schema Integration
 tags:
   - graphql-operations
   - json-schema
@@ -37,6 +35,7 @@ tags:
 topic_tags:
   - graphql-operations
   - json-schema
+  - federation
 entities:
   - GraphQL
   - OpenAPI

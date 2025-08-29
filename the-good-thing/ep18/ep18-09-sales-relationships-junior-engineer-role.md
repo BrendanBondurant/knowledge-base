@@ -15,14 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Everything in life as selling and negotiation
-  - Sam Altman's success blog post on selling
-  - Sales as symbiotic relationship building
-  - Customer success focus over profit motivation
-  - Junior engineer role in enterprise purchasing decisions
-  - Technical influence despite lack of budget authority
-  - Parenting and negotiation skills comparison
-  - Access and relationship exchange dynamics
+  - Sales Philosophy
+  - Negotiation Skills
+  - Customer Success
+  - Junior Engineer Influence
 tags:
   - startup
   - ai
@@ -32,10 +28,6 @@ topic_tags:
   - sales-philosophy
   - negotiation-skills
   - customer-success
-  - junior-engineer-influence
-  - enterprise-sales
-  - relationship-building
-  - parenting-analogy
 entities:
   - Sam Altman
   - Junior engineers

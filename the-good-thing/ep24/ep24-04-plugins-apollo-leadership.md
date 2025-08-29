@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - gRPC co-processor plugin system
-  - Automated connector generation with LLMs
-  - Legacy system integration
-  - Apollo leadership transition
-  - Matt DeBergalis as new CEO
-  - Customer experience improvements
+  - gRPC Plugin System
+  - Automated Connectors
+  - Legacy Integration
+  - Apollo Leadership Change
 tags:
   - grpc
   - plugin-system
@@ -41,6 +39,10 @@ tags:
   - rest
   - rest-apis
   - rest-connectors
+topic_tags:
+  - plugin-system
+  - llm
+  - apollo-graphql
 entities:
   - WunderGraph
   - Cosmo Router

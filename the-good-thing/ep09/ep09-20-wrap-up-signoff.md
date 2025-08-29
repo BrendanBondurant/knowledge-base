@@ -15,10 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - Episode wrap-up
-  - Traditional show sign-off
-  - Cameron's first appearance
-  - Return schedule announcement
+  - Episode Wrap-up
+  - Sign-off Tradition
+  - Cameron’s First Appearance
+  - Return Announcement
 tags:
   - cdn
   - go

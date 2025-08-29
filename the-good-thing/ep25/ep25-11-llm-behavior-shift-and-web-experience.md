@@ -17,17 +17,20 @@ speakers:
   - Stefan
   - Kevin
 topics:
-  - Web directories evolution to search to LLMs
-  - Internet behavior transformation
-  - ChatGPT replacing Google searches
-  - LLM experience vs web experience trade-offs
-  - Ad revenue disruption in LLM world
+  - Internet Behavior Change
+  - LLM vs Web Experience
+  - Search to Chat Evolution
+  - Ad Revenue Disruption
 tags:
   - ai
   - rust
   - rest
   - api-design
   - go
+  - llm
+  - startup
+topic_tags:
+  - ai
   - llm
   - startup
 entities:

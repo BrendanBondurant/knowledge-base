@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Apollo GraphQL layoffs discussion
-  - Founder empathy vs competitive instincts
-  - Human impact of job losses
-  - Market implications for competitors
-  - Formula one racing respect analogy
-  - VC behavior criticism toward laid-off workers
+  - Apollo Layoffs
+  - Founder Empathy
+  - Competitive Dynamics
+  - Human Impact of Job Losses
 tags:
   - founder
   - startup
@@ -32,9 +30,6 @@ topic_tags:
   - apollo-layoffs
   - founder-empathy
   - competitive-dynamics
-  - job-losses
-  - market-analysis
-  - industry-respect
 entities:
   - Apollo
   - GraphQL

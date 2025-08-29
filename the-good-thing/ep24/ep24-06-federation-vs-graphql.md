@@ -15,13 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Don't marry the technology philosophy
-  - GraphQL Federation challenges
-  - Blockchain analogy for solution-seeking problems
-  - Focus on problems vs solutions
-  - GraphQL over HTTP batching complexities
-  - Navy SEALs team size principles
-  - Governance and foundation overhead
+  - Federation vs GraphQL
+  - Problem vs Solution Focus
+  - Governance Overhead
+  - Team Size Principles
 tags:
   - federation
   - graphql-federation
@@ -33,6 +30,10 @@ tags:
   - go
   - graphql
   - startup
+topic_tags:
+  - federation
+  - graphql-federation
+  - governance
 entities:
   - Stefan Avram
   - Jens Neuse

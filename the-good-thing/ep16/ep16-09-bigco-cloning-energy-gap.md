@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - AI investment wave versus API startups
-  - Big company competitive limitations
-  - Founder-led company advantages
-  - Energy and commitment differences
-  - Corporate employee motivation misalignment
+  - Founder Advantage
+  - Startup vs Enterprise
+  - Competitive Limitations
+  - Energy Gap
 tags:
   - graphql
   - ai
@@ -32,6 +31,10 @@ tags:
   - cosmo
   - go
   - rest
+topic_tags:
+  - founder-advantage
+  - startup-vs-enterprise
+  - competitive-limitations
 entities:
   - KubeCon
   - VCs

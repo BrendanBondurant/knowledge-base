@@ -17,10 +17,10 @@ speakers:
   - Stefan
 topics:
   - WunderGraph Cloud
-  - Low-cost customers
-  - Support challenges
-  - Enterprise focus
-  - Pricing anecdotes
+  - Low-Cost Customers
+  - Support Challenges
+  - Enterprise Focus
+  - Pricing Anecdotes
 tags:
   - startup
   - founder

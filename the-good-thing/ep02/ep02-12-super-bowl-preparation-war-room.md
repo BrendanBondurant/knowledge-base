@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Super Bowl event preparation
-  - War room setup and monitoring
-  - Cache warming implementation
-  - Customer support during events
-  - Performance monitoring
+  - Super Bowl Preparation
+  - War Room Monitoring
+  - Cache Warming
+  - Performance Reliability
 tags:
   - cache-warming
   - observability

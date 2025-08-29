@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Technology waves and history repeating
-  - AI companies rebranding trend
-  - MCP (Model Context Protocol) significance
-  - AI uselessness without API access
-  - Trust issues with AI systems
+  - Technology Waves
+  - MCP Significance
+  - AI Requires APIs
+  - Trust in AI Systems
 tags:
   - mcp
   - ai
@@ -29,10 +28,8 @@ tags:
   - rust
 topic_tags:
   - mcp
-  - ai-limitations
-  - technology-cycles
-  - api-dependency
-  - ai-trust-issues
+  - ai
+  - api-design
 entities:
   - Anthropic
   - ChatGPT

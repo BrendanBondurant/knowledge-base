@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Cache warming mechanism
-  - Super Bowl traffic spikes
-  - Query planning optimization
-  - Federation complexity challenges
-  - Query plan cache
+  - Cache Warming
+  - Super Bowl Traffic
+  - Query Planning
+  - Federation Complexity
 tags:
   - cache-warming
   - federation

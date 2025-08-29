@@ -27,12 +27,9 @@ tags:
   - founder
   - go
 topic_tags:
-  - fly-io
-  - cloud-infrastructure
+  - startup
   - reliability
-  - startup-lessons
   - aws
-  - mistakes
 entities:
   - Stefan
   - Dustin

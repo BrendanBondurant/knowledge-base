@@ -15,13 +15,11 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Programming and prompting as the same skill
-  - Translating business needs into working products
-  - Coding as a means not the end
-  - Learning compilers by building parsers and ASTs
-  - Writing a GraphQL parser from scratch
-  - Communication and collaboration in tech teams
-  - WunderGraph success rooted in team diversity and chemistry
+  - Prompting as Programming
+  - Translating Business Needs
+  - Compiler Fundamentals
+  - Team Dynamics
+  - Collaboration in Development
 tags:
   - graphql
   - ai
@@ -32,6 +30,8 @@ tags:
   - startup
 topic_tags:
   - graphql
+  - ai
+  - startup
 entities:
   - Jens Neuse
   - Stefan Avram

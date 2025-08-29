@@ -17,11 +17,10 @@ speakers:
   - Jens
   - Dustin
 topics:
-  - Non-developer movement with MCP and Cursor
-  - Real API endpoint integration
-  - Live data manipulation demonstration
-  - Employee status updates
-  - GraphQL endpoint validation
+  - Real API Integration
+  - Live Demo
+  - Data Validation
+  - Employee Updates
 tags:
   - real-api-integration
   - graphql-validation

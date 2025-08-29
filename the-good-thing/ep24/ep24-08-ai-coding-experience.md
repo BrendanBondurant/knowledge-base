@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Personal AI coding tool experiences
-  - Cursor effectiveness across languages
-  - Claude Coder tool evaluation
-  - AI failure with complex codebases
-  - Research bias and methodology critique
-  - WunderGraph employee survey satire
+  - AI Coding Experiences
+  - Cursor and Claude Evaluation
+  - Existing Codebase Challenges
+  - Research Bias Critique
 tags:
   - graphql
   - ai
@@ -34,6 +32,10 @@ tags:
   - rust
   - startup
   - typescript
+topic_tags:
+  - ai
+  - coding-experience
+  - developer-productivity
 entities:
   - Stefan Avram
   - Jens Neuse

@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - AI startup tier list game introduction
-  - Venture capital evaluation methodology
-  - Startup categorization framework
-  - Five-tier ranking system explanation
+  - AI Startup Tier List
+  - Venture Capital Evaluation
+  - Startup Categorization
+  - Five-Tier Ranking System
 tags:
   - ai
   - startup
@@ -29,8 +29,6 @@ topic_tags:
   - ai-startups
   - tier-list
   - venture-capital
-  - startup-evaluation
-  - game-show-format
 entities:
   - Stefan Avram
   - Jens Neuse

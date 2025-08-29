@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Fragment hoisting and compilation
-  - Data dependency changes over time
-  - tRPC vs GraphQL for large teams
-  - REST API field management challenges
-  - Breaking changes and unused fields
-  - Team-scale frontend development
+  - Fragment Hoisting
+  - Data Dependencies
+  - REST vs GraphQL
+  - Large Team Coordination
 tags:
   - data-dependencies
   - ai
@@ -32,6 +30,8 @@ tags:
   - rest-apis
 topic_tags:
   - data-dependencies
+  - api-design
+  - graphql
 entities:
   - Relay
   - tRPC

@@ -15,14 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Technical Advisory Board definition and purpose
-  - Personal advisory board concept for self-improvement
-  - TAB composition across engineering roles
-  - Every two weeks 30-minute meeting schedule
-  - No show and tell initially - listening only
-  - Understanding daily workflows and pain points
-  - Vision clarification through customer conversations
-  - Adam Frankl methodology influence
+  - Technical Advisory Board
+  - Customer Research
+  - Product Development
+  - Vision Clarity
 tags:
   - startup
   - ai
@@ -34,9 +30,6 @@ topic_tags:
   - technical-advisory-board
   - customer-research
   - product-development
-  - listening-methodology
-  - vision-clarification
-  - adam-frankl
 entities:
   - Technical Advisory Board (TAB)
   - Adam Frankl

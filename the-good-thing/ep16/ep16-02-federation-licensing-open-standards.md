@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Federation as long-term business bet
-  - Licensing constraints for enterprise adoption
-  - FAANG company adoption barriers
-  - Netflix custom gateway development
-  - Dual licensing problems for adoption
+  - Federation Strategy
+  - Licensing Barriers
+  - Enterprise Adoption
+  - Open Standards
 tags:
   - federation
   - cosmo

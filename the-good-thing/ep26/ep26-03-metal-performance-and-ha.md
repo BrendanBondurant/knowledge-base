@@ -17,17 +17,19 @@ speakers:
   - Jens
   - Sam Lambert
 topics:
-  - PlanetScale Metal performance advantages
-  - Bare metal vs cloud storage architecture
-  - High availability without disaggregation
-  - NVMe drives and local storage benefits
-  - Ephemeral machines and replication strategy
-  - Semi-synchronous replication
+  - Bare Metal Performance
+  - High Availability
+  - NVMe Storage
+  - Replication Strategy
 tags:
   - database
   - vitess
   - mysql
   - postgres
+topic_tags:
+  - database
+  - vitess
+  - mysql
 entities:
   - PlanetScale
   - AWS

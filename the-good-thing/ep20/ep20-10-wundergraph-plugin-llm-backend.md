@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - WunderGraph's new plugin system architecture
-  - LLM-optimized backend development approach
-  - GraphQL vs REST API integration strategies
-  - Product development and federation evolution
+  - WunderGraph Plugin System
+  - LLM Backend Development
+  - GraphQL vs REST
+  - Federation Evolution
 tags:
   - plugin-system
   - llm
@@ -44,10 +44,6 @@ topic_tags:
   - wundergraph
   - plugin-system
   - llm-optimization
-  - backend-development
-  - graphql
-  - rest
-  - federation
 entities:
   - WunderGraph
   - Stefan Avram

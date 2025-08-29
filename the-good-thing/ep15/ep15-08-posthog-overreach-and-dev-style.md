@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Multiple platform features confusion
-  - Developer-focused product messaging
-  - Feature flag and analytics combination
-  - Product comprehension challenges
-  - Modern developer tooling appeal
+  - PostHog Features
+  - Developer Appeal
+  - Product Overreach
+  - Comprehension Challenges
 tags:
   - ai
   - observability

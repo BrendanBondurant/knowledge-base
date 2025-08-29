@@ -15,11 +15,11 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Productive procrastination and learning retention
-  - Encouragement for junior engineers to just start
-  - Using ChatGPT and Cursor for programming help
-  - Difference between shallow tutorials and deep understanding
-  - Importance of learning how things actually work (e.g. compilers, runtimes, networks)
+  - Productive Procrastination
+  - AI Learning Support
+  - Deep Fundamentals
+  - Shallow vs Deep Learning
+  - Programming Retention
 tags:
   - ai
   - github-copilot
@@ -27,11 +27,8 @@ tags:
   - go
   - rest
 topic_tags:
-  - procrastination
-  - learning
-  - learning
-  - junior-dev-advice
-  - fundamentals
+  - ai
+  - computer-science
 entities:
   - Jens Neuse
   - Stefan Avram

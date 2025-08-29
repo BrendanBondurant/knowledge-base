@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Apollo migration feature flags
-  - WunderGraph router compatibility issues
-  - Social proof presentation problems
-  - Non-clickable customer logos critique
-  - Technical migration challenges
+  - Apollo Connectors
+  - Migration Challenges
+  - Social Proof Problems
+  - Messaging Gaps
 tags:
   - apollo-graphql
   - social-proof

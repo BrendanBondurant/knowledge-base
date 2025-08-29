@@ -15,24 +15,19 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Vibe coding security risks with MCP
-  - Real-world hacking story of weekend startup
-  - Educational hacking as security lesson
-  - Standard IO safety recommendation
-  - Financial and data handling responsibilities
+  - Vibe Coding Risks
+  - MCP Vulnerabilities
+  - Ethical Hacking Story
+  - Standard IO Safety
 tags:
   - startup
   - ai
   - go
   - mcp
 topic_tags:
-  - vibe-coding
-  - security-vulnerabilities
-  - ethical-hacking
-  - startup-security
-  - stripe-integration
-  - security-education
-  - responsible-disclosure
+  - ai
+  - mcp
+  - startup
 entities:
   - MCP
   - Twitter

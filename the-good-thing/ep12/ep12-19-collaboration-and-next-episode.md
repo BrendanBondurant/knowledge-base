@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Episode wrap-up and reflection
-  - Future guest announcements
-  - Federation at scale focus
-  - Audience engagement call
-  - Collaboration vs compute debate
+  - Episode Wrap-up
+  - Future Guests
+  - Federation at Scale
+  - Collaboration vs Compute
 tags:
   - federation
   - ai

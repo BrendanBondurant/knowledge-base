@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Cursor pricing controversy
-  - Early-stage founder pressures
-  - AI tool monetization challenges
-  - Developer tool pricing strategies
+  - Cursor Pricing
+  - Founder Pressure
+  - AI Tool Monetization
+  - Developer Pricing Models
 tags:
   - ai
   - github-copilot

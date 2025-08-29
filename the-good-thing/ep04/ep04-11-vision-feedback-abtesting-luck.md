@@ -16,16 +16,11 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Vision vs. feedback
-  - AB testing
-  - Startup luck
-  - Product direction
-  - Founder mindset
-  - Customer requests
-  - Product management
-  - Experimentation
-  - Survivorship bias
-  - Startup advice
+  - Vision vs Feedback
+  - AB Testing
+  - Startup Luck
+  - Product Direction
+  - Founder Mindset
 tags:
   - startup
   - founder
@@ -39,12 +34,9 @@ tags:
   - graphql-federation
   - rest
 topic_tags:
-  - vision
-  - feedback
-  - ab-testing
-  - startup-luck
-  - product-direction
-  - founder-mindset
+  - startup
+  - founder
+  - ai
 entities:
   - Jens Neuse
   - Stefan Avram

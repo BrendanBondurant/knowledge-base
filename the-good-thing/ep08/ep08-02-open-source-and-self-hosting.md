@@ -15,11 +15,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - VC resistance to open source strategies
-  - Apache vs Elastic licensing implications
-  - Legal barriers in enterprise environments
-  - Self-hosting as competitive advantage
-  - Bottom-up adoption through developer accessibility
+  - Open Source Strategy
+  - VC Resistance
+  - Licensing Implications
+  - Self-Hosting Advantage
+  - Developer Adoption
 tags:
   - open-source
   - ai
@@ -40,6 +40,8 @@ tags:
   - startup
 topic_tags:
   - open-source
+  - startup
+  - cosmo
 entities:
   - Sentry
   - HashiCorp

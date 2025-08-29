@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - PlanetScale Postgres announcement
-  - Database sharding and Vitess technology
-  - YouTube's database scaling challenges
-  - PlanetScale business strategy and layoffs
+  - PlanetScale Postgres
+  - Database Sharding
+  - Vitess Technology
+  - Business Strategy
 tags:
   - postgres
   - vitess

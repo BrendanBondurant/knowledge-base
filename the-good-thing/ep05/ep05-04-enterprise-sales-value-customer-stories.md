@@ -15,22 +15,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Enterprise sales
-  - Value demonstration
-  - Customer stories
-  - Sales negotiation
-  - Emotional investment
-  - Customer relationships
-  - Startup growth
-  - Network effects
-  - Case studies
-  - ARR milestones
-  - B2B vs. B2C
-  - Product love
-  - Indecision in sales
-  - Customer advocacy
-  - Sales process
-  - Startup advice
+  - Enterprise Sales
+  - Value Demonstration
+  - Customer Stories
+  - Network Effects
+  - Case Studies
 tags:
   - startup
   - ai
@@ -42,12 +31,9 @@ tags:
   - graphql-federation
   - microservices
 topic_tags:
-  - enterprise-sales
-  - customer-stories
-  - value-demonstration
-  - b2b-sales
-  - customer-advocacy
-  - startup-growth
+  - startup
+  - enterprise
+  - founder
 entities:
   - Stefan Avram
   - Jens Neuse

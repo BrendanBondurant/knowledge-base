@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Business tradeoffs in programming language selection
-  - Code readability and maintainability considerations
-  - Team productivity and hiring implications
-  - Language ecosystem and tooling impact
+  - Business Tradeoffs
+  - Code Readability
+  - Team Productivity
+  - Language Ecosystem
 tags:
   - ai
   - cosmo-router

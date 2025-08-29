@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Ciroos founder team background
-  - AWS and Cisco experience
-  - SRE and incident management
-  - Seed funding assessment
+  - Ciroos Funding
+  - Founder Backgrounds
+  - SRE and Incident Management
+  - Messaging Issues
 tags:
   - ciroos
   - ai

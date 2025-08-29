@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Episode wrap-up
-  - WunderGraph hiring
-  - Community engagement
-  - Future episode topics
+  - Episode Wrap-up
+  - WunderGraph Hiring
+  - Community Engagement
+  - Future Episode Topics
 tags:
   - ai
   - go

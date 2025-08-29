@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Developer tools requiring open source approach
-  - Nginx enterprise model challenges
-  - Tyk API gateway business strategy
-  - Open source vs closed source decision criteria
-  - Enterprise feature separation strategies
+  - Open Source Business Models
+  - Developer Tools
+  - Enterprise Features
+  - Support Costs
 tags:
   - open-source
   - api-gateway
@@ -34,10 +33,7 @@ tags:
 topic_tags:
   - open-source-business
   - developer-tools
-  - nginx
-  - tyk
   - enterprise-features
-  - api-gateway
 entities:
   - Nginx
   - Tyk

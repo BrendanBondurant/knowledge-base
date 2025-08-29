@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Robert Farr
 topics:
-  - Robert Farr's career journey from Kansas City to Procore
-  - Transition from Cerner to Procore
-  - Kansas City tech scene and geography
-  - Career progression in distributed systems and site reliability
+  - Robert Farr Career Journey
+  - Cerner to Procore Transition
+  - Kansas City Tech Scene
+  - Distributed Systems Experience
 tags:
   - kansas-city
   - ai

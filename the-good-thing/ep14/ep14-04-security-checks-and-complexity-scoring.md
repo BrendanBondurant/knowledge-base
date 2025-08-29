@@ -17,11 +17,10 @@ speakers:
   - Stefan
   - Dustin
 topics:
-  - Schema usage tracking and breaking change detection
-  - MCP hallucination prevention through checks
-  - Serverless router for batch query plan generation
-  - Complexity scoring algorithm for query plans
-  - Performance impact analysis of schema changes
+  - Schema Checks
+  - Breaking Change Detection
+  - Complexity Scoring
+  - Query Plan Analysis
 tags:
   - federation
   - mcp

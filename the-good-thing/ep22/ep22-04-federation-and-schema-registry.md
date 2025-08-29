@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Apollo GraphQL federation principles
-  - Schema registry importance
-  - Principled GraphQL framework
-  - Graph composition strategy
+  - Apollo Federation Principles
+  - Schema Registry
+  - Graph Composition
+  - Principled GraphQL
 tags:
   - schema-registry
   - principled-graphql

@@ -16,11 +16,11 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Startup identity
-  - Hero messaging
-  - Devtools vs. enterprise
-  - Sales in startups
-  - Company evolution
+  - Startup Identity
+  - Hero Messaging
+  - Devtools vs Enterprise
+  - Sales in Startups
+  - Company Evolution
 tags:
   - startup
   - ai

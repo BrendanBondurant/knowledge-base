@@ -8,7 +8,6 @@ participants:
   - Jens
   - Stefan
 segment: FAANG intro, Walmart, onboarding, feedback, and episode wrap-up
-
 timecode: 01:03:21:19 - 01:09:27:19
 start_time: 01:03:21:19
 end_time: 01:09:27:19
@@ -16,13 +15,11 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - FAANG intro
+  - FAANG Intro
   - Walmart
   - Onboarding
-  - Customer feedback
-  - Episode wrap-up
-  - Startup journey
-  - Product success
+  - Customer Feedback
+  - Episode Wrap-up
 summary: |
   Jens and Stefan discuss their introduction to FAANG companies, the Walmart experience, onboarding, customer feedback, and wrap up the episode with reflections on their startup journey and product success.
 tags:
@@ -37,15 +34,9 @@ tags:
   - rust
   - telemetry
 topic_tags:
+  - startup
   - federation
-  - graphql-federation
-  - ai
-  - faang-companies
-  - customer-experience
-  - customer-onboarding
-  - customer-feedback
-  - startup-journey
-  - product-success
+  - graphql
 entities:
   - Stefan Avram
   - Jens Neuse

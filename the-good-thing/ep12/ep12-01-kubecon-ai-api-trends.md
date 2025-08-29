@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - KubeCon 2024 trends
-  - AI hype vs practical API needs
-  - Conference positioning for API companies
-  - Episode format changes with guests
-  - Technology wave cycles
+  - KubeCon 2024 Trends
+  - AI Hype vs API Needs
+  - API Market Positioning
+  - Conference Strategy
 tags:
   - ai
   - api-design
@@ -30,11 +29,9 @@ tags:
   - rest
   - startup
 topic_tags:
-  - kubecon
-  - ai-trends
-  - conference-strategy
-  - api-positioning
-  - technology-waves
+  - ai
+  - api-design
+  - startup
 entities:
   - KubeCon
   - Stefan Avram

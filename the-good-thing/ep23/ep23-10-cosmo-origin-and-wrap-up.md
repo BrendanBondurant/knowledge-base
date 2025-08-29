@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Cosmo pivot story
-  - Product origin narrative
-  - Episode closing thoughts
-  - Strategic reflection
+  - Cosmo Pivot Story
+  - Product Origin
+  - Strategic Reflection
+  - Episode Wrap-up
 tags:
   - ai
   - cosmo

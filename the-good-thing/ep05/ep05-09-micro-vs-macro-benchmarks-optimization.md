@@ -16,16 +16,11 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Micro benchmarks
-  - Macro benchmarks
-  - Code optimization
-  - Performance tradeoffs
-  - Readability vs. speed
-  - Garbage collection
-  - Developer experience
-  - Product improvement
-  - Benchmarking tools
-  - Real-world performance
+  - Micro Benchmarks
+  - Macro Benchmarks
+  - Code Optimization
+  - Readability vs Speed
+  - Developer Experience
 tags:
   - micro-benchmarks
   - macro-benchmarks
@@ -38,8 +33,9 @@ tags:
   - rest
   - startup
 topic_tags:
-  - micro-benchmarks
-  - macro-benchmarks
+  - startup
+  - graphql
+  - benchmarks
 entities:
   - Jens Neuse
   - Stefan Avram

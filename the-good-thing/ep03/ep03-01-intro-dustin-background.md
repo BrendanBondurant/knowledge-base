@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Dustin
 topics:
-  - Introduction
-  - Career Background
-  - GraphQL
-  - Open Source
+  - Role Evolution
+  - Technical Founder
+  - Startup Lessons
+  - AI Impact
 tags:
   - graphql
   - open-source
@@ -36,6 +36,7 @@ tags:
 topic_tags:
   - graphql
   - open-source
+  - startup
 entities:
   - Dustin
   - Stefan

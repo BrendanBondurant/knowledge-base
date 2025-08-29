@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Jeff Bezos "your margin is my opportunity" principle
-  - Open source as competitive moat strategy
-  - SoundCloud engineering partnership
-  - Customer knowledge transfer and experience
-  - Multipart file upload customization
+  - Open Source Moats
+  - SoundCloud Case Study
+  - Customer Partnerships
+  - Competitive Advantage
 tags:
   - startup
   - open-source
@@ -39,12 +38,9 @@ tags:
   - rust
   - telemetry
 topic_tags:
-  - soundcloud
+  - startup
+  - open-source
   - case-study
-  - competitive-moats
-  - customer-partnerships
-  - open-source-strategy
-  - engineering-collaboration
 entities:
   - SoundCloud
   - Prometheus

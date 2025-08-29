@@ -1635,7 +1635,6 @@ Startup journey
 Startup layoff accountability and bottom 20% theory
 Startup leadership
 Startup lessons
-Startup Lessons
 Startup life
 Startup luck
 Startup maturity and positioning

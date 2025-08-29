@@ -1,5 +1,5 @@
 ---
-title: First Startup Lessons Failure and Flywheels
+title: First Startup lessons Failure and Flywheels
 slug: ep01-11-first-startup-lessons-failure-and-flywheels
 series: The Good Thing
 episode: 1
@@ -13,12 +13,12 @@ end_time: 00:36:29
 speakers:
   - Jens
 topics:
-  - Starting with a product instead of a problem
-  - Building an app without a business model
-  - Common startup trap of AI without clear value
-  - Sales reluctance and founder skill mismatch
-  - Failed assumption about user generated content
-  - Difficulty of local merchant sales and scaling
+  - Startup Mistakes
+  - Building Without Problem Validation
+  - Founder Skill Mismatch
+  - Sales Reluctance
+  - User Generated Content Assumptions
+  - Flywheel Failure
 tags:
   - startup
   - founder
@@ -26,11 +26,9 @@ tags:
   - go
   - rest
 topic_tags:
-  - startup-lessons
-  - team-culture
-  - founder-mindset
-  - lessons-learned
-  - career-growth
+  - startup
+  - founder
+  - ai
 entities:
   - Jens Neuse
   - WunderGraph

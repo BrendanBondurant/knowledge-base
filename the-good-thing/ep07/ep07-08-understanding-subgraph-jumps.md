@@ -17,11 +17,10 @@ speakers:
   - Sergiy
   - David
 topics:
-  - Subgraph jumps as portals between services
-  - Federation keys and unique identifiers
-  - Root entry nodes and graph edges
-  - Microservices architecture and data isolation
-  - Graph theory vs tree structure in planning
+  - Subgraph Jumps
+  - Federation Keys
+  - Graph Traversal
+  - Microservices Architecture
 tags:
   - federation
   - microservices
@@ -34,7 +33,7 @@ tags:
   - query-planning
 topic_tags:
   - federation
-  - microservices
+  - graphql
 entities:
   - GraphQL
   - Federation

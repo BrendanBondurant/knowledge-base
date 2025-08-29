@@ -16,21 +16,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - REST vs. GraphQL
+  - REST vs GraphQL
   - Federation
-  - Organizational problems
-  - API design
-  - BFF architecture
-  - Microservices
-  - Collaboration
-  - Product complexity
-  - Team structure
-  - API versioning
-  - Contract testing
-  - Product adoption
-  - Right tool for the job
-  - Boring tech
-  - Product architecture
+  - Organizational Problems
+  - API Design
+  - Team Structure
 tags:
   - federation
   - api-design
@@ -49,9 +39,9 @@ tags:
   - startup
   - typescript
 topic_tags:
+  - graphql
   - federation
   - api-design
-  - microservices
 entities:
   - Stefan Avram
   - Jens Neuse

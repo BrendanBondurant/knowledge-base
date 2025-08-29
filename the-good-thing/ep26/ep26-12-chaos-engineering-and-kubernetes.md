@@ -17,12 +17,10 @@ speakers:
   - Jens
   - Sam Lambert
 topics:
-  - Continuous deployment and bug management
-  - Shared nothing architecture benefits
-  - 29-day node expiry policy
-  - Chaos engineering principles
-  - Kubernetes for stateful workloads
-  - Virtualization layer choices
+  - Continuous Deployment
+  - Chaos Engineering
+  - Kubernetes for Databases
+  - Shared Nothing Architecture
 tags:
   - kubernetes
   - ai
@@ -30,6 +28,10 @@ tags:
   - go
   - observability
   - startup
+topic_tags:
+  - kubernetes
+  - database
+  - observability
 entities:
   - PlanetScale
   - Kubernetes

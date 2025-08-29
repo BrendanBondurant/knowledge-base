@@ -15,13 +15,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Value of direct contact with customers
-  - Developer empathy and product alignment
-  - Amazon practice of rotating engineers into support
-  - Preview of TYK role and Cosmo origins
-  - Advice for early career engineers
-  - Importance of fundamentals and clarity
-  - Programming in the age of AI
+  - Customer Empathy
+  - Developer Career Advice
+  - Fundamentals in the AI Era
+  - Programming as Translation
 tags:
   - ai
   - api-design
@@ -31,11 +28,10 @@ tags:
   - graphql
   - startup
 topic_tags:
-  - customer-empathy
-  - ai-and-careers
-  - developer-advice
-  - fundamentals
-  - product-strategy
+  - ai
+  - api-design
+  - graphql
+  - startup
 entities:
   - Jens Neuse
   - Stefan Avram

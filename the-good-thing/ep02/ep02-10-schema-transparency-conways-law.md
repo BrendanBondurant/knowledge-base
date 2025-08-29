@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Schema transparency benefits
-  - Conway's Law in practice
-  - Team discovery and collaboration
-  - REST API fragmentation
-  - Federation organizational advantages
+  - Schema Transparency
+  - Conway's Law
+  - Team Discovery
+  - API Fragmentation
 tags:
   - conways-law
   - ai
@@ -33,6 +32,8 @@ tags:
   - rest-apis
 topic_tags:
   - conways-law
+  - federation
+  - graphql
 entities:
   - WunderGraph
   - Conway's Law

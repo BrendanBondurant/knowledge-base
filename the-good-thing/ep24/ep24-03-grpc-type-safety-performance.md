@@ -15,12 +15,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - End-to-end type safety with gRPC
-  - Performance optimization in subgraphs
-  - Eliminating N+1 problems
-  - GraphQL parsing overhead removal
-  - Apollo ecosystem lock-in concerns
-  - Code-first vs schema-first approaches
+  - Type Safety with gRPC
+  - Performance Optimization
+  - N+1 Problem Elimination
+  - Apollo Lock-in Concerns
+  - Code-First vs Schema-First
 tags:
   - federation
   - graphql-federation
@@ -37,6 +36,10 @@ tags:
   - graphql
   - startup
   - typescript
+topic_tags:
+  - grpc
+  - type-safety
+  - performance
 entities:
   - WunderGraph
   - Cosmo Router

@@ -17,10 +17,10 @@ speakers:
   - Robert Farr
   - Jens
 topics:
-  - Evolution of Robert's thinking on API design
-  - Monolithic database pain points and lessons
-  - REST vs RPC architectural trade-offs
-  - Practical implementation considerations
+  - API Design Evolution
+  - Monolithic Database Lessons
+  - REST vs RPC Trade-offs
+  - Implementation Considerations
 tags:
   - rest
   - ai

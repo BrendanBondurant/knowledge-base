@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Reliability vs speed tradeoffs
-  - Test suite optimization
-  - End-to-end testing improvements
-  - Engineering hiring priorities
-  - Go vs full-stack roles
+  - Reliability vs Speed
+  - Test Suite Optimization
+  - End-to-End Testing
+  - Engineering Hiring
 tags:
   - go
   - typescript
@@ -39,7 +38,6 @@ tags:
 topic_tags:
   - go
   - typescript
-  - query-planning
   - cosmo-router
 entities:
   - WunderGraph

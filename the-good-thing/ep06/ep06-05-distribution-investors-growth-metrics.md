@@ -8,7 +8,6 @@ participants:
   - Jens
   - Stefan
 segment: Distribution, investor conversations, and the importance of growth metrics
-
 timecode: 00:10:42:27 - 00:13:34:09
 start_time: 00:10:42:27
 end_time: 00:13:34:09
@@ -17,34 +16,21 @@ speakers:
   - Stefan
 topics:
   - Distribution
-  - Investor conversations
-  - Growth metrics
-  - Startup strategy
-  - Market entry
-  - Product differentiation
-  - Fundraising
-summary: |
-  Jens and Stefan discuss the importance of distribution in startup success, the kinds of questions investors ask, and the need for growth metrics beyond feature parity. They reflect on the challenges of fundraising and the pitfalls of simply copying competitors.
+  - Investor Conversations
+  - Growth Metrics
+  - Fundraising Challenges
 tags:
+  - startup
   - ai
   - apollo-graphql
-  - startup
-  - startup
-  - startup
   - go
   - graphql
   - rest
   - telemetry
 topic_tags:
-  - ai
-  - apollo-graphql
   - startup
-  - distribution-strategy
-  - investor-relations
-  - growth-metrics
-  - startup-strategy
-  - fundraising
-  - product-differentiation
+  - ai
+  - graphql
 entities:
   - Stefan Avram
   - Jens Neuse
@@ -57,6 +43,8 @@ mentions:
   - fundraising challenges
   - competitor roadmap copying
   - customer acquisition strategy
+summary: |
+  Jens and Stefan discuss the importance of distribution in startup success, the kinds of questions investors ask, and the need for growth metrics beyond feature parity. They reflect on the challenges of fundraising and the pitfalls of simply copying competitors.
 ---
 
 00:10:42:27 - 00:11:05:10

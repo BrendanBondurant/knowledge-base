@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Node.js to Golang router migration benefits
-  - Multi-threaded architecture advantages
-  - CPU scaling and deployment optimization
-  - Query planning cache performance
-  - Analytics integration during migration
+  - Node.js to Go Migration
+  - Performance Gains
+  - Cost Reduction
+  - Query Planning Improvements
 tags:
   - federation
   - graphql-federation
@@ -34,6 +33,10 @@ tags:
   - kubernetes
   - query-planning
   - startup
+topic_tags:
+  - federation
+  - cosmo
+  - benchmarking
 entities:
   - SoundCloud
   - Node.js

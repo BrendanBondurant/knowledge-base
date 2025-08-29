@@ -16,11 +16,10 @@ speakers:
   - Jens
   - Kevin
 topics:
-  - WunderGraph's journey from GraphQL to collaboration focus
-  - Enterprise sales challenges with developer tools
-  - Federation as enterprise entry point
-  - Discovery of collaboration as core customer value
-  - Miro board API design workflows
+  - GraphQL Federation
+  - Enterprise Collaboration
+  - API Design Workflows
+  - WunderGraph Evolution
 tags:
   - federation
   - graphql-federation
@@ -33,6 +32,10 @@ tags:
   - graphql
   - rest
   - startup
+topic_tags:
+  - federation
+  - graphql-federation
+  - api-design
 entities:
   - WunderGraph
   - graphql

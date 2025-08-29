@@ -16,10 +16,10 @@ speakers:
   - Dustin
 topics:
   - Cosmo
-  - Architecture
-  - GCP
-  - Kubernetes
   - Boring Tech
+  - Kubernetes
+  - GCP
+  - Managed Services
 tags:
   - cosmo
   - kubernetes
@@ -34,6 +34,7 @@ tags:
 topic_tags:
   - cosmo
   - kubernetes
+  - startup
 entities:
   - Stefan
   - Dustin

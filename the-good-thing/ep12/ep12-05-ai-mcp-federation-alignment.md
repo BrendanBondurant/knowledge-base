@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Federation and AI alignment
-  - Supergraph as unified protocol
-  - MCP challenges with multiple APIs
-  - API gateway territory for MCP
-  - Microservices and MCP server scaling
-  - Authorization and observability concerns
+  - AI and Federation Alignment
+  - Supergraph as Unified Protocol
+  - MCP in Microservices
+  - API Gateway Role
 tags:
   - federation
   - mcp

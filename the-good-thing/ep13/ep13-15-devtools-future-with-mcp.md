@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - IDE-native workflow revolution
-  - Shift from UI to prompt-driven development
-  - Copilot as workflow manager
-  - DevTool automation opportunities
-  - MCP availability in WunderGraph/Cosmo
+  - IDE-Native Development
+  - Prompt-Driven Workflows
+  - Copilot as Workflow Manager
+  - DevTool Automation
 tags:
   - mcp
   - ai

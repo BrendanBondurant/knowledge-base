@@ -17,10 +17,10 @@ speakers:
   - Robert Farr
   - Jens
 topics:
-  - Query planning strategies and complexity
-  - Complexity scoring for query optimization
-  - Supergraph as database conceptual analogy
-  - Federation implementation insights
+  - Query Planning Strategies
+  - Complexity Scoring
+  - Supergraph as Database
+  - Federation Optimization
 tags:
   - query-planning
   - supergraph

@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - LLM text communication vulnerabilities
-  - Token tokenization and model differences
-  - Temperature and creativity vs hallucinations
-  - API contracts as safety mechanisms
-  - Waiter restaurant analogy for API safety
-  - Schema validation and type safety
+  - Schema Validation
+  - API Safety
+  - Waiter Analogy
+  - Cosmo Integration
 tags:
   - schema-validation
   - ai

@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - Vibe coding definition and approach
-  - GitHub Copilot vs Cursor comparison
-  - Agent mode vs autocompletion
-  - Frontend development effectiveness
-  - AI prompt engineering challenges
-  - Context management in AI tools
+  - Vibe Coding
+  - Agent Mode vs Copilot
+  - Frontend Development
+  - Prompt Engineering Challenges
 tags:
   - github-copilot
   - agent-mode
@@ -31,7 +29,7 @@ tags:
 topic_tags:
   - github-copilot
   - agent-mode
-entities:
+  - ai
   - GitHub Copilot
   - Cursor
   - Next.js

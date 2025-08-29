@@ -19,13 +19,10 @@ speakers:
   - Dustin
   - Jens
 topics:
-  - Founder team trust and decision-making
-  - Netherlands retreat pivot moment
-  - Role specialization and expertise
-  - First-time founder mistakes
-  - Premature team scaling
-  - Imitating successful startups
-  - Product-market fit requirements
+  - Founder Trust
+  - Pivot Decisions
+  - Role Specialization
+  - Scaling Mistakes
 tags:
   - founder
   - startup
@@ -35,11 +32,8 @@ tags:
   - graphql
   - rust
 topic_tags:
-  - founder-trust
-  - team-dynamics
-  - startup-mistakes
-  - premature-scaling
-  - product-market-fit
+  - founder
+  - startup
   - pivot-decisions
 entities:
   - WunderGraph

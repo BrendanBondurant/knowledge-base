@@ -17,10 +17,10 @@ speakers:
   - Robert Farr
   - Jens
 topics:
-  - API governance at enterprise scale
-  - Challenges with API consistency across teams
-  - Hypermedia approaches and their limitations
-  - Developer experience considerations
+  - API Governance
+  - Consistency Challenges
+  - Hypermedia Limitations
+  - Developer Experience
 tags:
   - ai
   - rest

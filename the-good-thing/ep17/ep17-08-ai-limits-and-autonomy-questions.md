@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - AI empowering vs replacing developers
-  - Future autonomous AI systems possibility
-  - Iron Man AI villain reference (Ultron)
-  - Current LLM agent capabilities and limitations
-  - AI task execution without human motivation
-  - Sustainability of autonomous AI systems
+  - AI Autonomy
+  - AI Limitations
+  - Autonomous Systems
+  - Future Potential
 tags:
   - ai
   - go
@@ -28,9 +26,7 @@ tags:
   - mcp
 topic_tags:
   - ai-autonomy
-  - future-predictions
   - ai-limitations
-  - developer-replacement
   - autonomous-systems
 entities:
   - Iron Man

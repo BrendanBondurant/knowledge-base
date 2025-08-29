@@ -15,19 +15,18 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Startup founder empathy and early mistakes
-  - Solution-first vs problem-first approach
-  - Marblism introduction and Y Combinator status
-  - AI employees branding and positioning
+  - Marblism Branding
+  - Y Combinator Backing
+  - AI Employees Positioning
+  - Founder Empathy
 tags:
   - ai
   - startup
   - founder
-  - founder
-  - ai
-  - startup
   - go
   - kubernetes
+topic_tags:
+  - ai
 entities:
   - Stefan Avram
   - Jens Neuse

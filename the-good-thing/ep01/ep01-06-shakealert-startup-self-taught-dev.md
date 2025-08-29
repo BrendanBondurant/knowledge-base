@@ -13,23 +13,17 @@ end_time: 00:20:07
 speakers:
   - Jens
 topics:
-  - Early startup attempt with motion-based deals app
-  - Avoiding UI through shake gesture for QR scan
-  - iOS, Android, and backend split
-  - Learning programming out of necessity
-  - Teaching self Android and backend dev with Slide Nerd (Java)
-  - Transition to Swift and discovering Java's verbosity
+  - Shakealert App
+  - Early Startup Experience
+  - Android and iOS Development
+  - Self-Taught Programming
 tags:
   - startup
   - ai
   - go
   - rest
 topic_tags:
-  - android-dev
-  - self-taught
-  - backend-dev
-  - startup-lessons
-  - programming-motivation
+  - startup
 entities:
   - Jens Neuse
   - Shakealert

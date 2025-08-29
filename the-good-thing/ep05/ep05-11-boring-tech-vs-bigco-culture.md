@@ -15,16 +15,12 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Boring tech
-  - Big company culture
-  - Internal tooling
-  - Developer motivation
-  - Business value
-  - Layoffs
-  - Company focus
-  - Product complexity
-  - Teamwork
-  - Episode wrap-up
+  - Boring Tech
+  - Big Company Culture
+  - Internal Tooling
+  - Developer Motivation
+  - Business Value
+  - Episode Wrap-up
 tags:
   - startup
   - founder
@@ -36,6 +32,7 @@ tags:
 topic_tags:
   - startup
   - founder
+  - ai
 entities:
   - Stefan Avram
   - Jens Neuse

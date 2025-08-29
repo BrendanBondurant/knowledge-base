@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - AI model access and control limitations
-  - MCP registry and discovery systems
-  - Authentication and authorization challenges
-  - Official validation and security concerns
-  - Business user tool integration
-  - Multi-service workflow automation
+  - MCP Registry and Discovery
+  - Authentication and Authorization
+  - Business User Tools
+  - Workflow Automation
 tags:
   - authentication
   - ai
@@ -33,7 +31,9 @@ tags:
   - rust
   - typescript
 topic_tags:
+  - ai
   - authentication
+  - mcp
 entities:
   - MCP Hub
   - Docker Registry

@@ -17,11 +17,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Clean code evolution and moderation
-  - Pragmatic technology choices requiring experience
-  - Young developer enthusiasm vs experienced pragmatism
-  - Boring technology preferences for reliability
-  - Infrastructure stability over novelty
+  - Pragmatic Technology Choices
+  - Clean Code Evolution
+  - Boring but Reliable Tech
+  - Infrastructure Stability
 tags:
   - ai
   - postgres
@@ -29,6 +28,10 @@ tags:
   - database
   - go
   - llm
+topic_tags:
+  - postgres
+  - kubernetes
+  - database
 entities:
   - Clean Code book
   - Digital Ocean

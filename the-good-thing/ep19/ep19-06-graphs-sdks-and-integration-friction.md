@@ -17,10 +17,10 @@ speakers:
   - Robert Farr
   - Jens
 topics:
-  - SDKs and their role in API integration
-  - Webhooks and real-time integration patterns
-  - Graph representations and service architecture
-  - External integration challenges and friction
+  - SDKs and Integration
+  - Webhooks and Real-Time Patterns
+  - Graph Representations
+  - External Integration Friction
 tags:
   - federation
   - grpc

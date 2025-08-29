@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Developer emotional attachment to code
-  - Startup founder feedback reactions
-  - Product identity vs personal identity
-  - Small startup positioning strategy
+  - Developer Attachment to Code
+  - Startup Feedback Reactions
+  - Product vs Personal Identity
+  - Small Startup Positioning
 tags:
   - startup
   - ai
@@ -31,8 +31,6 @@ topic_tags:
   - emotional-attachment
   - developer-psychology
   - startup-feedback
-  - product-identity
-  - small-startup-strategy
 entities:
   - Stefan Avram
   - Jens Neuse

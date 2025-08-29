@@ -17,12 +17,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Deterministic vs LLM-based task allocation
-  - Four key MCP benefits for GraphQL APIs
-  - AI discovery capabilities
-  - Operation control through trusted documents
-  - Rich metadata from schema comments
-  - Instant integration with AI tools
+  - MCP Benefits
+  - AI Discovery
+  - Trusted Documents
+  - Rich Metadata
 tags:
   - mcp
   - graphql-api
@@ -41,10 +39,6 @@ topic_tags:
   - mcp-benefits
   - graphql-api
   - ai-discovery
-  - operation-control
-  - rich-metadata
-  - instant-integration
-  - trusted-documents
 entities:
   - GraphQL API
   - MCP protocol

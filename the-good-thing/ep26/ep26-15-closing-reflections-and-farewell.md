@@ -17,16 +17,19 @@ speakers:
   - Jens
   - Sam Lambert
 topics:
-  - AI's positive impact on database problems
-  - Episode wrap-up and reflections
-  - Future episode scheduling
-  - Gratitude and final thoughts
+  - AI and Database Challenges
+  - Episode Reflections
+  - Future Scheduling
+  - Closing Thoughts
 tags:
   - ai
   - database
   - ai
   - go
   - rest
+topic_tags:
+  - ai
+  - database
 entities:
   - PlanetScale
   - AI

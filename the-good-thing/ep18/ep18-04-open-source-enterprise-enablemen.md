@@ -15,13 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Product-market fit definition as willingness to pay
-  - Technical Advisory Board (TAB) introduction
-  - Open source vs closed source enterprise sales
-  - Organizational barriers to trying new solutions
-  - Healthcare company eight-month blocking example
-  - Bank POC limitations with play graphs only
-  - Open source enabling engineer evaluation
+  - Open Source Strategy
+  - Enterprise Sales Barriers
+  - Product Market Fit
+  - TAB for Iteration
 tags:
   - open-source
   - ai
@@ -37,10 +34,6 @@ topic_tags:
   - open-source-strategy
   - enterprise-sales
   - organizational-barriers
-  - poc-limitations
-  - engineer-evaluation
-  - healthcare-company
-  - bank-restrictions
 entities:
   - TAB (Technical Advisory Board)
   - Healthcare company

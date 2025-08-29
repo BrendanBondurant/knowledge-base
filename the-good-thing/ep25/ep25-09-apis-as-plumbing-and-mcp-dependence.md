@@ -17,17 +17,20 @@ speakers:
   - Kevin
   - Jens
 topics:
-  - APIs as digital plumbing analogy
-  - Bachelor party HVAC conference story
-  - API ubiquity in digital systems
-  - MCP and API relationship misconceptions
-  - Distributed systems and API inevitability
+  - APIs as Plumbing
+  - MCP and API Relationship
+  - Distributed Systems
+  - API Proliferation
 tags:
   - graphql
   - mcp
   - ai
   - api-design
   - go
+topic_tags:
+  - graphql
+  - mcp
+  - ai
 entities:
   - HVAC and plumbing convention
   - Bachelor party

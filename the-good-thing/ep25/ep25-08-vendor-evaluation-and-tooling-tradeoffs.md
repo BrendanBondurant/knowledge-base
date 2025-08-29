@@ -17,16 +17,19 @@ speakers:
   - Jens
   - Kevin
 topics:
-  - CTO decision-making and risk management
-  - Analyst shortlist benefits for vendor evaluation
-  - Kevin's tool recommendations and approach
-  - Open source vs commercial gateway options
-  - SaaS control plane with distributed data plane architecture
+  - Vendor Evaluation
+  - Tooling Tradeoffs
+  - Open Source Options
+  - SaaS and GitOps Approaches
 tags:
   - ai
   - api-design
   - open-source
   - go
+  - startup
+topic_tags:
+  - api-design
+  - open-source
   - startup
 entities:
   - Fortune 100 companies

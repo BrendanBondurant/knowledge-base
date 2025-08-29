@@ -8,7 +8,6 @@ participants:
   - Jens
   - Stefan
 segment: Open source, infrastructure vs. collaboration, and value perception
-
 timecode: 00:16:56:18 - 00:20:15:18
 start_time: 00:16:56:18
 end_time: 00:20:15:18
@@ -16,34 +15,25 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Open source
-  - Infrastructure vs. collaboration
-  - Value perception
-  - Product strategy
-  - Pricing models
-  - Customer needs
-summary: |
-  Jens and Stefan explore the differences between infrastructure and collaboration tools, the value perception of each, and how open source plays a role in product strategy and pricing models.
+  - Open Source
+  - Infrastructure vs Collaboration
+  - Value Perception
+  - Pricing Models
 tags:
+  - startup
   - federation
   - graphql-federation
   - ai
   - open-source
-  - startup
-  - startup
   - cosmo
   - cosmo-router
   - go
   - graphql
 topic_tags:
+  - startup
   - federation
-  - graphql-federation
+  - graphql
   - ai
-  - open-source-strategy
-  - infrastructure-vs-collaboration
-  - product-strategy
-  - pricing-models
-  - customer-value
 entities:
   - Stefan Avram
   - Jens Neuse
@@ -60,6 +50,8 @@ mentions:
   - router as open source
   - community adoption strategy
   - subscription functionality
+summary: |
+  Jens and Stefan explore the differences between infrastructure and collaboration tools, the value perception of each, and how open source plays a role in product strategy and pricing models.
 ---
 
 00:16:56:18 - 00:20:15:18

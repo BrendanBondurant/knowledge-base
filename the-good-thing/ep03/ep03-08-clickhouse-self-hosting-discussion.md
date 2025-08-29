@@ -35,6 +35,8 @@ tags:
   - telemetry
 topic_tags:
   - cosmo
+  - database
+  - kubernetes
 entities:
   - Stefan
   - Dustin

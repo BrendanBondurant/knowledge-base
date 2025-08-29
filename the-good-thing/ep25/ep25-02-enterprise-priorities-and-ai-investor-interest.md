@@ -17,11 +17,10 @@ speakers:
   - Kevin
   - Stefan
 topics:
-  - Differences between vendor and consulting perspectives
-  - Customer relationship dynamics
-  - Enterprise platform teams as intermediaries
-  - Investor interest in AI and API companies
-  - Changing priorities and decision-making processes
+  - Vendor vs Consulting Perspectives
+  - Enterprise Platform Teams
+  - Investor AI Interest
+  - Customer Priorities
 tags:
   - mcp
   - ai
@@ -30,6 +29,10 @@ tags:
   - startup
   - api-design
   - go
+topic_tags:
+  - mcp
+  - ai
+  - rest
 entities:
   - Tyk Technologies
   - WunderGraph

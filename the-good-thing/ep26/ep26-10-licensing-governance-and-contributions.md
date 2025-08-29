@@ -17,12 +17,10 @@ speakers:
   - Jens
   - Sam Lambert
 topics:
-  - Company culture and performance management
-  - CEO coding involvement
-  - CNCF and Vitess relationship
-  - Open source licensing philosophy
-  - BSL vs true open source licenses
-  - Apache 2.0 vs other licensing models
+  - Open Source Governance
+  - Licensing Philosophy
+  - Company Values
+  - CEO Role in Engineering
 tags:
   - ai
   - open-source
@@ -35,6 +33,10 @@ tags:
   - rest
   - startup
   - vitess
+topic_tags:
+  - ai
+  - open-source
+  - websocket
 entities:
   - PlanetScale
   - CNCF

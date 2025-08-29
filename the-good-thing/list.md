@@ -12,7 +12,7 @@
 | 00:23:12 | 00:26:23 | Procrastination, Deep Learning, and Fundamentals                            | ep01-08-procrastination-deep-learning-fundamentals |
 | 00:26:23 | 00:29:55 | Fundamentals, AI Learning, and The Imposters Handbook                       | ep01-09-fundamentals-ai-learning-imposters-handbook |
 | 00:29:55 | 00:32:55 | Realizing What You Don't Know — Seniority and Boldness                      | ep01-10-seniority-boldness-it-depends             |
-| 00:32:55 | 00:36:29 | First Startup Lessons Failure and Flywheels                                 | ep01-11-first-startup-lessons-failure-and-flywheels |
+| 00:32:55 | 00:36:29 | First Startup lessons Failure and Flywheels                                 | ep01-11-first-startup-lessons-failure-and-flywheels |
 | 00:36:30 | 00:39:17 | Marketplace Flywheels and Airbnb Lessons                                    | ep01-12-marketplace-flywheels-and-airbnb-lessons  |
 | 00:39:17 | 00:42:46 | Post-Shake Failure CTO Mindset and Confidence                               | ep01-13-post-shake-failure-cto-mindset-and-confidence |
 | 00:42:46 | 00:46:53 | From Architect to GraphQL Inspiration                                       | ep01-14-from-architect-to-graphql-inspiration     |

@@ -17,10 +17,10 @@ speakers:
   - Robert Farr
   - Jens
 topics:
-  - Building secure agent tools with MCP
-  - Agent session exploration and workflows
-  - Production safety considerations for AI
-  - Security frameworks for AI agents
+  - MCP Agent Workflows
+  - Secure AI Agents
+  - Production Safety
+  - Supergraph as Backbone
 tags:
   - mcp
   - ai-agents

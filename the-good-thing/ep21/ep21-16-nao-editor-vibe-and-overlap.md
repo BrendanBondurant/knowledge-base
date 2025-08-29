@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Nao pricing and positioning critique
-  - Data security concerns with "vibing"
-  - Inevitable IDE feature convergence
-  - Amy AI agent introduction
+  - Nao Pricing Issues
+  - Data Security Concerns
+  - IDE Feature Convergence
+  - Amy VC Agent Introduction
 tags:
   - ai
   - database
@@ -26,6 +26,8 @@ tags:
   - startup
   - api-design
   - go
+topic_tags:
+  - ai
 entities:
   - Nao
   - Cursor

@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Bootcamp limitations vs real-world experience
-  - AI making developers 10x faster vs replacing them
-  - Constant relearning in technology careers
-  - Technology obsolescence every 17 years
-  - Medical field stability vs tech evolution
-  - Cloud deployment simplification with AI
+  - AI Productivity
+  - Developer Evolution
+  - Career Development
+  - Technology Obsolescence
 tags:
   - ai
   - database
@@ -30,9 +28,6 @@ topic_tags:
   - ai-productivity
   - developer-evolution
   - career-development
-  - technology-obsolescence
-  - learning-curve
-  - imposter-syndrome
 entities:
   - Cursor
   - ChatGPT

@@ -8,7 +8,6 @@ participants:
   - Jens
   - Stefan
 segment: Open source efficiency, code quality, and procurement
-
 timecode: 00:31:41:11 - 00:36:26:27
 start_time: 00:31:41:11
 end_time: 00:36:26:27
@@ -16,20 +15,16 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Open source efficiency
-  - Code quality
+  - Open Source Efficiency
+  - Code Quality
   - Procurement
-  - Sales
-  - Product adoption
-  - Startup operations
-summary: |
-  Jens and Stefan discuss the efficiency benefits of open source, the impact on code quality, and how open source can streamline procurement and sales processes for startups.
+  - Sales Strategy
 tags:
+  - startup
   - federation
   - graphql-federation
   - ai
   - open-source
-  - startup
   - api-design
   - apollo-graphql
   - benchmarking
@@ -41,15 +36,9 @@ tags:
   - rest-apis
   - rest-connectors
 topic_tags:
-  - federation
-  - graphql-federation
+  - startup
+  - open-source
   - ai
-  - open-source-strategy
-  - code-quality
-  - enterprise-procurement
-  - sales-process
-  - product-adoption
-  - startup-operations
 entities:
   - Stefan Avram
   - Jens Neuse
@@ -61,6 +50,8 @@ mentions:
   - sales cycle acceleration
   - developer adoption patterns
   - enterprise evaluation criteria
+summary: |
+  Jens and Stefan discuss the efficiency benefits of open source, the impact on code quality, and how open source can streamline procurement and sales processes for startups.
 ---
 
 00:31:41:11 - 00:36:26:27

@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Amy's VC associate automation platform
-  - Private market investor tooling
-  - Due diligence and portfolio management
-  - Landing page messaging critique
+  - Amy VC Automation
+  - Associate Task Replacement
+  - Portfolio Management
+  - Landing Page Messaging
 tags:
   - ai
   - startup

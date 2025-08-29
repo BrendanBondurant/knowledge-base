@@ -17,12 +17,10 @@ speakers:
   - Jens
   - Sam Lambert
 topics:
-  - Scale orchestration satisfaction
-  - AI impact on database industry
-  - Cursor as customer and tool
-  - AI-specific database constraints
-  - Data generation for AI training
-  - Development tool integration
+  - AI Impact on Databases
+  - Data Generation for Training
+  - Cursor Integration
+  - Development Tooling
 tags:
   - ai
   - database
@@ -34,8 +32,6 @@ topic_tags:
   - ai-impact
   - database-usage
   - cursor-integration
-  - ai-data-patterns
-  - development-tools
 entities:
   - AI
   - Cursor

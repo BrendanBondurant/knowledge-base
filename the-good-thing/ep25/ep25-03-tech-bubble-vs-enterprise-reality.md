@@ -17,11 +17,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - What becomes irrelevant vs what stays relevant in tech
-  - Infrastructure companies becoming "boring"
-  - Tech industry bubble vs real enterprise adoption
-  - Media focus on bleeding edge vs actual enterprise usage
-  - Mainframe computing persistence example
+  - Tech Relevance vs Irrelevance
+  - Infrastructure Adoption
+  - Media vs Enterprise Reality
+  - Mainframe Persistence
 tags:
   - ai
   - rest
@@ -31,6 +30,10 @@ tags:
   - go
   - llm
   - startup
+topic_tags:
+  - ai
+  - rest
+  - llm
 entities:
   - TechCrunch
   - ChatGPT

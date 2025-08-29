@@ -15,19 +15,18 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Why the podcast is called "The Good Thing"
-  - Engineering as tradeoffs
-  - Co-host dynamic and format
-  - First intro to Jens
+  - Podcast Origins
+  - Tradeoffs in Engineering
+  - Co-host Dynamic
+  - GraphQL and Federation
 tags:
   - graphql
   - startup
   - founder
 topic_tags:
-  - podcast-intro
-  - engineering-philosophy
-  - tradeoffs
-  - GraphQL
+  - graphql
+  - startup
+  - founder
 entities:
   - The Good Thing
   - WunderGraph

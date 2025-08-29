@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - AI blackmail headlines and media sensationalism
-  - LLM behavior misunderstanding and misconceptions
-  - AI intelligence vs pattern matching
-  - Critical analysis of AI news coverage
+  - AI Blackmail Headlines
+  - Media Sensationalism
+  - LLM Misunderstandings
+  - Intelligence vs Pattern Matching
 tags:
   - ai
   - llm
@@ -28,9 +28,6 @@ topic_tags:
   - ai-blackmail
   - media-sensationalism
   - llm-behavior
-  - ai-misconceptions
-  - pattern-matching
-  - ai-news-analysis
 entities:
   - Stefan Avram
   - Jens Neuse

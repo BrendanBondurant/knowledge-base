@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Lovable's rapid growth and funding
-  - European unicorn achievement
-  - Defensibility and scalability concerns
-  - AI coding tool competition
-  - Long-term viability questions
-  - Dot-com bubble comparisons
+  - Lovable AI Growth
+  - Startup Defensibility
+  - Bubble Comparisons
+  - Market Competition
 tags:
   - ai
   - rest
@@ -31,6 +29,10 @@ tags:
   - founder
   - go
   - telemetry
+topic_tags:
+  - ai
+  - startup
+  - market-dynamics
 entities:
   - Lovable
   - Crandham

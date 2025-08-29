@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Startup layoff accountability and bottom 20% theory
-  - Startup growth mechanics and profitability timelines
-  - Market expectations vs actual performance
-  - Runway management and cash flow planning
-  - Founder responsibility and strategy ownership
-  - External capital funding for fast growth
+  - Startup Layoff Strategy
+  - Founder Accountability
+  - Growth vs Profitability
+  - Runway and Cash Flow
 tags:
   - startup
   - founder
@@ -35,9 +33,6 @@ topic_tags:
   - startup-mechanics
   - founder-accountability
   - layoff-strategy
-  - growth-expectations
-  - runway-management
-  - profitability-planning
 entities:
   - Startups
 mentions:

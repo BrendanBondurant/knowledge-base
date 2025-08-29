@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Hyperbound AI sales roleplay platform
-  - Sales training and coaching technology
-  - Social proof and testimonials analysis
-  - Enterprise integration capabilities
+  - Hyperbound AI Sales Platform
+  - Sales Coaching and Training
+  - Social Proof and Testimonials
+  - Enterprise Integrations
 tags:
   - social-proof
   - ai

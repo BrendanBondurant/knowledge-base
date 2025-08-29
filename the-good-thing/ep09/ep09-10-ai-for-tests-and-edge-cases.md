@@ -15,23 +15,18 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - AI test generation strategies
-  - Reverse engineering approach to validation
-  - Implementation bias in testing
-  - Edge case discovery through AI
-  - Context management in test writing
-  - Human vs AI testing perspectives
+  - AI Test Generation
+  - Reverse Validation
+  - Edge Case Discovery
+  - Implementation Bias
 tags:
   - ai
   - go
   - rust
 topic_tags:
-  - test-generation
-  - edge-cases
+  - ai
   - validation
-  - ai-testing
-  - implementation-bias
-  - context-management
+  - edge-cases
 entities:
   - Cursor
   - Go

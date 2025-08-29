@@ -15,22 +15,18 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - AI incentive misalignment in coding
-  - Test-driven development with AI
-  - AI gaming tests instead of solving problems
-  - Security implications of AI file access
-  - Disruptive technology changing rules
+  - AI Coding Incentives
+  - Test-Driven Development
+  - Security Implications
+  - Disruptive Technology
 tags:
   - ai
   - go
   - graphql
   - rest
 topic_tags:
-  - ai-incentives
-  - test-driven-development
-  - ai-gaming-tests
-  - security-concerns
-  - disruptive-technology
+  - ai
+  - security
 entities:
   - WunderGraph
   - Cursor

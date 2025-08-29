@@ -17,9 +17,9 @@ speakers:
   - Jens
   - Dustin
 topics:
-  - MCP metaphors and explanations
-  - Federation as a gateway
-  - Tool descriptions and accessibility
+  - MCP Metaphors
+  - Federation Gateway
+  - Tool Accessibility
 tags:
   - mcp
   - federation
@@ -32,8 +32,8 @@ tags:
   - rust
 topic_tags:
   - mcp
-  - metaphors
   - federation
+  - ai
 entities:
   - Stefan Avram
   - Jens Neuse

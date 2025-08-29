@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - Root type schema slicing
-  - Vector database implementation
-  - Embeddings model explanation
-  - Semantic similarity mapping
-  - Query-to-schema matching
-  - Natural language processing concepts
+  - Root Type Slicing
+  - Vector Databases
+  - Embeddings Models
+  - Query Mapping
 tags:
   - graphql
   - ai

@@ -15,10 +15,11 @@ speakers:
   - Stefan
   - Dustin
 topics:
-  - Role Evolution
-  - Technical Founder
-  - Startup Lessons
-  - AI Impact
+  - AI Tools
+  - Development Workflow
+  - Copilot
+  - Cursor
+  - Learning
 tags:
   - startup
   - ai
@@ -28,6 +29,7 @@ tags:
 topic_tags:
   - startup
   - ai
+  - founder
 entities:
   - Dustin
   - Stefan

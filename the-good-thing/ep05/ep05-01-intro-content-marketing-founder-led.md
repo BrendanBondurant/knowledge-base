@@ -15,16 +15,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Podcast introduction
-  - Content marketing
-  - Founder-led content
-  - Authenticity in marketing
-  - Building a brand
-  - Developer tools
-  - Podcasting
-  - Content creation
-  - Company culture
-  - Personal stories
+  - Podcast Introduction
+  - Content Marketing
+  - Founder-Led Content
+  - Authenticity in Marketing
+  - Brand Building
 tags:
   - founder
   - authenticity
@@ -39,11 +34,9 @@ tags:
   - rust
   - startup
 topic_tags:
-  - introduction
-  - content-marketing
-  - founder-led
-  - authenticity
-  - podcast
+  - startup
+  - founder
+  - graphql
 entities:
   - Stefan
   - Jens

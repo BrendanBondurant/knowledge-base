@@ -15,18 +15,20 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Switching from Java to Go for lighter backend dev
-  - Early fear and avoidance of programming
-  - Playing strategy games instead of coding
-  - Learning by doing vs. academic learning
-  - "Just do things" mindset in engineering
-  - Programming compared to learning soccer
+  - Gaming and Fear
+  - Go Language Adoption
+  - Just Do Things Mindset
+  - Learning by Building
 tags:
   - go
   - resilience
   - founder
   - ai
   - rest
+topic_tags:
+  - go
+  - resilience
+  - founder
 entities:
   - Jens Neuse
   - Stefan Avram

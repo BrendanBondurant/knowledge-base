@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Hypermedia APIs and REST
-  - LLM agents and API design
-  - OpenAPI specifications
-  - GraphQL vs hypermedia
-  - Future of API design
+  - Hypermedia APIs
+  - LLM Agents
+  - OpenAPI vs GraphQL
+  - Future of API Design
 tags:
   - hypermedia-apis
   - ai-agents
@@ -37,11 +36,9 @@ tags:
   - rest
   - startup
 topic_tags:
-  - hypermedia-apis
-  - llm-agents
-  - rest-apis
-  - openapi
+  - ai
   - api-design
+  - startup
 entities:
   - WunderGraph
   - GraphQL Federation

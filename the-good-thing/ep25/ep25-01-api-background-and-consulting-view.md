@@ -17,11 +17,10 @@ speakers:
   - Jens
   - Kevin
 topics:
-  - Kevin Swiber introduction and background
-  - API industry experience and expertise
-  - Transition from vendor to consulting
-  - Open API initiative involvement
-  - API gateway development at Apogee
+  - API Industry Expertise
+  - Consulting vs Vendor Roles
+  - Open API Initiative
+  - Gateway Development
 tags:
   - api-expert
   - api-gateway

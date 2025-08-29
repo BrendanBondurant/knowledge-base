@@ -15,13 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Open source trial advantages over closed source
-  - Shortened sales cycles through easy evaluation
-  - Healthcare company staging environment setup
-  - Eight-month advantage over closed source competitors
-  - Open source maintenance and collaboration overhead
-  - Managed service value proposition
-  - When to transition from open source to managed
+  - Open Source Funnel
+  - Sales Cycle Acceleration
+  - Managed Services Value
+  - Cosmo Lite Introduction
 tags:
   - open-source
   - ai
@@ -39,9 +36,6 @@ topic_tags:
   - open-source-funnel
   - sales-cycle
   - managed-services
-  - maintenance-overhead
-  - competitive-advantage
-  - staging-environment
 entities:
   - Lovable
   - Cosmo

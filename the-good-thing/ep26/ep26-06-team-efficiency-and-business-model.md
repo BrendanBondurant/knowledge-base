@@ -17,12 +17,10 @@ speakers:
   - Jens
   - Sam Lambert
 topics:
-  - Team composition and roles
-  - Marketing and sales approach
-  - Technical content strategy
-  - Founder-led sales process
-  - Enterprise customer concerns about company size
-  - Profitability and business sustainability
+  - Lean Team Structure
+  - Marketing and Sales Strategy
+  - Founder-Led Sales
+  - Business Sustainability
 tags:
   - ai
   - database
@@ -31,6 +29,10 @@ tags:
   - composition
   - go
   - rest
+  - startup
+topic_tags:
+  - database
+  - founder
   - startup
 entities:
   - PlanetScale

@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Universal AI adoption at Shopify (all roles)
-  - Small business AI adoption challenges
-  - User experience abstraction for non-technical users
-  - MCP configuration complexity
-  - Cursor's rapid growth (0 to 200M ARR)
+  - Universal AI Adoption
+  - UX Abstraction
+  - MCP Configuration
+  - Cursor Growth
 tags:
   - mcp
   - ai
@@ -32,13 +31,9 @@ tags:
   - query-planning
   - rest-connectors
 topic_tags:
-  - universal-ai-adoption
-  - small-business
-  - user-experience
-  - non-technical-users
-  - cursor-growth
-  - mcp-configuration
-  - accessibility
+  - ai
+  - mcp
+  - cursor
 entities:
   - Shopify
   - Cursor

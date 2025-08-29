@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Immediate benefits presentation strategy
-  - Quantified business impact metrics
-  - Social proof through major customers
-  - Build time and performance improvements
-  - Business-focused value proposition
+  - Vercel Benefits
+  - Social Proof
+  - Business Impact Metrics
+  - Performance Improvements
 tags:
   - social-proof
   - ai

@@ -15,13 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - Rust borrow checker complexity
-  - AST transformation challenges
-  - Garbage collection advantages
-  - TypeScript to Go migration
-  - AI development language preferences
-  - TypeScript compiler integration
-  - Kotlin for backend development
+  - Rust Borrow Checker
+  - Garbage Collection Benefits
+  - AI Language Choices
+  - Compiler Development
 tags:
   - ai
   - typescript
@@ -30,12 +27,8 @@ tags:
   - rust
 topic_tags:
   - garbage-collection
-  - rust-borrow-checker
-  - ast-transformation
-  - ai-languages
+  - rust
   - typescript
-  - kotlin
-  - compiler-feedback
 entities:
   - Rust
   - Go

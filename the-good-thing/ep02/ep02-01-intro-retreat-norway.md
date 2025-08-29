@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Episode introduction and apologies
-  - Retreat experience in Alta, Norway
-  - Dog sledding and snowmobiling activities
-  - Remote company culture
+  - Episode Introduction
+  - Retreat in Norway
+  - Dog Sledding and Snowmobiling
+  - Remote Company Culture
 tags:
   - startup
   - founder

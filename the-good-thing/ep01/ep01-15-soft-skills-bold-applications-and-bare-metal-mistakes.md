@@ -15,13 +15,12 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Collaborative API focus and entry into federation
-  - Applying above your level to accelerate growth
-  - Importance of soft skills in career progression
-  - Startup politics and engineering credibility
-  - Meeting WunderGraph cofounder at early job
-  - Build versus buy mindset shift
-  - Rejecting AWS for bare metal in early infra days
+  - Soft Skills
+  - Bold Career Moves
+  - Startup Politics
+  - Engineering Credibility
+  - Build vs Buy Lessons
+  - Meeting Cofounder
 tags:
   - graphql
   - ai
@@ -34,6 +33,9 @@ tags:
   - startup
 topic_tags:
   - graphql
+  - api-design
+  - federation
+  - startup
 entities:
   - Jens Neuse
   - Stefan Avram

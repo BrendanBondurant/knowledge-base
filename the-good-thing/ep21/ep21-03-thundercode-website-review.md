@@ -15,15 +15,16 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - ThunderCode website analysis
-  - AI testing agent messaging critique
-  - European startup location disadvantage
-  - Generic AI marketing language criticism
+  - ThunderCode Website Review
+  - AI Testing Agents
+  - Startup Messaging Issues
+  - Location Disadvantage
 tags:
   - ai
   - startup
-  - ai
   - go
+topic_tags:
+  - ai
 entities:
   - ThunderCode
   - Stefan Avram

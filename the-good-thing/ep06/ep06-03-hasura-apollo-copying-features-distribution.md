@@ -8,7 +8,6 @@ participants:
   - Stefan
   - Jens
 segment: Hasura, Apollo, copying features, and the importance of distribution
-
 timecode: 00:04:54:07 - 00:07:17:15
 start_time: 00:04:54:07
 end_time: 00:07:17:15
@@ -18,28 +17,19 @@ speakers:
 topics:
   - Hasura
   - Apollo
-  - Copying features
-  - Distribution vs. features
-  - Product strategy
-  - Startup mistakes
-  - Market entry
+  - Copying Features
+  - Distribution vs Features
+  - Startup Mistakes
 tags:
+  - startup
   - graphql
   - apollo-graphql
-  - startup
-  - startup
   - api-design
   - go
 topic_tags:
+  - startup
   - graphql
   - apollo-graphql
-  - startup
-  - hasura
-  - apollo
-  - feature-copying
-  - distribution-strategy
-  - product-strategy
-  - competitive-markets
 entities:
   - Stefan Avram
   - Jens Neuse

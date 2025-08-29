@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Curtis from Uber's federation blog post
-  - GraphQL Foundation working group analysis
-  - Hot Chocolate (ChilliCream) dominance in spec development
-  - Federation spec collaboration concerns
-  - Market adoption and Gartner hype cycle positioning
-  - Alternative approaches to federation
+  - Federation Working Group
+  - Spec Development Concerns
+  - Market Adoption Challenges
+  - Alternative Approaches
 tags:
   - federation
   - graphql-federation
@@ -33,6 +31,10 @@ tags:
   - apollo-graphql
   - go
   - rest
+topic_tags:
+  - federation
+  - graphql-federation
+  - working-groups
 entities:
   - Curtis (Uber)
   - GraphQL Foundation

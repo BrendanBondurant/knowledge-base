@@ -17,17 +17,20 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Magic Quadrant positioning and market leadership
-  - Analyst model benefits and misconceptions
-  - API space complexity and vendor overlap
-  - Trusted third-party evaluation needs
-  - Purchase decision support systems
+  - Analyst Influence
+  - Magic Quadrant
+  - Vendor Complexity
+  - Purchase Decision Support
 tags:
   - ai
   - rust
   - rest
   - api-design
   - go
+  - startup
+topic_tags:
+  - rest
+  - api-design
   - startup
 entities:
   - Kong

@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - Model Context Protocol definition
-  - Anthropic protocol design
-  - Client-server architecture
-  - JSON-RPC communication
-  - Tool execution differences
-  - Traditional tool API limitations
+  - Model Context Protocol
+  - Client-Server Architecture
+  - JSON-RPC Communication
+  - Tool Execution Differences
 tags:
   - mcp
   - ai
@@ -30,11 +28,8 @@ tags:
   - rest
 topic_tags:
   - mcp
-  - model-context-protocol
-  - anthropic
-  - json-rpc
-  - tool-apis
-  - protocol-design
+  - ai
+  - api-design
 entities:
   - Model Context Protocol
   - Anthropic

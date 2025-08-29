@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Compute reselling problems
-  - Vercel vs AWS wrapper distinction
-  - Developer purchasing behavior
-  - Self-hosting preference over markup
-  - Startup reliability challenges
-  - Railway and Fly.io experiences
+  - Compute Reselling Issues
+  - Collaboration vs Compute
+  - Vercel vs AWS Wrappers
+  - Startup Reliability
 tags:
   - startup
   - ai
@@ -28,11 +26,8 @@ tags:
   - go
   - rust
 topic_tags:
+  - startup
   - compute-reselling
-  - aws-wrappers
-  - developer-purchasing
-  - self-hosting-preference
-  - startup-reliability
   - vercel-strategy
 entities:
   - Prisma

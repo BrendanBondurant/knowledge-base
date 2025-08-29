@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Engineering hiring priorities
-  - Team player vs 10x engineer mentality
-  - Junior vs senior developer preferences
-  - Marathon runners vs sprinters
-  - Remote team collaboration
+  - Engineering Hiring
+  - Team Players vs 10x Engineers
+  - Junior vs Senior Developers
+  - Marathon Runners vs Sprinters
 tags:
   - startup
   - founder

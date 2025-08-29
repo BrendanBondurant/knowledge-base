@@ -15,16 +15,18 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Sentry landing page design review
-  - Trust signals and social proof
-  - Call-to-action placement strategy
-  - Developer-focused design playfulness
-  - Creative vs traditional landing page approaches
+  - Sentry Landing Page
+  - Trust Signals
+  - Call-to-Action Strategy
+  - Playful Design
 tags:
   - ai
   - rust
   - startup
   - go
+  - observability
+topic_tags:
+  - startup
   - observability
 entities:
   - Sentry

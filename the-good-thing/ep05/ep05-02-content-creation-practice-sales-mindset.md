@@ -15,22 +15,13 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Content creation
-  - Practice and improvement
-  - Blog writing
-  - Sales mindset
-  - Overcoming fear of rejection
-  - Startup beginnings
-  - Learning by doing
-  - Customer feedback
-  - Sales calls
-  - Building confidence
-tags:
+  - Content Creation
+  - Practice and Improvement
+  - Sales Mindset
+  - Startup Beginnings
+  - Customer Feedback
+topic_tags:
   - startup
-  - ai
-  - api-design
-  - go
-  - rest
 topic_tags:
   - startup
 entities:

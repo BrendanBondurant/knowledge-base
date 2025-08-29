@@ -15,12 +15,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - gRPC as the future of GraphQL Federation
-  - Federation complexity and type safety issues
-  - Moving GraphQL layer from subgraph to router
-  - Compiler-generated gRPC specs
-  - Data loading and batching solutions
-  - WunderGraph's approach to Federation
+  - gRPC Federation
+  - Federation Complexity
+  - Type Safety Issues
+  - Router-Based Approach
+  - Data Loading Solutions
 tags:
   - grpc
   - federation
@@ -40,6 +39,10 @@ tags:
   - rest-connectors
   - startup
   - typescript
+topic_tags:
+  - grpc
+  - federation
+  - graphql-federation
 entities:
   - WunderGraph
   - Cosmo Router

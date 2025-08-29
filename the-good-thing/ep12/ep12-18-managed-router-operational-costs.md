@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Apollo's managed router critique
-  - Platform team operational overhead
-  - Cost analysis of managed vs self-hosted
-  - Multi-company incident collaboration
-  - Federation operational requirements
-  - Margin analysis on compute reselling
+  - Apollo Managed Router Critique
+  - Operational Costs
+  - Platform Team Overhead
+  - Compute Reselling Margins
 tags:
   - federation
   - ai
@@ -33,8 +31,8 @@ tags:
   - telemetry
 topic_tags:
   - federation
-  - ai
   - apollo-graphql
+  - ai
 entities:
   - Apollo
   - AWS

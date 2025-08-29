@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Schema checks and graph pruning capabilities
-  - Feature flags underrepresentation on landing page
-  - Missing customer success metrics
-  - QA time reduction benefits
-  - Contract testing replacement value
+  - Schema Checks
+  - Feature Flags
+  - Customer Success Metrics
+  - Performance Proof
 tags:
   - schema-checks
   - ai

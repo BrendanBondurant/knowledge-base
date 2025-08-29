@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Episode wrap-up and closing thoughts
-  - WunderGraph hiring information
-  - Company benefits and culture
-  - Next episode schedule
-  - Final remarks
+  - Episode Wrap-up
+  - Hiring Opportunities
+  - Company Culture
+  - Next Episode Preview
 tags:
   - startup
   - founder
@@ -33,6 +32,7 @@ tags:
 topic_tags:
   - startup
   - founder
+  - ai
 entities:
   - WunderGraph
   - The Good Thing Podcast

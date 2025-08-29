@@ -32,11 +32,9 @@ tags:
   - rest
   - telemetry
 topic_tags:
-  - startup-credits
+  - startup
   - business-focus
   - customer-value
-  - technical-vs-business
-  - vc-funding
 entities:
   - Stefan
   - Dustin

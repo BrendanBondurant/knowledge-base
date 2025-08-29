@@ -15,12 +15,10 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - AI-powered GraphQL query generation
-  - Natural language to GraphQL translation
-  - Business user access to APIs
-  - Schema navigation challenges
-  - Developer productivity improvements
-  - Large schema complexity (GitHub example)
+  - AI Query Generation
+  - Natural Language to GraphQL
+  - Business User Access
+  - Schema Navigation Challenges
 tags:
   - ai
   - api-design
@@ -30,12 +28,9 @@ tags:
   - graphql-federation
   - supergraph
 topic_tags:
-  - ai-tools
-  - query-generation
-  - developer-experience
-  - schema-complexity
-  - business-users
-  - accessibility
+  - ai
+  - federation
+  - graphql
 entities:
   - GitHub
   - GraphQL

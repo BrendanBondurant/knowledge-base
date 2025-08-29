@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Using ChatGPT Deep Research for RFC development
-  - AI as research assistant vs code generator
-  - Reimagining developer role as problem solver
-  - Evolution from code writing to prompt engineering
-  - Internet adoption parallels with AI adoption
+  - AI Research
+  - Prompt Engineering
+  - Problem-Solving
+  - Developer Role Evolution
 tags:
   - ai
   - api-design
@@ -30,8 +29,6 @@ topic_tags:
   - ai-research
   - prompt-engineering
   - problem-solving
-  - rfc-development
-  - developer-evolution
 entities:
   - ChatGPT
   - Cursor

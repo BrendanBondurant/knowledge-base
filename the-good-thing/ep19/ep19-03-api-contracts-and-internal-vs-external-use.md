@@ -17,10 +17,10 @@ speakers:
   - Robert Farr
   - Jens
 topics:
-  - Role of APIs at Procore in large-scale systems
-  - Internal vs external API design considerations
-  - API contracts and governance in enterprise environments
-  - Architectural patterns for system integration
+  - API Role at Procore
+  - Internal vs External APIs
+  - API Contracts and Governance
+  - System Integration Patterns
 tags:
   - api-design
   - contracts
@@ -34,7 +34,6 @@ topic_tags:
   - api-design
   - contracts
   - governance
-  - internal-apis
 entities:
   - Procore
   - Robert Farr

@@ -15,13 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - First-time founder naivety benefits
-  - Building right product at wrong time
-  - Being 5 years ahead of market
-  - GraphQL ecosystem evolution
-  - WunderGraph origins and Apollo Summit
-  - Market timing challenges
-  - MCP explanation
+  - Naivety Benefits
+  - Market Timing
+  - GraphQL Evolution
+  - MCP Explanation
 tags:
   - startup
   - mcp
@@ -36,12 +33,9 @@ tags:
   - llm
   - rest
 topic_tags:
-  - market-timing
-  - product-development
-  - graphql-history
-  - first-time-founders
+  - startup
   - mcp
-  - apollo-summit
+  - graphql
 entities:
   - WunderGraph
   - Apollo

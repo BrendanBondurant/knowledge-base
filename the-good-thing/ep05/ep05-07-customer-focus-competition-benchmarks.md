@@ -15,20 +15,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Customer focus
+  - Customer Focus
   - Competition
   - Benchmarks
-  - Company values
-  - Product differentiation
-  - Support culture
-  - Copycat competitors
-  - False marketing
-  - Drama in tech
-  - Benchmark manipulation
-  - Real-world use cases
-  - Synthetic benchmarks
-  - Performance
-  - Product improvement
+  - Copycat Competitors
+  - Product Differentiation
 tags:
   - startup
   - ai
@@ -42,12 +33,9 @@ tags:
   - postgres
   - rust
 topic_tags:
-  - customer-focus
-  - competition
+  - startup
   - benchmarks
-  - technical-validation
-  - startup-strategy
-  - market-positioning
+  - graphql
 entities:
   - Stefan Avram
   - Jens Neuse

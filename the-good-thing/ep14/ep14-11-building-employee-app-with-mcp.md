@@ -16,11 +16,10 @@ speakers:
   - Dustin
   - Stefan
 topics:
-  - Prompt engineering to prevent LLM hallucination
-  - MCP Inspector tool for debugging
-  - Real-time Next.js app generation
-  - Tool permission management
-  - Non-technical prompt requirements
+  - Prompt Engineering
+  - MCP Inspector
+  - Real-Time App Generation
+  - Tool Permissions
 tags:
   - mcp
   - ai

@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Unreal Engine free distribution strategy
-  - Epic Games founder business philosophy
-  - Open source for mass volume adoption
-  - Competitive advantage through ubiquity
-  - Ten-year horizon thinking for Federation
+  - Open Source Strategy
+  - Mass Adoption
+  - Competitive Advantage
+  - Long-Term Federation Vision
 tags:
   - open-source
   - federation
@@ -32,11 +31,8 @@ tags:
   - rest
   - startup
 topic_tags:
-  - unreal-engine
   - open-source-strategy
   - mass-adoption
-  - epic-games
-  - federation
   - competitive-strategy
 entities:
   - Epic Games

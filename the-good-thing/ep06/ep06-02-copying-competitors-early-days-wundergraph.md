@@ -8,7 +8,6 @@ participants:
   - Stefan
   - Jens
 segment: Should you copy your competitors? Early days of WunderGraph
-
 timecode: 00:02:32:20 - 00:04:54:07
 start_time: 00:02:32:20
 end_time: 00:04:54:07
@@ -16,34 +15,23 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Copying competitors
-  - Startup strategy
-  - Early days of WunderGraph
-  - Copycat accusations
-  - Product differentiation
-  - Team stories
-summary: |
-  Stefan and Jens introduce the main theme of the episode: should you copy your competitors? They discuss the early days of WunderGraph, accusations of being a copycat, and the reality of product differentiation in the devtools space.
+  - Copying Competitors
+  - Startup Strategy
+  - Early Days of WunderGraph
+  - Product Differentiation
 tags:
+  - startup
   - federation
   - ai
   - cosmo
-  - startup
-  - startup
   - apollo-graphql
   - go
   - graphql-federation
   - rest
 topic_tags:
+  - startup
   - federation
-  - ai
   - cosmo
-  - copying-competitors
-  - startup-strategy
-  - product-differentiation
-  - copycat-accusations
-  - devtools-space
-  - wundergraph-origin
 entities:
   - Stefan Avram
   - Jens Neuse
@@ -55,6 +43,8 @@ mentions:
   - product differentiation
   - devtools space dynamics
   - startup strategy
+summary: |
+  Stefan and Jens introduce the main theme of the episode: should you copy your competitors? They discuss the early days of WunderGraph, accusations of being a copycat, and the reality of product differentiation in the devtools space.
 ---
 
 00:02:32:20 - 00:02:45:19

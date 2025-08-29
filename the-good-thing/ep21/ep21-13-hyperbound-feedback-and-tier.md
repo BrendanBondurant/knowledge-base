@@ -15,15 +15,17 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Hyperbound enterprise features evaluation
-  - Sales training differentiation assessment
-  - Market competition analysis
-  - Tier placement decision
+  - Hyperbound Differentiation
+  - Enterprise Features
+  - Sales Training Market
+  - Tier Placement
 tags:
   - ai
   - websocket
   - startup
   - go
+topic_tags:
+  - ai
 entities:
   - Hyperbound
   - Stefan Avram

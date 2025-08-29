@@ -15,22 +15,17 @@ speakers:
   - Jens
   - Cameron
 topics:
-  - Vector similarity search process
-  - Query validation techniques
-  - Hallucination prevention
-  - Multi-step validation approach
-  - Linter-style feedback loops
-  - Cursor AI development patterns
+  - Query Validation
+  - Hallucination Prevention
+  - Linter Feedback Loops
+  - Cursor AI Development
 tags:
   - ai
   - go
   - graphql
 topic_tags:
-  - query-validation
-  - feedback-loops
-  - hallucination-prevention
-  - ai-development
-  - linting
+  - ai
+  - graphql
   - cursor
 entities:
   - GraphQL

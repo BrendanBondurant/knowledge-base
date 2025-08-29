@@ -19,13 +19,10 @@ speakers:
   - Dustin
   - Jens
 topics:
-  - Technical vs business thinking transition
-  - Cosmo cold start challenges
-  - Competing against well-funded incumbents
-  - GraphQL Conf marketing creativity
-  - Cosmonaut spacesuit branding
-  - GraphQL-shaped pretzel innovation
-  - Guerrilla marketing tactics
+  - Cold Start Challenges
+  - Competing with Apollo
+  - Guerrilla Marketing
+  - Pretzel Stunt
 tags:
   - federation
   - graphql-federation
@@ -40,7 +37,7 @@ tags:
 topic_tags:
   - federation
   - graphql-federation
-  - ai
+  - startup
 entities:
   - Cosmo
   - Apollo

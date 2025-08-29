@@ -35,6 +35,7 @@ tags:
 topic_tags:
   - telemetry
   - kafka
+  - cosmo
 entities:
   - Stefan
   - Dustin

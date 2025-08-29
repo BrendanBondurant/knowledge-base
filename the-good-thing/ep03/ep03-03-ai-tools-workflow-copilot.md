@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Dustin
 topics:
-  - AI Tools
-  - Development Workflow
-  - Copilot
-  - Cursor
-  - Learning
+  - Hiring
+  - AI-Generated Code
+  - Interview Process
+  - Technical Skills
 tags:
   - ai
   - github-copilot
@@ -27,12 +26,9 @@ tags:
   - llm
   - startup
 topic_tags:
-  - ai-tools
-  - workflow
-  - copilot
-  - cursor
-  - learning
-  - development
+  - ai
+  - github-copilot
+  - startup
 entities:
   - Stefan
   - Dustin

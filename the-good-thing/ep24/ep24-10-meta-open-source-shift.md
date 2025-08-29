@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Meta's potential shift from open source AI
-  - 2 trillion parameter model implications
-  - Hardware requirements and accessibility
-  - Government pressure and AI arms race
-  - Meta's business model evolution
-  - User behavior changes affecting advertising
+  - Meta Open Source Shift
+  - Large AI Models
+  - Government Pressure
+  - Advertising Model Changes
 tags:
   - ai
   - cosmo-router
@@ -32,6 +30,10 @@ tags:
   - go
   - open-source
   - startup
+topic_tags:
+  - ai
+  - open-source
+  - meta
 entities:
   - Meta
   - Alexander Wang

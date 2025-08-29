@@ -17,11 +17,10 @@ speakers:
   - Sergiy
   - David
 topics:
-  - GraphQL Composite Schema working group goals
-  - Eliminating subgraph library requirements
-  - Federation evolution and adoption timeline
-  - Subgraph-level schema clarity for developers
-  - Federated graph size challenges (100,000+ lines)
+  - Composite Schema Working Group
+  - Subgraph Library Elimination
+  - Federation Adoption Timeline
+  - Schema Clarity for Developers
 tags:
   - composite-schema
   - subgraph-libraries
@@ -37,7 +36,8 @@ tags:
   - rest
 topic_tags:
   - composite-schema
-  - subgraph-libraries
+  - federation
+  - graphql
 entities:
   - GraphQL Foundation
   - Composite Schema Working Group

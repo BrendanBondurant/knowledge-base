@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Self-critique of company landing page
-  - GraphQL Federation terminology confusion
-  - Technical jargon accessibility issues
-  - Target audience mismatch problems
-  - Hero messaging clarity problems
+  - WunderGraph Landing Page
+  - Federation Messaging
+  - Technical Jargon
+  - Audience Mismatch
 tags:
   - federation
   - graphql-federation
@@ -34,6 +33,10 @@ tags:
   - open-source
   - startup
   - telemetry
+topic_tags:
+  - federation
+  - graphql-federation
+  - cosmo
 entities:
   - WunderGraph
   - Dustin (CTO)

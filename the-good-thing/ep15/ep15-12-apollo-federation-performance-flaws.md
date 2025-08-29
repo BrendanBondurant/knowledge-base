@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Low code vs no code messaging inconsistency
-  - AI workflow integration buzzwords
-  - Landing page copycat similarities with Kong
-  - Brand messaging alignment issues
-  - Marketing buzzword overuse
+  - Apollo Federation
+  - Messaging Inconsistencies
+  - Buzzword Overuse
+  - Brand Alignment Issues
 tags:
   - federation
   - graphql-federation
@@ -31,6 +30,10 @@ tags:
   - go
   - graphql
   - rest-connectors
+topic_tags:
+  - federation
+  - graphql-federation
+  - ai
 entities:
   - Apollo
   - Kong

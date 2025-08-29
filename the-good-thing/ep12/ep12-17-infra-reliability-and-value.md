@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - GCP Kubernetes reliability success
-  - Zero incidents over multiple years
-  - Big cloud provider advantages
-  - Collaboration tools increasing value
-  - Linear team growth example
-  - Federation as collaborative tool
+  - GCP Kubernetes Reliability
+  - Zero Incidents
+  - Collaborative Value
+  - Federation as Collaboration
 tags:
   - zero-incidents
   - ai
@@ -34,6 +32,8 @@ tags:
   - startup
 topic_tags:
   - zero-incidents
+  - federation
+  - cosmo
 entities:
   - GCP
   - Kubernetes

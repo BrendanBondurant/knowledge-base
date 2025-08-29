@@ -17,12 +17,10 @@ speakers:
   - Jens
   - Sam Lambert
 topics:
-  - Vitess as open source foundation
-  - Amazon/AWS competitive threat
-  - Operational expertise vs code access
-  - Customer migration case studies
-  - Small team achieving high reliability
-  - Team composition and expertise
+  - Open Source Foundations
+  - AWS Competition
+  - Operational Expertise
+  - Reliability at Scale
 tags:
   - open-source
   - vitess
@@ -33,6 +31,10 @@ tags:
   - postgres
   - rest
   - startup
+topic_tags:
+  - open-source
+  - vitess
+  - database
 entities:
   - Vitess
   - Google

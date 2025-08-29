@@ -15,11 +15,10 @@ speakers:
   - Jens
   - Sergiy
 topics:
-  - Sergiy's 5-year journey with WunderGraph
-  - Origins at Tyk Technologies
-  - GraphQL Go tools development
-  - Evolution from 10,000-line files to maintainable structure
-  - GraphQL spec compliance efforts
+  - Sergiy’s Journey
+  - GraphQL Go Tools
+  - Open Source Evolution
+  - Spec Compliance
 tags:
   - graphql-go-tools
   - open-source

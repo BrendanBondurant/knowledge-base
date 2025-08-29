@@ -17,12 +17,10 @@ speakers:
   - Jens
   - Sam Lambert
 topics:
-  - Database company maturation timelines
-  - VC exit expectations and reality
-  - Series funding considerations
-  - Infrastructure company building patience
-  - Young founders and capital efficiency
-  - Venture math and dilution risks
+  - Startup Funding Risks
+  - Founder Perspective
+  - Database Company Timelines
+  - Venture Capital Dynamics
 tags:
   - startup
   - founder
@@ -32,6 +30,10 @@ tags:
   - go
   - postgres
   - rust
+topic_tags:
+  - startup
+  - founder
+  - database
 entities:
   - PlanetScale
   - Figma

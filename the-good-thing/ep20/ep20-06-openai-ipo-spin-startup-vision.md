@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - OpenAI IPO potential and business model
-  - Vision-funded startup ecosystem dynamics
-  - AI company valuations and market positioning
-  - Startup funding strategies in AI era
+  - OpenAI IPO
+  - Vision-Funded Startups
+  - AI Valuations
+  - Funding Strategies
 tags:
   - startup
   - ai
@@ -30,9 +30,6 @@ topic_tags:
   - openai
   - ipo
   - startup-ecosystem
-  - vision-funding
-  - ai-valuations
-  - business-model
 entities:
   - OpenAI
   - Stefan Avram

@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Tier list grading system explanation
-  - Startup evaluation criteria definition
-  - OpenAI competitive threat assessment
-  - Y Combinator company identification
+  - Startup Evaluation Criteria
+  - Tier Grading System
+  - OpenAI Risk
+  - Y Combinator Startups
 tags:
   - ai
   - websocket

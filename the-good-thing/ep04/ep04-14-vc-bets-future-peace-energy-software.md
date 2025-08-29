@@ -16,17 +16,11 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - VC bets
-  - Future predictions
-  - Peace
-  - Green energy
-  - Future of software
+  - VC Bets
+  - Future Predictions
+  - Peace and Energy
+  - Future of Software
   - Collaboration
-  - API platforms
-  - Teamwork
-  - Human impact
-  - Company mission
-  - Episode wrap-up
 tags:
   - startup
   - ai
@@ -36,12 +30,9 @@ tags:
   - go
   - graphql-federation
 topic_tags:
-  - venture-capital
-  - future-predictions
-  - green-energy
-  - software-impact
-  - collaboration
-  - episode-wrap-up
+  - startup
+  - ai
+  - federation
 entities:
   - Stefan Avram
   - Jens Neuse

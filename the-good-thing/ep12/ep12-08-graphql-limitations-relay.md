@@ -15,12 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - GraphQL frontend-driven adoption
-  - Apollo's success limiting innovation
-  - Connector approach critique
-  - Federation limited by GraphQL
-  - SDK preference over query building
-  - Relay as primary driver
+  - GraphQL Frontend Adoption
+  - Apollo Limitations
+  - Connector Critique
+  - SDK Preference
 tags:
   - federation
   - graphql-federation
@@ -35,7 +33,7 @@ tags:
   - rest-connectors
 topic_tags:
   - federation
-  - graphql-federation
+  - graphql
   - ai
 entities:
   - Apollo

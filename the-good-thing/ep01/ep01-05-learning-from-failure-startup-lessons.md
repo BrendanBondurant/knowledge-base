@@ -15,11 +15,10 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Struggling with Perl and programming doubts
-  - Advice to automate system administration
-  - Self-taught engineering vs formal education
-  - Relationship and move between cities
-  - Founding a first startup during university
+  - Learning Programming
+  - Perl Struggles
+  - Self-Taught Engineering
+  - First Startup
 tags:
   - startup
   - ai
@@ -27,10 +26,7 @@ tags:
   - rest
   - rust
 topic_tags:
-  - startup-lessons
-  - self-taught
-  - first-startup
-  - programming-journey
+  - startup
 entities:
   - Jens Neuse
   - Stefan Avram

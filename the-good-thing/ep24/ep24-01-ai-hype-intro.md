@@ -15,13 +15,12 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Podcast introduction and format
-  - AI replacing developers debate
-  - Weekly tech news preview
-  - gRPC as next generation for GraphQL Federation
-  - AI productivity study discussion
-  - Lovable's rapid growth and funding
-  - Meta's potential shift from open source AI
+  - Podcast Introduction
+  - AI Replacing Developers
+  - gRPC for Federation
+  - AI Productivity Study
+  - Lovable Growth
+  - Meta Open Source Shift
 tags:
   - ai
   - grpc
@@ -39,10 +38,6 @@ topic_tags:
   - podcast-intro
   - AI-development
   - developer-productivity
-  - gRPC
-  - GraphQL-federation
-  - startup-funding
-  - open-source
 entities:
   - The Good Thing
   - WunderGraph

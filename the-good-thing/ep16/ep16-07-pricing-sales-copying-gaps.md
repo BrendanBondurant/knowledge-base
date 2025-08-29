@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Market knowledge from sales experience
-  - Pricing strategy evolution and learning
-  - Competitive intelligence gathering
-  - Customer feedback integration into product
-  - Go-to-market experience accumulation
+  - Pricing Strategy
+  - Sales Experience
+  - Customer Feedback
+  - Go-to-Market
 tags:
   - startup
   - ai
@@ -30,8 +29,6 @@ tags:
 topic_tags:
   - pricing-strategy
   - sales-experience
-  - market-knowledge
-  - competitive-intelligence
   - go-to-market
 entities:
   - WunderGraph

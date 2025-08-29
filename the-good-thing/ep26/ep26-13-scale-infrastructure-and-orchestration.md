@@ -17,17 +17,20 @@ speakers:
   - Jens
   - Sam Lambert
 topics:
-  - Alternative career paths and scale fascination
-  - Infrastructure company customer relationships
-  - Database complexity vs academic theory
-  - 500-node cluster orchestration
-  - Real-world scale deployment satisfaction
+  - Startup Motivation
+  - Infrastructure at Scale
+  - Database Complexity
+  - Orchestration at Scale
 tags:
   - startup
   - ai
   - database
   - go
   - rest
+topic_tags:
+  - startup
+  - ai
+  - database
 entities:
   - PlanetScale
   - Amazon

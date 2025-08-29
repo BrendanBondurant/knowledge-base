@@ -15,11 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Episode wrap-up and thanks to audience
-  - Landing page review format feedback
-  - WunderGraph landing page rating discussion
-  - Future episode plans and improvements
-  - Invitation for audience submissions
+  - Episode Wrap-up
+  - Landing Page Reviews
+  - WunderGraph Rating
+  - Audience Feedback
 tags:
   - ai
   - go

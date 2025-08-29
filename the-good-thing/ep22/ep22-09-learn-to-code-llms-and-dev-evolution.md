@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Learning to code debate
-  - LLM impact on programming education
-  - Developer role evolution
-  - AI-assisted development
+  - AI Raising Software Standards
+  - Developer Value Proposition
+  - Engineering Complexity
+  - Future of Development
 tags:
   - federation
   - graphql-federation

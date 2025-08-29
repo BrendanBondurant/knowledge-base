@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - WunderGraph new product direction
-  - Company reinvention strategy
-  - Product evolution decisions
-  - Strategic positioning changes
+  - Product Reinvention
+  - Company Strategy
+  - Federation Pivot
+  - Market Positioning
 tags:
   - federation
   - ai

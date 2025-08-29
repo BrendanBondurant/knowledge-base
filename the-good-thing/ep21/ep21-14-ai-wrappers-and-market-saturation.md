@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - AI wrapper startup viability
-  - Market saturation concerns
-  - Nao data editor introduction
-  - Enterprise development pace critique
+  - AI Wrapper Startups
+  - Market Saturation
+  - Nao Data Editor
+  - Enterprise Development Pace
 tags:
   - ai
   - websocket
@@ -28,6 +28,8 @@ tags:
   - startup
   - api-design
   - go
+topic_tags:
+  - ai
 entities:
   - Stefan Avram
   - Jens Neuse

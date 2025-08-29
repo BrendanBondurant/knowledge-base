@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Klavis MCP integration service analysis
-  - Model Context Protocol market assessment
-  - Developer tool bubble discussion
-  - ChatGPT competitive threat
+  - Klavis MCP Integration
+  - Market Assessment
+  - Developer Tool Bubble
+  - ChatGPT Competition
 tags:
   - mcp
   - ai

@@ -17,10 +17,10 @@ speakers:
   - Robert Farr
   - Jens
 topics:
-  - AI boom acceleration and industry impact
-  - Value delivery pressure in AI adoption
-  - Future outlook for AI in enterprise
-  - Closing thoughts and takeaways
+  - AI Boom Acceleration
+  - Value Delivery Pressure
+  - Future Enterprise Outlook
+  - Closing Reflections
 tags:
   - ai
   - go
@@ -30,8 +30,6 @@ topic_tags:
   - ai-boom
   - value-delivery
   - future-outlook
-  - enterprise-ai
-  - episode-conclusion
 entities:
   - Robert Farr
   - Stefan Avram

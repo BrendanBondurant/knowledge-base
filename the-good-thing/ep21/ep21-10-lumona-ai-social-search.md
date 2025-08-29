@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Klavis final tier placement
-  - Lumona social media search introduction
-  - AI-enabled search engine positioning
-  - Slide formatting critique
+  - Klavis RIP Tier
+  - Lumona Social Search
+  - AI-Enabled Search Engines
+  - Slide Formatting Critique
 tags:
   - mcp
   - ai

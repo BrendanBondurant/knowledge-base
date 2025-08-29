@@ -15,12 +15,12 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Rapid promotion from architect to engineering lead
-  - Career growth through networking and appearance
-  - Learning API design through openAPI and REST
-  - Discovering GraphQL during the BFF era
-  - Docker Swarm vs Kubernetes timeline
-  - Building custom backend federation before GraphQL
+  - Rapid Promotion
+  - Networking and Appearance
+  - Early API Design
+  - Discovering GraphQL
+  - BFF Pattern
+  - Early Federation
 tags:
   - graphql
   - api-design
@@ -34,10 +34,8 @@ tags:
   - rest-apis
 topic_tags:
   - graphql
-  - career-growth
   - api-design
-  - backend-for-frontend
-  - imposter-syndrome
+  - federation
 entities:
   - Jens Neuse
   - Stefan Avram

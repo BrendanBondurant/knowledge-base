@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Rust's steep learning curve and borrow checker
-  - Go's flexibility and ease of adoption
-  - Developer experience differences
-  - Language complexity trade-offs
+  - Rust Learning Curve
+  - Go Adoption Ease
+  - Developer Experience
+  - Language Complexity
 tags:
   - rust
   - go

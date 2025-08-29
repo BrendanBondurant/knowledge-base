@@ -15,23 +15,18 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - AI as the biggest technological shift
-  - Comparison to dot-com boom, cloud, and iPhone transitions
-  - Apple Intelligence rollout
-  - Shopify's AI mandate leaked memo
-  - Industry-wide AI adoption
+  - AI Mandates
+  - Developer Expectations
+  - Paradigm Shifts
+  - Auto-Generated Frontends
 tags:
   - ai
   - api-design
   - go
   - rest
 topic_tags:
-  - AI-transformation
-  - shopify-memo
-  - apple-intelligence
-  - tech-shifts
-  - industry-mandates
-  - ai-adoption
+  - ai
+  - api-design
 entities:
   - Shopify
   - Tobias Lütke

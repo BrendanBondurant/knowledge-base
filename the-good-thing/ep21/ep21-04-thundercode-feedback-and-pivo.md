@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - ThunderCode product interface criticism
-  - Target customer messaging issues
-  - Early-stage startup assessment
-  - Pivot potential evaluation
+  - ThunderCode Feedback
+  - Product Criticism
+  - Pivot Potential
+  - Early-Stage Startup
 tags:
   - startup
   - ai
@@ -29,9 +29,6 @@ topic_tags:
   - thundercode
   - product-criticism
   - early-stage
-  - pivot-potential
-  - target-customer
-  - ui-ux
 entities:
   - ThunderCode
   - Stefan Avram

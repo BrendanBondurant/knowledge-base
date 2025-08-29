@@ -19,12 +19,10 @@ speakers:
   - Dustin
   - Jens
 topics:
-  - First paying customer in three weeks
-  - SDK limitations for enterprise
-  - Customer feedback and market signals
-  - SDK to Cosmo technology transfer
-  - GraphQL engine architecture
-  - Stefan's sales call documentation
+  - SDK Lessons
+  - Federation Signal
+  - Product Validation
+  - Developer Adoption
 tags:
   - startup
   - graphql-engine
@@ -46,12 +44,9 @@ tags:
   - rest
   - rest-apis
 topic_tags:
-  - sdk-lessons
-  - market-signals
-  - customer-feedback
-  - technology-transfer
-  - graphql-engine
-  - sales-documentation
+  - graphql
+  - federation
+  - cosmo
 entities:
   - WunderGraph SDK
   - Cosmo

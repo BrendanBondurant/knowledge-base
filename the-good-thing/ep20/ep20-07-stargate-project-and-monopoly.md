@@ -15,10 +15,10 @@ speakers:
   - Stefan
   - Jens
 topics:
-  - Stargate project and AI infrastructure investment
-  - Hardware monopoly concerns in AI
-  - Market concentration and competition issues
-  - Large-scale AI infrastructure development
+  - Stargate Project
+  - AI Infrastructure
+  - Hardware Monopoly
+  - Market Concentration
 tags:
   - ai
   - startup
@@ -31,9 +31,6 @@ topic_tags:
   - stargate-project
   - ai-infrastructure
   - hardware-monopoly
-  - market-concentration
-  - competition
-  - ai-investment
 entities:
   - Stargate project
   - Stefan Avram

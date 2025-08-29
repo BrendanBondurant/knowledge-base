@@ -8,7 +8,6 @@ participants:
   - Jens
   - Stefan
 segment: Open source game theory, FAANG, and community contributions
-
 timecode: 00:27:30:06 - 00:31:41:10
 start_time: 00:27:30:06
 end_time: 00:31:41:10
@@ -16,20 +15,16 @@ speakers:
   - Jens
   - Stefan
 topics:
-  - Open source game theory
-  - FAANG
-  - Community contributions
-  - Open source strategy
-  - Product adoption
-  - Startup growth
-summary: |
-  Jens and Stefan explore the game theory behind open source, the role of FAANG companies, and the importance of community contributions in building successful products and growing startups.
+  - Open Source Game Theory
+  - FAANG Companies
+  - Community Contributions
+  - Startup Growth
 tags:
+  - startup
   - graphql
   - ai
   - apollo-graphql
   - open-source
-  - startup
   - api-design
   - cosmo-router
   - go
@@ -37,15 +32,9 @@ tags:
   - rest-apis
   - rest-connectors
 topic_tags:
+  - startup
   - graphql
   - ai
-  - apollo-graphql
-  - open-source-game-theory
-  - faang-companies
-  - community-contributions
-  - open-source-strategy
-  - product-adoption
-  - startup-growth
 entities:
   - Stefan Avram
   - Jens Neuse
@@ -59,6 +48,8 @@ mentions:
   - code quality in public
   - security auditing benefits
   - procurement advantages
+summary: |
+  Jens and Stefan explore the game theory behind open source, the role of FAANG companies, and the importance of community contributions in building successful products and growing startups.
 ---
 
 00:27:30:06 - 00:31:41:10
