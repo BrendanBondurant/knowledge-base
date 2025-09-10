@@ -4,9 +4,6 @@ slug: ep04-06-customer-relationships-validation-payment
 series: The Good Thing
 episode: 4
 chunk: 6
-participants:
-  - Jens
-  - Stefan
 segment: The importance of building relationships with customers, validating problems,
   and ensuring willingness to pay
 timecode: 00:16:17:07 - 00:19:11:09
@@ -29,19 +26,10 @@ tags:
   - go
   - open-source
   - rest
-topic_tags:
-  - startup
-  - founder
-  - open-source
 entities:
   - Jens
   - Stefan
   - WunderGraph
-mentions:
-  - open source
-  - procurement
-  - feature requests
-  - customer feedback
 summary: Jens and Stefan discuss the importance of building relationships with the
   right customers, validating that a problem is worth solving, and ensuring that customers
   are willing to pay. They share stories about open source users, procurement hurdles,

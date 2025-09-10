@@ -4,9 +4,6 @@ slug: ep06-03-hasura-apollo-copying-features-distribution
 series: The Good Thing
 episode: 6
 chunk: 03
-participants:
-  - Stefan
-  - Jens
 segment: Hasura, Apollo, copying features, and the importance of distribution
 timecode: 00:04:54:07 - 00:07:17:15
 start_time: 00:04:54:07
@@ -26,23 +23,12 @@ tags:
   - apollo-graphql
   - api-design
   - go
-topic_tags:
-  - startup
-  - graphql
-  - apollo-graphql
 entities:
   - Stefan Avram
   - Jens Neuse
   - Hasura
   - Apollo
   - WunderGraph
-mentions:
-  - feature copying temptation
-  - distribution vs features
-  - competitive market entry
-  - startup mistakes
-  - product strategy decisions
-  - market positioning
 summary: |
   Jens and Stefan discuss the early days of Hasura and Apollo, the temptation to copy features, and the realization that distribution is more important than feature parity. They reflect on startup mistakes and the challenges of entering a competitive market.
 ---

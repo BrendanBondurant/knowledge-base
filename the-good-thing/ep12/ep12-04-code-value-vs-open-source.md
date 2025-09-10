@@ -4,9 +4,6 @@ slug: ep12-04-code-value-vs-open-source
 series: The Good Thing
 episode: 12
 chunk: 4
-participants:
-  - Stefan
-  - Jens
 segment: Proprietary vs Open Source Discussion
 timecode: 00:10:01:18 – 00:14:14:07
 start_time: 00:10:01:18
@@ -28,10 +25,6 @@ tags:
   - federation
   - go
   - graphql-federation
-topic_tags:
-  - open-source
-  - startup
-  - cosmo
 entities:
   - Cursor
   - Meta
@@ -39,13 +32,6 @@ entities:
   - Salesforce
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - billion dollar companies using Cursor
-  - Meta code without data example
-  - changing user behavior challenges
-  - feed algorithm concerns
-  - Cosmo open source benefits
-  - universe of products vision
 summary: Discussion of proprietary code ethics with AI access, where Jens argues most
   code has limited value compared to distribution, brand, and execution capability.
   He explains WunderGraph's open source strategy for Cosmo, noting that code becomes

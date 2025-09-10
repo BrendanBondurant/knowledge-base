@@ -4,9 +4,6 @@ slug: ep18-08-getting-feedback-testing-buying-interes
 series: The Good Thing
 episode: 18
 chunk: 8
-participants:
-  - Stefan
-  - Jens
 segment: Overcoming relationship bias in customer feedback
 timecode: 00:44:35:22 – 00:52:06:11
 start_time: 00:44:35:22
@@ -26,24 +23,10 @@ tags:
   - cosmo
   - go
   - rest
-topic_tags:
-  - customer-feedback
-  - relationship-bias
-  - honest-feedback
 entities:
   - Bank customer
   - Cosmo
   - AI
-mentions:
-  - people don't want to hurt feelings
-  - lying to be nice behavior
-  - bank customer humiliation story
-  - ship faster vs six times per year
-  - static API strategy
-  - AI and what's going on
-  - forget about Cosmo approach
-  - manager introduction request
-  - beta willingness testing
 summary: Stefan and Jens address the challenge of getting honest feedback when existing
   relationships bias responses toward politeness. They share a humorous example of
   a bank customer who brutally honest about not wanting to ship faster or modernize

@@ -4,9 +4,6 @@ slug: ep06-09-driving-down-infra-cost-collaboration-vercel-aws
 series: The Good Thing
 episode: 6
 chunk: 09
-participants:
-  - Jens
-  - Stefan
 segment: Driving down infrastructure cost, collaboration features, Vercel, and AWS
 timecode: 00:23:31:29 - 00:27:30:06
 start_time: 00:23:31:29
@@ -31,23 +28,12 @@ tags:
   - go
   - graphql-federation
   - open-source
-topic_tags:
-  - startup
-  - federation
-  - ai
 entities:
   - Stefan Avram
   - Jens Neuse
   - Vercel
   - AWS
   - WunderGraph
-mentions:
-  - driving down infrastructure costs
-  - collaboration features importance
-  - cloud provider strategies
-  - infrastructure cost scaling
-  - middlemen margin issues
-  - team productivity tools
 summary: |
   Jens and Stefan discuss strategies for driving down infrastructure costs, the importance of collaboration features, and how companies like Vercel and AWS approach these challenges in the startup ecosystem.
 ---

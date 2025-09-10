@@ -4,9 +4,6 @@ slug: ep27-07-proto-reserved-and-versioning
 series: The Good Thing
 episode: 27
 chunk: 7
-participants:
-  - Dustin
-  - Jens
 segment: Reserved keywords and long-term compatibility design
 timecode: 00:32:43 – 00:36:05
 start_time: 00:32:43
@@ -22,17 +19,9 @@ tags:
   - protobuf
   - versioning
   - schema-design
-topic_tags:
-  - protobuf
-  - versioning
-  - schema-design
 entities:
   - Protobuf
   - WunderGraph
-mentions:
-  - reserved keyword strategy
-  - backward compatibility
-  - schema evolution best practices
 summary: The conversation focuses on reserved Protobuf keywords, versioning strategies, and ensuring long-term schema compatibility.
 ---
 00:32:43:16 - 00:33:24:13

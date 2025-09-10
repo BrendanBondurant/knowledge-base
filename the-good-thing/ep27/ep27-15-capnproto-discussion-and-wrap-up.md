@@ -4,9 +4,6 @@ slug: ep27-15-capnproto-discussion-and-wrap-up
 series: The Good Thing
 episode: 27
 chunk: 15
-participants:
-  - Jens
-  - Stefan
 segment: Technology evaluation and episode conclusion
 timecode: 01:03:41 – 01:07:48
 start_time: 01:03:41
@@ -22,17 +19,9 @@ tags:
   - capnproto
   - tech-evaluation
   - graphql
-topic_tags:
-  - capnproto
-  - tech-evaluation
-  - graphql
 entities:
   - Cap’n Proto
   - WunderGraph
-mentions:
-  - evaluating Cap’n Proto
-  - closing thoughts
-  - federation roadmap hints
 summary: Closing discussion on evaluating Cap’n Proto, lessons from technology choices, and wrapping up the session with final insights.
 ---
 00:59:06:10 - 00:59:08:25

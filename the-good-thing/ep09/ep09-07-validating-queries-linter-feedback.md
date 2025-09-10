@@ -4,9 +4,6 @@ slug: ep09-07-validating-queries-linter-feedback
 series: The Good Thing
 episode: 9
 chunk: 7
-participants:
-  - Jens
-  - Cameron
 segment: Query validation and feedback loops
 timecode: 00:25:32:11 – 00:30:07:10
 start_time: 00:25:32:11
@@ -23,21 +20,10 @@ tags:
   - ai
   - go
   - graphql
-topic_tags:
-  - ai
-  - graphql
-  - cursor
 entities:
   - GraphQL
   - GitHub
   - Cursor
-mentions:
-  - WunderGraph repository stars query
-  - validate query tool
-  - AST parsing and validation
-  - linter feedback integration
-  - 60% accuracy rate
-  - cursor code generation
 summary: Cameron and Jens discuss the technical implementation of query validation,
   including vector similarity search, multi-step validation processes, and preventing
   AI hallucinations. They explore using linter-style feedback loops, similar to Cursor's

@@ -4,9 +4,6 @@ slug: ep06-06-open-source-alternatives-business-models
 series: The Good Thing
 episode: 6
 chunk: 06
-participants:
-  - Jens
-  - Stefan
 segment: Open source alternatives, business models, and product differentiation
 timecode: 00:13:34:09 - 00:16:56:18
 start_time: 00:13:34:09
@@ -29,23 +26,12 @@ tags:
   - database
   - go
   - graphql
-topic_tags:
-  - startup
-  - open-source
-  - apollo-graphql
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
   - Supabase
   - Firebase
-mentions:
-  - open source alternatives strategy
-  - business model differentiation
-  - market positioning importance
-  - Supabase vs Firebase example
-  - product strategy evolution
-  - collaboration tools market
 summary: |
   Jens and Stefan discuss the role of open source alternatives in the market, different business models, and how product differentiation is achieved beyond just feature parity. They reflect on the importance of positioning and strategy in building a successful company.
 ---

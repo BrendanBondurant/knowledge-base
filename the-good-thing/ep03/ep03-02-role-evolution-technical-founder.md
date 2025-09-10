@@ -4,9 +4,6 @@ slug: ep03-02-role-evolution-technical-founder
 series: The Good Thing
 episode: 3
 chunk: 2
-participants:
-  - Stefan
-  - Dustin
 segment: Discussion of Dustin's role evolution and the importance of technical founders
 timecode: 00:05:21:23 - 00:08:30:12
 start_time: 00:05:21:23
@@ -26,23 +23,12 @@ tags:
   - cosmo-router
   - founder
   - go
-topic_tags:
-  - startup
-  - ai
-  - founder
 entities:
   - Dustin
   - Stefan
   - Jens
   - Y Combinator
   - WunderGraph
-mentions:
-  - CTO
-  - tech lead
-  - founder
-  - AI
-  - MVP
-  - technical co-founders
 summary: Dustin discusses his evolution from tech lead to CTO and co-founder, emphasizing
   the importance of technical founders in startups. They debate whether AI tools like
   Cursor can replace the need for technical founders, concluding that while AI helps

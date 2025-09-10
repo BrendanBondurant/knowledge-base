@@ -4,9 +4,6 @@ slug: ep24-09-lovable-ai-scaling
 series: The Good Thing
 episode: 24
 chunk: 9
-participants:
-  - Stefan
-  - Jens
 segment: Lovable Growth Analysis and Market Speculation
 timecode: 00:46:14:05 – 00:51:18:17
 start_time: 00:46:14:05
@@ -29,10 +26,6 @@ tags:
   - founder
   - go
   - telemetry
-topic_tags:
-  - ai
-  - startup
-  - market-dynamics
 entities:
   - Lovable
   - Crandham
@@ -45,19 +38,6 @@ entities:
   - Gemini
   - Cursor
   - Claude
-mentions:
-  - 200 million Series A
-  - largest European Series A
-  - 180 paying customers
-  - 75 million revenue in 7 months
-  - 2.3 million users
-  - 45 full-time employees
-  - 10 million projects created
-  - Brazilian company 3M revenue in 48 hours
-  - Replit 100M ARR
-  - scaffolding tool limitations
-  - physical scaling walls
-  - 200M return expectations
 summary: |
   Stefan and Jens analyze Lovable's impressive metrics including unicorn status, 75M revenue, and massive user growth. While acknowledging the achievement, Jens questions long-term defensibility against established AI coding tools and whether Lovable can scale beyond being a scaffolding tool. They compare the current environment to the dot-com bubble while recognizing successful companies can emerge from such periods.
 ---

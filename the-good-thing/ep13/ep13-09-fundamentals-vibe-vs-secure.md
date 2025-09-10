@@ -4,9 +4,6 @@ slug: ep13-09-fundamentals-vibe-vs-secure
 series: The Good Thing
 episode: 13
 chunk: 9
-participants:
-  - Stefan
-  - Jens
 segment: Programming Fundamentals vs AI-Generated Code
 timecode: 00:32:18 – 00:36:09
 start_time: 00:32:18
@@ -25,10 +22,6 @@ tags:
   - computer-science
   - go
   - rest
-topic_tags:
-  - mcp
-  - ai
-  - computer-science
 entities:
   - SSH
   - GitHub
@@ -37,14 +30,6 @@ entities:
   - TLS
   - Port 22
   - Port 443
-mentions:
-  - colleague in hospital story
-  - SSH timeout errors
-  - hospital network restrictions
-  - Git over HTTPS solution
-  - SSH proxy over TLS option
-  - firewall troubleshooting approach
-  - fundamental vs superficial knowledge
 summary: Jens reflects on learning programming in the pre-AI era and the importance
   of fundamentals. He shares a real-time example of a colleague unable to clone repositories
   from a hospital due to SSH port blocking, demonstrating how fundamental networking

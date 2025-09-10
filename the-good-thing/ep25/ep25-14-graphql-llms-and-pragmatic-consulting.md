@@ -4,10 +4,6 @@ slug: ep25-14-graphql-llms-and-pragmatic-consulting
 series: The Good Thing
 episode: 25
 chunk: 14
-participants:
-  - Stefan Avram
-  - Jens Neuse
-  - Kevin Swiber
 segment: Consulting Philosophy and Developer Maturity
 timecode: 00:58:02:20 – 01:01:19:16
 start_time: 00:58:02:20
@@ -29,10 +25,6 @@ tags:
   - llm
   - rest
   - startup
-topic_tags:
-  - graphql
-  - ai
-  - llm
 entities:
   - Dunning-Kruger curve
   - Mount Stupid concept
@@ -41,15 +33,6 @@ entities:
   - Design patterns
   - SOLID principles
   - Factory pattern
-mentions:
-  - "It depends" consulting approach
-  - Strong opinions without full context
-  - Young developer overconfidence
-  - Enterprise architect reality checks
-  - Design pattern complexity lessons
-  - Factory factory factory anti-pattern
-  - Bell curve meme progression
-  - Simple to complex to simple again
 summary: |
   Stefan praises Kevin's pragmatic "it depends" consulting approach, contrasting it with consultants who have strong opinions without understanding full use cases. Jens reflects on developer maturity, explaining the Dunning-Kruger effect and "Mount Stupid" concept where early knowledge creates overconfidence. Kevin shares his own journey from thinking he had everything figured out to learning about design patterns, then being told he was over-engineering, illustrating the cycle from simple to complex back to simple solutions.
 ---

@@ -4,9 +4,6 @@ slug: ep11-03-vc-selling-mindset
 series: The Good Thing
 episode: 11
 chunk: 3
-participants:
-  - Stefan
-  - Jens
 segment: Fundraising as Sales Process
 timecode: 00:12:14:02 – 00:18:09:19
 start_time: 00:12:14:02
@@ -25,21 +22,11 @@ tags:
   - api-design
   - go
   - startup
-topic_tags:
-  - startup
-  - founder
-  - ai
 entities:
   - Stefan Avram
   - Jens Neuse
   - Bjorn
   - WunderGraph
-mentions:
-  - ship to gold metaphor
-  - VC lead qualification
-  - relationship building pre-fundraising
-  - founder confidence vs desperation
-  - seed vs series a evaluation criteria
 summary: Jens explains fundraising as selling tickets on your ship to find gold, emphasizing
   that VCs care about different features than customers. They discuss building VC
   relationships over time, the importance of learning from pivots, and early mistakes

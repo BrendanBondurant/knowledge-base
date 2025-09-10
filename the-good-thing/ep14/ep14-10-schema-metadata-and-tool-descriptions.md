@@ -4,10 +4,6 @@ slug: ep14-10-schema-metadata-and-tool-descriptions
 series: The Good Thing
 episode: 14
 chunk: 10
-participants:
-  - Stefan
-  - Jens
-  - Dustin
 segment: Documentation Integration and LLM Context Enhancement
 timecode: 00:38:24 – 00:43:18
 start_time: 00:38:24
@@ -30,10 +26,6 @@ tags:
   - go
   - llm
   - rest
-topic_tags:
-  - graphql
-  - mcp
-  - ai
 entities:
   - GraphQL schema
   - JSON schema
@@ -42,17 +34,6 @@ entities:
   - Next.js
   - Employee dashboard
   - OSS repository
-mentions:
-  - update availability operation
-  - mood update functionality
-  - comment walking through GraphQL documents
-  - field description incorporation
-  - OpenAPI spec exposure
-  - documentation importance for AI
-  - multiple root fields combination
-  - developer-focused MCP integration
-  - JSON configuration copy-paste
-  - employee management dashboard
 summary: Dustin explains how GraphQL schema comments are automatically processed and
   incorporated into JSON schemas for MCP tools, with Jens emphasizing the critical
   importance of good documentation for LLM precision. They demonstrate Claude Desktop

@@ -4,10 +4,6 @@ slug: ep28-07-business-engineering-gaps
 series: The Good Thing
 episode: 28
 chunk: 7
-participants:
-  - Jens
-  - Stefan
-  - Daniel Kocot
 segment: Bridging business-technical divides and identifying missing stakeholders
 timecode: 00:44:00 – 00:51:12
 start_time: 00:44:00
@@ -24,17 +20,9 @@ tags:
   - consulting
   - stakeholder-management
   - api-design
-topic_tags:
-  - consulting
-  - stakeholder-management
-  - api-design
 entities:
   - Daniel Kocot
   - WunderGraph
-mentions:
-  - organizational misalignment
-  - missing voices in API planning
-  - prioritization tradeoffs
 summary: Discussion of disconnects between business and engineering teams, the impact of missing stakeholders, and strategies to improve alignment in API programs.
 ---
 00:44:00:27 - 00:44:05:01

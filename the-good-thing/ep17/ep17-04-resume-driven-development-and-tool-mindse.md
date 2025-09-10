@@ -4,9 +4,6 @@ slug: ep17-04-resume-driven-development-and-tool-mindse
 series: The Good Thing
 episode: 17
 chunk: 4
-participants:
-  - Stefan
-  - Jens
 segment: Problem-solving vs technology obsession
 timecode: 00:15:20 – 00:20:22
 start_time: 00:15:20
@@ -27,23 +24,12 @@ tags:
   - kubernetes
   - microservices
   - rest
-topic_tags:
-  - resume-driven-development
-  - customer-focus
-  - problem-solving
 entities:
   - Cursor
   - Windsurf
   - VS Code
   - Hacker News
   - Twitter
-mentions:
-  - form follows function principle
-  - customer problem solving
-  - microservices premature optimization
-  - Hacker News comments on Cursor
-  - Windsurf acquisition discussion
-  - technology vs problem focus
 summary: Jens emphasizes that successful engineers understand business problems and
   customer needs, not just code, advocating for a "form follows function" approach.
   Stefan discusses how developers often get obsessed with technical implementations

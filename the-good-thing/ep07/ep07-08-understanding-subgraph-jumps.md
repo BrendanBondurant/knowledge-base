@@ -4,10 +4,6 @@ slug: ep07-08-understanding-subgraph-jumps
 series: The Good Thing
 episode: 7
 chunk: 8
-participants:
-  - Jens
-  - Sergiy
-  - David
 segment: Subgraph jumps and federation graph theory
 timecode: 00:38:24:04 – 00:45:32:04
 start_time: 00:38:24:04
@@ -31,21 +27,12 @@ tags:
   - graphql
   - graphql-federation
   - query-planning
-topic_tags:
-  - federation
-  - graphql
 entities:
   - GraphQL
   - Federation
   - Jens Neuse
   - Sergiy
   - David
-mentions:
-  - science fiction portals metaphor
-  - user and address service example
-  - shareable directive
-  - resolvable false configuration
-  - composition vs query planning data structures
 summary: Jens asks about the "jumps" concept in federation, which Sergiy and David
   explain as edges between subgraphs using federation keys. The discussion covers
   how federation enables microservices architecture, root entry nodes, and the difference

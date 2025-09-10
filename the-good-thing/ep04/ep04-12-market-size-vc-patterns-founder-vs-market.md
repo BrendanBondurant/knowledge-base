@@ -4,9 +4,6 @@ slug: ep04-12-market-size-vc-patterns-founder-vs-market
 series: The Good Thing
 episode: 4
 chunk: 12
-participants:
-  - Jens
-  - Stefan
 segment: The role of market size, VC pattern matching, and the debate of founder vs.
   market in startup success
 timecode: 00:52:10:20 - 00:59:01:03
@@ -29,23 +26,10 @@ tags:
   - founder
   - go
   - graphql-federation
-topic_tags:
-  - startup
-  - founder
-  - ai
 entities:
   - Jens Neuse
   - Stefan Avram
   - VCs
-mentions:
-  - market size importance
-  - VC pattern matching
-  - founder vs market debate
-  - startup waves
-  - investment decisions
-  - market creation
-  - timing advantages
-  - first-time founder benefits
 summary: Jens and Stefan discuss the importance of market size, how VCs use pattern
   matching to make investment decisions, and the ongoing debate of whether founder
   quality or market timing is more important for startup success. They share analogies

@@ -4,9 +4,6 @@ slug: ep13-03-ai-workflows-and-paradigm-shifts
 series: The Good Thing
 episode: 13
 chunk: 3
-participants:
-  - Stefan
-  - Jens
 segment: AI Mandate Analysis and Development Paradigm Changes
 timecode: 00:07:48 – 00:11:22
 start_time: 00:07:48
@@ -26,23 +23,12 @@ tags:
   - database
   - go
   - llm
-topic_tags:
-  - ai
-  - mcp
-  - llm
 entities:
   - Shopify
   - Claude Desktop
   - Cursor
   - MCP
   - Dustin (CTO)
-mentions:
-  - fundamental LLM understanding requirement
-  - Cursor and Claude Desktop tools
-  - employee dashboard demo
-  - half-minute development time
-  - frontend builds itself concept
-  - SAP-style user interfaces
 summary: Jens explains that understanding AI/LLMs is now a fundamental requirement
   for developers, regardless of personal preference. He describes a paradigm shift
   where APIs become primary and frontends can be auto-generated, using an example

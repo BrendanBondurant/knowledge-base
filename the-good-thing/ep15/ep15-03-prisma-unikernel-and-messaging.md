@@ -4,9 +4,6 @@ slug: ep15-03-prisma-unikernel-and-messaging
 series: The Good Thing
 episode: 15
 chunk: 3
-participants:
-  - Stefan
-  - Jens
 segment: Prisma Technical Messaging Analysis
 timecode: 00:10:19 – 00:15:17
 start_time: 00:10:19
@@ -29,19 +26,9 @@ tags:
   - database
   - go
   - open-source
-topic_tags:
-  - database
-  - api-design
-  - ai
 entities:
   - Prisma
   - Postgres
-mentions:
-  - "Unikernel powered" prominence issues
-  - External blog post link confusion
-  - AI-powered code optimization recommendations
-  - Collaborative console experience
-  - Product navigation structure
 summary: |
   Stefan and Jens critique Prisma's unclear positioning of unikernel technology, noting it's buried as a small link leading to an external blog post rather than being prominently featured. They discuss how technical differentiators like unikernel should be more prominent if they're truly game-changing, and analyze the product's messaging hierarchy and navigation issues.
 ---

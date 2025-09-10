@@ -4,9 +4,6 @@ slug: ep20-07-stargate-project-and-monopoly
 series: The Good Thing
 episode: 20
 chunk: 7
-participants:
-  - Stefan
-  - Jens
 segment: AI Infrastructure and Market Concentration
 timecode: 00:34:07:24 – 00:40:23:23
 start_time: 00:34:07:24
@@ -27,20 +24,11 @@ tags:
   - go
   - llm
   - rest
-topic_tags:
-  - stargate-project
-  - ai-infrastructure
-  - hardware-monopoly
 entities:
   - Stargate project
   - Stefan Avram
   - Jens Neuse
   - AI infrastructure companies
-mentions:
-  - Stargate infrastructure investment
-  - Hardware monopoly risks
-  - AI market concentration
-  - Competition concerns
 summary: Analysis of the Stargate project and broader concerns about hardware monopolization
   in AI infrastructure, discussing market concentration issues and the implications
   for competition in the AI ecosystem.

@@ -4,10 +4,6 @@ slug: ep27-12-plugin-packaging-and-oci-storage
 series: The Good Thing
 episode: 27
 chunk: 12
-participants:
-  - Jesse
-  - Jens
-  - Dustin
 segment: Plugin distribution and artifact management
 timecode: 00:51:17 – 00:54:02
 start_time: 00:51:17
@@ -24,17 +20,9 @@ tags:
   - plugin-architecture
   - oci
   - artifact-management
-topic_tags:
-  - plugin-architecture
-  - oci
-  - artifact-management
 entities:
   - Cloudflare
   - WunderGraph
-mentions:
-  - OCI image storage
-  - Cloudflare registry
-  - plugin packaging approach
 summary: Jens and Stefan detail how plugins are packaged and distributed, exploring OCI storage, Cloudflare registry usage, and artifact management workflows.
 ---
 00:51:17:17 - 00:51:40:18

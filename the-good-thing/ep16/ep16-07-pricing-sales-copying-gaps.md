@@ -4,9 +4,6 @@ slug: ep16-07-pricing-sales-copying-gaps
 series: The Good Thing
 episode: 16
 chunk: 7
-participants:
-  - Stefan
-  - Jens
 segment: Go-to-Market Strategy Analysis
 timecode: 00:31:23 – 00:36:03
 start_time: 00:31:23
@@ -26,20 +23,10 @@ tags:
   - cosmo
   - go
   - rest
-topic_tags:
-  - pricing-strategy
-  - sales-experience
-  - go-to-market
 entities:
   - WunderGraph
   - Salesforce
   - Cursor
-mentions:
-  - Two and a half years of business experience
-  - Hundreds to thousands of sales calls
-  - Market packaging and pricing insights
-  - Competitor pricing intelligence
-  - Customer preference understanding
 summary: Stefan and Jens discuss how market knowledge gained through hundreds of sales
   calls cannot be copied along with code. They explain how WunderGraph's pricing strategy
   has evolved through customer feedback and competitive analysis over two and a half

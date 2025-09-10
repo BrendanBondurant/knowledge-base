@@ -4,10 +4,6 @@ slug: ep26-10-licensing-governance-and-contributions
 series: The Good Thing
 episode: 26
 chunk: 10
-participants:
-  - Stefan
-  - Jens
-  - Sam Lambert
 segment: Open Source Governance and Licensing Philosophy
 timecode: 00:45:00:07 – 00:51:13:17
 start_time: 00:45:00:07
@@ -33,10 +29,6 @@ tags:
   - rest
   - startup
   - vitess
-topic_tags:
-  - ai
-  - open-source
-  - websocket
 entities:
   - PlanetScale
   - CNCF
@@ -45,13 +37,6 @@ entities:
   - BSL
   - MongoDB
   - Amazon
-mentions:
-  - No passengers company value
-  - Expert-led leadership principle
-  - CEO coding but not in critical path
-  - CNCF governance benefits
-  - BSL pretending to be open source
-  - Apache 2.0 licensing preference
 summary: |
   Deep dive into PlanetScale's company values including "no passengers" and expert-led leadership. Discussion of open source licensing philosophy, criticizing BSL licenses that claim to be open source, and explaining their relationship with CNCF governance.
 ---

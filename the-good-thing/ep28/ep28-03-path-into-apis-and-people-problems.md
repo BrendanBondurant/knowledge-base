@@ -4,10 +4,6 @@ slug: ep28-03-path-into-apis-and-people-problems
 series: The Good Thing
 episode: 28
 chunk: 3
-participants:
-  - Jens
-  - Stefan
-  - Daniel Kocot
 segment: Daniel’s career path, API integration patterns, and people challenges
 timecode: 00:13:34 – 00:21:02
 start_time: 00:13:34
@@ -24,17 +20,9 @@ tags:
   - api-design
   - consulting
   - integration-patterns
-topic_tags:
-  - api-design
-  - consulting
-  - integration-patterns
 entities:
   - Daniel Kocot
   - WunderGraph
-mentions:
-  - API integration patterns
-  - consultancy experiences
-  - recurring people challenges
 summary: Daniel shares his career path into APIs, common integration patterns he sees, and how people and organizational factors often overshadow pure technical issues.
 ---
 00:13:34:26 - 00:13:49:14

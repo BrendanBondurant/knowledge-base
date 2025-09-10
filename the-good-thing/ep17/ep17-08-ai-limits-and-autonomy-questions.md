@@ -4,9 +4,6 @@ slug: ep17-08-ai-limits-and-autonomy-questions
 series: The Good Thing
 episode: 17
 chunk: 8
-participants:
-  - Stefan
-  - Jens
 segment: Future AI autonomy and current limitations
 timecode: 00:34:58 – 00:39:24
 start_time: 00:34:58
@@ -24,10 +21,6 @@ tags:
   - go
   - llm
   - mcp
-topic_tags:
-  - ai-autonomy
-  - ai-limitations
-  - autonomous-systems
 entities:
   - Iron Man
   - Jarvis
@@ -36,14 +29,6 @@ entities:
   - Tony Stark
   - LLMs
   - MCP
-mentions:
-  - Iron Man AI villain creation
-  - Jarvis as good AI assistant
-  - sentient AI hating creator
-  - AI solving problems independently
-  - LLM agents with tools
-  - complex task execution
-  - human motivation requirement
 summary: Stefan questions whether AI will eventually become fully autonomous like
   the Iron Man villain Ultron, able to solve problems and work independently without
   human oversight. Jens acknowledges current LLM agents can handle complex tasks through

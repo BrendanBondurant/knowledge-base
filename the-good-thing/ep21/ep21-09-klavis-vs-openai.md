@@ -4,9 +4,6 @@ slug: ep21-09-klavis-vs-openai
 series: The Good Thing
 episode: 21
 chunk: 9
-participants:
-  - Stefan
-  - Jens
 segment: Klavis Evaluation
 timecode: 00:27:08:14 – 00:30:10:14
 start_time: 00:27:08:14
@@ -25,8 +22,6 @@ tags:
   - api-design
   - go
   - startup
-topic_tags:
-  - mcp
 entities:
   - Klavis
   - Stefan Avram
@@ -37,14 +32,6 @@ entities:
   - ChatGPT
   - OpenAI
   - Diego (chat participant)
-mentions:
-  - MCP integration platform
-  - Cursor's 17,000 viewer update
-  - developer tool bubble indicators
-  - tiny TAM for MCP services
-  - ChatGPT's one-click MCP connection
-  - API integrations comparison
-  - 40+ application connections
 summary: Stefan and Jens evaluate Klavis, a Y Combinator company providing MCP integration
   services. They struggle with unclear messaging and note the tiny market size for
   MCP tools, comparing it to a bubble where Cursor's major update only reached 17,000

@@ -4,9 +4,6 @@ slug: ep15-16-closing-thoughts-and-next-steps
 series: The Good Thing
 episode: 15
 chunk: 16
-participants:
-  - Stefan
-  - Jens
 segment: Episode Conclusion
 timecode: 01:13:12 – 01:14:19
 start_time: 01:13:12
@@ -22,16 +19,8 @@ topics:
 tags:
   - ai
   - go
-topic_tags:
-  - ai
 entities:
   - WunderGraph
-mentions:
-  - Running over time acknowledgment
-  - Unbiased review promise
-  - Four out of ten rating for WunderGraph
-  - Series A success despite landing page issues
-  - Next week special guest possibility
 summary: Stefan and Jens wrap up their landing page review episode, acknowledging
   they ran over time but had fun with the format. Jens rates their own WunderGraph
   landing page a four out of ten, noting it worked for their Series A but needs improvement.

@@ -4,9 +4,6 @@ slug: ep05-05-b2b-b2c-theory-founder-mode
 series: The Good Thing
 episode: 5
 chunk: 5
-participants:
-  - Stefan
-  - Jens
 segment: Theories on B2B vs. B2C and the definition and scalability of founder mode
 timecode: 00:22:32:03 - 00:27:37:24
 start_time: 00:22:32:03
@@ -28,25 +25,12 @@ tags:
   - go
   - open-source
   - rest
-topic_tags:
-  - startup
-  - founder
-  - open-source
 entities:
   - Stefan Avram
   - Jens Neuse
   - Paul Graham
   - Salesforce
   - WunderGraph
-mentions:
-  - B2B to B2C evolution
-  - founder mode definition
-  - Paul Graham's essay
-  - startup scalability
-  - company culture
-  - enterprise vs individual products
-  - app store success
-  - team dynamics
 summary: Stefan and Jens discuss the theory that successful B2B companies eventually
   become B2C, share examples from Salesforce and their own product, and transition
   to the topic of founder mode. They define founder mode, discuss its scalability,

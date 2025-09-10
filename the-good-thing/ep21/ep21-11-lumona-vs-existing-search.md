@@ -4,9 +4,6 @@ slug: ep21-11-lumona-vs-existing-search
 series: The Good Thing
 episode: 21
 chunk: 11
-participants:
-  - Stefan
-  - Jens
 segment: Lumona Evaluation
 timecode: 00:33:15:00 – 00:36:02:03
 start_time: 00:33:15:00
@@ -25,9 +22,6 @@ tags:
   - go
   - rest
   - startup
-topic_tags:
-  - ai
-  - founder
 entities:
   - Lumona
   - Stefan Avram
@@ -35,14 +29,6 @@ entities:
   - Reddit
   - ChatGPT
   - OpenAI
-mentions:
-  - social media vs web search distinction
-  - Reddit query workaround
-  - ChatGPT search adoption
-  - OpenAI compute advantage
-  - Lumona founding in 2023
-  - platform attribution features
-  - RIP tier placement
 summary: Stefan and Jens analyze Lumona's differentiation as social media-focused
   search versus general web search. They note users can already add "Reddit" to queries
   for social insights and that ChatGPT increasingly handles search needs. With OpenAI's

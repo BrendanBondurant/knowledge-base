@@ -4,9 +4,6 @@ slug: ep06-07-open-source-infra-vs-collaboration-value
 series: The Good Thing
 episode: 6
 chunk: 07
-participants:
-  - Jens
-  - Stefan
 segment: Open source, infrastructure vs. collaboration, and value perception
 timecode: 00:16:56:18 - 00:20:15:18
 start_time: 00:16:56:18
@@ -29,11 +26,6 @@ tags:
   - cosmo-router
   - go
   - graphql
-topic_tags:
-  - startup
-  - federation
-  - graphql
-  - ai
 entities:
   - Stefan Avram
   - Jens Neuse
@@ -43,13 +35,6 @@ entities:
   - Federation
   - Apache
   - Nginx
-mentions:
-  - infrastructure vs collaboration tools
-  - open source philosophy
-  - enterprise licensing issues
-  - router as open source
-  - community adoption strategy
-  - subscription functionality
 summary: |
   Jens and Stefan explore the differences between infrastructure and collaboration tools, the value perception of each, and how open source plays a role in product strategy and pricing models.
 ---

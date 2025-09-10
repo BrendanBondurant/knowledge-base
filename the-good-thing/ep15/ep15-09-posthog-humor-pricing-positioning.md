@@ -4,9 +4,6 @@ slug: ep15-09-posthog-humor-pricing-positioning
 series: The Good Thing
 episode: 15
 chunk: 9
-participants:
-  - Stefan
-  - Jens
 segment: PostHog Marketing Strategy Analysis
 timecode: 00:40:01 – 00:45:13
 start_time: 00:40:01
@@ -28,18 +25,8 @@ tags:
   - apollo-graphql
   - go
   - open-source
-topic_tags:
-  - apollo-graphql
-  - startup
-  - graphql
 entities:
   - PostHog
-mentions:
-  - "You will hate PostHog" reverse messaging
-  - Usage-based pricing that decreases with scale
-  - "Press control w now" humorous CTA
-  - Automated customer success manager emails
-  - Free tier so large few customers pay
 summary: |
   Stefan and Jens analyze PostHog's clever reverse psychology marketing, using humor to handle objections directly on their landing page. They highlight how PostHog turns typical sales pain points into selling points, like generous free tiers, usage-based pricing, and transparent automated customer success, creating an anti-sales approach that appeals to developers skeptical of traditional sales tactics.
 ---

@@ -4,9 +4,6 @@ slug: ep24-02-grpc-federation-future
 series: The Good Thing
 episode: 24
 chunk: 2
-participants:
-  - Stefan
-  - Jens
 segment: gRPC Federation Discussion
 timecode: 00:04:05:03 – 00:10:10:00
 start_time: 00:04:05:03
@@ -39,10 +36,6 @@ tags:
   - rest-connectors
   - startup
   - typescript
-topic_tags:
-  - grpc
-  - federation
-  - graphql-federation
 entities:
   - WunderGraph
   - Cosmo Router
@@ -53,14 +46,6 @@ entities:
   - LinkedIn
   - YouTube
   - Jacob
-mentions:
-  - Anchor Man movie references
-  - Curtis's LinkedIn post
-  - type safety guarantees
-  - SDL compilation to protobuf
-  - data loader implementation
-  - subgraph frameworks
-  - batching problem solutions
 summary: |
   Stefan and Jens discuss their vision for gRPC as the next generation of GraphQL Federation. Jens explains how moving the GraphQL layer from subgraphs to the router can solve type safety, complexity, and performance issues. They detail their approach of compiling subgraph SDL to gRPC specs and handling data loading at the router level.
 ---

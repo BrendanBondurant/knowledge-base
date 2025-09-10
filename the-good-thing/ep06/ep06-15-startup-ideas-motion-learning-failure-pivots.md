@@ -4,9 +4,6 @@ slug: ep06-15-startup-ideas-motion-learning-failure-pivots
 series: The Good Thing
 episode: 6
 chunk: 15
-participants:
-  - Jens
-  - Stefan
 segment: Startup ideas, motion, learning from failure, and product pivots
 timecode: 00:50:22:01 - 00:55:10:15
 start_time: 00:50:22:01
@@ -23,20 +20,10 @@ tags:
   - startup
   - ai
   - go
-topic_tags:
-  - startup
-  - ai
 entities:
   - Jens Neuse
   - Stefan Avram
   - WunderGraph
-mentions:
-  - startup idea generation
-  - staying in motion
-  - product pivots
-  - team dynamics
-  - customer feedback loops
-  - startup growth strategies
 summary: |
   Jens and Stefan discuss how to generate startup ideas, the importance of staying in motion, learning from failure, and the role of product pivots in startup growth and success.
 ---

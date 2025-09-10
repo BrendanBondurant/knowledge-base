@@ -4,10 +4,6 @@ slug: ep25-03-tech-bubble-vs-enterprise-reality
 series: The Good Thing
 episode: 25
 chunk: 3
-participants:
-  - Stefan Avram
-  - Jens Neuse
-  - Kevin Swiber
 segment: Relevance and Market Dynamics
 timecode: 00:09:53:12 – 00:14:05:28
 start_time: 00:09:53:12
@@ -30,10 +26,6 @@ tags:
   - go
   - llm
   - startup
-topic_tags:
-  - ai
-  - rest
-  - llm
 entities:
   - TechCrunch
   - ChatGPT
@@ -43,13 +35,6 @@ entities:
   - Fortune 500 companies
   - .NET runtime
   - Mainframe computing
-mentions:
-  - Long-term technology persistence
-  - Infrastructure becoming boring but profitable
-  - Press focus on AI over API innovations
-  - Normal people vs tech industry early adopters
-  - Multiple ChatGPT instances automation
-  - MLOps planning enterprise gap
 summary: |
   Kevin discusses how technologies stay relevant longer than expected, using mainframe computing as an example. The conversation explores how infrastructure companies become "boring" but remain profitable, and how the tech industry exists in a bubble compared to real enterprise adoption. Stefan shares examples of Fortune 500 employees just starting to use ChatGPT while tech workers use advanced AI tools extensively.
 ---

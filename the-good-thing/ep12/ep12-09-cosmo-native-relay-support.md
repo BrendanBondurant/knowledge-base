@@ -4,9 +4,6 @@ slug: ep12-09-cosmo-native-relay-support
 series: The Good Thing
 episode: 12
 chunk: 9
-participants:
-  - Stefan
-  - Jens
 segment: Relay Client Architecture and Implementation
 timecode: 00:30:09:24 – 00:34:15:08
 start_time: 00:30:09:24
@@ -32,10 +29,6 @@ tags:
   - open-source
   - rest
   - rest-apis
-topic_tags:
-  - cosmo-router
-  - cosmo
-  - graphql
 entities:
   - Relay
   - Isograph
@@ -46,13 +39,6 @@ entities:
   - Cosmo Router
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - fragment-based data requirements
-  - type safety benefits
-  - Coinbase using Relay
-  - over-fetching problems
-  - feed item refetch example
-  - open source motivation
 summary: Jens explains Relay's power for large-scale frontend applications through
   fragment-based component architecture and normalized caching. He introduces the
   node interface concept for efficient refetching and announces plans for Cosmo Router

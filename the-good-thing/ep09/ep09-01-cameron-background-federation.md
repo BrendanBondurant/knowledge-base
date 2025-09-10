@@ -4,9 +4,6 @@ slug: ep09-01-cameron-background-federation
 series: The Good Thing
 episode: 9
 chunk: 1
-participants:
-  - Jens
-  - Cameron
 segment: Introduction and guest background
 timecode: 00:00:00:00 – 00:04:16:28
 start_time: 00:00:00:00
@@ -33,10 +30,6 @@ tags:
   - rust
   - startup
   - typescript
-topic_tags:
-  - graphql-federation
-  - cosmo
-  - microservices
 entities:
   - Cameron
   - WunderGraph
@@ -44,12 +37,6 @@ entities:
   - GraphQL Federation
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - Stefan traveling to Germany
-  - Cameron joining WunderGraph with AI focus
-  - TypeScript rewrite discussion
-  - 13 federated microservices
-  - frontend API dependency
 summary: Jens introduces Cameron, a new senior software engineer at WunderGraph who
   previously worked as CISO at a WunderGraph customer. Cameron shares his background
   in AI-powered tooling and his experience using GraphQL Federation with 13 microservices

@@ -4,9 +4,6 @@ slug: ep12-17-infra-reliability-and-value
 series: The Good Thing
 episode: 12
 chunk: 17
-participants:
-  - Stefan
-  - Jens
 segment: Reliability and Business Value Discussion
 timecode: 01:03:20:20 – 01:08:23:10
 start_time: 01:03:20:20
@@ -30,10 +27,6 @@ tags:
   - graphql-federation
   - kubernetes
   - startup
-topic_tags:
-  - zero-incidents
-  - federation
-  - cosmo
 entities:
   - GCP
   - Kubernetes
@@ -45,13 +38,6 @@ entities:
   - Dustin
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - Node.js control plane
-  - automated cluster management
-  - Friday afternoon outages
-  - SLA response failures
-  - margin compression over time
-  - team onboarding value increases
 summary: Jens shares WunderGraph's reliability success using GCP Kubernetes with zero
   incidents over years, contrasting with startup infrastructure failures. He advocates
   for collaboration-based business models over compute reselling, using Linear as

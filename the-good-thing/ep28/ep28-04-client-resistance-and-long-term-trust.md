@@ -4,10 +4,6 @@ slug: ep28-04-client-resistance-and-long-term-trust
 series: The Good Thing
 episode: 28
 chunk: 4
-participants:
-  - Jens
-  - Stefan
-  - Daniel Kocot
 segment: Handling skepticism and building enduring relationships
 timecode: 00:21:02 – 00:28:33
 start_time: 00:21:02
@@ -24,17 +20,9 @@ tags:
   - consulting
   - client-relationships
   - trust
-topic_tags:
-  - consulting
-  - client-relationships
-  - trust
 entities:
   - Daniel Kocot
   - WunderGraph
-mentions:
-  - overcoming skepticism
-  - strategies for trust
-  - long-term engagement tactics
 summary: The group discusses managing skeptical clients, establishing trust over time, and how consultancy relationships evolve through consistent value delivery.
 ---
 00:21:02:29 - 00:21:04:21

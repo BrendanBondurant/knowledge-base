@@ -4,10 +4,6 @@ slug: ep07-13-batching-entities-and-federation-evolution
 series: The Good Thing
 episode: 7
 chunk: 13
-participants:
-  - Jens
-  - Sergiy
-  - David
 segment: Entity batching and composite schema evolution
 timecode: 01:08:14:09 – 01:14:15:10
 start_time: 01:08:14:09
@@ -35,10 +31,6 @@ tags:
   - graphql
   - rest
   - telemetry
-topic_tags:
-  - graphql-federation
-  - query-planning
-  - benchmarking
 entities:
   - Apollo Federation
   - GraphQL
@@ -46,14 +38,6 @@ entities:
   - Jens Neuse
   - Sergiy
   - David
-mentions:
-  - _entities field as array of any
-  - JSON representations
-  - batch root fields approach
-  - data loader patterns
-  - n+1 problem solutions
-  - cold query performance
-  - P95 metrics
 summary: Discussion of the love-hate relationship with Apollo Federation's _entities
   batching mechanism using JSON representations. Sergiy explains potential solutions
   in the composite schema spec, while the conversation shifts to benchmark bias, cold

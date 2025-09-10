@@ -4,9 +4,6 @@ slug: ep06-11-open-source-efficiency-code-quality-procurement
 series: The Good Thing
 episode: 6
 chunk: 11
-participants:
-  - Jens
-  - Stefan
 segment: Open source efficiency, code quality, and procurement
 timecode: 00:31:41:11 - 00:36:26:27
 start_time: 00:31:41:11
@@ -35,21 +32,10 @@ tags:
   - rest
   - rest-apis
   - rest-connectors
-topic_tags:
-  - startup
-  - open-source
-  - ai
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
-mentions:
-  - open source efficiency benefits
-  - code quality improvements
-  - procurement process streamlining
-  - sales cycle acceleration
-  - developer adoption patterns
-  - enterprise evaluation criteria
 summary: |
   Jens and Stefan discuss the efficiency benefits of open source, the impact on code quality, and how open source can streamline procurement and sales processes for startups.
 ---

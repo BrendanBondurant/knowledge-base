@@ -4,9 +4,6 @@ slug: ep05-07-customer-focus-competition-benchmarks
 series: The Good Thing
 episode: 5
 chunk: 7
-participants:
-  - Stefan
-  - Jens
 segment: Focusing on customers, handling competition, and the pitfalls of benchmarks
 timecode: 00:36:27:06 - 00:45:06:08
 start_time: 00:36:27:06
@@ -32,23 +29,10 @@ tags:
   - graphql
   - postgres
   - rust
-topic_tags:
-  - startup
-  - benchmarks
-  - graphql
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
-mentions:
-  - customer-first philosophy
-  - copycat competitors
-  - benchmark manipulation
-  - false marketing claims
-  - tech drama
-  - real-world use cases
-  - synthetic benchmarks
-  - performance validation
 summary: Stefan and Jens discuss the importance of focusing on customers rather than
   competitors, share stories about copycat competitors and false marketing, and debate
   the value and pitfalls of benchmarks. They reflect on how benchmarks can be manipulated,

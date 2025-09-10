@@ -4,9 +4,6 @@ slug: ep21-06-marblism-product-and-ux
 series: The Good Thing
 episode: 21
 chunk: 6
-participants:
-  - Stefan
-  - Jens
 segment: Marblism Evaluation - Part 2
 timecode: 00:16:08:14 – 00:20:06:05
 start_time: 00:16:08:14
@@ -26,10 +23,6 @@ tags:
   - go
   - rest
   - telemetry
-topic_tags:
-  - ai
-  - websocket
-  - founder
 entities:
   - Marblism
   - Stefan Avram
@@ -41,15 +34,6 @@ entities:
   - Superhuman
   - Brendan
   - Dustin
-mentions:
-  - Andy Warhol comic book design
-  - 7820 businesses onboarded
-  - humanized AI employee names
-  - interactive chat demo
-  - discount code for engaged users
-  - experienced founders execution
-  - 92% satisfaction rate
-  - 10,000 weekly AI tasks
 summary: Stefan and Jens praise Marblism's creative Andy Warhol-inspired design and
   humanization strategy of giving AI employees names like Linda and Sunny. They appreciate
   the interactive demo that filters for engaged users with a discount code, noting

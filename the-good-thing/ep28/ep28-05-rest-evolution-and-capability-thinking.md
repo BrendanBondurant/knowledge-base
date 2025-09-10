@@ -4,10 +4,6 @@ slug: ep28-05-rest-evolution-and-capability-thinking
 series: The Good Thing
 episode: 28
 chunk: 5
-participants:
-  - Jens
-  - Stefan
-  - Daniel Kocot
 segment: API style evolution, patterns, and capability-based approach
 timecode: 00:28:33 – 00:36:20
 start_time: 00:28:33
@@ -24,18 +20,10 @@ tags:
   - rest
   - capability-thinking
   - api-design
-topic_tags:
-  - rest
-  - capability-thinking
-  - api-design
 entities:
   - REST
   - Daniel Kocot
   - WunderGraph
-mentions:
-  - evolution of REST
-  - interaction pattern strategies
-  - capability-based architecture
 summary: Daniel explores REST’s evolution, common interaction patterns, and his advocacy for capability-driven API thinking as a way to bridge technical and business language.
 ---
 00:28:33:15 - 00:28:45:03

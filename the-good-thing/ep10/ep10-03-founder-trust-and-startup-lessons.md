@@ -4,11 +4,6 @@ slug: ep10-03-founder-trust-and-startup-lessons
 series: The Good Thing
 episode: 10
 chunk: 3
-participants:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
 segment: Founder dynamics and startup lessons
 timecode: 00:16:10:06 – 00:22:37:08
 start_time: 00:16:10:06
@@ -31,24 +26,12 @@ tags:
   - go
   - graphql
   - rust
-topic_tags:
-  - founder
-  - startup
-  - pivot-decisions
 entities:
   - WunderGraph
   - Netherlands
   - Vercel
   - Zeit.co
   - Guillermo Rauch
-mentions:
-  - sheep den retreat location
-  - flip chart strategic sessions
-  - Jens GraphQL expertise
-  - Dustin technical leadership
-  - Stefan customer feedback
-  - Vercel playbook imitation
-  - team scaling before PMF
 summary: Björn reflects on the trust required during the pivot, describing the Netherlands
   retreat as a leap of faith based on Stefan and Jens' market insights. Jens shares
   key lessons including the mistake of imitating successful startups like Vercel without

@@ -4,9 +4,6 @@ slug: ep01-04-education-after-accident-business-psychology
 series: The Good Thing
 episode: 1
 chunk: 4
-participants:
-  - Jens
-  - Stefan
 segment: Education, Recovery, and Career Redirection
 timecode: 00:10:02:17 – 00:13:23:14
 start_time: 00:10:02:17
@@ -25,20 +22,12 @@ tags:
   - ai
   - go
   - rest
-topic_tags:
-  - resilience
-  - founder
 entities:
   - Jens Neuse
   - Stefan Avram
   - WunderGraph
   - Germany
   - Business Psychology
-mentions:
-  - night school
-  - associate’s degree
-  - bachelor’s in business psychology
-  - raver
 summary: Jens describes the turning point in his recovery when he decided that life
   as a systems administrator wasn’t enough. Motivated to pursue something greater,
   he attended night school five nights a week and Saturdays, transforming from a poor-performing

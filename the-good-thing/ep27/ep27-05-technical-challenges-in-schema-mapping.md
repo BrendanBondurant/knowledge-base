@@ -4,10 +4,6 @@ slug: ep27-05-technical-challenges-in-schema-mapping
 series: The Good Thing
 episode: 27
 chunk: 5
-participants:
-  - Jens
-  - Dustin
-  - Ludwig
 segment: Type handling, nested lists, nullables, and engine design
 timecode: 00:21:23 – 00:27:17
 start_time: 00:21:23
@@ -25,19 +21,10 @@ tags:
   - grpc
   - schema-design
   - data-modeling
-topic_tags:
-  - graphql
-  - grpc
-  - schema-design
-  - data-modeling
 entities:
   - GraphQL
   - gRPC
   - WunderGraph
-mentions:
-  - nested list handling
-  - nullable field management
-  - mapping engine complexities
 summary: Discussion of complex schema mapping challenges, focusing on nested lists, nullable field design, and underlying engine implementation details.
 ---
 00:21:23:03 - 00:21:28:09

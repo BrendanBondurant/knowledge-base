@@ -4,9 +4,6 @@ slug: ep01-10-seniority-boldness-it-depends
 series: The Good Thing
 episode: 1
 chunk: 10
-participants:
-  - Jens
-  - Stefan
 segment: Realizing What You Dont Know
 timecode: 00:29:55 – 00:32:55
 start_time: 00:29:55
@@ -23,21 +20,11 @@ tags:
   - startup
   - ai
   - go
-topic_tags:
-  - startup
-  - ai
-  - go
 entities:
   - Jens Neuse
   - Stefan Avram
   - WunderGraph
   - Dunning Kruger
-mentions:
-  - bold statements
-  - it depends
-  - learning humility
-  - realizing you dont know everything
-  - senior mindset
 summary: Jens reflects on an early moment in his career when he encountered someone
   vastly more experienced, which humbled him and changed how he spoke about technical
   topics. He ties this to the Dunning Kruger effect and the common early-career mistake

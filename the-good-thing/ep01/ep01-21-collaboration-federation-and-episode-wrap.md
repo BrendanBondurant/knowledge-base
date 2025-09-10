@@ -4,9 +4,6 @@ slug: ep01-21-collaboration-federation-and-episode-wrap
 series: The Good Thing
 episode: 1
 chunk: 21
-participants:
-  - Jens
-  - Stefan
 segment: Teamwork Federation and Where We Are Headed
 timecode: 01:07:15 – 01:10:10
 start_time: 01:07:15
@@ -30,24 +27,12 @@ tags:
   - go
   - graphql-federation
   - query-planning
-topic_tags:
-  - graphql
-  - startup
-  - ai
-  - api-design
-  - federation
 entities:
   - Jens Neuse
   - Stefan Avram
   - WunderGraph
   - Federation
   - TYK
-mentions:
-  - collaboration in tech
-  - API schema teamwork
-  - podcast schedule
-  - 2025 product direction
-  - audience interaction on LinkedIn and Twitter
 summary: Jens closes by emphasizing that the key to building successful products is
   collaboration. Whether it is a startup or a corporate project, you need a team of
   people who enjoy working together. He ties this directly to WunderGraph and their

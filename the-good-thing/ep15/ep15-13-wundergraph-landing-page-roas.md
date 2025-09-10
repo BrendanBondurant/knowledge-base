@@ -4,9 +4,6 @@ slug: ep15-13-wundergraph-landing-page-roast
 series: The Good Thing
 episode: 15
 chunk: 13
-participants:
-  - Stefan
-  - Jens
 segment: WunderGraph Self-Analysis
 timecode: 00:59:12 – 01:04:01
 start_time: 00:59:12
@@ -33,20 +30,10 @@ tags:
   - open-source
   - startup
   - telemetry
-topic_tags:
-  - federation
-  - graphql-federation
-  - cosmo
 entities:
   - WunderGraph
   - Dustin (CTO)
   - graphql
-mentions:
-  - "Open source GraphQL Federation solution" complexity
-  - Full lifecycle API management confusion
-  - Dustin writing problematic copy
-  - "German "okay" meaning ambiguity"
-  - Technical jargon inaccessibility
 summary: |
   Stefan and Jens turn their critical lens on their own WunderGraph landing page, acknowledging major messaging problems. They critique their hero text "open source GraphQL Federation solution" as too technical and meaningless to non-experts, and discuss how their technical jargon makes the product inaccessible to potential users who don't already understand GraphQL Federation.
 ---

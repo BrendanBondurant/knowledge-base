@@ -4,9 +4,6 @@ slug: ep02-14-closing-hiring-episode-wrap
 series: The Good Thing
 episode: 2
 chunk: 14
-participants:
-  - Stefan
-  - Jens
 segment: Episode Closing and Hiring Information
 timecode: 00:56:39:08 – 01:00:08:11
 start_time: 00:56:39:08
@@ -29,10 +26,6 @@ tags:
   - go
   - graphql-federation
   - rest
-topic_tags:
-  - startup
-  - founder
-  - ai
 entities:
   - WunderGraph
   - The Good Thing Podcast
@@ -41,12 +34,6 @@ entities:
   - Bjorn
   - Dustin
   - Mark
-mentions:
-  - quarterly retreats
-  - competitive compensation
-  - equipment setup
-  - customer proximity
-  - job applications
 summary: Stefan and Jens wrap up episode 2 by discussing WunderGraph's hiring opportunities,
   company benefits including quarterly retreats and competitive compensation, and
   the importance of customer proximity. They provide contact information for job applications

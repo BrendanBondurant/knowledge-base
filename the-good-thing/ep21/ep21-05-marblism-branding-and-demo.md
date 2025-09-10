@@ -4,9 +4,6 @@ slug: ep21-05-marblism-branding-and-demo
 series: The Good Thing
 episode: 21
 chunk: 5
-participants:
-  - Stefan
-  - Jens
 segment: Marblism Evaluation - Part 1
 timecode: 00:13:06:12 – 00:16:08:12
 start_time: 00:13:06:12
@@ -25,8 +22,6 @@ tags:
   - founder
   - go
   - kubernetes
-topic_tags:
-  - ai
 entities:
   - Stefan Avram
   - Jens Neuse
@@ -36,13 +31,6 @@ entities:
   - David (chat participant)
   - Jacob (producer)
   - San Francisco
-mentions:
-  - WunderGraph early website failures
-  - feedback as a gift philosophy
-  - solution-first problem approach
-  - founder tier list idea
-  - "AI employees who love overtime" tagline
-  - San Francisco location advantage
 summary: |
   Jens shows empathy for ThunderCode founders, referencing WunderGraph's own early website failures and emphasizing that feedback is a gift. He advises starting with problems rather than solutions. Stefan suggests doing a founder tier list next. They transition to evaluating Marblism, a Y Combinator company from San Francisco with "AI employees who love overtime" branding.
 ---

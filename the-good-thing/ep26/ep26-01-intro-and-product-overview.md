@@ -4,10 +4,6 @@ slug: ep26-01-intro-and-product-overview
 series: The Good Thing
 episode: 26
 chunk: 1
-participants:
-  - Stefan
-  - Jens
-  - Sam Lambert
 segment: Introduction and PlanetScale Product Overview
 timecode: 00:00:22:20 – 00:05:20:08
 start_time: 00:00:22:20
@@ -31,10 +27,6 @@ tags:
   - go
   - rest
   - startup
-topic_tags:
-  - mysql
-  - postgres
-  - vitess
 entities:
   - PlanetScale
   - Sam Lambert
@@ -45,14 +37,6 @@ entities:
   - MySQL
   - Postgres
   - WunderGraph
-mentions:
-  - CEO of PlanetScale
-  - Years at GitHub and Meta building distributed systems
-  - Technical insights and product vision
-  - Uptime passion
-  - MySQL databases at hyperscale
-  - Sharded vs unsharded products
-  - Postgres world expansion
 summary: Stefan and Jens welcome Sam Lambert, CEO of PlanetScale, to discuss the database
   platform. Sam explains PlanetScale's evolution from MySQL-focused to supporting
   both MySQL and Postgres, covering their sharded and unsharded product offerings

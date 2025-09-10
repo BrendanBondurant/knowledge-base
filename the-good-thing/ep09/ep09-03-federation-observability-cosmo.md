@@ -4,9 +4,6 @@ slug: ep09-03-federation-observability-cosmo
 series: The Good Thing
 episode: 9
 chunk: 3
-participants:
-  - Jens
-  - Cameron
 segment: Federation benefits and schema registry
 timecode: 00:08:36:13 – 00:13:07:13
 start_time: 00:08:36:13
@@ -32,22 +29,11 @@ tags:
   - rest
   - startup
   - supergraph
-topic_tags:
-  - schema-registry
-  - observability
-  - cosmo
 entities:
   - Cosmo
   - WunderGraph
   - GraphQL Federation
   - Schema Registry
-mentions:
-  - supergraph and subgraph schemas
-  - client query analytics
-  - 30% QA time savings
-  - WGC check command
-  - 20 clients and 2000 queries
-  - schema-to-people mapping
 summary: Jens explains how federation provides schema coordination through Cosmo's
   registry, which tracks supergraph schemas, subgraphs, and client usage patterns.
   This enables breaking change prevention, team coordination, and significant QA time

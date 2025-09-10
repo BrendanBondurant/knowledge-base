@@ -4,9 +4,6 @@ slug: ep20-08-codex-vs-cursor-openai-strategy
 series: The Good Thing
 episode: 20
 chunk: 8
-participants:
-  - Stefan
-  - Jens
 segment: AI Development Tools and Platform Strategy
 timecode: 00:40:23:25 – 00:47:02:24
 start_time: 00:40:23:25
@@ -27,21 +24,12 @@ tags:
   - rest
   - rust
   - startup
-topic_tags:
-  - codex
-  - cursor
-  - openai
 entities:
   - OpenAI Codex
   - Cursor
   - OpenAI
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - Codex capabilities and limitations
-  - Cursor's market position
-  - OpenAI strategic decisions
-  - Developer tool competition
 summary: Comparison of OpenAI's Codex and Cursor as AI development tools, analyzing
   OpenAI's platform strategy and the competitive dynamics in the AI-powered developer
   tool market.

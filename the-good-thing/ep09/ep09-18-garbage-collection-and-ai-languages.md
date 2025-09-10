@@ -4,9 +4,6 @@ slug: ep09-18-garbage-collection-and-ai-languages
 series: The Good Thing
 episode: 9
 chunk: 18
-participants:
-  - Jens
-  - Cameron
 segment: Programming languages for AI development
 timecode: 01:04:23:27 – 01:08:05:29
 start_time: 01:04:23:27
@@ -25,23 +22,12 @@ tags:
   - benchmarking
   - go
   - rust
-topic_tags:
-  - garbage-collection
-  - rust
-  - typescript
 entities:
   - Rust
   - Go
   - TypeScript
   - Kotlin
   - TSC Compiler
-mentions:
-  - borrow checker lifetime management
-  - AST rewriting complexity
-  - stop-the-world GC scenarios
-  - compiler memory management
-  - TypeScript compiler feedback loops
-  - backend language preferences
 summary: Jens compares language complexity for compiler development, highlighting
   how Rust's borrow checker creates challenges for AST transformations that Go and
   TypeScript avoid. He discusses garbage collection benefits in compiler contexts

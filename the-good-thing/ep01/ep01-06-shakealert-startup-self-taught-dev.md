@@ -4,8 +4,6 @@ slug: ep01-06-shakealert-startup-self-taught-dev
 series: The Good Thing
 episode: 1
 chunk: 6
-participants:
-  - Jens
 segment: Shakealert Startup — First Real Coding Experience
 timecode: 00:16:46 – 00:20:07
 start_time: 00:16:46
@@ -22,8 +20,6 @@ tags:
   - ai
   - go
   - rest
-topic_tags:
-  - startup
 entities:
   - Jens Neuse
   - Shakealert
@@ -34,12 +30,6 @@ entities:
   - Swift
   - PHP
   - QR code
-mentions:
-  - shake sensor
-  - YouTube tutorials
-  - somebody had to write the code
-  - Slide Nerd
-  - self-taught programming
 summary: 'Jens describes his first hands-on experience with building a real product:
   an app called Shakealert that let users shake their phone to activate a QR code
   scanner for local deals. Initially working with a friend who knew PHP and a classmate

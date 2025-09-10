@@ -4,9 +4,6 @@ slug: ep12-11-relay-fragments-ui-scale
 series: The Good Thing
 episode: 12
 chunk: 11
-participants:
-  - Stefan
-  - Jens
 segment: Relay Benefits and Frontend Architecture
 timecode: 00:38:22:29 – 00:42:26:21
 start_time: 00:38:22:29
@@ -31,10 +28,6 @@ tags:
   - graphql
   - open-source
   - rust
-topic_tags:
-  - federation
-  - graphql-federation
-  - ai
 entities:
   - Relay
   - Facebook
@@ -43,13 +36,6 @@ entities:
   - GraphQL
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - JWT signature verification
-  - entity call translation
-  - fragment-per-component pattern
-  - Relay open source from Facebook
-  - GraphQL clients comparison
-  - feed component examples
 summary: Discussion of JWT validation for secure entity requests and Relay's fragment-based
   architecture. Jens explains how Relay enables component-specific data requirements
   through fragments, while Stefan questions what makes Relay special compared to other

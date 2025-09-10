@@ -4,10 +4,6 @@ slug: ep07-16-why-join-wundergraph
 series: The Good Thing
 episode: 7
 chunk: 16
-participants:
-  - Jens
-  - Sergiy
-  - David
 segment: Hiring pitch and team culture discussion
 timecode: 01:26:03:01 – 01:33:06:03
 start_time: 01:26:03:01
@@ -35,10 +31,6 @@ tags:
   - graphql
   - query-planning
   - rest
-topic_tags:
-  - federation
-  - graphql-federation
-  - ai
 entities:
   - WunderGraph
   - Cosmo
@@ -49,15 +41,6 @@ entities:
   - David
   - Suvij
   - Nithin
-mentions:
-  - configure description directive impact
-  - global team across continents
-  - direct consequence visibility
-  - problem-solving company identity
-  - leading the GraphQL space
-  - collaborative tooling focus
-  - self-taught engineer success
-  - slack connections with big companies
 summary: Team discussion on what makes WunderGraph an attractive workplace, with Sergiy
   emphasizing continuous quality improvements, David highlighting diverse team culture
   and direct impact visibility, and Jens sharing his journey as a self-taught engineer

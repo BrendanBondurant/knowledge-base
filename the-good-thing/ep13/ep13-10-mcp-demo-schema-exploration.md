@@ -4,9 +4,6 @@ slug: ep13-10-mcp-demo-schema-exploration
 series: The Good Thing
 episode: 13
 chunk: 10
-participants:
-  - Stefan
-  - Jens
 segment: Live MCP Integration Demo with Cosmo
 timecode: 00:36:09 – 00:41:28
 start_time: 00:36:09
@@ -31,10 +28,6 @@ tags:
   - graphql
   - graphql-federation
   - mcp
-topic_tags:
-  - mcp
-  - ai
-  - cosmo
 entities:
   - Cosmo
   - MCP
@@ -44,15 +37,6 @@ entities:
   - Studio
   - Subgraphs
   - Router config
-mentions:
-  - live documentation release
-  - npx wgc mcp setup
-  - API key configuration
-  - schema and subgraph fetching
-  - employee service architecture
-  - family, availability, mood services
-  - authentication and mutations
-  - file upload capabilities
 summary: Jens demonstrates live MCP integration with Cosmo, showing how to set up
   and use prompt-driven schema exploration. The demo reveals how MCP tools can automatically
   fetch super graph schemas, subgraphs, and router configurations to provide comprehensive

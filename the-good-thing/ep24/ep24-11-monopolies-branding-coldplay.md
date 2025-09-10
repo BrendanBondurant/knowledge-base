@@ -4,9 +4,6 @@ slug: ep24-11-monopolies-branding-coldplay
 series: The Good Thing
 episode: 24
 chunk: 11
-participants:
-  - Stefan
-  - Jens
 segment: Business Strategy and Cultural Commentary
 timecode: 00:56:25:07 – 01:02:53:29
 start_time: 00:56:25:07
@@ -29,10 +26,6 @@ tags:
   - go
   - graphql-federation
   - rest
-topic_tags:
-  - federation
-  - ai
-  - open-source
 entities:
   - Mark Zuckerberg
   - Meta
@@ -48,18 +41,6 @@ entities:
   - WunderGraph
   - Sofia
   - Tiger Woods
-mentions:
-  - 3 billion Ray-Ban investment
-  - Meta glasses development
-  - OpenAI and Scale AI poaching
-  - 16 billion investment as pennies
-  - advertising market positioning
-  - search vs advertising monopoly
-  - federation market analysis
-  - CEO and CPO concert attendance
-  - LinkedIn relationship status
-  - Coldplay concert reactions
-  - Tiger Woods documentary
 summary: |
   Stefan praises Mark Zuckerberg's strategic leadership, discussing Meta's investments in Ray-Ban and talent acquisition. The conversation shifts to Peter Thiel's theory about how monopolies disguise themselves in larger markets, applying this to Google, Facebook, and WunderGraph. The episode concludes with commentary on a workplace controversy involving executives attending a Coldplay concert together, examining the professional and personal boundaries involved.
 ---

@@ -4,10 +4,6 @@ slug: ep27-13-ai-assisted-plugin-development
 series: The Good Thing
 episode: 27
 chunk: 13
-participants:
-  - Jens
-  - Dustin
-  - Jesse
 segment: AI-assisted workflows for REST and gRPC plugin automation
 timecode: 00:54:02 – 00:59:06
 start_time: 00:54:02
@@ -25,18 +21,9 @@ tags:
   - plugin-architecture
   - grpc
   - rest
-topic_tags:
-  - ai
-  - plugin-architecture
-  - grpc
-  - rest
 entities:
   - Cursor
   - WunderGraph
-mentions:
-  - automating REST integration
-  - Cursor-assisted plugin workflows
-  - benefits of gRPC-based plugins
 summary: Jens and Stefan discuss AI-assisted development using Cursor, explaining automation for REST integration and how gRPC plugins simplify complex workflows.
 ---
 00:54:02:25 - 00:54:14:29

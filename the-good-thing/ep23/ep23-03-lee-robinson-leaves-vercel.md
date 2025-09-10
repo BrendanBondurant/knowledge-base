@@ -4,9 +4,6 @@ slug: ep23-03-lee-robinson-leaves-vercel
 series: The Good Thing
 episode: 23
 chunk: 3
-participants:
-  - Stefan
-  - Jens
 segment: Developer Relations and Career Changes
 timecode: 00:13:31:00 – 00:20:08:15
 start_time: 00:13:31:00
@@ -28,21 +25,12 @@ tags:
   - rest
   - startup
   - vitess
-topic_tags:
-  - ai
-  - postgres
-  - websocket
 entities:
   - Lee Robinson
   - Vercel
   - Next.js
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - Lee Robinson's departure
-  - developer advocacy role changes
-  - Next.js community leadership
-  - Vercel team transitions
 summary: Stefan and Jens discuss Lee Robinson's departure from Vercel and its implications
   for the Next.js community. They explore the evolving role of developer advocacy
   and how key personnel changes impact developer relations and community engagement.

@@ -4,10 +4,6 @@ slug: ep27-11-schema-design-and-error-handling
 series: The Good Thing
 episode: 27
 chunk: 11
-participants:
-  - Jens
-  - Dustin
-  - Jesse
 segment: API integration patterns and error strategy
 timecode: 00:48:06 – 00:51:17
 start_time: 00:48:06
@@ -24,17 +20,9 @@ tags:
   - schema-design
   - error-handling
   - api-integration
-topic_tags:
-  - schema-design
-  - error-handling
-  - api-integration
 entities:
   - GraphQL
   - WunderGraph
-mentions:
-  - error response strategy
-  - schema evolution
-  - integration philosophy
 summary: Conversation about schema design principles, structured error handling, and integration patterns that improve developer experience and system reliability.
 ---
 00:48:06:27 - 00:48:09:02

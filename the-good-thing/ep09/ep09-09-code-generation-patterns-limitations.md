@@ -4,9 +4,6 @@ slug: ep09-09-code-generation-patterns-limitations
 series: The Good Thing
 episode: 9
 chunk: 9
-participants:
-  - Jens
-  - Cameron
 segment: AI code generation challenges
 timecode: 00:33:27:04 – 00:36:35:03
 start_time: 00:33:27:04
@@ -19,27 +16,9 @@ topics:
   - Pattern Replication
   - AST Transformation
   - Test-Driven Development
-topic_tags:
-  - ai
-  - graphql
-  - code-generation
-topic_tags:
-  - code-generation
-  - ast-transformation
-  - test-driven-development
-  - pattern-replication
-  - context-management
-  - ai-limitations
 entities:
   - AST
   - GraphQL
-mentions:
-  - SQL migrations and comments
-  - query to mutation patterns
-  - AST language transformation
-  - Claude 3.5 Sonnet
-  - hard-coded literals problem
-  - file organization strategies
 summary: Jens discusses AI's effectiveness in repetitive tasks like SQL migrations
   and pattern replication, but warns about challenges in complex scenarios like AST
   transformations. He shares experiences with test-driven development approaches and

@@ -4,9 +4,6 @@ slug: ep16-02-federation-licensing-open-standards
 series: The Good Thing
 episode: 16
 chunk: 2
-participants:
-  - Stefan
-  - Jens
 segment: Licensing Strategy and Enterprise Adoption
 timecode: 00:04:30 – 00:09:15
 start_time: 00:04:30
@@ -35,9 +32,6 @@ tags:
   - rest
   - rust
   - startup
-topic_tags:
-  - federation
-  - cosmo
 entities:
   - Cosmo
   - Federation
@@ -45,12 +39,6 @@ entities:
   - Netflix
   - Apollo
   - FAANG companies
-mentions:
-  - Ten-year Cosmo adoption vision
-  - Large bank and FAANG licensing restrictions
-  - Netflix building custom federation gateway
-  - Apollo Rust router adoption questions
-  - JVM vs Rust technology choices
 summary: Jens explains WunderGraph's long-term federation strategy, emphasizing how
   restrictive licensing prevents FAANG companies and large enterprises from adopting
   tools. He uses Netflix's decision to build their own federation gateway instead

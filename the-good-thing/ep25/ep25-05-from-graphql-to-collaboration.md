@@ -4,10 +4,6 @@ slug: ep25-05-from-graphql-to-collaboration
 series: The Good Thing
 episode: 25
 chunk: 5
-participants:
-  - Stefan Avram
-  - Jens Neuse
-  - Kevin Swiber
 segment: WunderGraph's Evolution and API Design Process
 timecode: 00:18:28:28 – 00:23:20:19
 start_time: 00:18:28:28
@@ -32,10 +28,6 @@ tags:
   - graphql
   - rest
   - startup
-topic_tags:
-  - federation
-  - graphql-federation
-  - api-design
 entities:
   - WunderGraph
   - graphql
@@ -45,14 +37,6 @@ entities:
   - Post-it notes
   - API requirements
   - Startup growth
-mentions:
-  - GraphQL as starting motivation
-  - Developer tools vs enterprise sellability
-  - Multiple teams collaboration needs
-  - Fast-growing startup value creation
-  - Screenshot-based API design process
-  - Post-it to API translation workflow
-  - Process optimization beyond technology
 summary: |
   Jens shares WunderGraph's evolution from a GraphQL tool to a collaboration platform. He explains how they discovered that while developers liked their tool, it was hard to sell to enterprises until they pivoted to federation for multi-team collaboration. The real breakthrough came when they realized customers' biggest problem was collaboration itself, not just technology, leading them to discover creative workflows like using Miro boards with screenshots and post-its for API design.
 ---

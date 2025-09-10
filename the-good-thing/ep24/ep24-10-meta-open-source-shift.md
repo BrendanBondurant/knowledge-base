@@ -4,9 +4,6 @@ slug: ep24-10-meta-open-source-shift
 series: The Good Thing
 episode: 24
 chunk: 10
-participants:
-  - Stefan
-  - Jens
 segment: Meta AI Strategy Discussion
 timecode: 00:51:18:17 – 00:56:25:04
 start_time: 00:51:18:17
@@ -30,10 +27,6 @@ tags:
   - go
   - open-source
   - startup
-topic_tags:
-  - ai
-  - open-source
-  - meta
 entities:
   - Meta
   - Alexander Wang
@@ -47,17 +40,6 @@ entities:
   - Anthropic
   - ChatGPT
   - WhatsApp
-mentions:
-  - superintelligence lab
-  - 2 trillion parameter model
-  - data center GPU requirements
-  - Jeff Bezos donation analogy
-  - military contracts worth 200M
-  - AI arms race dynamics
-  - user behavior shifts
-  - ChatGPT vs website surfing
-  - WhatsApp AI integration
-  - Facebook usage decline
 summary: |
   Stefan and Jens discuss Meta's potential shift away from open source AI models, analyzing the practical implications of 2 trillion parameter models that only major companies can run. Stefan suggests government pressure due to AI arms race concerns with China and Russia, while Jens considers how changing user behaviors away from traditional web browsing might be affecting Meta's advertising-dependent business model.
 ---

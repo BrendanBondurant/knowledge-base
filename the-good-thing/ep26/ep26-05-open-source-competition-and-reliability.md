@@ -4,10 +4,6 @@ slug: ep26-05-open-source-competition-and-reliability
 series: The Good Thing
 episode: 26
 chunk: 5
-participants:
-  - Stefan
-  - Jens
-  - Sam Lambert
 segment: Open Source Strategy and Competitive Moats
 timecode: 00:19:02:26 – 00:24:16:02
 start_time: 00:19:02:26
@@ -31,10 +27,6 @@ tags:
   - postgres
   - rest
   - startup
-topic_tags:
-  - open-source
-  - vitess
-  - database
 entities:
   - Vitess
   - Google
@@ -42,13 +34,6 @@ entities:
   - Amazon
   - Aurora
   - PlanetScale
-mentions:
-  - YouTube using Vitess at Google
-  - Amazon Limitless reliability issues
-  - Public case studies of migrations
-  - 55 person team with 100% uptime
-  - Principal engineer level talent
-  - Four person infrastructure team
 summary: |
   Exploration of how PlanetScale navigates open source competition, particularly from AWS, through superior operational expertise rather than proprietary code. Discussion of their small but highly skilled team achieving exceptional reliability with minimal headcount.
 ---

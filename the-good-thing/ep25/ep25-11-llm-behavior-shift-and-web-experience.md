@@ -4,10 +4,6 @@ slug: ep25-11-llm-behavior-shift-and-web-experience
 series: The Good Thing
 episode: 25
 chunk: 11
-participants:
-  - Stefan Avram
-  - Jens Neuse
-  - Kevin Swiber
 segment: Internet Behavior Change and LLM Impact
 timecode: 00:44:08:12 – 00:49:51:21
 start_time: 00:44:08:12
@@ -29,10 +25,6 @@ tags:
   - go
   - llm
   - startup
-topic_tags:
-  - ai
-  - llm
-  - startup
 entities:
   - Web directories
   - Google Search
@@ -42,16 +34,6 @@ entities:
   - Wikipedia
   - Claude
   - Ad revenue models
-mentions:
-  - Link aggregators and directories
-  - Google search evolution
-  - Question-based information retrieval
-  - Walled garden concerns
-  - LLM trust issues
-  - Early web information sharing
-  - Personalized chat experiences
-  - Creative web presentation loss
-  - Ad spam driving LLM adoption
 summary: |
   Jens explores how internet behavior is evolving from web directories to Google search to LLM-based queries, creating potential walled gardens where machines filter information. Stefan shares how his non-technical father from Yugoslavia now uses ChatGPT instead of Google. Kevin compares LLM text interfaces to early web experiences, discussing trade-offs between personalized AI interactions and the rich, creative web experiences we lose. The conversation touches on ad revenue disruption and how spam-heavy sites drive users toward cleaner LLM interfaces.
 ---

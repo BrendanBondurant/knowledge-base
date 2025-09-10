@@ -4,9 +4,6 @@ slug: ep01-07-gaming-fear-go-language-just-do-things
 series: The Good Thing
 episode: 1
 chunk: 7
-participants:
-  - Jens
-  - Stefan
 segment: Getting Over Fear and Just Doing Things
 timecode: 00:20:07 – 00:23:12
 start_time: 00:20:07
@@ -25,10 +22,6 @@ tags:
   - founder
   - ai
   - rest
-topic_tags:
-  - go
-  - resilience
-  - founder
 entities:
   - Jens Neuse
   - Stefan Avram
@@ -39,12 +32,6 @@ entities:
   - Slide Nerd
   - Alexandra
   - Sam Altman
-mentions:
-  - programming anxiety
-  - pretending to code
-  - just do things
-  - soccer as metaphor for learning
-  - strategy gaming
 summary: |
   Jens shares how he moved from Java to Go for a simpler backend programming experience, but also confesses to spending a month dodging coding by playing the strategy game Anno 1600 out of fear and imposter syndrome. Hiding the game from his future mother-in-law while pretending to program, he eventually hit a breakthrough that led to a real understanding of programming and debugging. Stefan reflects on the power of learning by doing, comparing Jens' journey to kicking a soccer ball instead of just reading about the sport—affirming that the best way to learn is often to just start.
 ---

@@ -4,9 +4,6 @@ slug: ep01-14-from-architect-to-graphql-inspiration
 series: The Good Thing
 episode: 1
 chunk: 14
-participants:
-  - Jens
-  - Stefan
 segment: Promotion Networking and Early API Design
 timecode: 00:42:46 – 00:46:53
 start_time: 00:42:46
@@ -32,10 +29,6 @@ tags:
   - kubernetes
   - rest
   - rest-apis
-topic_tags:
-  - graphql
-  - api-design
-  - federation
 entities:
   - Jens Neuse
   - Stefan Avram
@@ -47,12 +40,6 @@ entities:
   - Docker Swarm
   - Kubernetes
   - Imposters Handbook
-mentions:
-  - engineering lead promotion
-  - handmade federation
-  - GraphQL in 2015
-  - career networking
-  - backend for frontend
 summary: Jens explains how his confidence and energy landed him an architect role
   and promotion to engineering lead in just a few years, even without senior-level
   experience. He credits networking, dressing professionally, and reading foundational

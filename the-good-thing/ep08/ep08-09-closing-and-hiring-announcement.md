@@ -4,9 +4,6 @@ slug: ep08-09-closing-and-hiring-announcement
 series: The Good Thing
 episode: 8
 chunk: 9
-participants:
-  - Stefan
-  - Jens
 segment: Episode wrap-up with hiring and upcoming content preview
 timecode: 01:00:26:05 – 01:01:59:09
 start_time: 01:00:26:05
@@ -28,22 +25,10 @@ tags:
   - graphql
   - rest
   - startup
-topic_tags:
-  - federation
-  - startup
-  - graphql
 entities:
   - WunderGraph
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - State of Federation report access
-  - website banner promotion
-  - exciting announcement teaser
-  - case study pipeline
-  - February feature updates
-  - dedicated recruiting support
-  - startup transparency philosophy
 summary: |
   Episode conclusion with Stefan promoting the State of GraphQL Federation report and announcing active hiring across the organization. Discussion of upcoming content including case studies, feature announcements, and team growth with dedicated recruiting support, emphasizing WunderGraph's transparency and growth trajectory.
 ---

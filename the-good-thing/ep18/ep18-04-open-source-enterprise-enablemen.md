@@ -4,9 +4,6 @@ slug: ep18-04-open-source-enterprise-enablemen
 series: The Good Thing
 episode: 18
 chunk: 4
-participants:
-  - Stefan
-  - Jens
 segment: Open source strategy for enterprise sales
 timecode: 00:20:00:08 – 00:26:47:12
 start_time: 00:20:00:08
@@ -30,24 +27,11 @@ tags:
   - kubernetes
   - rest
   - startup
-topic_tags:
-  - open-source-strategy
-  - enterprise-sales
-  - organizational-barriers
 entities:
   - TAB (Technical Advisory Board)
   - Healthcare company
   - Cosmo
   - Banks
-mentions:
-  - product market fit as pain big enough to pay for
-  - how to iterate and get to PMF
-  - open secret discovery
-  - healthcare enterprise call
-  - eight months company blocking
-  - different vendor market solution
-  - large bank POC with play graphs
-  - engineer interest vs organizational blocking
 summary: Stefan defines product-market fit as solving pain big enough that people
   pay for it, introducing the TAB concept for iteration guidance. Jens shares insights
   from healthcare enterprise calls, revealing how organizational barriers prevent

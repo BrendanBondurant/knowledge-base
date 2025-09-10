@@ -4,10 +4,6 @@ slug: ep27-10-declarative-vs-programmatic-connectors
 series: The Good Thing
 episode: 27
 chunk: 10
-participants:
-  - Jesse
-  - Jens
-  - Dustin
 segment: Debugging advantages and SDK-driven integration
 timecode: 00:43:10 – 00:48:06
 start_time: 00:43:10
@@ -24,17 +20,9 @@ tags:
   - connectors
   - debugging
   - sdk
-topic_tags:
-  - connectors
-  - debugging
-  - sdk
 entities:
   - Cosmo Connect
   - WunderGraph
-mentions:
-  - declarative configuration pitfalls
-  - benefits of SDK-based debugging
-  - real-world integration examples
 summary: Jens and Stefan critique declarative connector approaches, highlighting debugging advantages and the flexibility of SDK-based integration workflows.
 ---
 00:38:48:16 - 00:39:13:16

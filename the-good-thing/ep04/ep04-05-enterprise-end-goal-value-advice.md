@@ -4,9 +4,6 @@ slug: ep04-05-enterprise-end-goal-value-advice
 series: The Good Thing
 episode: 4
 chunk: 5
-participants:
-  - Stefan
-  - Jens
 segment: Why enterprise is the end goal for devtools startups, value creation, and
   advice for founders
 timecode: 00:13:12:27 - 00:16:17:07
@@ -26,21 +23,12 @@ tags:
   - ai
   - founder
   - go
-topic_tags:
-  - enterprise
-  - startup
-  - founder
 entities:
   - Stefan
   - Jens
   - Soc2
   - Google
   - Superbase
-mentions:
-  - compliance
-  - enterprise sales
-  - startup journey
-  - product-market fit
 summary: Stefan and Jens discuss why enterprise is the natural end goal for devtools
   startups, the importance of value creation, and share advice for founders on building
   relationships and evolving products to meet enterprise needs.

@@ -4,9 +4,6 @@ slug: ep15-11-apollo-connectors-messaging-gap
 series: The Good Thing
 episode: 15
 chunk: 11
-participants:
-  - Stefan
-  - Jens
 segment: Apollo Technical Strategy Discussion
 timecode: 00:50:17 – 00:54:10
 start_time: 00:50:17
@@ -34,19 +31,10 @@ tags:
   - rest-connectors
   - rust
   - startup
-topic_tags:
-  - apollo-graphql
-  - social-proof
 entities:
   - Apollo
   - WunderGraph
   - Matt (Apollo engineer)
-mentions:
-  - Customer migration from Apollo to WunderGraph
-  - Feature flags for router compatibility
-  - Non-clickable customer logos issue
-  - Missing case study links
-  - Matt as smart engineer acknowledgment
 summary: Stefan and Jens discuss technical migration challenges from Apollo to WunderGraph,
   including the need for feature flags to maintain compatibility. They critique Apollo's
   social proof section for having non-clickable customer logos that don't link to

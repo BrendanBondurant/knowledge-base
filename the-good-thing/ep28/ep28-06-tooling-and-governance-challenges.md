@@ -4,10 +4,6 @@ slug: ep28-06-tooling-and-governance-challenges
 series: The Good Thing
 episode: 28
 chunk: 6
-participants:
-  - Jens
-  - Stefan
-  - Daniel Kocot
 segment: Misconceptions about tools, API governance hurdles, and platform complexity
 timecode: 00:36:20 – 00:44:00
 start_time: 00:36:20
@@ -24,17 +20,9 @@ tags:
   - api-governance
   - tooling
   - consulting
-topic_tags:
-  - api-governance
-  - tooling
-  - consulting
 entities:
   - Daniel Kocot
   - WunderGraph
-mentions:
-  - misconceptions about API tooling
-  - governance barriers
-  - enterprise platform complexity
 summary: Daniel discusses common misconceptions around API tooling, highlights governance challenges, and explores the complexity of enterprise API platforms.
 ---
 00:36:20:14 - 00:36:50:13

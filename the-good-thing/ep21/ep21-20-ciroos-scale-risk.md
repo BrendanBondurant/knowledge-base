@@ -4,9 +4,6 @@ slug: ep21-20-ciroos-scale-risk
 series: The Good Thing
 episode: 21
 chunk: 20
-participants:
-  - Stefan
-  - Jens
 segment: Ciroos Evaluation - Part 2
 timecode: 01:00:00:00 – 01:03:13:16
 start_time: 01:00:00:00
@@ -28,8 +25,6 @@ tags:
   - mcp
   - rest-connectors
   - startup
-topic_tags:
-  - ciroos
 entities:
   - Ciroos
   - Stefan Avram
@@ -40,13 +35,6 @@ entities:
   - Datadog
   - Grafana
   - David (chat participant)
-mentions:
-  - Cisco/AppDynamics work experience
-  - incident investigation tools
-  - differentiation from Incident.io
-  - massive seed round success
-  - resume-based fundraising
-  - coin flip tier placement
 summary: Stefan and Jens express confusion about Ciroos' value proposition in SRE
   incident management, questioning how it differs from existing tools like Incident.io.
   They suspect the founders raised a large seed round primarily based on their impressive

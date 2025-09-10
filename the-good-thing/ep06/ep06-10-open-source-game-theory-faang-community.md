@@ -4,9 +4,6 @@ slug: ep06-10-open-source-game-theory-faang-community
 series: The Good Thing
 episode: 6
 chunk: 10
-participants:
-  - Jens
-  - Stefan
 segment: Open source game theory, FAANG, and community contributions
 timecode: 00:27:30:06 - 00:31:41:10
 start_time: 00:27:30:06
@@ -31,23 +28,12 @@ tags:
   - rest
   - rest-apis
   - rest-connectors
-topic_tags:
-  - startup
-  - graphql
-  - ai
 entities:
   - Stefan Avram
   - Jens Neuse
   - FAANG companies
   - Meta
   - WunderGraph
-mentions:
-  - open source game theory
-  - FAANG company strategies
-  - community contributions value
-  - code quality in public
-  - security auditing benefits
-  - procurement advantages
 summary: |
   Jens and Stefan explore the game theory behind open source, the role of FAANG companies, and the importance of community contributions in building successful products and growing startups.
 ---

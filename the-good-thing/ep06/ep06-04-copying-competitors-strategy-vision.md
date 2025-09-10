@@ -4,9 +4,6 @@ slug: ep06-04-copying-competitors-strategy-vision
 series: The Good Thing
 episode: 6
 chunk: 04
-participants:
-  - Stefan
-  - Jens
 segment: Copying competitors, startup strategy, vision, and customer focus
 timecode: 00:07:17:15 - 00:10:42:27
 start_time: 00:07:17:15
@@ -26,23 +23,12 @@ tags:
   - benchmarking
   - go
   - graphql
-topic_tags:
-  - startup
-  - apollo-graphql
-  - graphql
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
   - Apollo
   - Hasura
-mentions:
-  - copying competitors strategy
-  - startup vision importance
-  - customer focus vs features
-  - feature parity pitfalls
-  - original strategy value
-  - distribution challenges
 summary: |
   Jens and Stefan reflect on the temptation to copy competitors, the importance of having a vision, and the need to focus on customers rather than just features. They discuss the pitfalls of feature parity and the value of original strategy in startup success.
 ---

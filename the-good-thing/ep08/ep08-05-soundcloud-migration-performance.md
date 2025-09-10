@@ -4,9 +4,6 @@ slug: ep08-05-soundcloud-migration-performance
 series: The Good Thing
 episode: 8
 chunk: 5
-participants:
-  - Stefan
-  - Jens
 segment: Technical details of SoundCloud's migration and performance gains
 timecode: 00:36:18:11 – 00:42:02:16
 start_time: 00:36:18:11
@@ -33,10 +30,6 @@ tags:
   - kubernetes
   - query-planning
   - startup
-topic_tags:
-  - federation
-  - cosmo
-  - benchmarking
 entities:
   - SoundCloud
   - Node.js
@@ -46,15 +39,6 @@ entities:
   - Cosmo
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - 86% infrastructure cost reduction
-  - $265,000 annual savings
-  - 45% query latency improvement
-  - single-threaded Node.js limitations
-  - linear CPU scaling
-  - 4-8 CPU instances vs hundreds of single CPU pods
-  - subgraph bottleneck identification
-  - Node.js to Cosmo analytics bridge
 summary: |
   Technical deep-dive into SoundCloud's migration from Node.js to Golang-based routing, achieving 86% infrastructure cost reduction and 45% latency improvement. Jens explains the architectural advantages of multi-threaded processing, linear CPU scaling, and the collaborative analytics bridge built to support migration from Node.js gateways to Cosmo.
 ---

@@ -4,9 +4,6 @@ slug: ep18-09-sales-relationships-junior-engineer-role
 series: The Good Thing
 episode: 18
 chunk: 9
-participants:
-  - Stefan
-  - Jens
 segment: Sales philosophy and junior engineer influence dynamics
 timecode: 00:52:06:11 – 00:58:35:18
 start_time: 00:52:06:11
@@ -24,26 +21,11 @@ tags:
   - ai
   - go
   - rest
-topic_tags:
-  - sales-philosophy
-  - negotiation-skills
-  - customer-success
 entities:
   - Sam Altman
   - Junior engineers
   - Enterprise customers
   - Peppa Pig
-mentions:
-  - Sam Altman how to be successful blog
-  - selling yourself for jobs
-  - house purchase negotiations
-  - everything is negotiation
-  - kids bedtime negotiation
-  - selling dream of good sleep
-  - symbiotic relationship concept
-  - customer success after deal
-  - junior engineer technical input
-  - enterprise purchasing influence
 summary: Stefan explains his philosophy that everything in life involves selling and
   negotiation, referencing Sam Altman's success advice and using parenting examples.
   He emphasizes that effective sales focuses on symbiotic relationships and customer

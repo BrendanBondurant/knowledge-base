@@ -4,9 +4,6 @@ slug: ep12-08-graphql-limitations-relay
 series: The Good Thing
 episode: 12
 chunk: 8
-participants:
-  - Stefan
-  - Jens
 segment: GraphQL Constraints and Frontend Focus
 timecode: 00:26:19:28 – 00:30:09:24
 start_time: 00:26:19:28
@@ -31,10 +28,6 @@ tags:
   - rest
   - rest-apis
   - rest-connectors
-topic_tags:
-  - federation
-  - graphql
-  - ai
 entities:
   - Apollo
   - Relay
@@ -42,13 +35,6 @@ entities:
   - Stefan Avram
   - Jens Neuse
   - Jacob
-mentions:
-  - frontend teams requesting Relay
-  - Apollo stopping innovation
-  - connector expert interviews
-  - federation working group
-  - GraphQL native specification
-  - SDK vs query building preference
 summary: Jens explains how GraphQL adoption is frontend-driven, typically starting
   with teams wanting Relay, then requiring GraphQL servers and eventually federation.
   He critiques Apollo's stagnation after early success and their connector approach,

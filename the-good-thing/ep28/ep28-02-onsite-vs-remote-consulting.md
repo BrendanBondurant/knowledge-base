@@ -4,10 +4,6 @@ slug: ep28-02-onsite-vs-remote-consulting
 series: The Good Thing
 episode: 28
 chunk: 2
-participants:
-  - Jens
-  - Stefan
-  - Daniel Kocot
 segment: Tradeoffs of onsite vs remote work in consulting
 timecode: 00:06:05 – 00:13:34
 start_time: 00:06:05
@@ -24,17 +20,9 @@ tags:
   - consulting
   - remote-work
   - client-relationships
-topic_tags:
-  - consulting
-  - remote-work
-  - client-relationships
 entities:
   - Daniel Kocot
   - WunderGraph
-mentions:
-  - remote vs onsite tradeoffs
-  - customer communication styles
-  - building trust in distributed teams
 summary: Discussion of remote and onsite consulting models, focusing on client trust, communication dynamics, and relationship-building strategies in API engagements.
 ---
 00:06:05:01 - 00:06:37:23

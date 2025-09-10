@@ -4,10 +4,6 @@ slug: ep07-07-composition-simplifies-query-planning
 series: The Good Thing
 episode: 7
 chunk: 7
-participants:
-  - Jens
-  - Sergiy
-  - David
 segment: Composition metadata and query planning optimization
 timecode: 00:32:20:18 – 00:38:24:02
 start_time: 00:32:20:18
@@ -37,10 +33,6 @@ tags:
   - graphql-federation
   - startup
   - supergraph
-topic_tags:
-  - composition
-  - query-planning
-  - cosmo
 entities:
   - Cosmo
   - Apollo
@@ -50,13 +42,6 @@ entities:
   - Sergiy
   - David
   - Jens Neuse
-mentions:
-  - reading subgraph schemas vs metadata
-  - entity nodes and root query types
-  - external fields and provided fields
-  - composition as compiler hints
-  - Ruby development experience
-  - JavaScript subgraph mocking
 summary: Sergiy explains how Cosmo's composition precomputes metadata to eliminate
   duplicate work in query planning. The discussion covers architectural decisions
   between TypeScript composition and Golang execution, the benefits of avoiding Apollo's

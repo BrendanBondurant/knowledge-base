@@ -4,9 +4,6 @@ slug: ep18-10-solving-org-problems-beyond-graphql
 series: The Good Thing
 episode: 18
 chunk: 10
-participants:
-  - Stefan
-  - Jens
 segment: TAB insights and organizational problem-solving
 timecode: 00:58:35:21 – 01:08:29:00
 start_time: 00:58:35:21
@@ -34,26 +31,12 @@ tags:
   - rest-apis
   - startup
   - supergraph
-topic_tags:
-  - organizational-problems
-  - tab-insights
-  - company-scale
 entities:
   - Fortune 500 companies
   - Healthcare startups
   - Public companies
   - Europe companies
   - Peppa Pig
-mentions:
-  - Serbian culture parenting
-  - force vs negotiation with kids
-  - don't negotiate with terrorists meme
-  - Fortune 500 to healthcare startups
-  - 50 to 10,000 engineers scale
-  - AI tooling for filtering
-  - company name confidentiality
-  - live vs recorded format preferences
-  - episode conclusion
 summary: The conversation transitions from parenting negotiation tactics to TAB insights,
   with Stefan describing their diverse customer base ranging from 50-engineer startups
   to 10,000+ engineer enterprises across Fortune 500 companies, healthcare startups,

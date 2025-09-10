@@ -4,9 +4,6 @@ slug: ep22-06-schema-noise-and-frontend-friction
 series: The Good Thing
 episode: 22
 chunk: 6
-participants:
-  - Stefan
-  - Jens
 segment: GraphQL Developer Experience Issues
 timecode: 00:26:23:00 – 00:32:04:00
 start_time: 00:26:23:00
@@ -30,17 +27,9 @@ tags:
   - rest
   - rest-apis
   - rest-connectors
-topic_tags:
-  - federation
-  - graphql-federation
-  - grpc
 entities:
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - schema complexity issues
-  - frontend development challenges
-  - legacy approach problems
 summary: Stefan and Jens discuss how complex GraphQL schemas create "noise" that adds
   friction to frontend development. They analyze developer experience challenges and
   explore how schema design decisions impact the practical usability of GraphQL, particularly

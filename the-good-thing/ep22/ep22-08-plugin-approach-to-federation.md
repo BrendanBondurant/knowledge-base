@@ -4,9 +4,6 @@ slug: ep22-08-plugin-approach-to-federation
 series: The Good Thing
 episode: 22
 chunk: 8
-participants:
-  - Stefan
-  - Jens
 segment: WunderGraph Plugin Architecture
 timecode: 00:39:26:00 – 00:46:23:00
 start_time: 00:39:26:00
@@ -37,18 +34,11 @@ tags:
   - rest-apis
   - rest-connectors
   - startup
-topic_tags:
-  - plugin-system
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
   - Apollo
-mentions:
-  - plugin-based alternatives
-  - connector system critique
-  - modular approach benefits
-  - WunderGraph differentiation
 summary: Stefan and Jens discuss WunderGraph's plugin-based approach as an alternative
   to Apollo's connector system. They explore how plugin architecture provides modularity
   and flexibility while addressing some of the complexity issues inherent in traditional

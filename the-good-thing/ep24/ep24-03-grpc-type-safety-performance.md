@@ -4,9 +4,6 @@ slug: ep24-03-grpc-type-safety-performance
 series: The Good Thing
 episode: 24
 chunk: 3
-participants:
-  - Stefan
-  - Jens
 segment: gRPC Technical Benefits Deep Dive
 timecode: 00:10:10:03 – 00:16:24:29
 start_time: 00:10:10:03
@@ -36,10 +33,6 @@ tags:
   - graphql
   - startup
   - typescript
-topic_tags:
-  - grpc
-  - type-safety
-  - performance
 entities:
   - WunderGraph
   - Cosmo Router
@@ -50,16 +43,6 @@ entities:
   - Ruby
   - Elixir
   - protobuf
-mentions:
-  - end-to-end type safety
-  - protobuf compilation
-  - interface implementation checking
-  - code-first frameworks criticism
-  - collaborative development workflow
-  - batching problem solutions
-  - AST parsing overhead
-  - 50 millisecond parsing costs
-  - Apollo subgraph framework ownership
 summary: |
   Jens details the technical benefits of their gRPC approach including guaranteed end-to-end type safety, elimination of N+1 problems through router-level batching, significant performance improvements by removing GraphQL parsing overhead, and reduced dependency on Apollo's ecosystem. He also critiques code-first approaches as less collaborative than schema-first development.
 ---

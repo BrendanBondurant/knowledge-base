@@ -4,9 +4,6 @@ slug: ep11-06-graphql-ecosystem-overview
 series: The Good Thing
 episode: 11
 chunk: 6
-participants:
-  - Stefan
-  - Jens
 segment: API Ecosystem Analysis
 timecode: 00:30:13:19 – 00:36:28:19
 start_time: 00:30:13:19
@@ -37,10 +34,6 @@ tags:
   - rest
   - rest-apis
   - startup
-topic_tags:
-  - graphql
-  - federation
-  - api-design
 entities:
   - Eric Wilde
   - INNOQ
@@ -50,12 +43,6 @@ entities:
   - News Corp
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - Eric Wilde API consultation
-  - SDK vs MCP vs GraphQL categories
-  - Federation algorithm invention
-  - REST API middleware layers
-  - 20 teams 30 subgraphs example
 summary: 'Jens outlines three API ecosystem categories: SDKs for humans, MCP for LLMs,
   and GraphQL for diverse applications. He explains how most people use GraphQL for
   federation rather than query interface, discussing the challenges of scaling microservices

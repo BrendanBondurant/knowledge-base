@@ -4,10 +4,6 @@ slug: ep25-15-developer-maturity-and-boring-tech
 series: The Good Thing
 episode: 25
 chunk: 15
-participants:
-  - Stefan Avram
-  - Jens Neuse
-  - Kevin Swiber
 segment: Technology Pragmatism and Infrastructure Choices
 timecode: 01:01:19:16 – 01:05:30:07
 start_time: 01:01:19:16
@@ -28,10 +24,6 @@ tags:
   - database
   - go
   - llm
-topic_tags:
-  - postgres
-  - kubernetes
-  - database
 entities:
   - Clean Code book
   - Digital Ocean
@@ -42,15 +34,6 @@ entities:
   - Google Cloud Platform (GCP)
   - Render platform
   - Fly.io
-mentions:
-  - Clean code harmful behavior when taken hardcore
-  - Nuanced approach to code quality
-  - $5 Digital Ocean droplet enthusiasm
-  - Self-hosting database reluctance
-  - Two years without infrastructure glitches
-  - Vendor reliability concerns
-  - Boring Postgres preference
-  - Cool vendor deployment disappearances
 summary: |
   Kevin emphasizes that effective pragmatism requires experience, using the hammer vs screwdriver analogy. Jens reflects on his evolution from hardcore clean code advocacy to understanding its harmful potential when taken to extremes. He shares how his infrastructure preferences evolved from cheap DIY solutions to boring, reliable choices like GCP Kubernetes, citing two years of glitch-free operation. The discussion highlights how experienced developers prioritize stability over exciting new vendors after experiencing deployment failures and poor support.
 ---

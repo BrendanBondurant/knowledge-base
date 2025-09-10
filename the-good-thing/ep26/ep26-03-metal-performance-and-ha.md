@@ -4,10 +4,6 @@ slug: ep26-03-metal-performance-and-ha
 series: The Good Thing
 episode: 26
 chunk: 3
-participants:
-  - Stefan
-  - Jens
-  - Sam Lambert
 segment: PlanetScale Metal Architecture and Performance
 timecode: 00:10:15:23 – 00:15:33:21
 start_time: 00:10:15:23
@@ -26,23 +22,12 @@ tags:
   - vitess
   - mysql
   - postgres
-topic_tags:
-  - database
-  - vitess
-  - mysql
 entities:
   - PlanetScale
   - AWS
   - Google Cloud
   - Aurora
   - NVMe
-mentions:
-  - Local NVMe drives inside servers
-  - Ephemeral machines in AWS and GCP
-  - Network layer latency elimination
-  - Three node HA configuration
-  - Semi-synchronous replication
-  - Proxy buffering during failover
 summary: |
   Deep dive into PlanetScale Metal's performance advantages through bare metal infrastructure, local NVMe storage, and their approach to high availability without the latency penalties of disaggregated storage and compute architectures.
 ---

@@ -4,9 +4,6 @@ slug: ep13-07-s-in-mcp-stdio-vs-sse
 series: The Good Thing
 episode: 13
 chunk: 7
-participants:
-  - Stefan
-  - Jens
 segment: MCP Security Considerations and Implementation Models
 timecode: 00:23:06 – 00:29:20
 start_time: 00:23:06
@@ -26,10 +23,6 @@ tags:
   - ai
   - cosmo
   - go
-topic_tags:
-  - mcp
-  - ai
-  - websocket
 entities:
   - MCP
   - Hacker News
@@ -39,14 +32,6 @@ entities:
   - SSE (Server-Sent Events)
   - Claude Desktop
   - Cursor
-mentions:
-  - viral Hacker News security post
-  - "S in MCP stands for security" title
-  - JSON RPC over standard IO
-  - 0.0.0.0 listening risks
-  - WhatsApp MCP server example
-  - npm repository attack vectors
-  - file system read/write access
 summary: |
   Stefan and Jens discuss a viral Hacker News post about MCP security concerns. Jens explains two MCP implementation models: standard input/output (safer, like CLI tools) and SSE servers (more vulnerable). He details security risks of SSE implementations, including network exposure and local machine attacks through npm packages or malicious websites.
 ---

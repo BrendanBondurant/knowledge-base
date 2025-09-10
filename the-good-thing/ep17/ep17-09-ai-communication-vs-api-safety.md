@@ -4,9 +4,6 @@ slug: ep17-09-ai-communication-vs-api-safety
 series: The Good Thing
 episode: 17
 chunk: 9
-participants:
-  - Stefan
-  - Jens
 segment: Scaling AI collaboration and API contract safety
 timecode: 00:39:24 – 00:45:01
 start_time: 00:39:24
@@ -27,21 +24,8 @@ tags:
   - graphql
   - mcp
   - rest
-topic_tags:
-  - ai-collaboration
-  - communication-challenges
-  - api-safety
 entities:
   - Cursor
-mentions:
-  - thousand developer organizations
-  - scalable software building
-  - thousands of collaborating agents
-  - agent controlling agent hierarchy
-  - cursor instance doing weird tests
-  - layers of agents problem
-  - well-defined context requirements
-  - API contracts for safety
 summary: Jens identifies communication as the biggest challenge in large developer
   organizations and questions how thousands of AI agents could meaningfully collaborate.
   He raises concerns about control mechanisms when agents control other agents, using

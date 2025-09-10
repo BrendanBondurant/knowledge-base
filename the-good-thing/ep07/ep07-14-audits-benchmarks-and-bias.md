@@ -4,10 +4,6 @@ slug: ep07-14-audits-benchmarks-and-bias
 series: The Good Thing
 episode: 7
 chunk: 14
-participants:
-  - Jens
-  - Sergiy
-  - David
 segment: Third-party audits and benchmark reliability
 timecode: 01:14:15:10 – 01:20:04:28
 start_time: 01:14:15:10
@@ -32,10 +28,6 @@ tags:
   - graphql-federation
   - rest
   - rust
-topic_tags:
-  - federation
-  - benchmarking
-  - apollo-graphql
 entities:
   - Federation
   - Apollo
@@ -43,14 +35,6 @@ entities:
   - Sergiy
   - David
   - Jens Neuse
-mentions:
-  - third-party audit benefits
-  - vendor marketing motivations
-  - infinite directive combinations
-  - customer experience focus
-  - edge case discovery challenges
-  - reliable customer solutions
-  - downtime prevention
 summary: Critical discussion of federation audits and benchmarks, with Sergiy highlighting
   the value of third-party perspectives while David emphasizes that vendor-created
   benchmarks serve marketing purposes. Both agree that the only trustworthy benchmarks

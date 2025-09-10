@@ -4,9 +4,6 @@ slug: ep17-01-conways-law-and-team-architecture
 series: The Good Thing
 episode: 17
 chunk: 1
-participants:
-  - Stefan
-  - Jens
 segment: Introduction to Conway's Law
 timecode: 00:00:22 – 00:05:10
 start_time: 00:00:22
@@ -28,21 +25,11 @@ tags:
   - api-design
   - go
   - graphql-federation
-topic_tags:
-  - conways-law
-  - organizational-design
-  - team-architecture
 entities:
   - Conway's Law
   - WunderGraph
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - recursion learning experience
-  - enterprise customers
-  - construction company IPO growth
-  - monorepo vs distributed teams
-  - federation architecture benefits
 summary: Stefan introduces Conway's Law through a personal learning analogy with recursion,
   explaining how software structure mirrors organizational structure. He shares observations
   from customer conversations, showing how companies transition from monolith to federated

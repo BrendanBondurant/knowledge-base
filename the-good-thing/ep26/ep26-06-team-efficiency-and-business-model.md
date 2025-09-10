@@ -4,10 +4,6 @@ slug: ep26-06-team-efficiency-and-business-model
 series: The Good Thing
 episode: 26
 chunk: 6
-participants:
-  - Stefan
-  - Jens
-  - Sam Lambert
 segment: Team Structure and Go-to-Market Strategy
 timecode: 00:24:16:02 – 00:29:10:01
 start_time: 00:24:16:02
@@ -30,21 +26,10 @@ tags:
   - go
   - rest
   - startup
-topic_tags:
-  - database
-  - founder
-  - startup
 entities:
   - PlanetScale
   - Ben
   - Holly
-mentions:
-  - Two person marketing team
-  - One sales rep and two sales engineers
-  - Technical blog content strategy
-  - Working with large customers on migrations
-  - Enterprise concerns about startup size
-  - Profitable business model
 summary: |
   Deep dive into PlanetScale's lean team structure, technical marketing approach, and founder-led sales strategy. Discussion of how they address enterprise concerns about company size while maintaining profitability and sustainable growth.
 ---

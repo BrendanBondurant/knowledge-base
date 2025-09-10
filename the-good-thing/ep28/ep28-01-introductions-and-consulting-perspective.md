@@ -4,10 +4,6 @@ slug: ep28-01-introductions-and-consulting-perspective
 series: The Good Thing
 episode: 28
 chunk: 1
-participants:
-  - Jens
-  - Stefan
-  - Daniel Kocot
 segment: Guest introduction and consulting philosophy
 timecode: 00:00:10 – 00:06:05
 start_time: 00:00:10
@@ -24,17 +20,9 @@ tags:
   - consulting
   - api-design
   - podcast-intro
-topic_tags:
-  - consulting
-  - api-design
-  - podcast-intro
 entities:
   - Daniel Kocot
   - WunderGraph
-mentions:
-  - Daniel’s background
-  - consulting experience
-  - API-first thinking
 summary: Jens and Stefan introduce Daniel Kocot, discussing his background, consulting style, and early experiences shaping his approach to APIs and client relationships.
 ---
 00:00:10:09 - 00:00:18:21

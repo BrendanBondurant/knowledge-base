@@ -4,9 +4,6 @@ slug: ep01-05-learning-from-failure-startup-lessons
 series: The Good Thing
 episode: 1
 chunk: 5
-participants:
-  - Jens
-  - Stefan
 segment: Programming Doubts, Self-Taught Path, and First Startup
 timecode: 00:13:23:14 – 00:16:46:15
 start_time: 00:13:23:14
@@ -25,8 +22,6 @@ tags:
   - go
   - rest
   - rust
-topic_tags:
-  - startup
 entities:
   - Jens Neuse
   - Stefan Avram
@@ -35,13 +30,6 @@ entities:
   - Frankfurt
   - Giessen
   - Alexandra
-mentions:
-  - programming background
-  - Perl scripts
-  - learn to program
-  - self-taught engineers
-  - dating during university
-  - first startup
 summary: Jens recounts how he struggled with learning programming after being encouraged
   by a boss to move beyond server administration. Perl made no sense to him, and he
   temporarily gave up on becoming a developer. Stefan reflects on how many great engineers,

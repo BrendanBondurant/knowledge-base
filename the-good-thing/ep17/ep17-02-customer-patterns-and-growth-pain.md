@@ -4,9 +4,6 @@ slug: ep17-02-customer-patterns-and-growth-pain
 series: The Good Thing
 episode: 17
 chunk: 2
-participants:
-  - Stefan
-  - Jens
 segment: Customer patterns and organizational structures
 timecode: 00:05:10 – 00:10:29
 start_time: 00:05:10
@@ -30,22 +27,12 @@ tags:
   - graphql
   - graphql-federation
   - rest
-topic_tags:
-  - customer-patterns
-  - code-organization
-  - team-communication
 entities:
   - Conway's Law
   - WunderGraph
   - GraphQL Go tools
   - Router
   - Engine
-mentions:
-  - compiler with two teams example
-  - code that changes together
-  - limousine booking service example
-  - seven different systems complexity
-  - frontend button change workflow
 summary: Jens explains Conway's Law through the classic two-team compiler example
   and discusses how code that changes together should be close together. He examines
   WunderGraph's own architecture showing the split between engine and router teams,

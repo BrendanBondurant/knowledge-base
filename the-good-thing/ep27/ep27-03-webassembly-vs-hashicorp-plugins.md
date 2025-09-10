@@ -4,10 +4,6 @@ slug: ep27-03-webassembly-vs-hashicorp-plugins
 series: The Good Thing
 episode: 27
 chunk: 3
-participants:
-  - Jens
-  - Jesse
-  - Dustin
 segment: Comparing plugin frameworks and deployment models
 timecode: 00:10:23 – 00:16:52
 start_time: 00:10:23
@@ -25,18 +21,9 @@ tags:
   - hashicorp
   - plugin-architecture
   - deployment
-topic_tags:
-  - wasm
-  - hashicorp
-  - plugin-architecture
-  - deployment
 entities:
   - HashiCorp
   - WunderGraph
-mentions:
-  - wasm tradeoffs
-  - plugin runtime decisions
-  - deployment considerations
 summary: A deep dive into why WunderGraph evaluated WebAssembly versus HashiCorp plugins, focusing on runtime tradeoffs and deployment complexity.
 ---
 00:10:23:03 - 00:10:55:17

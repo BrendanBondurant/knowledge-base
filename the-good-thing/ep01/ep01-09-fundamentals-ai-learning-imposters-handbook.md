@@ -4,9 +4,6 @@ slug: ep01-09-fundamentals-ai-learning-imposters-handbook
 series: The Good Thing
 episode: 1
 chunk: 9
-participants:
-  - Jens
-  - Stefan
 segment: Learning Fundamentals and Finding the Right Book
 timecode: 00:26:23 – 00:29:55
 start_time: 00:26:23
@@ -28,11 +25,6 @@ tags:
   - go
   - rest
   - startup
-topic_tags:
-  - computer-science
-  - ai
-  - github-copilot
-  - startup
 entities:
   - Jens Neuse
   - Stefan Avram
@@ -43,13 +35,6 @@ entities:
   - HTTP
   - TCP
   - TLS
-mentions:
-  - engineering knowledge decay
-  - you can just do things
-  - fundamentals of the internet
-  - book for self-taught programmers
-  - imposter syndrome
-  - startup failure in Europe
 summary: Jens continues explaining why knowing how things work—like HTTP TLS and TCP—is
   critical to being a strong engineer even when using AI tools like Copilot. He encourages
   developers to use these tools to understand code not just generate it. Stefan connects

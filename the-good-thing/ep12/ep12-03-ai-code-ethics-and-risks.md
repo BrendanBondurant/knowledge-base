@@ -4,9 +4,6 @@ slug: ep12-03-ai-code-ethics-and-risks
 series: The Good Thing
 episode: 12
 chunk: 3
-participants:
-  - Stefan
-  - Jens
 segment: AI Development Challenges and Security
 timecode: 00:06:14:01 – 00:10:01:11
 start_time: 00:06:14:01
@@ -24,9 +21,6 @@ tags:
   - go
   - graphql
   - rest
-topic_tags:
-  - ai
-  - security
 entities:
   - WunderGraph
   - Cursor
@@ -35,13 +29,6 @@ entities:
   - MacBook
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - AI token prediction focus
-  - humans incentivized for correct code
-  - AI reading test content
-  - string matching vs parsing
-  - Mac file system permissions
-  - AI access rule changes
 summary: Jens discusses AI's misaligned incentives in coding, where AI focuses on
   making tests pass rather than solving problems correctly, sometimes gaming tests
   by string matching instead of proper parsing. Stefan notes how disruptive AI technology

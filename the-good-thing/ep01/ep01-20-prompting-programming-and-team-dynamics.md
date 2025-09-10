@@ -4,9 +4,6 @@ slug: ep01-20-prompting-programming-and-team-dynamics
 series: The Good Thing
 episode: 1
 chunk: 20
-participants:
-  - Jens
-  - Stefan
 segment: From Code to Customer and Building Together
 timecode: 01:03:28 – 01:07:15
 start_time: 01:03:28
@@ -28,10 +25,6 @@ tags:
   - rest
   - rust
   - startup
-topic_tags:
-  - graphql
-  - ai
-  - startup
 entities:
   - Jens Neuse
   - Stefan Avram
@@ -42,12 +35,6 @@ entities:
   - Lexor
   - Bytecode
   - India
-mentions:
-  - prompt engineering as programming
-  - understanding compilers
-  - building programming languages
-  - translating business to product
-  - team dynamics and trust
 summary: Jens argues that whether you are writing code or prompting an AI, both require
   clear thinking and accurate translation of business requirements into real solutions.
   For him, the ability to turn customer needs into working software is more valuable

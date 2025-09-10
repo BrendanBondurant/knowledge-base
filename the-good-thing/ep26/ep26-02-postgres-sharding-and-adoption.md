@@ -4,10 +4,6 @@ slug: ep26-02-postgres-sharding-and-adoption
 series: The Good Thing
 episode: 26
 chunk: 2
-participants:
-  - Stefan
-  - Jens
-  - Sam Lambert
 segment: Postgres Sharding Strategy and Market Timing
 timecode: 00:05:20:11 – 00:10:15:21
 start_time: 00:05:20:11
@@ -31,10 +27,6 @@ tags:
   - mysql
   - rest
   - vitess
-topic_tags:
-  - postgres
-  - startup
-  - open-source
 entities:
   - Postgres
   - MySQL
@@ -43,13 +35,6 @@ entities:
   - Vitess
   - Google
   - PlanetScale
-mentions:
-  - Companies running Postgres at significant scale
-  - Previous architectural misguidance
-  - Design partners for sharded Postgres
-  - Database engineering career path
-  - VP of engineering at GitHub
-  - Traffic engineering team at Meta
 summary: |
   Discussion on why PlanetScale is entering Postgres sharding now, addressing previous failed attempts and their first-principles approach. Sam shares his database engineering journey from GitHub to Meta to founding PlanetScale, emphasizing battle-hardening over theoretical solutions.
 ---

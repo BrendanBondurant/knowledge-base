@@ -4,9 +4,6 @@ slug: ep21-12-hyperbound-sales-ai-overview
 series: The Good Thing
 episode: 21
 chunk: 12
-participants:
-  - Stefan
-  - Jens
 segment: Hyperbound Evaluation - Part 1
 timecode: 00:36:02:03 – 00:40:00:16
 start_time: 00:36:02:03
@@ -26,8 +23,6 @@ tags:
   - go
   - rust
   - startup
-topic_tags:
-  - social-proof
 entities:
   - Hyperbound
   - Stefan Avram
@@ -38,15 +33,6 @@ entities:
   - Salesforce
   - HubSpot
   - YouTube
-mentions:
-  - simulated AI sales roleplay platform
-  - top rep behavior replication
-  - European style sales calls
-  - 7000+ company testimonials
-  - wall of love social proof
-  - Salesforce/HubSpot integration
-  - enterprise SSO features
-  - free vs mid-market pricing
 summary: Stefan and Jens review Hyperbound, a Y Combinator AI sales roleplay platform
   from San Francisco. They appreciate the clear value proposition of replicating top
   sales rep behaviors and are impressed by strong social proof including testimonials

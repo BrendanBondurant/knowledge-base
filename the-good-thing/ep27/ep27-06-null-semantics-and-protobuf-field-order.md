@@ -4,10 +4,6 @@ slug: ep27-06-null-semantics-and-protobuf-field-order
 series: The Good Thing
 episode: 27
 chunk: 6
-participants:
-  - Jens
-  - Ludwig
-  - Dustin
 segment: Protobuf mapping challenges and schema alignment
 timecode: 00:27:17 – 00:32:43
 start_time: 00:27:17
@@ -24,18 +20,10 @@ tags:
   - protobuf
   - schema-translation
   - graphql
-topic_tags:
-  - protobuf
-  - schema-translation
-  - graphql
 entities:
   - Protobuf
   - GraphQL
   - WunderGraph
-mentions:
-  - protobuf field numbering
-  - handling null values
-  - schema translation strategies
 summary: Jens and Stefan dive into Protobuf field order issues, null value handling, and schema translation strategies for compatibility.
 ---
 00:27:17:24 - 00:27:24:03

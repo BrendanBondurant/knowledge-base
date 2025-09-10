@@ -4,9 +4,6 @@ slug: ep02-10-schema-transparency-conways-law
 series: The Good Thing
 episode: 2
 chunk: 10
-participants:
-  - Stefan
-  - Jens
 segment: Schema Transparency and Organizational Structure
 timecode: 00:39:32:04 – 00:43:16:23
 start_time: 00:39:32:04
@@ -30,22 +27,12 @@ tags:
   - graphql-federation
   - rest
   - rest-apis
-topic_tags:
-  - conways-law
-  - federation
-  - graphql
 entities:
   - WunderGraph
   - Conway's Law
   - GraphQL Federation
   - REST APIs
   - Schema Registry
-mentions:
-  - team discovery
-  - API fragmentation
-  - organizational structure
-  - schema design
-  - team collaboration
 summary: Jens explains how federation provides schema transparency that helps developers
   discover teams and understand organizational structure. He discusses Conway's Law
   - how organizations design systems that mirror their communication structures -

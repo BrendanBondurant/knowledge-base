@@ -4,9 +4,6 @@ slug: ep16-08-vc-differentiation-tarpits
 series: The Good Thing
 episode: 16
 chunk: 8
-participants:
-  - Stefan
-  - Jens
 segment: Investment and Differentiation Strategy
 timecode: 00:36:03 – 00:41:07
 start_time: 00:36:03
@@ -29,20 +26,10 @@ tags:
   - apollo-graphql
   - founder
   - go
-topic_tags:
-  - vc-funding
-  - market-differentiation
-  - tar-pit-ideas
 entities:
   - WunderGraph
   - Apollo
   - KubeCon
-mentions:
-  - Series A fundraising experience
-  - "No competition means no market" principle
-  - Apollo comparison requirements for investors
-  - AI startup investment wave
-  - Cloud native wave ending
 summary: |
   Jens explains the investor perspective on competition and market validation, noting that VCs immediately ask about Apollo when pitched on WunderGraph. He discusses how founders must demonstrate clear differentiation and future category creation to justify investment. The conversation highlights current investment trends, noting the shift from cloud native to AI startups, making it particularly challenging for API-focused companies to raise funding in the current market.
 ---

@@ -4,10 +4,6 @@ slug: ep28-10-ai-hype-and-vibe-coding-outlook
 series: The Good Thing
 episode: 28
 chunk: 10
-participants:
-  - Jens
-  - Stefan
-  - Daniel Kocot
 segment: The reality of AI tools, “vibe coding,” and cautious optimism
 timecode: 01:05:31 – 01:12:35
 start_time: 01:05:31
@@ -24,18 +20,10 @@ tags:
   - ai
   - developer-experience
   - tooling
-topic_tags:
-  - ai
-  - developer-experience
-  - tooling
 entities:
   - AI
   - Daniel Kocot
   - WunderGraph
-mentions:
-  - “vibe coding” trends
-  - practical AI applications
-  - caution with AI adoption
 summary: The episode concludes with a grounded discussion on the hype around AI and “vibe coding,” encouraging careful evaluation of new tools and realistic expectations.
 ---
 01:05:31:29 - 01:05:53:27

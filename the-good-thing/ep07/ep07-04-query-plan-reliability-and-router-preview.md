@@ -4,10 +4,6 @@ slug: ep07-04-query-plan-reliability-and-router-preview
 series: The Good Thing
 episode: 7
 chunk: 4
-participants:
-  - Jens
-  - Sergiy
-  - David
 segment: Query planner reliability and router preview functionality
 timecode: 00:16:19:09 – 00:21:16:06
 start_time: 00:16:19:09
@@ -35,23 +31,12 @@ tags:
   - graphql-federation
   - open-source
   - rest
-topic_tags:
-  - query-planning
-  - cosmo
-  - startup
 entities:
   - Cosmo
   - WunderGraph
   - Jens Neuse
   - Sergiy
   - David
-mentions:
-  - query plan previews
-  - execution config from file system
-  - batch operation planning
-  - router version comparisons
-  - 1000+ production queries
-  - provides and override directives
 summary: Discussion of WunderGraph's competitive moats through velocity and reliability
   investments. Jens explains the new router headless mode that enables query plan
   comparison across router versions or schema changes, providing safeguards for large

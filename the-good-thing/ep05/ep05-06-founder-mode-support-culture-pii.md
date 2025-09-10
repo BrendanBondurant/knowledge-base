@@ -4,9 +4,6 @@ slug: ep05-06-founder-mode-support-culture-pii
 series: The Good Thing
 episode: 5
 chunk: 6
-participants:
-  - Stefan
-  - Jens
 segment: The scalability of founder mode, support culture, and handling PII in customer
   solutions
 timecode: 00:27:37:26 - 00:36:27:03
@@ -30,24 +27,11 @@ tags:
   - cosmo-router
   - go
   - graphql
-topic_tags:
-  - startup
-  - founder
-  - graphql
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
   - HIPAA
-mentions:
-  - founder mode scalability
-  - support culture importance
-  - PII handling challenges
-  - healthcare use cases
-  - customer collaboration
-  - security compliance
-  - JWT claims
-  - native solutions
 summary: Stefan and Jens discuss the scalability of founder mode, the importance of
   support culture and company values, and share a story about handling PII for a healthcare
   customer. They reflect on how close collaboration with customers leads to better

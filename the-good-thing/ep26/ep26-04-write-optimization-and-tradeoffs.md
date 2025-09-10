@@ -4,10 +4,6 @@ slug: ep26-04-write-optimization-and-tradeoffs
 series: The Good Thing
 episode: 26
 chunk: 4
-participants:
-  - Stefan
-  - Jens
-  - Sam Lambert
 segment: Write-Heavy Workloads and Consistency Tradeoffs
 timecode: 00:15:33:24 – 00:19:02:26
 start_time: 00:15:33:24
@@ -29,20 +25,9 @@ tags:
   - benchmarking
   - go
   - startup
-topic_tags:
-  - ai
-  - database
-  - computer-science
 entities:
   - AI
   - PlanetScale
-mentions:
-  - Conversations with AI writing to database
-  - Consumer apps and data logging
-  - Multiple writer nodes when sharding
-  - Serialized isolation patterns
-  - Physics constraints like latency and speed of light
-  - Database papers from the 1960s
 summary: |
   Discussion of how PlanetScale handles write-heavy workloads, particularly from AI applications, and the consistency tradeoffs they make for performance. Sam explains their pragmatic approach rooted in fundamental computer science principles rather than attempting to reinvent database architecture.
 ---

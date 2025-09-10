@@ -4,10 +4,6 @@ slug: ep25-10-hypermedia-apis-and-the-llm-moment
 series: The Good Thing
 episode: 25
 chunk: 10
-participants:
-  - Stefan Avram
-  - Jens Neuse
-  - Kevin Swiber
 segment: Hypermedia and Siren Introduction
 timecode: 00:39:30:26 – 00:44:08:12
 start_time: 00:39:30:26
@@ -29,10 +25,6 @@ tags:
   - api-design
   - go
   - llm
-topic_tags:
-  - mcp
-  - ai
-  - rest
 entities:
   - Siren hypermedia type
   - HTML
@@ -41,14 +33,6 @@ entities:
   - MCP UI track
   - API agents
   - Hypermedia APIs
-mentions:
-  - Cloud application distribution
-  - Links and forms in API responses
-  - Machine-consumable hypermedia
-  - Dynamic runtime entity relationships
-  - Tool response forms
-  - Elicitation and user input
-  - Fighting naming conventions
 summary: |
   Kevin explains that APIs will persist due to distributed cloud applications requiring network communication. Jens introduces Siren, Kevin's hypermedia type creation, asking for an elevator pitch. Kevin describes hypermedia as APIs with links and forms (like HTML but machine-consumable), noting how LLM interactions are naturally dynamic. He observes hypermedia patterns returning in MCP UI tracks, even without the hypermedia name, showing the concepts' enduring relevance.
 ---

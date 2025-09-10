@@ -4,9 +4,6 @@ slug: ep12-14-federation-to-sdk-for-all
 series: The Good Thing
 episode: 12
 chunk: 14
-participants:
-  - Stefan
-  - Jens
 segment: SDK Generation Strategy
 timecode: 00:51:12:00 – 00:54:11:25
 start_time: 00:51:12:00
@@ -32,10 +29,6 @@ tags:
   - rest
   - rest-apis
   - supergraph
-topic_tags:
-  - graphql-operations
-  - json-schema
-  - federation
 entities:
   - GraphQL
   - OpenAPI
@@ -44,13 +37,6 @@ entities:
   - JSON Schema
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - domain model clarity
-  - REST API integration challenges
-  - SDK vs API consumer preferences
-  - operation collections organization
-  - uniform platform vision
-  - generated code functions
 summary: Jens proposes expanding federation's reach by generating SDKs from supergraphs,
   moving beyond Relay-only users. He explains how GraphQL operations can become SDK
   functions with JSON schema definitions, similar to the OpenAPI-to-SDK generation

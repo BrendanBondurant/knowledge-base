@@ -4,10 +4,6 @@ slug: ep28-08-ai-potential-and-api-sprawl
 series: The Good Thing
 episode: 28
 chunk: 8
-participants:
-  - Jens
-  - Stefan
-  - Daniel Kocot
 segment: Exploring AI’s role in requirements engineering and integration sprawl
 timecode: 00:51:12 – 00:57:40
 start_time: 00:51:12
@@ -24,18 +20,10 @@ tags:
   - ai
   - api-sprawl
   - requirements-engineering
-topic_tags:
-  - ai
-  - api-sprawl
-  - requirements-engineering
 entities:
   - AI
   - WunderGraph
   - Daniel Kocot
-mentions:
-  - using AI for requirements gathering
-  - integration complexity
-  - scaling challenges with API sprawl
 summary: Daniel and the hosts explore AI’s potential to streamline requirements engineering while acknowledging the complexity of API sprawl and integration challenges.
 ---
 00:51:12:13 - 00:51:13:23

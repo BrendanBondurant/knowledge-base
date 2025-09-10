@@ -4,11 +4,6 @@ slug: ep27-09-plugin-vs-service-deployment
 series: The Good Thing
 episode: 27
 chunk: 9
-participants:
-  - Jesse
-  - Jens
-  - Dustin
-  - Ludwig
 segment: Feature flags, local development, and deployment tradeoffs
 timecode: 00:38:48 – 00:43:10
 start_time: 00:38:48
@@ -26,17 +21,9 @@ tags:
   - plugin-architecture
   - deployment
   - dev-environments
-topic_tags:
-  - plugin-architecture
-  - deployment
-  - dev-environments
 entities:
   - WunderGraph
   - Cosmo Connect
-mentions:
-  - local dev flexibility
-  - feature flag usage
-  - plugin vs service tradeoffs
 summary: Comparison of plugin deployment and dedicated services, covering local development benefits, feature flags, and tradeoffs in deployment strategy.
 ---
 

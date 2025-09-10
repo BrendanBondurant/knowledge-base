@@ -4,9 +4,6 @@ slug: ep27-02-cosmo-connect-overview
 series: The Good Thing
 episode: 27
 chunk: 2
-participants:
-  - Jens
-  - Dustin
 segment: Introducing Cosmo Connect and gRPC architecture
 timecode: 00:06:23 – 00:10:23
 start_time: 00:06:23
@@ -23,18 +20,9 @@ tags:
   - graphql
   - graphql-federation
   - architecture
-topic_tags:
-  - grpc
-  - graphql
-  - graphql-federation
-  - architecture
 entities:
   - Cosmo Connect
   - WunderGraph
-mentions:
-  - motivation for gRPC
-  - integration challenges
-  - federation architecture goals
 summary: Jens and Stefan introduce Cosmo Connect, explaining the motivation for adopting gRPC and how it fits into WunderGraph’s architecture strategy.
 ---
 00:06:23:21 - 00:06:54:14

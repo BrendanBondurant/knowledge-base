@@ -4,9 +4,6 @@ slug: ep21-21-mlop-open-source-challenges
 series: The Good Thing
 episode: 21
 chunk: 21
-participants:
-  - Stefan
-  - Jens
 segment: Mlop Evaluation - Part 1
 timecode: 01:03:13:16 – 01:06:14:00
 start_time: 01:03:13:16
@@ -28,24 +25,12 @@ tags:
   - go
   - llm
   - startup
-topic_tags:
-  - ai
-  - rest
-  - open-source
 entities:
   - Mlop
   - Stefan Avram
   - Jens Neuse
   - Datadog
   - Grafana
-mentions:
-  - Datadog/Grafana competitive threat
-  - market distribution advantages
-  - LLM API integration challenges
-  - technical problem solving capability
-  - founder credentials assessment
-  - $21 million funding
-  - business scaling uncertainty
 summary: Jens analyzes Mlop's competitive position, noting that established players
   like Datadog and Grafana would naturally build similar LLM-powered incident management
   features with superior market distribution. While acknowledging the team's technical

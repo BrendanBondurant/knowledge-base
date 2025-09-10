@@ -4,9 +4,6 @@ slug: ep05-03-sales-rejection-indecision-customer-focus
 series: The Good Thing
 episode: 5
 chunk: 3
-participants:
-  - Jens
-  - Stefan
 segment: Embracing rejection in sales, the danger of indecision, and the importance
   of customer focus
 timecode: 00:11:00:11 - 00:15:17:01
@@ -29,20 +26,10 @@ tags:
   - go
   - graphql-federation
   - rest
-topic_tags:
-  - startup
-  - federation
-  - indecision
 entities:
   - Jens
   - Stefan
   - WunderGraph
-mentions:
-  - sales negotiation
-  - feature requests
-  - enterprise customers
-  - value proposition
-  - emotional investment
 summary: Jens and Stefan discuss how embracing rejection in sales leads to better
   outcomes, the danger of indecision and endless "maybes," and why focusing on customer
   value is critical. They share stories about negotiation, enterprise sales, and the

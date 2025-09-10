@@ -4,9 +4,6 @@ slug: ep09-16-mcp-access-and-business-tools
 series: The Good Thing
 episode: 9
 chunk: 16
-participants:
-  - Jens
-  - Cameron
 segment: MCP ecosystem and business applications
 timecode: 00:58:12:10 – 01:01:20:10
 start_time: 00:58:12:10
@@ -30,22 +27,11 @@ tags:
   - rest
   - rust
   - typescript
-topic_tags:
-  - ai
-  - authentication
-  - mcp
 entities:
   - MCP Hub
   - Docker Registry
   - Banking APIs
   - Bookkeeping Software
-mentions:
-  - model access limitations
-  - MCP registry discovery
-  - official connection validation
-  - bookkeeper workflow example
-  - multi-bank integration
-  - business user interfaces
 summary: Cameron and Jens discuss the ecosystem challenges around MCP, including registry
   systems, authentication, and security validation. They envision business-focused
   tools that integrate multiple services through MCP, using bookkeeping as an example

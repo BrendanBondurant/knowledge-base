@@ -4,10 +4,6 @@ slug: ep28-09-hype-cycles-and-mcp-adoption
 series: The Good Thing
 episode: 28
 chunk: 9
-participants:
-  - Jens
-  - Stefan
-  - Daniel Kocot
 segment: Lessons from technology hype, GraphQL missteps, and MCP evaluation
 timecode: 00:57:40 – 01:05:31
 start_time: 00:57:40
@@ -24,18 +20,10 @@ tags:
   - graphql
   - mcp
   - tech-evaluation
-topic_tags:
-  - graphql
-  - mcp
-  - tech-evaluation
 entities:
   - MCP
   - GraphQL
   - Daniel Kocot
-mentions:
-  - hype-driven adoption risks
-  - GraphQL implementation lessons
-  - MCP as a solution-in-search-of-a-problem
 summary: Reflection on hype cycles in tech, mistakes in GraphQL adoption, and whether MCP has been positioned as a problem solver or a technology searching for purpose.
 ---
 

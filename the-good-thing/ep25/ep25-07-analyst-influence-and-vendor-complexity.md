@@ -4,10 +4,6 @@ slug: ep25-07-analyst-influence-and-vendor-complexity
 series: The Good Thing
 episode: 25
 chunk: 7
-participants:
-  - Stefan Avram
-  - Jens Neuse
-  - Kevin Swiber
 segment: Magic Quadrant and Analyst Role
 timecode: 00:27:14:11 – 00:31:06:18
 start_time: 00:27:14:11
@@ -28,10 +24,6 @@ tags:
   - api-design
   - go
   - startup
-topic_tags:
-  - rest
-  - api-design
-  - startup
 entities:
   - Kong
   - Apogee
@@ -41,14 +33,6 @@ entities:
   - Forrester
   - Enterprise architecture
   - Venn diagram metaphor
-mentions:
-  - Pay-to-play misconceptions
-  - Company size and subscriptions correlation
-  - Smaller company mentions without payment
-  - Most difficult Venn diagram analogy
-  - Three vendor purchase complexity
-  - Four overlapping features challenge
-  - Luxury vs budget product positioning
 summary: |
   Jens asks about the Magic Quadrant and major API vendors like Kong, Apogee, and Gravitee. Kevin defends the analyst model, explaining it's not simply pay-to-play and provides valuable third-party evaluation. He describes the API space as the "most difficult Venn diagram" due to vendor overlap and complexity, making analyst guidance crucial for enterprises trying to piece together API programs from multiple vendors with overlapping features.
 ---

@@ -4,9 +4,6 @@ slug: ep07-02-sergiy-joins-and-evolves-graphql-tools
 series: The Good Thing
 episode: 7
 chunk: 2
-participants:
-  - Jens
-  - Sergiy
 segment: Sergiy's background and GraphQL Go tools evolution
 timecode: 00:05:06:09 – 00:10:23:15
 start_time: 00:05:06:09
@@ -30,9 +27,6 @@ tags:
   - rest
   - startup
   - typescript
-topic_tags:
-  - graphql-go-tools
-  - open-source
 entities:
   - Sergiy
   - Jens Neuse
@@ -42,12 +36,6 @@ entities:
   - Ukraine
   - Germany
   - London
-mentions:
-  - first engineer hire
-  - 14 years of development experience
-  - splitting large files into manageable modules
-  - GraphQL reference implementation alignment
-  - JavaScript GraphQL compliance
 summary: Jens and Sergiy discuss their 5-year working relationship, starting at Tyk
   Technologies where Jens created GraphQL Go tools. Sergiy became the first engineer
   hire and evolved the codebase from massive files to a well-structured, GraphQL spec-compliant

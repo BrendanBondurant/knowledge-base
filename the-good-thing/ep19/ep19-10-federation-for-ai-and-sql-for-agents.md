@@ -4,10 +4,6 @@ slug: ep19-10-federation-for-ai-and-sql-for-agents
 series: The Good Thing
 episode: 19
 chunk: 10
-participants:
-  - Stefan
-  - Robert Farr
-  - Jens
 segment: AI Integration and Federation
 timecode: 00:47:02 – 00:52:08
 start_time: 00:47:02
@@ -32,21 +28,12 @@ tags:
   - llm
   - rest
   - startup
-topic_tags:
-  - federation
-  - ai
-  - ai-integration
 entities:
   - Robert Farr
   - Stefan Avram
   - Jens Neuse
   - GraphQL Federation
   - AI agents
-mentions:
-  - Federation enabling AI systems
-  - Structured contract benefits
-  - GraphQL as query language for agents
-  - AI consumption patterns
 summary: Exploration of how federation enables AI systems through structured contracts,
   discussing the concept of GraphQL as SQL for AI agents and new patterns of AI-driven
   API consumption.

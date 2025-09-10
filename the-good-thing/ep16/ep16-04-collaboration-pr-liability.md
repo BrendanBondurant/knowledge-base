@@ -4,9 +4,6 @@ slug: ep16-04-collaboration-pr-liability
 series: The Good Thing
 episode: 16
 chunk: 4
-participants:
-  - Stefan
-  - Jens
 segment: Open Source Community Management
 timecode: 00:14:09 – 00:21:10
 start_time: 00:14:09
@@ -30,20 +27,10 @@ tags:
   - graphql
   - rest
   - startup
-topic_tags:
-  - open-source
-  - federation
-  - graphql-federation
 entities:
   - Discord
   - Cosmo
   - GraphQL Go Tools
-mentions:
-  - "My time is not free" open source principle
-  - Discord as documentation search replacement
-  - AI search tool for documentation
-  - Seven years maintaining GraphQL Go Tools
-  - Frank's comment about maintainer responsibilities
 summary: |
   Jens discusses the challenges of open source community management, emphasizing that while code is free, maintainer time is not. He distinguishes between valuable collaboration questions and lazy documentation searches, explaining the burden of maintaining pull requests and external contributions. The discussion covers the demanding nature of long-term open source maintenance spanning over seven years.
 ---

@@ -4,9 +4,6 @@ slug: ep04-13-innovation-moats-ai-platforms
 series: The Good Thing
 episode: 4
 chunk: 13
-participants:
-  - Jens
-  - Stefan
 segment: The need for innovation, platform moats, the role of AI, and the value of
   collaboration platforms
 timecode: 00:59:01:06 - 01:06:02:23
@@ -33,10 +30,6 @@ tags:
   - open-source
   - rest
   - startup
-topic_tags:
-  - ai
-  - startup
-  - open-source
 entities:
   - Jens Neuse
   - Stefan Avram
@@ -45,14 +38,6 @@ entities:
   - Slack
   - Teams
   - WunderGraph
-mentions:
-  - platform moats concept
-  - AI impact on development
-  - collaboration platform value
-  - distribution advantages
-  - product differentiation
-  - long-term defensibility
-  - innovation necessity
 summary: Jens and Stefan discuss the importance of innovation for long-term success,
   the concept of platform moats, the impact of AI, and why collaboration platforms
   are so valuable. They analyze examples like Cursor, GitHub, Slack, and Teams, and

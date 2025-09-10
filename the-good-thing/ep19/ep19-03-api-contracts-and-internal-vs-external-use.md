@@ -4,10 +4,6 @@ slug: ep19-03-api-contracts-and-internal-vs-external-use
 series: The Good Thing
 episode: 19
 chunk: 3
-participants:
-  - Stefan
-  - Robert Farr
-  - Jens
 segment: API Architecture and Design Patterns
 timecode: 00:10:10 – 00:15:13
 start_time: 00:10:10
@@ -30,20 +26,11 @@ tags:
   - go
   - rest
   - startup
-topic_tags:
-  - api-design
-  - contracts
-  - governance
 entities:
   - Procore
   - Robert Farr
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - API contract design strategies
-  - Internal vs external API considerations
-  - Large system integration challenges
-  - Enterprise API governance
 summary: Discussion of API architecture at Procore, focusing on the role of APIs in
   large systems, differences between internal and external API design approaches,
   and the challenges of maintaining contracts in enterprise environments.

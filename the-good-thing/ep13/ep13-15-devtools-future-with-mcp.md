@@ -4,9 +4,6 @@ slug: ep13-15-devtools-future-with-mcp
 series: The Good Thing
 episode: 13
 chunk: 15
-participants:
-  - Stefan
-  - Jens
 segment: Future of Development Tools and IDE Integration
 timecode: 00:59:01 – 01:01:31
 start_time: 00:59:01
@@ -27,10 +24,6 @@ tags:
   - go
   - graphql
   - rest
-topic_tags:
-  - mcp
-  - ai
-  - github-copilot
 entities:
   - IDE
   - Copilot
@@ -39,15 +32,6 @@ entities:
   - Cosmo
   - Easter
   - LinkedIn
-mentions:
-  - never leaving IDE workflow
-  - schema proposal visualization in studio
-  - shift from UI to CLI/Terraform
-  - IDE as workflow manager
-  - dev tool makers opportunities
-  - Easter schedule discussion
-  - MCP availability announcement
-  - Jarvis reference
 summary: Stefan and Jens reflect on the revolutionary shift in development workflows,
   noting how MCP enables powerful IDE-native automation without leaving the development
   environment. Jens observes the evolution from UI-based to prompt-driven development

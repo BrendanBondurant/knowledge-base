@@ -4,9 +4,6 @@ slug: ep06-14-n-plus-one-batching-testing-engineering
 series: The Good Thing
 episode: 6
 chunk: 14
-participants:
-  - Jens
-  - Stefan
 segment: N+1 problems, batching, testing, and engineering philosophy
 timecode: 00:45:00:15 - 00:50:22:01
 start_time: 00:45:00:15
@@ -26,22 +23,11 @@ tags:
   - startup
   - benchmarking
   - go
-topic_tags:
-  - graphql
-  - startup
-  - benchmarking
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
   - graphql
-mentions:
-  - N+1 problem solutions
-  - batching implementation strategies
-  - testing methodology importance
-  - engineering best practices
-  - technical problem solving
-  - performance optimization
 ---
 
 00:45:00:15 - 00:45:26:04

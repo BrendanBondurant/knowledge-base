@@ -4,10 +4,6 @@ slug: ep14-03-avoiding-bff-sprawl-with-supergraph
 series: The Good Thing
 episode: 14
 chunk: 3
-participants:
-  - Stefan
-  - Jens
-  - Dustin
 segment: BFF vs Federation for MCP Architecture
 timecode: 00:09:24 – 00:13:10
 start_time: 00:09:24
@@ -35,10 +31,6 @@ tags:
   - mcp
   - microservices
   - supergraph
-topic_tags:
-  - bff-pattern
-  - federation
-  - api-consumers
 entities:
   - BFF (Backend for Frontend)
   - MCP server
@@ -47,14 +39,6 @@ entities:
   - SoundCloud
   - Super graph
   - Models (AI)
-mentions:
-  - streaming services with hundreds of microservices
-  - model overwhelm with too many capabilities
-  - SoundCloud multi-app BFF example
-  - web, iOS, Android BFFs
-  - models as new API consumer type
-  - API sprawl and resource constraints
-  - authorization/authentication re-implementation
 summary: Jens explains how MCP servers essentially become BFFs and warns about BFF
   sprawl when dealing with hundreds of microservices. He argues that models are new
   API consumers requiring specific BFFs, but federation provides a better approach

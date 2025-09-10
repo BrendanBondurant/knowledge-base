@@ -4,9 +4,6 @@ slug: ep01-19-customer-focus-ai-era-and-career-advice
 series: The Good Thing
 episode: 1
 chunk: 19
-participants:
-  - Jens
-  - Stefan
 segment: Final Lessons and Preview of Part Two
 timecode: 01:00:23 – 01:03:28
 start_time: 01:00:23
@@ -27,11 +24,6 @@ tags:
   - go
   - graphql
   - startup
-topic_tags:
-  - ai
-  - api-design
-  - graphql
-  - startup
 entities:
   - Jens Neuse
   - Stefan Avram
@@ -40,12 +32,6 @@ entities:
   - Cosmo
   - Nvidia
   - Amazon
-mentions:
-  - developer customer empathy
-  - fundamentals before frameworks
-  - TYK GraphQL platform
-  - AI changing developer roles
-  - translating business needs into products
 summary: Stefan reflects on how valuable it is to work close to customers and urges
   engineers early in their careers to pursue roles where they can build with feedback.
   He previews part two of the series, which will explore Jens time at TYK and how

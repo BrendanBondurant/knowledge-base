@@ -4,10 +4,6 @@ slug: ep19-05-api-governance-and-hypermedia-challenges
 series: The Good Thing
 episode: 19
 chunk: 5
-participants:
-  - Stefan
-  - Robert Farr
-  - Jens
 segment: API Governance and Standards
 timecode: 00:21:20 – 00:27:21
 start_time: 00:21:20
@@ -28,19 +24,11 @@ tags:
   - go
   - llm
   - startup
-topic_tags:
-  - ai
-  - rest
 entities:
   - Robert Farr
   - Stefan Avram
   - Jens Neuse
   - Procore
-mentions:
-  - Enterprise API governance challenges
-  - Hypermedia complexity and adoption barriers
-  - Cross-team API consistency issues
-  - Developer experience trade-offs
 summary: Deep dive into API governance challenges at enterprise scale, exploring the
   difficulties of maintaining consistency across teams, hypermedia approaches, and
   the impact on developer experience.

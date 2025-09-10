@@ -4,9 +4,6 @@ slug: ep13-05-ai-for-all-and-ux-abstraction
 series: The Good Thing
 episode: 13
 chunk: 5
-participants:
-  - Stefan
-  - Jens
 segment: Universal AI Adoption and User Experience Challenges
 timecode: 00:14:46 – 00:19:22
 start_time: 00:14:46
@@ -30,10 +27,6 @@ tags:
   - graphql-federation
   - query-planning
   - rest-connectors
-topic_tags:
-  - ai
-  - mcp
-  - cursor
 entities:
   - Shopify
   - Cursor
@@ -41,14 +34,6 @@ entities:
   - MCP
   - QuickBooks
   - Dustin
-mentions:
-  - 1500 Shopify employees
-  - HR, operations, legal departments
-  - cruise ship analogy for big companies
-  - Cursor's 200M ARR in 1.5 years
-  - FOMO around AI adoption
-  - Stefan's mother's pediatric clinic example
-  - JSON configuration complexity
 summary: Stefan discusses Shopify's mandate for all 1500+ employees across all departments
   to use AI, comparing large companies to cruise ships that need time to turn. They
   explore challenges of AI adoption for small businesses and non-technical users,

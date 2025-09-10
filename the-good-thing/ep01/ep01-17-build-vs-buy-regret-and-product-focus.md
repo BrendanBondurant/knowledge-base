@@ -4,9 +4,6 @@ slug: ep01-17-build-vs-buy-regret-and-product-focus
 series: The Good Thing
 episode: 1
 chunk: 17
-participants:
-  - Jens
-  - Stefan
 segment: When Building Becomes a Burden
 timecode: 00:53:29 – 00:57:05
 start_time: 00:53:29
@@ -27,10 +24,6 @@ tags:
   - go
   - graphql-federation
   - kubernetes
-topic_tags:
-  - startup
-  - federation
-  - kubernetes
 entities:
   - Jens Neuse
   - Stefan Avram
@@ -38,12 +31,6 @@ entities:
   - Kubernetes
   - GitLab
   - Content Management Systems
-mentions:
-  - build versus buy
-  - platform abandonment
-  - customer centric engineering
-  - ARR impact
-  - product alignment
 summary: Jens shares how the bare metal Kubernetes effort and the custom CMS project
   eventually became unsustainable under real business pressure. He admits that while
   it was fun and technically impressive, it did not support revenue or user growth.

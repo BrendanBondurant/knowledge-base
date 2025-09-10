@@ -4,9 +4,6 @@ slug: ep27-08-router-architecture-and-plugin-overview
 series: The Good Thing
 episode: 27
 chunk: 8
-participants:
-  - Jens
-  - Jesse
 segment: Router internals and plugin vs gRPC distinction
 timecode: 00:36:05 – 00:38:46
 start_time: 00:36:05
@@ -22,17 +19,9 @@ tags:
   - router-architecture
   - grpc
   - plugin-architecture
-topic_tags:
-  - router-architecture
-  - grpc
-  - plugin-architecture
 entities:
   - WunderGraph
   - Cosmo Router
-mentions:
-  - plugin and service roles
-  - router design insights
-  - architectural separation
 summary: Jens and Stefan explain the router’s internal design, comparing plugin systems to dedicated gRPC services and highlighting architectural separation.
 ---
 00:36:05:08 - 00:36:26:19

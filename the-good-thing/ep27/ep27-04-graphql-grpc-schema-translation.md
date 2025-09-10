@@ -4,9 +4,6 @@ slug: ep27-04-graphql-grpc-schema-translation
 series: The Good Thing
 episode: 27
 chunk: 4
-participants:
-  - Jens
-  - Ludwig
 segment: Translating schemas and generating dynamic messages
 timecode: 00:16:52 – 00:21:23
 start_time: 00:16:52
@@ -22,18 +19,10 @@ tags:
   - graphql
   - grpc
   - schema-translation
-topic_tags:
-  - graphql
-  - grpc
-  - schema-translation
 entities:
   - GraphQL
   - gRPC
   - WunderGraph
-mentions:
-  - dynamic message workflow
-  - schema conversion challenges
-  - automated translation tools
 summary: Jens and Stefan break down the workflow for translating GraphQL schemas to gRPC, covering dynamic message generation and challenges in schema mapping.
 ---
 00:16:52:20 - 00:17:28:10

@@ -4,10 +4,6 @@ slug: ep26-15-closing-reflections-and-farewell
 series: The Good Thing
 episode: 26
 chunk: 15
-participants:
-  - Stefan
-  - Jens
-  - Sam Lambert
 segment: Episode Wrap-up and Final Thoughts
 timecode: 01:09:22:10 – 01:10:27:11
 start_time: 01:09:22:10
@@ -27,19 +23,10 @@ tags:
   - ai
   - go
   - rest
-topic_tags:
-  - ai
-  - database
 entities:
   - PlanetScale
   - AI
   - The Good Thing
-mentions:
-  - AI creating more fun database problems
-  - Fantastic impact on the industry
-  - Episode being super interesting
-  - Next week scheduling discussion
-  - Success congratulations
 summary: |
   Brief closing segment where Sam reflects on AI's positive impact on creating more interesting database challenges, followed by the hosts wrapping up the episode with gratitude and discussion of future scheduling.
 ---

@@ -4,9 +4,6 @@ slug: ep01-15-soft-skills-bold-applications-and-bare-metal-mistakes
 series: The Good Thing
 episode: 1
 chunk: 15
-participants:
-  - Jens
-  - Stefan
 segment: Career Moves and Build Versus Buy Lessons
 timecode: 00:46:53 – 00:49:40
 start_time: 00:46:53
@@ -31,11 +28,6 @@ tags:
   - go
   - graphql-federation
   - startup
-topic_tags:
-  - graphql
-  - api-design
-  - federation
-  - startup
 entities:
   - Jens Neuse
   - Stefan Avram
@@ -44,13 +36,6 @@ entities:
   - Tonline
   - GraphQL
   - Federation
-mentions:
-  - soft skills in tech
-  - overconfidence in senior hires
-  - bare metal infra vs cloud
-  - bold career moves
-  - politics in engineering promotions
-  - build versus buy mindset
 summary: Jens shares how his desire to unify APIs and help teams collaborate led him
   deeper into architecture and GraphQL. Stefan reinforces that his boldness in applying
   for jobs above his experience level paid off, thanks in part to soft skills, networking,

@@ -4,9 +4,6 @@ slug: ep06-05-distribution-investors-growth-metrics
 series: The Good Thing
 episode: 6
 chunk: 05
-participants:
-  - Jens
-  - Stefan
 segment: Distribution, investor conversations, and the importance of growth metrics
 timecode: 00:10:42:27 - 00:13:34:09
 start_time: 00:10:42:27
@@ -27,22 +24,11 @@ tags:
   - graphql
   - rest
   - telemetry
-topic_tags:
-  - startup
-  - ai
-  - graphql
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
   - Apollo
-mentions:
-  - distribution importance
-  - investor conversations
-  - growth metrics necessity
-  - fundraising challenges
-  - competitor roadmap copying
-  - customer acquisition strategy
 summary: |
   Jens and Stefan discuss the importance of distribution in startup success, the kinds of questions investors ask, and the need for growth metrics beyond feature parity. They reflect on the challenges of fundraising and the pitfalls of simply copying competitors.
 ---

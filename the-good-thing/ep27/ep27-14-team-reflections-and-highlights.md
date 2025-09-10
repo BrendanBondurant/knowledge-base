@@ -4,11 +4,6 @@ slug: ep27-14-team-reflections-and-highlights
 series: The Good Thing
 episode: 27
 chunk: 14
-participants:
-  - Ludwig
-  - Jens
-  - Jesse
-  - Dustin
 segment: Collaboration and development highlights
 timecode: 00:59:06 – 01:03:41
 start_time: 00:59:06
@@ -26,17 +21,9 @@ tags:
   - team-collaboration
   - developer-experience
   - cosmo-connect
-topic_tags:
-  - team-collaboration
-  - developer-experience
-  - cosmo-connect
 entities:
   - Cosmo Connect
   - WunderGraph
-mentions:
-  - cross-team collaboration
-  - development milestones
-  - lessons from building Cosmo Connect
 summary: Jens and Stefan reflect on team collaboration and milestones during Cosmo Connect development, sharing insights from the process.
 ---
 

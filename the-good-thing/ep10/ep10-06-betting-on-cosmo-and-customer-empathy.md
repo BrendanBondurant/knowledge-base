@@ -4,11 +4,6 @@ slug: ep10-06-betting-on-cosmo-and-customer-empathy
 series: The Good Thing
 episode: 10
 chunk: 6
-participants:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
 segment: Remote work challenges and team dynamics
 timecode: 00:35:47:28 – 00:43:58:00
 start_time: 00:35:47:28
@@ -30,10 +25,6 @@ tags:
   - go
   - rest
   - startup
-topic_tags:
-  - ai
-  - cosmo
-  - founder
 entities:
   - WunderGraph
   - Deel
@@ -41,14 +32,6 @@ entities:
   - United States
   - Alex (Head of People)
   - Jacob (Video)
-mentions:
-  - American company structure
-  - West Coast vs global hiring
-  - legal framework complexity
-  - hardware shipping challenges
-  - elite office culture avoidance
-  - retreat vs working week
-  - cultural background diversity
 summary: The co-founders discuss remote work trade-offs, with Björn covering operational
   challenges like timezone management and legal complexity across multiple countries.
   Jens emphasizes cultural diversity benefits while acknowledging collaboration challenges.

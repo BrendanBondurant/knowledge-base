@@ -4,9 +4,6 @@ slug: ep09-13-style-and-authenticity-in-content
 series: The Good Thing
 episode: 9
 chunk: 13
-participants:
-  - Jens
-  - Cameron
 segment: Personal style and authenticity
 timecode: 00:46:36:01 – 00:50:33:00
 start_time: 00:46:36:01
@@ -24,21 +21,10 @@ tags:
   - ai
   - go
   - rest
-topic_tags:
-  - authenticity
-  - ai
-  - brand-identity
 entities:
   - WunderGraph
   - Search Engines
   - AI Models
-mentions:
-  - search engine AI content flagging
-  - human touch in validation
-  - probability-based AI thinking
-  - personal writing signatures
-  - vendor content similarity
-  - non-native speaker patterns
 summary: Cameron and Jens discuss the importance of maintaining personal style and
   authenticity in an AI-driven world. They explore how search engines detect AI-generated
   content, the value of human validation, and the significance of personal taste and

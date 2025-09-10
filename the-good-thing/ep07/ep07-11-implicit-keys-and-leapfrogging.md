@@ -4,10 +4,6 @@ slug: ep07-11-implicit-keys-and-leapfrogging
 series: The Good Thing
 episode: 7
 chunk: 11
-participants:
-  - Jens
-  - Sergiy
-  - David
 segment: Federation key management and explicit schema design
 timecode: 00:57:00:23 – 01:03:00:00
 start_time: 00:57:00:23
@@ -31,10 +27,6 @@ tags:
   - graphql-federation
   - microservices
   - startup
-topic_tags:
-  - federation
-  - graphql
-  - implicit-behavior
 entities:
   - GraphQL
   - Federation
@@ -42,14 +34,6 @@ entities:
   - David
   - Sergiy
   - Jens Neuse
-mentions:
-  - entity key handshakes
-  - composition error prevention
-  - Lego brick keys concept
-  - Middle Earth metaphor
-  - 10-20 team coordination challenges
-  - interface/union member visibility
-  - microservices architecture coordination
 summary: David advocates for explicit entity keys to prevent composition errors and
   team confusion. The discussion covers leapfrogging (routing through multiple subgraphs),
   implicit key problems, and Sergiy's concerns about interface/union visibility across

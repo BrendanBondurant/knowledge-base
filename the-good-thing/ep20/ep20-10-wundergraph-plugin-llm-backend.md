@@ -4,9 +4,6 @@ slug: ep20-10-wundergraph-plugin-llm-backend
 series: The Good Thing
 episode: 20
 chunk: 10
-participants:
-  - Stefan
-  - Jens
 segment: Product Development and Company Updates
 timecode: 00:51:10:06 – 01:01:08:19
 start_time: 00:51:10:06
@@ -40,21 +37,12 @@ tags:
   - rest-connectors
   - rust
   - startup
-topic_tags:
-  - wundergraph
-  - plugin-system
-  - llm-optimization
 entities:
   - WunderGraph
   - Stefan Avram
   - Jens Neuse
   - GraphQL Federation
   - Plugin system
-mentions:
-  - New plugin architecture
-  - LLM-optimized development
-  - GraphQL adoption challenges
-  - Federation without GraphQL
 summary: Introduction of WunderGraph's new plugin system designed for LLM-optimized
   backend development, discussing how it addresses GraphQL adoption challenges while
   maintaining federation benefits through alternative approaches.

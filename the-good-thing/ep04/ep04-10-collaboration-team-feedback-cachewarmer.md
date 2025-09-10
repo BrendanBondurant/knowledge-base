@@ -4,9 +4,6 @@ slug: ep04-10-collaboration-team-feedback-cachewarmer
 series: The Good Thing
 episode: 4
 chunk: 10
-participants:
-  - Jens
-  - Stefan
 segment: Team collaboration, energy, direct feedback loops, and the story of building
   the cache warmer
 timecode: 00:29:02:26 - 00:35:10:29
@@ -31,25 +28,12 @@ tags:
   - go
   - rest
   - telemetry
-topic_tags:
-  - startup
-  - cache-warming
-  - founder
 entities:
   - Jens Neuse
   - Stefan Avram
   - WunderGraph
   - Cache Warmer
   - Slack
-mentions:
-  - team collaboration
-  - customer feedback loops
-  - cache warmer development
-  - customer-driven features
-  - Slack connect
-  - customer screenshots
-  - product iteration
-  - magic moments
 summary: Jens and Stefan discuss the importance of team collaboration, direct feedback
   loops with customers, and share the story of building the cache warmer feature.
   They highlight how close customer relationships and rapid iteration led to impactful

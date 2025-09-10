@@ -4,11 +4,6 @@ slug: ep27-01-introductions-and-branding
 series: The Good Thing
 episode: 27
 chunk: 1
-participants:
-  - Jens
-  - Ludwig
-  - Jesse
-  - Dustin
 segment: Naming story and branding reflections
 timecode: 00:00:24 – 00:06:23
 start_time: 00:00:24
@@ -26,19 +21,11 @@ tags:
   - podcast-intro
   - branding
   - company-history
-topic_tags:
-  - podcast-intro
-  - branding
-  - company-history
 entities:
   - WunderGraph
   - Cosmo
   - Jens Neuse
   - Stefan Avram
-mentions:
-  - origin of Cosmo name
-  - early branding choices
-  - company backstory
 summary: Jens and Stefan open the episode with team banter, the story behind the Cosmo name, and reflections on WunderGraph's branding journey.
 ---
 00:00:24:17 - 00:00:52:05

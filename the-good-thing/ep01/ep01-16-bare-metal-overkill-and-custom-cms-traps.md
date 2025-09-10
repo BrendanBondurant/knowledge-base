@@ -4,8 +4,6 @@ slug: ep01-16-bare-metal-overkill-and-custom-cms-traps
 series: The Good Thing
 episode: 1
 chunk: 16
-participants:
-  - Jens
 segment: Self Hosting Distractions and the Real Customer
 timecode: 00:49:40 – 00:53:29
 start_time: 00:49:40
@@ -25,10 +23,6 @@ tags:
   - ai
   - database
   - go
-topic_tags:
-  - kubernetes
-  - startup
-  - go
 entities:
   - Jens Neuse
   - Kubernetes
@@ -38,12 +32,6 @@ entities:
   - CMS
   - AWS
   - Kubernetes on bare metal
-mentions:
-  - internal developer distraction
-  - overengineering for fun
-  - self hosted infra decisions
-  - custom CMS project
-  - ignoring advertisers and users
 summary: Jens describes how his team at a news company chose to build and maintain
   a bare metal Kubernetes cluster, self hosted GitLab, and custom CI CD tooling instead
   of focusing on improving the core business. Despite how fun it was for the engineers,
