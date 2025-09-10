@@ -495,3 +495,40 @@
 | 01:01:10 | 01:05:02 | Scale obsession, orchestration pride, and infrastructure passion           | ep26-13-scale-infrastructure-and-orchestration  |
 | 01:05:02 | 01:09:22 | AI's impact on usage patterns, customer data scale, and cursor integration | ep26-14-ai-impact-and-database-usage            |
 | 01:09:22 | 01:10:27 | Final thoughts and closing remarks                                         | ep26-15-closing-reflections-and-farewell        |
+
+
+27
+
+| Start    | End      | Topic                                                                                      | Slug                                            |
+| -------- | -------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| 00:00:24 | 00:06:23 | Introductions, team banter, Cosmo naming story, and WunderGraph's branding decisions       | ep27-01-introductions-and-branding              |
+| 00:06:23 | 00:10:23 | Cosmo Connect overview, motivation for gRPC adoption, and architectural goals              | ep27-02-cosmo-connect-overview                  |
+| 00:10:23 | 00:16:52 | WebAssembly considerations, HashiCorp plugin system decision, and deployment design        | ep27-03-webassembly-vs-hashicorp-plugins        |
+| 00:16:52 | 00:21:23 | gRPC and GraphQL schema translation workflow, dynamic message generation                   | ep27-04-graphql-grpc-schema-translation         |
+| 00:21:23 | 00:27:17 | Technical challenges in type handling, nested lists, nullable fields, and engine design    | ep27-05-technical-challenges-in-schema-mapping  |
+| 00:27:17 | 00:32:43 | GraphQL null semantics, mapping files, and field order handling in protobuf                | ep27-06-null-semantics-and-protobuf-field-order |
+| 00:32:43 | 00:36:05 | Proto reserved keyword, compatibility design, and versioning strategies                    | ep27-07-proto-reserved-and-versioning           |
+| 00:36:05 | 00:38:46 | Router architecture insights, plugin vs gRPC service distinction                           | ep27-08-router-architecture-and-plugin-overview |
+| 00:38:48 | 00:43:10 | Plugin vs dedicated service deployment, feature flags, and local development benefits      | ep27-09-plugin-vs-service-deployment            |
+| 00:43:10 | 00:48:06 | Criticism of declarative connectors, debugging advantages, and SDK use cases               | ep27-10-declarative-vs-programmatic-connectors  |
+| 00:48:06 | 00:51:17 | Schema design philosophy, error handling strategies, and API integration patterns          | ep27-11-schema-design-and-error-handling        |
+| 00:51:17 | 00:54:02 | Plugin packaging, OCI storage, Cloudflare registry, and artifact store approach            | ep27-12-plugin-packaging-and-oci-storage        |
+| 00:54:02 | 00:59:06 | AI-assisted plugin development with Cursor, REST integration automation, and gRPC benefits | ep27-13-ai-assisted-plugin-development          |
+| 00:59:06 | 01:03:41 | Team reflections, collaboration, and highlights of Cosmo Connect's development             | ep27-14-team-reflections-and-highlights         |
+| 01:03:41 | 01:07:48 | Cap’n Proto discussion, technology choices, and session wrap-up                            | ep27-15-capnproto-discussion-and-wrap-up        |
+
+
+28
+
+| Start    | End      | Topic                                                                                          | Slug                                             |
+| -------- | -------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 00:00:10 | 00:06:05 | Introductions, Daniel Kocot's background, and consultancy perspective                          | ep28-01-introductions-and-consulting-perspective |
+| 00:06:05 | 00:13:34 | Remote vs onsite consulting, relationship building, and communication gaps                     | ep28-02-onsite-vs-remote-consulting              |
+| 00:13:34 | 00:21:02 | Daniel's path into APIs, integration patterns, and people problems                             | ep28-03-path-into-apis-and-people-problems       |
+| 00:21:02 | 00:28:33 | Navigating client resistance, trust in consultancy, and long-term relationships                | ep28-04-client-resistance-and-long-term-trust    |
+| 00:28:33 | 00:36:20 | Evolution of REST, interaction patterns, and capability thinking                               | ep28-05-rest-evolution-and-capability-thinking   |
+| 00:36:20 | 00:44:00 | Tooling misconceptions, API governance challenges, and platform complexity                     | ep28-06-tooling-and-governance-challenges        |
+| 00:44:00 | 00:51:12 | Bridging business-engineering gaps, missing stakeholders, and prioritization issues            | ep28-07-business-engineering-gaps                |
+| 00:51:12 | 00:57:40 | AI's potential for requirements engineering, integration issues, and sprawl                    | ep28-08-ai-potential-and-api-sprawl              |
+| 00:57:40 | 01:05:31 | Technology hype cycles, GraphQL adoption mistakes, and MCP as a solution looking for a problem | ep28-09-hype-cycles-and-mcp-adoption             |
+| 01:05:31 | 01:12:35 | AI and vibe coding hype, realistic value, and cautious outlook                                 | ep28-10-ai-hype-and-vibe-coding-outlook          |
