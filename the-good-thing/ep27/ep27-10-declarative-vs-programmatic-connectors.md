@@ -5,15 +5,17 @@ series: The Good Thing
 episode: 27
 chunk: 10
 participants:
+  - Jesse
   - Jens
-  - Stefan
+  - Dustin
 segment: Debugging advantages and SDK-driven integration
 timecode: 00:43:10 – 00:48:06
 start_time: 00:43:10
 end_time: 00:48:06
 speakers:
+  - Jesse
   - Jens
-  - Stefan
+  - Dustin
 topics:
   - Declarative Connectors
   - Programmatic SDK

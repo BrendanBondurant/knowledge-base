@@ -6,14 +6,14 @@ episode: 27
 chunk: 2
 participants:
   - Jens
-  - Stefan
+  - Dustin
 segment: Introducing Cosmo Connect and gRPC architecture
 timecode: 00:06:23 – 00:10:23
 start_time: 00:06:23
 end_time: 00:10:23
 speakers:
   - Jens
-  - Stefan
+  - Dustin
 topics:
   - Cosmo Connect
   - gRPC Adoption

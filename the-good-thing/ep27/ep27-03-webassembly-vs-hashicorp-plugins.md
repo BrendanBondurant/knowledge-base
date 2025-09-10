@@ -6,14 +6,16 @@ episode: 27
 chunk: 3
 participants:
   - Jens
-  - Stefan
+  - Jesse
+  - Dustin
 segment: Comparing plugin frameworks and deployment models
 timecode: 00:10:23 – 00:16:52
 start_time: 00:10:23
 end_time: 00:16:52
 speakers:
   - Jens
-  - Stefan
+  - Jesse
+  - Dustin
 topics:
   - WebAssembly
   - HashiCorp Plugins

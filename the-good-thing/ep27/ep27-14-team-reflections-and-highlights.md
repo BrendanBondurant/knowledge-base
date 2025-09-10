@@ -5,15 +5,19 @@ series: The Good Thing
 episode: 27
 chunk: 14
 participants:
+  - Ludwig
   - Jens
-  - Stefan
+  - Jesse
+  - Dustin
 segment: Collaboration and development highlights
 timecode: 00:59:06 – 01:03:41
 start_time: 00:59:06
 end_time: 01:03:41
 speakers:
+  - Ludwig
   - Jens
-  - Stefan
+  - Jesse
+  - Dustin
 topics:
   - Team Collaboration
   - Development Highlights

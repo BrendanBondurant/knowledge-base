@@ -6,14 +6,16 @@ episode: 27
 chunk: 5
 participants:
   - Jens
-  - Stefan
+  - Dustin
+  - Ludwig
 segment: Type handling, nested lists, nullables, and engine design
 timecode: 00:21:23 – 00:27:17
 start_time: 00:21:23
 end_time: 00:27:17
 speakers:
   - Jens
-  - Stefan
+  - Dustin
+  - Ludwig
 topics:
   - Schema Mapping
   - Type Handling

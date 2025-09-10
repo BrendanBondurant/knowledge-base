@@ -6,14 +6,16 @@ episode: 27
 chunk: 13
 participants:
   - Jens
-  - Stefan
+  - Dustin
+  - Jesse
 segment: AI-assisted workflows for REST and gRPC plugin automation
 timecode: 00:54:02 – 00:59:06
 start_time: 00:54:02
 end_time: 00:59:06
 speakers:
   - Jens
-  - Stefan
+  - Dustin
+  - Jesse
 topics:
   - AI-Assisted Development
   - Plugin Automation

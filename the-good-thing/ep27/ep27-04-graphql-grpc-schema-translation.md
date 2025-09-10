@@ -6,14 +6,14 @@ episode: 27
 chunk: 4
 participants:
   - Jens
-  - Stefan
+  - Ludwig
 segment: Translating schemas and generating dynamic messages
 timecode: 00:16:52 – 00:21:23
 start_time: 00:16:52
 end_time: 00:21:23
 speakers:
   - Jens
-  - Stefan
+  - Ludwig
 topics:
   - GraphQL Schema Translation
   - gRPC Schema Mapping

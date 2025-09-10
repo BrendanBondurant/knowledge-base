@@ -6,14 +6,16 @@ episode: 27
 chunk: 11
 participants:
   - Jens
-  - Stefan
+  - Dustin
+  - Jesse
 segment: API integration patterns and error strategy
 timecode: 00:48:06 – 00:51:17
 start_time: 00:48:06
 end_time: 00:51:17
 speakers:
   - Jens
-  - Stefan
+  - Dustin
+  - Jesse
 topics:
   - Schema Design
   - API Error Handling

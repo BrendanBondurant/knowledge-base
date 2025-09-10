@@ -6,14 +6,18 @@ episode: 27
 chunk: 1
 participants:
   - Jens
-  - Stefan
+  - Ludwig
+  - Jesse
+  - Dustin
 segment: Naming story and branding reflections
 timecode: 00:00:24 – 00:06:23
 start_time: 00:00:24
 end_time: 00:06:23
 speakers:
   - Jens
-  - Stefan
+  - Ludwig
+  - Jesse
+  - Dustin
 topics:
   - Cosmo Naming
   - Branding Decisions

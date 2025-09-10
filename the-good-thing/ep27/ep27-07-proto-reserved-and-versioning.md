@@ -5,15 +5,15 @@ series: The Good Thing
 episode: 27
 chunk: 7
 participants:
+  - Dustin
   - Jens
-  - Stefan
 segment: Reserved keywords and long-term compatibility design
 timecode: 00:32:43 – 00:36:05
 start_time: 00:32:43
 end_time: 00:36:05
 speakers:
+  - Dustin
   - Jens
-  - Stefan
 topics:
   - Protobuf Reserved Fields
   - Versioning

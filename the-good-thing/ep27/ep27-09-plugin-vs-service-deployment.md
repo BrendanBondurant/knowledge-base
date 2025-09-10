@@ -5,15 +5,19 @@ series: The Good Thing
 episode: 27
 chunk: 9
 participants:
+  - Jesse
   - Jens
-  - Stefan
+  - Dustin
+  - Ludwig
 segment: Feature flags, local development, and deployment tradeoffs
 timecode: 00:38:48 – 00:43:10
 start_time: 00:38:48
 end_time: 00:43:10
 speakers:
+  - Jesse
   - Jens
-  - Stefan
+  - Dustin
+  - Ludwig
 topics:
   - Plugin Deployment
   - Service Deployment

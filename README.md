@@ -2,34 +2,34 @@
 
 ## Quick Reference — Metadata Rules
 
-| Field        | Purpose                                         | Format                                                                        | Human-Friendly? | Machine-Friendly? | Source of Truth                 |
-| ------------ | ----------------------------------------------- | ----------------------------------------------------------------------------- | --------------- | ----------------- | ------------------------------- |
-| `topics`     | Main discussion themes for the chunk            | Title Case, spaces between words, no hyphens/underscores                      | ✅               | ❌                 | Written per chunk               |
-| `tags`       | Global, reusable categorization for all content | lowercase, kebab-case (graphql-federation)                                    | ❌               | ✅                 | `tags_master.yaml`              |
-| `topic_tags` | Machine-friendly equivalents of topics          | lowercase, kebab-case, must match `tags_master.yaml`                          | ❌               | ✅                 | Derived from `topics`           |
-| `entities`   | People, teams, products, standards referenced   | **Canonical IDs or slugs** (e.g., `ent:mcp`, `ent:cosmo`, `ent:kevin-swiber`) | ❌               | ✅                 | `entities.json` (IDs + aliases) |
-| `mentions`   | Useful long-tail phrases/quotes for recall      | Free-text phrases (≤10 per chunk), trim punctuation, no hashtags              | ✅               | ⚠️ (search-only)  | Extracted/written per chunk     |
+| Field      | Purpose                                         | Format                                     | Human-Friendly? | Machine-Friendly? | Source of Truth    |
+| ---------- | ----------------------------------------------- | ------------------------------------------ | --------------- | ----------------- | ------------------ |
+| `topics`   | Main discussion themes for the chunk            | Title Case, spaces between words           | ✅               | ❌                 | Written per chunk  |
+| `tags`     | Global, reusable categorization for all content | lowercase, kebab-case (graphql-federation) | ❌               | ✅                 | `tags_master.yaml` |
+| `entities` | People, teams, products, standards referenced   | Canonical names or IDs                     | ❌               | ✅                 | `entities.json`    |
+| `summary`  | One-sentence chunk summary                      | Plain English, ≤3 sentences                | ✅               | ✅                 | Written per chunk  |
+
 
 
 ## Governance Rules
 
-- All tags and topic_tags must match entries in `tags_master.yaml`
+- All tags must match entries in tags_master.yaml
 - No ad hoc tags in individual files
 - Adding a new tag requires updating `tags_master.yaml` and documenting it
-- Each chunk must have at least one `topic_tag` and one `tag`
-- Keep topics readable for humans; keep tags and topic_tags consistent for machines
+- Each chunk must have at least one tag
+- Keep topics readable for humans; keep tags consistent for machines
 - Avoid pluralization drift (api vs. apis — pick one form)
 - Avoid over-specific tags (use `ai-security`, not `ai-security-prompt-injection-v1`)
 
 ### Where to Find and Update the Master Tag List
 
-The approved vocabulary for tags and topic_tags lives in the `tags_master.yaml` file at the root of this repository.
+The approved vocabulary for tags lives in the `tags_master.yaml` file at the root of this repository.
 
 **Do not create tags directly in chunk files that aren't already in `tags_master.yaml`.**
 
 #### To add a new tag:
 
-1. Edit `tags_master.yaml` to include the new kebab-case tag (Doesn't exist yet)
+1. Edit `tags_master.yaml` to include the new kebab-case tag
 2. Run the tag validation script (`/scripts/validate_tags.md`) before committing (Doesn't exist yet)
 3. Document the addition in the repo changelog
 4. Pre-commit hooks will reject changes that contain invalid or missing tags
@@ -72,9 +72,6 @@ slug: ep01-01-intro-podcast-origins-tradeoffs
 series: The Good Thing
 episode: 1
 chunk: 1
-participants:
-  - Stefan
-  - Jens
 segment: Introduction and Show Philosophy
 timecode: 00:00:01:18 – 00:02:32:04
 start_time: 00:00:01:18
@@ -92,11 +89,6 @@ tags:
   - engineering-philosophy
   - tradeoffs
   - graphql
-topic_tags:
-  - podcast-intro
-  - engineering-philosophy
-  - tradeoffs
-  - graphql
 entities:
   - The Good Thing
   - WunderGraph
@@ -105,12 +97,6 @@ entities:
   - Jens Neuse
   - Stefan Avram
   - Bjorn
-mentions:
-  - the sales call intro
-  - technical questions
-  - tradeoffs in life and engineering
-  - techno music
-  - mono skier
 summary: |
   Stefan introduces the podcast and its central theme of tradeoffs in engineering and life. The episode title is inspired by cofounder Bjorn's optimism. Jens is introduced as the co-host, with Stefan playing the facilitator role for technical discussions.
 ---
@@ -144,15 +130,12 @@ For each chunk:
    - `series`: Always "The Good Thing"
    - `episode`: Episode number
    - `chunk`: Chunk number (sequential, starting from 1)
-   - `participants`: List of people in the segment
    - `segment`: Short description of the segment
    - `timecode`, `start_time`, `end_time`: Use transcript timestamps
    - `speakers`: List of speakers in the chunk
    - `topics`: Bullet list of main topics discussed (Title Case, human-readable)
    - `tags`: Short, machine-friendly tags (lowercase, kebab-case) from `tags_master.yaml`
-   - `topic_tags`: Machine-friendly equivalents of topics, must match `tags_master.yaml`
    - `entities`: People, companies, or products mentioned
-   - `mentions`: Notable references, anecdotes, or recurring themes
    - `summary`: 1–3 sentence summary of the chunk (in plain English)
 
 3. Paste the transcript for that segment below the frontmatter, preserving timestamps and speaker labels
@@ -182,15 +165,6 @@ Continue until the entire episode is chunked. Each chunk should be a separate fi
 - Must be broad enough for reuse across multiple files
 
 **Usage:** Pulled from `tags_master.yaml`.
-
-### Topic Tags
-**Purpose:** Machine-friendly equivalents of topics, used for retrieval, filtering, and linking.
-
-**Format:**
-- Lowercase, kebab-case
-- Must match entries in `tags_master.yaml` exactly
-
-**Usage:** Bridges human-friendly topics with standardized tags.
 
 ## Why Chunk?
 

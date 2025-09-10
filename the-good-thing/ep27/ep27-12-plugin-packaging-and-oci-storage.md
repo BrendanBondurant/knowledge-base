@@ -5,15 +5,17 @@ series: The Good Thing
 episode: 27
 chunk: 12
 participants:
+  - Jesse
   - Jens
-  - Stefan
+  - Dustin
 segment: Plugin distribution and artifact management
 timecode: 00:51:17 – 00:54:02
 start_time: 00:51:17
 end_time: 00:54:02
 speakers:
+  - Jesse
   - Jens
-  - Stefan
+  - Dustin
 topics:
   - Plugin Packaging
   - OCI Storage

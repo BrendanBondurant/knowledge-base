@@ -6,14 +6,16 @@ episode: 27
 chunk: 6
 participants:
   - Jens
-  - Stefan
+  - Ludwig
+  - Dustin
 segment: Protobuf mapping challenges and schema alignment
 timecode: 00:27:17 – 00:32:43
 start_time: 00:27:17
 end_time: 00:32:43
 speakers:
   - Jens
-  - Stefan
+  - Ludwig
+  - Dustin
 topics:
   - Protobuf Field Order
   - Null Semantics

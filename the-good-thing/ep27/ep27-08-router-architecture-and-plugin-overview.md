@@ -6,14 +6,14 @@ episode: 27
 chunk: 8
 participants:
   - Jens
-  - Stefan
+  - Jesse
 segment: Router internals and plugin vs gRPC distinction
 timecode: 00:36:05 – 00:38:46
 start_time: 00:36:05
 end_time: 00:38:46
 speakers:
   - Jens
-  - Stefan
+  - Jesse
 topics:
   - Router Architecture
   - Plugin System
