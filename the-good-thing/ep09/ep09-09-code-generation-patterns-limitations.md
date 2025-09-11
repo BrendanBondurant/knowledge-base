@@ -16,6 +16,12 @@ topics:
   - Pattern Replication
   - AST Transformation
   - Test-Driven Development
+tags: 
+  - ai
+  - code-generation
+  - graphql 
+  - go
+  - architecture
 entities:
   - AST
   - GraphQL

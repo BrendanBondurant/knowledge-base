@@ -17,6 +17,13 @@ topics:
   - Sales Mindset
   - Startup Beginnings
   - Customer Feedback
+tags:
+  - ai
+  - content
+  - mindset
+  - practice
+  - sales
+  - startup
 entities:
   - Stefan
   - Jens
