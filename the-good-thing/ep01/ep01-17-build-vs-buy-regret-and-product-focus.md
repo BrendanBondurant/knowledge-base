@@ -31,14 +31,7 @@ entities:
   - Kubernetes
   - GitLab
   - Content Management Systems
-summary: Jens shares how the bare metal Kubernetes effort and the custom CMS project
-  eventually became unsustainable under real business pressure. He admits that while
-  it was fun and technically impressive, it did not support revenue or user growth.
-  Stefan expands on this with an observation common across companies building internal
-  platforms that go unfinished and leave teams burdened. The lesson is not just technical
-  but organizational. Jens emphasizes that experienced engineers should get close
-  to product owners and customers to understand what really moves the business forward.
-  Building something for fun is not the same as building what matters.
+summary: Jens reflects on how internal platform efforts like custom CMS and bare metal Kubernetes became burdensome and failed to deliver business value. Stefan points out that many teams abandon half-built internal platforms, leaving long-term complexity. Jens emphasizes that engineers must work closely with product and customers to understand priorities, rather than building systems for personal satisfaction. These experiences shaped his belief in vendor partnerships and pragmatism
 ---
 
 

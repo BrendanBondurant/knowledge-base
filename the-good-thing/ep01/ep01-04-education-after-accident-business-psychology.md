@@ -28,14 +28,7 @@ entities:
   - WunderGraph
   - Germany
   - Business Psychology
-summary: Jens describes the turning point in his recovery when he decided that life
-  as a systems administrator wasn’t enough. Motivated to pursue something greater,
-  he attended night school five nights a week and Saturdays, transforming from a poor-performing
-  student to one earning top grades. This earned him a general qualification (comparable
-  to a U.S. associate’s degree), which led him to a private university where he studied
-  business psychology while working. The segment highlights his persistence, non-traditional
-  path, and determination to reorient his life after trauma. Stefan adds color with
-  anecdotes from Jens’ raver past.
+summary: Jens shares how he rejected a stagnant IT career path, choosing instead to overhaul his life through intense education. He attended night school five nights a week plus weekends for two years, earning top grades despite struggling academically in his youth. This opened doors to a private university where he pursued business psychology while working full time. Stefan adds humor and context by referencing Jens’ earlier party lifestyle, contrasting it with his disciplined transformation
 ---
 
 00:10:02:17 - 00:10:29:14

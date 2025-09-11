@@ -35,14 +35,7 @@ entities:
   - HTTP
   - TCP
   - TLS
-summary: Jens continues explaining why knowing how things work—like HTTP TLS and TCP—is
-  critical to being a strong engineer even when using AI tools like Copilot. He encourages
-  developers to use these tools to understand code not just generate it. Stefan connects
-  this to the broader idea that technical knowledge becomes obsolete quickly while
-  fundamentals remain constant. He prompts Jens to recall a foundational book from
-  his early career Imposters Handbook which Jens says resonated deeply during times
-  of self-doubt and still shapes how he learns. They transition toward discussing
-  Shakealert's failure and startup culture in Europe.
+summary: Jens stresses the importance of understanding HTTP, TCP, and TLS even when using AI assistants like GitHub Copilot. Stefan adds that while frameworks evolve quickly, fundamentals stay constant, making them essential for career longevity. Jens shares how The Imposter’s Handbook helped him overcome self-doubt and deepen his understanding early in his career. The conversation transitions toward Shakealert’s eventual failure and lessons learned
 ---
 
 

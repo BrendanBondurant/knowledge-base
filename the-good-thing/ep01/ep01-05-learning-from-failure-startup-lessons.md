@@ -30,12 +30,7 @@ entities:
   - Frankfurt
   - Giessen
   - Alexandra
-summary: Jens recounts how he struggled with learning programming after being encouraged
-  by a boss to move beyond server administration. Perl made no sense to him, and he
-  temporarily gave up on becoming a developer. Stefan reflects on how many great engineers,
-  including those at WunderGraph, are self-taught—despite his own CS degree. Jens
-  then describes how a new relationship and a partnership with a business psychology
-  classmate led to founding his first startup, marking the next pivot in his journey.
+summary: Jens recalls being encouraged by a boss to learn programming but struggling with Perl to the point of giving up. Stefan comments on how many exceptional engineers are self-taught, framing Jens’ journey as proof. Jens then describes meeting Alexandra, his future wife, and starting a company with her and a classmate, marking his first step into entrepreneurship despite limited technical skills
 ---
 
 

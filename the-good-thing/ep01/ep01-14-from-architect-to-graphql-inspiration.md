@@ -40,14 +40,7 @@ entities:
   - Docker Swarm
   - Kubernetes
   - Imposters Handbook
-summary: Jens explains how his confidence and energy landed him an architect role
-  and promotion to engineering lead in just a few years, even without senior-level
-  experience. He credits networking, dressing professionally, and reading foundational
-  books like Imposters Handbook. His interest shifted toward API architecture while
-  working on a large news platform where REST endpoints were being updated repeatedly
-  to support growing data needs. He discovered GraphQL in its early years and was
-  drawn to its simplicity compared to REST. Jens reflects on how their BFF pattern
-  functioned like handmade federation before formal GraphQL tooling existed.
+summary: Jens describes his rapid rise from architect to engineering lead within a few years, attributing it to networking, professional appearance, and continuous learning. He became fascinated with API design while leading a large news platform project that struggled to integrate data from multiple sources. Early exposure to GraphQL inspired him to explore replacing REST APIs with a query layer. He likens their BFF pattern to a handcrafted version of GraphQL federation before it existed
 ---
 
 

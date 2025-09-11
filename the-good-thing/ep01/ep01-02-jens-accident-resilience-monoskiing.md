@@ -24,11 +24,7 @@ entities:
   - Jens Neuse
   - WunderGraph
   - Mono skiing
-summary: Jens shares the story of a life-altering motorcycle accident that led to
-  multiple surgeries and changed his career trajectory. No longer able to become a
-  carpenter, he found new freedom through mono skiing—an adaptive sport using a sit-ski
-  setup. He reflects on how his experience with injury and recovery taught him resilience
-  and shaped how he approaches challenges, especially in tech.
+summary: Jens recounts a devastating motorcycle accident at 18 that left him uncertain he would walk again, requiring years of surgeries and rehabilitation. Unable to continue a carpentry career, he found a new passion in mono skiing, describing its difficulty and how it provided freedom and confidence despite physical limitations. He reflects on how this experience taught him resilience, persistence, and a unique outlook on overcoming challenges, which later shaped his career in tech
 ---
 
 

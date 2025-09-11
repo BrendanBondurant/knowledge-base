@@ -1,3 +1,63 @@
+# The Good Thing Podcast Transcript Chunking
+
+## Quick Reference — Metadata Rules
+
+| Field        | Purpose                                         | Format                                     | Required | Source of Truth    |
+| ------------ | ----------------------------------------------- | ------------------------------------------ | -------- | ------------------ |
+| `title`      | Human-readable chunk title                      | Sentence case                              | ✅       | Written per chunk  |
+| `slug`       | Unique identifier                               | kebab-case, `epXX-YY-topic`                | ✅       | Generated/manual   |
+| `series`     | Podcast name                                    | Always `The Good Thing`                   | ✅       | Static             |
+| `episode`    | Episode number                                  | Integer                                    | ✅       | Filename/metadata  |
+| `chunk`      | Chunk number                                    | Integer                                    | ✅       | Filename/metadata  |
+| `segment`    | Short descriptive title                         | Sentence case                              | ✅       | Written per chunk  |
+| `timecode`   | Full range                                      | `HH:MM:SS:FF – HH:MM:SS:FF`                | ✅       | Transcript         |
+| `start_time` | Start of chunk                                  | `HH:MM:SS:FF`                              | ✅       | Transcript         |
+| `end_time`   | End of chunk                                    | `HH:MM:SS:FF`                              | ✅       | Transcript         |
+| `speakers`   | List of speakers                                | List                                       | ✅       | Transcript         |
+| `topics`     | Human-readable themes                           | Title Case                                 | ✅       | Written per chunk  |
+| `tags`       | Machine categorization                          | kebab-case                                 | ✅       | `tags_master.yaml` |
+| `entities`   | People, teams, products, standards             | Canonical names or IDs                    | ✅       | `entities.json`    |
+| `summary`    | Detailed abstract (2–5 sentences)               | Multi-line, `|` block                      | ✅       | Written per chunk  |
+
+
+
+## Governance Rules
+
+- All tags must match entries in tags_master.yaml
+- No ad hoc tags in individual files
+- Adding a new tag requires updating `tags_master.yaml` and documenting it
+- Each chunk must have at least one tag
+- Keep topics readable for humans; keep tags consistent for machines
+- Avoid pluralization drift (api vs. apis — pick one form)
+- Avoid over-specific tags (use `ai-security`, not `ai-security-prompt-injection-v1`)
+
+### Where to Find and Update the Master Tag List
+
+The approved vocabulary for tags lives in the `tags_master.yaml` file at the root of this repository.
+
+**Do not create tags directly in chunk files that aren't already in `tags_master.yaml`.**
+
+#### To add a new tag:
+
+1. Edit `tags_master.yaml` to include the new kebab-case tag
+2. Run the tag validation script (`/scripts/validate_tags.md`) before committing (Doesn't exist yet)
+3. Document the addition in the repo changelog
+4. Pre-commit hooks will reject changes that contain invalid or missing tags
+
+## Overview
+
+This repository contains full transcripts of "The Good Thing" podcast, as well as "chunked" versions of each episode. The goal is to break down long podcast transcripts into smaller, structured, and metadata-rich chunks suitable for insertion into a knowledge base or for use in downstream applications (e.g., search, summarization, LLMs).
+
+## Directory Structure
+
+- `epXX-full.md`: The full, unprocessed transcript for episode XX
+- `epXX/`: Directory containing chunked `.md` files for episode XX
+- Each file represents a single chunk (a segment of the episode)
+
+**The transcript for the chunk goes below the YAML frontmatter, preserving timestamps and speaker labels.**
+
+### Example
+```yaml
 ---
 title: Podcast Origins and the Engineering of Tradeoffs
 slug: ep01-01-intro-podcast-origins-tradeoffs
@@ -68,7 +128,8 @@ For each chunk:
    - `topics`: Bullet list of main topics discussed (Title Case, human-readable)
    - `tags`: Short, machine-friendly tags (lowercase, kebab-case) from `tags_master.yaml`
    - `entities`: People, companies, or products mentioned
-   - `summary`: 1–3 sentence summary of the chunk (in plain English)
+   - `summary`: A detailed, multi-sentence summary (2–5 sentences) capturing all key points, context, and takeaways. This is the abstract that powers knowledge-base search and AI use cases.
+
 
 3. Paste the transcript for that segment below the frontmatter, preserving timestamps and speaker labels
 
@@ -103,3 +164,4 @@ Continue until the entire episode is chunked. Each chunk should be a separate fi
 - **Improved search:** Smaller, topic-focused segments are easier to search and retrieve
 - **Knowledge base ready:** Chunks can be indexed, summarized, or embedded for LLMs
 - **Reusability:** Chunks can be referenced independently in other projects or tools
+- Each chunk includes a detailed summary in its frontmatter to power semantic search, AI retrieval, and content creation. The summary should provide enough context that someone can understand the chunk without reading the transcript.

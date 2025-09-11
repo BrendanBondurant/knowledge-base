@@ -28,9 +28,7 @@ entities:
   - Jens Neuse
   - Stefan Avram
   - Bjorn
-summary: Stefan introduces the podcast and its central theme of tradeoffs in engineering
-  and life. The episode title is inspired by cofounder Bjorn’s optimism. Jens is introduced
-  as the co-host, with Stefan playing the facilitator role for technical discussions.
+summary: Stefan introduces The Good Thing podcast, explaining its focus on exploring tradeoffs in software engineering and life. He introduces Jens Neuse, WunderGraph’s CEO and technical co-founder, as his co-host who will take the lead on technical discussions, particularly around GraphQL and federation. Stefan explains the show’s name comes from co-founder Bjorn’s optimism, always finding “the good thing” in setbacks. The segment sets the tone for a candid, technical series rooted in real-world experience and tradeoffs
 ---
 
 

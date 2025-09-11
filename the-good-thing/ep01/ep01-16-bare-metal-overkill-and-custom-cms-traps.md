@@ -32,14 +32,7 @@ entities:
   - CMS
   - AWS
   - Kubernetes on bare metal
-summary: Jens describes how his team at a news company chose to build and maintain
-  a bare metal Kubernetes cluster, self hosted GitLab, and custom CI CD tooling instead
-  of focusing on improving the core business. Despite how fun it was for the engineers,
-  none of it helped deliver news faster or better serve advertisers. He points out
-  that their real job should have been to attract more readers and optimize ad targeting.
-  Yet like many corporate teams, they built for internal pride. That same mindset
-  led them to reject all available CMS options and start building one from scratch
-  based on the belief they were uniquely different.
+summary: Jens recounts how his team built a bare metal Kubernetes cluster, self-hosted GitLab, and custom CI/CD pipelines, prioritizing engineering fun over business outcomes. They neglected core goals like attracting readers and improving ad targeting, focusing instead on technical pride projects. He describes rejecting all commercial CMS solutions to build their own, assuming their needs were unique, illustrating a common corporate trap
 ---
 
 

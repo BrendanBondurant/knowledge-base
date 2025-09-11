@@ -27,14 +27,7 @@ tags:
   - graphql-federation
   - rust
   - startup
-summary: Jens explains how many engineers reject vendor solutions like Cosmo because
-  they seem too big or complex at first glance. But over time, as business requirements
-  pile up, teams realize they are slowly recreating every feature they once thought
-  they did not need. He emphasizes that federation systems like Cosmo reflect deep
-  lessons gained over years of experience, and trying to replace them with a lightweight
-  version typically results in failure. Instead of rebuilding, teams should partner
-  with vendors and focus on what matters. For developers, that means prioritizing
-  the customer over the thrill of internal systems work.
+summary: Jens explains why teams often underestimate federation complexity, thinking they only need a schema registry and router, only to rebuild every feature they rejected. He stresses that Cosmo embodies lessons from years of experience, and rebuilding it piecemeal wastes time. Instead, he advises working with vendors and redirecting energy to customers. Stefan adds that early-career engineers should prioritize understanding the “why” behind tickets over blindly coding
 ---
 
 

@@ -33,14 +33,7 @@ entities:
   - Vercel
   - Compilers
   - Networks
-summary: 'Stefan introduces the idea from the book *Originals* that procrastination
-  can aid learning, noting that Jens’ mix of gaming and programming may have supported
-  retention. He then emphasizes that new developers should just start building, especially
-  with tools like ChatGPT and Cursor now available. This leads into a discussion of
-  what sets Jens apart: his commitment to going deep into topics like compilers, runtimes,
-  and network internals. Jens contrasts surface-level frontend deployment with true
-  understanding, emphasizing that even in the AI age, foundational knowledge remains
-  critical.'
+summary: Stefan connects Jens’ gaming habits to research in Originals, suggesting procrastination may aid retention. They discuss how AI tools like ChatGPT and Cursor make it easier for beginners to experiment, but Jens emphasizes that true mastery requires depth—understanding compilers, runtimes, and networks rather than just surface-level frontend frameworks. This segment highlights Jens’ philosophy of learning fundamentals deeply, which distinguishes him as an engineer
 ---
 
 

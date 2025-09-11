@@ -1,28 +1,29 @@
 1
 
-| Start    | End      | Topic                                                                        | Slug                                               |
-| -------- | -------- | ---------------------------------------------------------------------------- | -------------------------------------------------- |
-| 00:00:01 | 00:02:32 | Podcast Origins and the Engineering of Tradeoffs                            | ep01-01-intro-podcast-origins-tradeoffs           |
-| 00:02:32 | 00:06:42 | Mono Skiing, Recovery, and Learning to Fail                                 | ep01-02-jens-accident-resilience-monoskiing       |
-| 00:06:42 | 00:10:02 | Startup Resilience Rooted in Recovery                                       | ep01-03-resilience-career-pivot-accident          |
-| 00:10:02 | 00:13:23 | Education After Accident: Business, Psychology, and Persistence             | ep01-04-education-after-accident-business-psychology |
-| 00:13:23 | 00:16:46 | From Perl Frustration to Startup Beginnings                                 | ep01-05-learning-from-failure-startup-lessons     |
-| 00:16:46 | 00:20:07 | Shakealert Startup — First Real Coding Experience                           | ep01-06-shakealert-startup-self-taught-dev        |
-| 00:20:07 | 00:23:12 | Getting Over Fear and Just Doing Things                                     | ep01-07-gaming-fear-go-language-just-do-things    |
-| 00:23:12 | 00:26:23 | Procrastination, Deep Learning, and Fundamentals                            | ep01-08-procrastination-deep-learning-fundamentals |
-| 00:26:23 | 00:29:55 | Fundamentals, AI Learning, and The Imposters Handbook                       | ep01-09-fundamentals-ai-learning-imposters-handbook |
-| 00:29:55 | 00:32:55 | Realizing What You Don't Know — Seniority and Boldness                      | ep01-10-seniority-boldness-it-depends             |
-| 00:32:55 | 00:36:29 | First Startup lessons Failure and Flywheels                                 | ep01-11-first-startup-lessons-failure-and-flywheels |
-| 00:36:30 | 00:39:17 | Marketplace Flywheels and Airbnb Lessons                                    | ep01-12-marketplace-flywheels-and-airbnb-lessons  |
-| 00:39:17 | 00:42:46 | Post-Shake Failure CTO Mindset and Confidence                               | ep01-13-post-shake-failure-cto-mindset-and-confidence |
-| 00:42:46 | 00:46:53 | From Architect to GraphQL Inspiration                                       | ep01-14-from-architect-to-graphql-inspiration     |
-| 00:46:53 | 00:49:40 | Soft Skills Bold Applications and Bare Metal Mistakes                       | ep01-15-soft-skills-bold-applications-and-bare-metal-mistakes |
-| 00:49:40 | 00:53:29 | Bare Metal Overkill and Custom CMS Traps                                    | ep01-16-bare-metal-overkill-and-custom-cms-traps  |
-| 00:53:29 | 00:57:05 | Build vs Buy Regret and Product Focus                                       | ep01-17-build-vs-buy-regret-and-product-focus     |
-| 00:57:05 | 01:00:23 | Federation Pitfalls and Customer Focus                                      | ep01-18-federation-pitfalls-and-customer-focus    |
-| 01:00:23 | 01:03:28 | Customer Focus AI Era and Career Advice                                     | ep01-19-customer-focus-ai-era-and-career-advice   |
-| 01:03:28 | 01:07:15 | Prompting Programming and Team Dynamics                                     | ep01-20-prompting-programming-and-team-dynamics   |
-| 01:07:15 | 01:10:10 | Collaboration Federation and Episode Wrap                                   | ep01-21-collaboration-federation-and-episode-wrap |
+| Start    | End      | Summary                                                                                       | Tags                                             | Slug                                                          |
+| -------- | -------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------- |
+| 00:00:01 | 00:02:32 | Stefan introduces *The Good Thing*, its focus on engineering tradeoffs, and Jens as co-host.  | graphql, startup, founder                        | ep01-01-intro-podcast-origins-tradeoffs                       |
+| 00:02:32 | 00:06:42 | Jens recounts a motorcycle accident and how mono skiing built resilience and confidence.      | resilience, ai, go                               | ep01-02-jens-accident-resilience-monoskiing                   |
+| 00:06:42 | 00:10:02 | Recovery from injury inspired Jens to shift careers into tech, starting as a Windows admin.   | resilience, startup                              | ep01-03-resilience-career-pivot-accident                      |
+| 00:10:02 | 00:13:23 | Night school and discipline opened doors for Jens to study business psychology.               | founder, education                               | ep01-04-education-after-accident-business-psychology          |
+| 00:13:23 | 00:16:46 | Struggles with Perl and meeting his future wife marked Jens’ early tech journey.              | startup, founder                                 | ep01-05-learning-from-failure-startup-lessons                 |
+| 00:16:46 | 00:20:07 | Jens shares how building Shakealert taught him Android, backend, and iOS development.         | startup, go, rest                                | ep01-06-shakealert-startup-self-taught-dev                    |
+| 00:20:07 | 00:23:12 | Fear of coding turned into confidence after he embraced Go and active learning.               | resilience, go                                   | ep01-07-gaming-fear-go-language-just-do-things                |
+| 00:23:12 | 00:26:23 | Procrastination insights lead to a discussion on AI tools and learning fundamentals deeply.   | ai, computer-science                             | ep01-08-procrastination-deep-learning-fundamentals            |
+| 00:26:23 | 00:29:55 | Jens emphasizes HTTP, TCP, and TLS fundamentals and credits *The Imposter’s Handbook*.        | ai, github-copilot, computer-science             | ep01-09-fundamentals-ai-learning-imposters-handbook           |
+| 00:29:55 | 00:32:55 | A humbling encounter reshaped Jens’ mindset, highlighting humility as a marker of seniority.  | career, startup                                  | ep01-10-seniority-boldness-it-depends                         |
+| 00:32:55 | 00:36:29 | Jens explains why Shakealert failed, citing flawed assumptions and lack of scalability.       | startup, founder                                 | ep01-11-first-startup-lessons-failure-and-flywheels           |
+| 00:36:30 | 00:39:17 | They compare Shakealert’s struggles to Airbnb’s early growth tactics and marketplace lessons. | startup                                          | ep01-12-marketplace-flywheels-and-airbnb-lessons              |
+| 00:39:17 | 00:42:46 | Jens describes job hunting post-Shakealert with startup-inflated confidence.                  | startup, founder                                 | ep01-13-post-shake-failure-cto-mindset-and-confidence         |
+| 00:42:46 | 00:46:53 | Early API design challenges led Jens to explore GraphQL and federation concepts.              | graphql, api-design, federation                  | ep01-14-from-architect-to-graphql-inspiration                 |
+| 00:46:53 | 00:49:40 | Soft skills and overengineering bare-metal setups shaped Jens’ leadership style.              | startup, graphql                                 | ep01-15-soft-skills-bold-applications-and-bare-metal-mistakes |
+| 00:49:40 | 00:53:29 | Jens recounts overinvesting in custom CMS and Kubernetes, neglecting business outcomes.       | kubernetes, database                             | ep01-16-bare-metal-overkill-and-custom-cms-traps              |
+| 00:53:29 | 00:57:05 | Lessons from failed internal platforms underscored the value of product focus and pragmatism. | federation, graphql-federation                   | ep01-17-build-vs-buy-regret-and-product-focus                 |
+| 00:57:05 | 01:00:23 | Teams underestimate federation complexity, often rebuilding Cosmo features themselves.        | graphql, cosmo, federation, graphql-federation   | ep01-18-federation-pitfalls-and-customer-focus                |
+| 01:00:23 | 01:03:28 | Stefan and Jens stress fundamentals and customer focus in an AI-driven software world.        | ai, graphql, cosmo-router                        | ep01-19-customer-focus-ai-era-and-career-advice               |
+| 01:03:28 | 01:07:15 | Prompting AI mirrors programming: both require precision and teamwork for success.            | ai, llm, graphql                                 | ep01-20-prompting-programming-and-team-dynamics               |
+| 01:07:15 | 01:10:10 | Jens reflects on collaboration, Cosmo’s mission, and wraps the episode.                       | graphql, federation, query-planning, composition | ep01-21-collaboration-federation-and-episode-wrap             |
+
 
 2
 

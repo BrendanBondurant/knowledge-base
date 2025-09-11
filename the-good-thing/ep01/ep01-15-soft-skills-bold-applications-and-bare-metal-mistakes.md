@@ -36,14 +36,7 @@ entities:
   - Tonline
   - GraphQL
   - Federation
-summary: Jens shares how his desire to unify APIs and help teams collaborate led him
-  deeper into architecture and GraphQL. Stefan reinforces that his boldness in applying
-  for jobs above his experience level paid off, thanks in part to soft skills, networking,
-  and confidence. They discuss how career progression in engineering often depends
-  on more than just technical ability. Jens reflects on his early rejection of AWS
-  at Tonline in favor of bare metal infrastructure. This experience shaped his current
-  thinking on when to build versus when to buy, especially when helping developers
-  avoid the trap of overengineering cool systems.
+summary: Jens and Stefan discuss how soft skills and bold job applications helped him advance quickly in engineering leadership. Stefan highlights how career growth often depends on confidence and politics, not just technical skills. They recount Jens’ early decision at Tonline to reject AWS in favor of bare metal infrastructure, a choice he now sees as overengineering. These lessons inform his build-vs-buy perspective when advising customers
 ---
 
 

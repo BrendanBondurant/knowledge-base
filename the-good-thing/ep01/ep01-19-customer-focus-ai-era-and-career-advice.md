@@ -32,13 +32,7 @@ entities:
   - Cosmo
   - Nvidia
   - Amazon
-summary: Stefan reflects on how valuable it is to work close to customers and urges
-  engineers early in their careers to pursue roles where they can build with feedback.
-  He previews part two of the series, which will explore Jens time at TYK and how
-  it laid the groundwork for Cosmo. Jens closes the episode by reiterating the importance
-  of mastering fundamentals, going deep until you truly understand, and thinking of
-  programming not as writing code but as translating customer needs into software.
-  Especially in the AI era, this mindset remains critical to delivering real value.
+summary: Stefan highlights the benefits of working close to customers, sharing how companies like Amazon require engineers to rotate through customer support. He previews part two of Jens’ story, covering his time at TYK and how it led to WunderGraph Cosmo. Jens emphasizes going deep into fundamentals to avoid impostor syndrome and reframing programming as translating business needs into software, a skill that remains vital even with AI’s rise
 ---
 
 

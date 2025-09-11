@@ -29,14 +29,7 @@ entities:
   - WunderGraph
   - Airbnb
   - Paul Graham
-summary: Jens explains how the core problem with his first startup was the need to
-  manually spin up a flywheel in each new city, since neither merchants nor students
-  would engage without the other. This lack of transferability made scaling impossible.
-  Stefan compares it to the Airbnb story, where early listings had poor photos until
-  the founders flew out and took professional shots themselves. That effort jumpstarted
-  one side of the marketplace. Both agree that marketplace models require focused
-  traction on one side first, and scaling usually involves heavy, non scalable effort
-  early on.
+summary: Jens explains the challenges of marketplace startups, especially spinning up separate supply and demand flywheels in every city, which made scaling impossible. Stefan compares this to Airbnb’s early struggles, where the founders boosted traction by taking professional photos for listings, a high-effort but necessary tactic. They emphasize that successful marketplaces require intensive early work to attract one side first and that scale doesn’t come from just releasing an app
 ---
 
 

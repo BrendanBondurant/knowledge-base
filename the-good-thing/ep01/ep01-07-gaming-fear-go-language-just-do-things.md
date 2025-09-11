@@ -32,8 +32,7 @@ entities:
   - Slide Nerd
   - Alexandra
   - Sam Altman
-summary: |
-  Jens shares how he moved from Java to Go for a simpler backend programming experience, but also confesses to spending a month dodging coding by playing the strategy game Anno 1600 out of fear and imposter syndrome. Hiding the game from his future mother-in-law while pretending to program, he eventually hit a breakthrough that led to a real understanding of programming and debugging. Stefan reflects on the power of learning by doing, comparing Jens' journey to kicking a soccer ball instead of just reading about the sport—affirming that the best way to learn is often to just start.
+summary: Jens discusses switching from Java to Go for backend simplicity but admits he initially avoided programming out of fear, spending a month playing the game Anno 1600. He humorously recalls pretending to code when his future mother-in-law was around, hiding the game window. Once programming “clicked,” his confidence grew, launching his career. Stefan underscores the lesson: the best way to learn programming is by actively building things, not just consuming tutorials
 ---
 
 
