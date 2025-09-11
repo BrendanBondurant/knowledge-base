@@ -27,22 +27,23 @@
 
 2
 
-| Start    | End      | Topic                                                                        | Slug                                               |
-| -------- | -------- | ---------------------------------------------------------------------------- | -------------------------------------------------- |
-| 00:00:24 | 00:04:43 | Introduction and Retreat Experience in Norway                               | ep02-01-intro-retreat-norway                      |
-| 00:04:44 | 00:08:36 | Remote Culture and Quarterly Retreats                                       | ep02-02-remote-culture-quarterly-retreats         |
-| 00:08:37 | 00:12:34 | Customer Proximity and Engineering Feedback Loops                           | ep02-03-customer-proximity-feedback-loops         |
-| 00:12:34 | 00:16:37 | Reliability vs Speed and Test Suite Optimization                            | ep02-04-reliability-speed-test-suite              |
-| 00:16:37 | 00:20:13 | Hiring Philosophy and Team Culture                                          | ep02-05-hiring-team-culture-marathon-runners      |
-| 00:20:13 | 00:25:15 | Cache Warming and Super Bowl Traffic Spikes                                 | ep02-06-cache-warming-super-bowl-traffic          |
-| 00:25:15 | 00:29:35 | Cache Warmer Solution and Analytics Implementation                          | ep02-07-cache-warmer-solution-analytics           |
-| 00:30:01 | 00:33:43 | Business Impact of Performance and Conversion Rates                         | ep02-08-business-impact-performance-conversion     |
-| 00:33:43 | 00:39:32 | Federation vs REST Organizational Benefits                                  | ep02-09-federation-vs-rest-organizational-benefits |
-| 00:39:32 | 00:43:16 | Schema Transparency and Conway's Law                                        | ep02-10-schema-transparency-conways-law           |
-| 00:43:16 | 00:47:02 | Hypermedia APIs and LLM Agents                                              | ep02-11-hypermedia-apis-llm-agents                |
-| 00:47:02 | 00:51:44 | Super Bowl Preparation and War Room Setup                                   | ep02-12-super-bowl-preparation-war-room           |
-| 00:51:44 | 00:56:39 | Descriptions, Federation, and RFC Process                                   | ep02-13-descriptions-federation-rfc               |
-| 00:56:39 | 01:00:08 | Closing, Hiring, and Episode Wrap-up                                        | ep02-14-closing-hiring-episode-wrap               |
+| Start    | End      | Summary                                                                                                                  | Tags                                 | Slug                                               |
+| -------- | -------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | -------------------------------------------------- |
+| 00:00:24 | 00:04:43 | Jens and Stefan describe the Norway retreat, emphasizing its role in alignment and team building for a remote company.   | retreat, remote-work, culture        | ep02-01-intro-retreat-norway                       |
+| 00:04:44 | 00:08:36 | They explain quarterly retreats, balancing structured sessions and downtime to maintain cohesion in a fully remote team. | retreat, culture, team               | ep02-02-remote-culture-quarterly-retreats          |
+| 00:08:37 | 00:12:34 | Close customer interaction is highlighted as essential for engineering prioritization and morale.                        | product, engineering, feedback       | ep02-03-customer-proximity-feedback-loops          |
+| 00:12:34 | 00:16:37 | Jens discusses balancing reliability with speed, using pragmatic, context-driven testing practices.                      | testing, engineering, speed          | ep02-04-reliability-speed-test-suite               |
+| 00:16:37 | 00:20:13 | They outline a hiring philosophy focused on character, long-term thinking, and cultural fit over credentials.            | hiring, culture, engineering         | ep02-05-hiring-team-culture-marathon-runners       |
+| 00:20:13 | 00:25:15 | Jens explains risks of cold-start latency during Super Bowl traffic spikes and introduces their cache warming strategy.  | caching, performance, federation     | ep02-06-cache-warming-super-bowl-traffic           |
+| 00:25:15 | 00:29:35 | They detail their cache warmer solution using analytics and persistent operations to precompute query plans.             | federation, analytics, caching       | ep02-07-cache-warmer-solution-analytics            |
+| 00:30:01 | 00:33:43 | Performance is tied directly to conversions, with examples like Coinbase’s Super Bowl outage.                            | business, performance, federation    | ep02-08-business-impact-performance-conversion     |
+| 00:33:43 | 00:39:32 | Jens explains federation’s organizational benefits over REST, replacing bottlenecked BFF patterns.                       | federation, rest, teams              | ep02-09-federation-vs-rest-organizational-benefits |
+| 00:39:32 | 00:43:16 | Federation makes Conway’s Law visible via schema transparency, replacing REST’s fragmented visibility.                   | conways-law, federation, schema      | ep02-10-schema-transparency-conways-law            |
+| 00:43:16 | 00:47:02 | Hypermedia APIs are revisited as a strong fit for LLM agents, offering self-describing navigation.                       | ai, llm, hypermedia, apis            | ep02-11-hypermedia-apis-llm-agents                 |
+| 00:47:02 | 00:51:44 | They detail Super Bowl campaign prep, cache warmers, and reliability lessons driven by customer needs.                   | performance, federation, reliability | ep02-12-super-bowl-preparation-war-room            |
+| 00:51:44 | 00:56:39 | Jens shares RFC ideas to fix description conflicts in schemas, enabling clear public/private labeling.                   | federation, schema, rfc              | ep02-13-descriptions-federation-rfc                |
+| 00:56:39 | 01:00:08 | The episode closes with hiring announcements, future episode previews, and a casual sign-off.                            | hiring, company, wrap-up             | ep02-14-closing-hiring-episode-wrap                |
+
 
 3
 
