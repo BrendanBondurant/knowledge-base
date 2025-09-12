@@ -1,9 +1,33 @@
 ---
-title: "Cosmo Connect Overview: gRPC Focus, Eliminating Redundant Parsing, Batching at Router"
-start_time: "00:15:30"
-end_time: "00:19:23"
-tags: [grpc, cosmo-connect, federation]
+type: webinar-chunk
+title: Cosmo Connect Overview and Design Goals
+slug: 2025-08-25-03-cosmo-connect-overview
+series: WunderGraph Webinars
+date: 2025-08-25
+speakers:
+  - Jens Neuse
+episode: null
+chunk: 3
+segment: Cosmo Connect Overview
+timecode: 00:15:30 – 00:19:23
+start_time: 00:15:30
+end_time: 00:19:23
+topics:
+  - Cosmo Connect
+  - Federation
+  - gRPC
+tags:
+  - grpc
+  - federation
+  - cosmo-connect
+entities:
+  - Cosmo Connect
+  - Cosmo Router
+summary: |
+  Jens introduces Cosmo Connect’s gRPC-first model, explaining how it eliminates redundant parsing, improves batching, and simplifies federation workflows. This section positions Connect as a pragmatic alternative to GraphQL-only subgraphs.
+canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
+
 
 00:15:30:07 - 00:15:48:10
 Jens

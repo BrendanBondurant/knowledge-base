@@ -1,9 +1,33 @@
 ---
-title: "Performance Deep Dive: gRPC vs GraphQL Subgraphs, Cost Savings"
-start_time: "00:40:13"
-end_time: "00:43:21"
-tags: [performance, grpc, federation]
+type: webinar-chunk
+title: Performance Deep Dive
+slug: 2025-08-25-07-performance-deep-dive
+series: WunderGraph Webinars
+date: 2025-08-25
+speakers:
+  - Jens Neuse
+episode: null
+chunk: 7
+segment: Performance
+timecode: 00:40:13 – 00:43:21
+start_time: 00:40:13
+end_time: 00:43:21
+topics:
+  - Performance
+  - gRPC
+  - Federation
+tags:
+  - performance
+  - grpc
+  - federation
+entities:
+  - Cosmo Connect
+  - Cosmo Router
+summary: |
+  Jens analyzes gRPC’s performance advantages over GraphQL subgraphs, focusing on reduced parsing overhead and cost savings.
+canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
+
 
 00:40:13:20 - 00:40:27:04
 Dustin

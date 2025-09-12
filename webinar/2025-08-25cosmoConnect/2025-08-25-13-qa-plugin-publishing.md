@@ -1,9 +1,32 @@
 ---
-title: "Q&A: Publishing Plugins to Cosmo Cloud, OCI Registry, Docker Builds"
-start_time: "00:58:51"
-end_time: "01:02:11"
-tags: [plugins, cosmo-cloud, deployment]
+type: webinar-chunk
+title: Q&A Part 4: Publishing Plugins to Cosmo Cloud
+slug: 2025-08-25-13-qa-plugin-publishing
+series: WunderGraph Webinars
+date: 2025-08-25
+speakers:
+  - Jens Neuse
+episode: null
+chunk: 13
+segment: Q&A Plugin Publishing
+timecode: 00:58:51 – 01:02:11
+start_time: 00:58:51
+end_time: 01:02:11
+topics:
+  - Plugins
+  - Cosmo Cloud
+  - Deployment
+tags:
+  - plugins
+  - cosmo-cloud
+  - deployment
+entities:
+  - Cosmo Cloud
+summary: |
+  Jens explains how plugins are packaged and deployed using Cosmo Cloud, the OCI registry, and Docker-based builds.
+canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
+
 00:58:51:10 - 00:59:22:24
 Jens
 I have a question for Jesse. If I build a plugin like what Dustin just did, Dustin did his make

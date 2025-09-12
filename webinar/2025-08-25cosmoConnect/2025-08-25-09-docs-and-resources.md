@@ -1,9 +1,32 @@
 ---
-title: "Docs, Tutorials, and Follow-up Announcements"
-start_time: "00:45:12"
-end_time: "00:47:27"
-tags: [docs, onboarding, tutorials]
+type: webinar-chunk
+title: Docs, Tutorials, and Wrap-Up
+slug: 2025-08-25-09-docs-and-resources
+series: WunderGraph Webinars
+date: 2025-08-25
+speakers:
+  - Jens Neuse
+episode: null
+chunk: 9
+segment: Docs and Resources
+timecode: 00:45:12 – 00:47:27
+start_time: 00:45:12
+end_time: 00:47:27
+topics:
+  - Docs
+  - Onboarding
+  - Tutorials
+tags:
+  - docs
+  - onboarding
+  - tutorials
+entities:
+  - WunderGraph
+summary: |
+  Jens directs viewers to documentation, tutorials, and follow-up resources, emphasizing ease of onboarding.
+canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
+
 00:45:12:03 - 00:45:39:24
 Jens
 Okay, cool. Yeah. Before we go to the Q&A, I want to finish my slides. Am I sharing again? Yes.

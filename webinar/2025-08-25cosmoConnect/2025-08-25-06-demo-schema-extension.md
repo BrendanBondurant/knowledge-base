@@ -1,9 +1,32 @@
 ---
-title: "Demo Part 2: Extending Schema, LLM-Powered Implementation, Build and Test"
-start_time: "00:33:04"
-end_time: "00:40:13"
-tags: [demo, schema, llm]
+type: webinar-chunk
+title: Live Demo Part 2: Schema Extension and Testing
+slug: 2025-08-25-06-demo-schema-extension
+series: WunderGraph Webinars
+date: 2025-08-25
+speakers:
+  - Demo Engineer
+episode: null
+chunk: 6
+segment: Schema Extension
+timecode: 00:33:04 – 00:40:13
+start_time: 00:33:04
+end_time: 00:40:13
+topics:
+  - Schema
+  - Demo
+  - Testing
+tags:
+  - demo
+  - schema
+  - llm
+entities:
+  - Cosmo Connect
+summary: |
+  This demo segment covers adding fields, generating code, leveraging LLM support for plugin implementation, and validating changes through build and test.
+canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
+
 
 00:33:04:15 - 00:33:21:08
 Dustin

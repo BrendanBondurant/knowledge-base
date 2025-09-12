@@ -1,9 +1,32 @@
 ---
-title: "Demo Part 1: Setup, Router Config, Schema-First Design, Scaffolding First Plugin"
-start_time: "00:23:46"
-end_time: "00:33:04"
-tags: [demo, cosmo-connect, plugins]
+type: webinar-chunk
+title: Live Demo Part 1: Setup and First Plugin
+slug: 2025-08-25-05-demo-setup-and-first-plugin
+series: WunderGraph Webinars
+date: 2025-08-25
+speakers:
+  - Demo Engineer
+episode: null
+chunk: 5
+segment: Demo Setup
+timecode: 00:23:46 – 00:33:04
+start_time: 00:23:46
+end_time: 00:33:04
+topics:
+  - Demo
+  - Cosmo Connect
+  - Plugins
+tags:
+  - demo
+  - cosmo-connect
+  - plugins
+entities:
+  - Cosmo Connect
+summary: |
+  The team demonstrates setting up Cosmo Connect, scaffolding the first plugin, configuring the router, and showing a schema-first design workflow.
+canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
+
 
 00:23:46:04 - 00:24:04:14
 Jens

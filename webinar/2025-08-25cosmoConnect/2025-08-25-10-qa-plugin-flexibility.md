@@ -1,9 +1,32 @@
 ---
-title: "Q&A: Plugin Flexibility, TypeScript/Go SDK Support"
-start_time: "00:47:27"
-end_time: "00:50:32"
-tags: [plugins, typescript, go]
+type: webinar-chunk
+title: Q&A Part 1: Plugin Flexibility and SDK Support
+slug: 2025-08-25-10-qa-plugin-flexibility
+series: WunderGraph Webinars
+date: 2025-08-25
+speakers:
+  - Jens Neuse
+episode: null
+chunk: 10
+segment: Q&A Plugin Flexibility
+timecode: 00:47:27 – 00:50:32
+start_time: 00:47:27
+end_time: 00:50:32
+topics:
+  - Q&A
+  - Plugins
+  - SDKs
+tags:
+  - plugins
+  - typescript
+  - go
+entities:
+  - Cosmo Connect
+summary: |
+  Jens answers questions about custom code flexibility, supported languages, and SDK strategies.
+canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
+
 00:47:27:23 - 00:47:32:17
 Jens
 But, yeah, I hand it to to Jesse to moderate a bit. The chat.

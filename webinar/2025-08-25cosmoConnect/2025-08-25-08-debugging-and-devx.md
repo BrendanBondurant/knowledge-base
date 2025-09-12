@@ -1,9 +1,30 @@
 ---
-title: "Debugging and Developer Experience: IDE Attachment, Hot Reload"
-start_time: "00:43:21"
-end_time: "00:45:12"
-tags: [debugging, developer-experience]
+type: webinar-chunk
+title: Debugging and Developer Experience
+slug: 2025-08-25-08-debugging-and-devx
+series: WunderGraph Webinars
+date: 2025-08-25
+speakers:
+  - Demo Engineer
+episode: null
+chunk: 8
+segment: Debugging and DevX
+timecode: 00:43:21 – 00:45:12
+start_time: 00:43:21
+end_time: 00:45:12
+topics:
+  - Debugging
+  - Developer Experience
+tags:
+  - debugging
+  - developer-experience
+entities:
+  - Cosmo Connect
+summary: |
+  This segment demonstrates attaching a debugger to live plugins, streamlining developer workflows and testing.
+canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
+
 00:43:21:00 - 00:43:45:00
 Jens
 They don't do like database stuff and everything. So yeah, you you could save a lot of latency,

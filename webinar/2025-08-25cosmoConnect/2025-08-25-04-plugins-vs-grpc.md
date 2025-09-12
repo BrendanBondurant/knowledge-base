@@ -1,9 +1,33 @@
 ---
-title: "Plugins vs gRPC Services: Deployment Strategies, Modular Monolith vs Microservices"
-start_time: "00:19:23"
-end_time: "00:23:46"
-tags: [plugins, grpc, deployment]
+type: webinar-chunk
+title: Plugins vs gRPC Services
+slug: 2025-08-25-04-plugins-vs-grpc
+series: WunderGraph Webinars
+date: 2025-08-25
+speakers:
+  - Jens Neuse
+episode: null
+chunk: 4
+segment: Plugins vs gRPC
+timecode: 00:19:23 – 00:23:46
+start_time: 00:19:23
+end_time: 00:23:46
+topics:
+  - Plugins
+  - Microservices
+  - Deployment
+tags:
+  - plugins
+  - grpc
+  - deployment
+entities:
+  - Cosmo Router
+  - Cosmo Connect
+summary: |
+  Jens outlines how Cosmo Connect supports both standalone gRPC services and lightweight router plugins. He compares deployment tradeoffs between microservices and modular monolith patterns.
+canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
+
 
 00:19:23:02 - 00:19:37:02
 Jens

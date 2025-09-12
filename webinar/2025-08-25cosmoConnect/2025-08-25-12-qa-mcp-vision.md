@@ -1,9 +1,32 @@
 ---
-title: "Q&A: MCP Vision, Router as MCP Server"
-start_time: "00:57:04"
-end_time: "00:58:51"
-tags: [mcp, router, ai]
+type: webinar-chunk
+title: Q&A Part 3: MCP Vision
+slug: 2025-08-25-12-qa-mcp-vision
+series: WunderGraph Webinars
+date: 2025-08-25
+speakers:
+  - Jens Neuse
+episode: null
+chunk: 12
+segment: Q&A MCP Vision
+timecode: 00:57:04 – 00:58:51
+start_time: 00:57:04
+end_time: 00:58:51
+topics:
+  - MCP
+  - Router
+  - AI
+tags:
+  - mcp
+  - router
+  - ai
+entities:
+  - Cosmo Router
+summary: |
+  Jens discusses the vision for running the router as an MCP server and future AI-powered schema workflows.
+canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
+
 00:57:04:08 - 00:57:24:04
 Jens
 And so in the in the future, you will see that we're, we're currently focusing on, on the backend

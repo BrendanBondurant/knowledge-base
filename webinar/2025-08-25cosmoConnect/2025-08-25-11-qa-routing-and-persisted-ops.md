@@ -1,9 +1,32 @@
 ---
-title: "Q&A: Routing Flow, Persisted Operations, Hiding GraphQL Complexity"
-start_time: "00:50:32"
-end_time: "00:57:04"
-tags: [routing, graphql, ops]
+type: webinar-chunk
+title: Q&A Part 2: Routing Flow and Persisted Operations
+slug: 2025-08-25-11-qa-routing-and-persisted-ops
+series: WunderGraph Webinars
+date: 2025-08-25
+speakers:
+  - Jens Neuse
+episode: null
+chunk: 11
+segment: Q&A Routing
+timecode: 00:50:32 – 00:57:04
+start_time: 00:50:32
+end_time: 00:57:04
+topics:
+  - Q&A
+  - Routing
+  - Persisted Operations
+tags:
+  - routing
+  - graphql
+  - ops
+entities:
+  - Cosmo Router
+summary: |
+  This Q&A dives into how routing works with plugins, persisted operations, and strategies for exposing minimal GraphQL complexity to clients.
+canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
+
 00:50:32:10 - 00:50:39:19
 Dustin
 Maybe Ludwig can you elaborate? What what is happening inside the router before it makes the

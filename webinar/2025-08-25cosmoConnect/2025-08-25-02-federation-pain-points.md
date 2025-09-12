@@ -1,8 +1,31 @@
 ---
-title: "Federation Pain Points: Complexity, GraphQL Subgraph Overhead, Apollo Coupling"
-start_time: "00:08:58"
-end_time: "00:15:30"
-tags: [graphql, federation, apollo]
+type: webinar-chunk
+title: Federation Pain Points and Subgraph Complexity
+slug: 2025-08-25-02-federation-pain-points
+series: WunderGraph Webinars
+date: 2025-08-25
+speakers:
+  - Jens Neuse
+  - Stefan Avram
+episode: null
+chunk: 2
+segment: Federation Pain Points
+timecode: 00:08:58 – 00:15:30
+start_time: 00:08:58
+end_time: 00:15:30
+topics:
+  - Federation Challenges
+  - Subgraph Complexity
+  - Apollo Federation
+tags:
+  - federation
+  - apollo
+  - graphql
+entities:
+  - Apollo Federation
+  - WunderGraph
+summary: |
+  This segment covers the pitfalls of current federation practices, especially with Apollo Federation. Jens details the overhead of running GraphQL everywhere, the fragility of directives, and the challenge of managing thin subgraph layers at scale.
 ---
 
 00:08:58:13 - 00:09:30:13
