@@ -22,7 +22,6 @@ entities:
   - Cosmo Connect
 summary: |
   This segment demonstrates attaching a debugger to live plugins, streamlining developer workflows and testing.
-canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
 
 00:43:21:00 - 00:43:45:00

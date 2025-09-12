@@ -25,7 +25,6 @@ entities:
   - Cosmo Router
 summary: |
   Jens introduces Cosmo Connect’s gRPC-first model, explaining how it eliminates redundant parsing, improves batching, and simplifies federation workflows. This section positions Connect as a pragmatic alternative to GraphQL-only subgraphs.
-canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
 
 

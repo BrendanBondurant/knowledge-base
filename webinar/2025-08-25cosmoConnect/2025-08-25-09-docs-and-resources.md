@@ -24,7 +24,6 @@ entities:
   - WunderGraph
 summary: |
   Jens directs viewers to documentation, tutorials, and follow-up resources, emphasizing ease of onboarding.
-canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
 
 00:45:12:03 - 00:45:39:24

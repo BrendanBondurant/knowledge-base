@@ -24,7 +24,6 @@ entities:
   - Cosmo Connect
 summary: |
   Jens answers questions about custom code flexibility, supported languages, and SDK strategies.
-canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
 
 00:47:27:23 - 00:47:32:17

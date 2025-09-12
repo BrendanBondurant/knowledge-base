@@ -24,7 +24,6 @@ entities:
   - Cosmo Router
 summary: |
   This Q&A dives into how routing works with plugins, persisted operations, and strategies for exposing minimal GraphQL complexity to clients.
-canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
 
 00:50:32:10 - 00:50:39:19

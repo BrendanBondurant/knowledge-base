@@ -24,7 +24,6 @@ entities:
   - Cosmo Connect
 summary: |
   The team demonstrates setting up Cosmo Connect, scaffolding the first plugin, configuring the router, and showing a schema-first design workflow.
-canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
 
 

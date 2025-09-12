@@ -24,7 +24,6 @@ entities:
   - Cosmo Router
 summary: |
   Jens discusses the vision for running the router as an MCP server and future AI-powered schema workflows.
-canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
 
 00:57:04:08 - 00:57:24:04

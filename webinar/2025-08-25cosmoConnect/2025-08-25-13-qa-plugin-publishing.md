@@ -24,7 +24,6 @@ entities:
   - Cosmo Cloud
 summary: |
   Jens explains how plugins are packaged and deployed using Cosmo Cloud, the OCI registry, and Docker-based builds.
-canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
 
 00:58:51:10 - 00:59:22:24

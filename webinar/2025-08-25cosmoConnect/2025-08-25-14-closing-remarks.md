@@ -21,7 +21,6 @@ entities:
   - WunderGraph
 summary: |
   Jens closes the webinar with thanks and next steps, inviting attendees to upcoming sessions and encouraging feedback.
-canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
 
 01:02:11:12 - 01:02:42:16

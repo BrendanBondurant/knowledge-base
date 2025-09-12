@@ -25,7 +25,6 @@ entities:
   - Cosmo Connect
 summary: |
   Jens outlines how Cosmo Connect supports both standalone gRPC services and lightweight router plugins. He compares deployment tradeoffs between microservices and modular monolith patterns.
-canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
 
 

@@ -24,7 +24,6 @@ entities:
   - Cosmo Connect
 summary: |
   This demo segment covers adding fields, generating code, leveraging LLM support for plugin implementation, and validating changes through build and test.
-canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
 
 

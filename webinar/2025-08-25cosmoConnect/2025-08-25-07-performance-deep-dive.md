@@ -25,7 +25,6 @@ entities:
   - Cosmo Router
 summary: |
   Jens analyzes gRPC’s performance advantages over GraphQL subgraphs, focusing on reduced parsing overhead and cost savings.
-canonical_url: https://your-site/webinars/cosmo-connect-aug25
 ---
 
 
