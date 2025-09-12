@@ -1,62 +1,78 @@
-# The Good Thing Podcast Transcript Chunking
+# Knowledge Base Schema Overview
 
-## Quick Reference — Metadata Rules
+| Field            | Podcast Chunks                   | Blogs                             | Webinars                          | Notes |
+|------------------|----------------------------------|-----------------------------------|-----------------------------------|-------|
+| `type`           | `podcast-chunk`                  | `blog`                            | `webinar` or `webinar-chunk`      | Always explicit |
+| `title`          | ✅                               | ✅                                | ✅                                | Human-readable |
+| `slug`           | `epXX-YY-topic`                  | `YYYY-MM-DD-title`                | `YYYY-MM-DD-webinar-title`        | Unique ID |
+| `series`         | `The Good Thing`                 | `WunderGraph Blog`                | `WunderGraph Webinars`            | Static per type |
+| `date`           | Episode date                     | ✅ Publish date                    | ✅ Webinar date                    | |
+| `episode`        | ✅ Episode number                 | `null`                            | `null`                            | **Use `null` explicitly** when not applicable |
+| `chunk`          | ✅ Chunk number                   | `null` unless chunked             | `null` unless chunked             | |
+| `segment`        | ✅ Short descriptive title        | `Full article` unless chunked     | Required if chunked               | |
+| `timecode`       | ✅ `HH:MM:SS:FF – HH:MM:SS:FF`   | n/a                               | Optional                          | Use if timestamped |
+| `start_time`     | ✅                                | n/a                               | Optional                          | |
+| `end_time`       | ✅                                | n/a                               | Optional                          | |
+| `speakers`       | ✅ List                           | Empty list `[]`                   | ✅ List                            | |
+| `topics`         | ✅ Title Case                     | ✅                                 | ✅                                 | Human-facing |
+| `tags`           | ✅ from `tags_master.yaml`        | ✅ from `tags_master.yaml`         | ✅ from `tags_master.yaml`         | No ad-hoc tags |
+| `entities`       | ✅                                | ✅                                 | ✅                                 | People, products, orgs, standards |
+| `summary`        | ✅ (2–5 sentence abstract)        | ✅ (2–5 sentence abstract)         | ✅ (2–5 sentence abstract)         | Neutral, factual |
+| `faqs`           | Optional                          | Optional                          | Optional                          | Q&A retrieval |
+| `canonical_url`  | Optional but recommended          | ✅ Required                        | ✅ Required                        | Public source URL |
 
-| Field        | Purpose                                         | Format                                     | Required | Source of Truth    |
-| ------------ | ----------------------------------------------- | ------------------------------------------ | -------- | ------------------ |
-| `title`      | Human-readable chunk title                      | Sentence case                              | ✅       | Written per chunk  |
-| `slug`       | Unique identifier                               | kebab-case, `epXX-YY-topic`                | ✅       | Generated/manual   |
-| `series`     | Podcast name                                    | Always `The Good Thing`                   | ✅       | Static             |
-| `episode`    | Episode number                                  | Integer                                    | ✅       | Filename/metadata  |
-| `chunk`      | Chunk number                                    | Integer                                    | ✅       | Filename/metadata  |
-| `segment`    | Short descriptive title                         | Sentence case                              | ✅       | Written per chunk  |
-| `timecode`   | Full range                                      | `HH:MM:SS:FF – HH:MM:SS:FF`                | ✅       | Transcript         |
-| `start_time` | Start of chunk                                  | `HH:MM:SS:FF`                              | ✅       | Transcript         |
-| `end_time`   | End of chunk                                    | `HH:MM:SS:FF`                              | ✅       | Transcript         |
-| `speakers`   | List of speakers                                | List                                       | ✅       | Transcript         |
-| `topics`     | Human-readable themes                           | Title Case                                 | ✅       | Written per chunk  |
-| `tags`       | Machine categorization                          | kebab-case                                 | ✅       | `tags_master.yaml` |
-| `entities`   | People, teams, products, standards             | Canonical names or IDs                    | ✅       | `entities.json`    |
-| `summary`    | Detailed abstract (2–5 sentences)               | Multi-line, `|` block                      | ✅       | Written per chunk  |
-
-
+---
 
 ## Governance Rules
 
-- All tags must match entries in tags_master.yaml
-- No ad hoc tags in individual files
-- Adding a new tag requires updating `tags_master.yaml` and documenting it
-- Each chunk must have at least one tag
-- Keep topics readable for humans; keep tags consistent for machines
-- Avoid pluralization drift (api vs. apis — pick one form)
-- Avoid over-specific tags (use `ai-security`, not `ai-security-prompt-injection-v1`)
+- **Tags:** Must exist in `tags_master.yaml`. No ad-hoc tags in content files.
+- **Add a new tag:**  
+  1) Edit `tags_master.yaml` (kebab-case)  
+  2) Validate (script TBD)  
+  3) Document in changelog  
+- **Nulls:** Use `null` explicitly for non-episodic fields (`episode`, `chunk`) in blogs/webinars.
+- **Topics:** Title Case, readable; keep broad.  
+- **Tags style:** lowercase, kebab-case; avoid over-specific variants.  
+- **Consistency:** Same frontmatter order across files; summaries are neutral, 2–5 sentences.
 
-### Where to Find and Update the Master Tag List
-
-The approved vocabulary for tags lives in the `tags_master.yaml` file at the root of this repository.
-
-**Do not create tags directly in chunk files that aren't already in `tags_master.yaml`.**
-
-#### To add a new tag:
-
-1. Edit `tags_master.yaml` to include the new kebab-case tag
-2. Run the tag validation script (`/scripts/validate_tags.md`) before committing (Doesn't exist yet)
-3. Document the addition in the repo changelog
-4. Pre-commit hooks will reject changes that contain invalid or missing tags
+---
 
 ## Overview
 
-This repository contains full transcripts of "The Good Thing" podcast, as well as "chunked" versions of each episode. The goal is to break down long podcast transcripts into smaller, structured, and metadata-rich chunks suitable for insertion into a knowledge base or for use in downstream applications (e.g., search, summarization, LLMs).
+This repo stores:
+- **Podcast chunks** of *The Good Thing* (time-coded, speaker-labeled, metadata-rich)
+- **Blogs** (single-file by default; chunk only if sections are reused)
+- **Webinars** (single-file or chunked like podcasts)
 
-## Directory Structure
+Designed for accurate search, LLM retrieval, and reuse.
 
-- `epXX-full.md`: The full, unprocessed transcript for episode XX
-- `epXX/`: Directory containing chunked `.md` files for episode XX
-- Each file represents a single chunk (a segment of the episode)
+---
 
-**The transcript for the chunk goes below the YAML frontmatter, preserving timestamps and speaker labels.**
+## Podcast Chunking
 
-### Example
+### Directory Structure
+- `epXX-full.md` — full transcript for episode `XX`  
+- `epXX/` — directory of chunked `.md` files for episode `XX`  
+- Each chunk is a separate file
+
+**Filename format:** `epXX/epXX-YY-topic.md`  
+**Slug format:** `epXX-YY-topic`
+
+### Quick Metadata Reference
+| Field | Notes |
+|------|------|
+| `series` | Always `The Good Thing` |
+| `episode` | Integer |
+| `chunk` | Integer, sequential |
+| `segment` | Short, descriptive |
+| `timecode` / `start_time` / `end_time` | Required |
+| `speakers` | List of participants |
+| `topics` | Title Case (human-friendly) |
+| `tags` | From `tags_master.yaml` |
+| `entities` | People/companies/products/standards |
+| `summary` | 2–5 sentences, neutral |
+
+### Example (Podcast Chunk)
 ```yaml
 ---
 title: Podcast Origins and the Engineering of Tradeoffs
@@ -73,9 +89,9 @@ speakers:
   - Jens
 topics:
   - Why the podcast is called "The Good Thing"
-  - Engineering as tradeoffs
-  - Co-host dynamic and format
-  - First intro to Jens
+  - Engineering as Tradeoffs
+  - Co-Host Dynamic and Format
+  - First Intro to Jens
 tags:
   - podcast-intro
   - engineering-philosophy
@@ -92,76 +108,146 @@ entities:
 summary: |
   Stefan introduces the podcast and its central theme of tradeoffs in engineering and life. The episode title is inspired by cofounder Bjorn's optimism. Jens is introduced as the co-host, with Stefan playing the facilitator role for technical discussions.
 ---
-```
 
-```
 00:00:01:18 - 00:00:19:19
-
 Stefan
-
 Ladies and gentlemen, welcome to an episode of The Good Thing, episode one, where we're...
 ```
 
 ## Chunking Instructions
+1. Read epXX-full.md and mark natural breakpoints.
+2. Target 2–8 minutes per chunk; avoid >10 minutes.
+3. Create chunk files in epXX/ with full frontmatter.
+4. Paste transcript for that segment below frontmatter, preserving timestamps and speakers.
+5. Repeat until the episode is fully chunked.
 
-### 1. Read the Full Transcript
-Open the relevant `epXX-full.md` file. Read through the transcript and identify natural breakpoints—topic changes, new stories, or significant shifts in the conversation.
+## Blogs in the Knowledge Base
 
-### 2. Define Chunks
-- Each chunk should be coherent and self-contained (usually 2–8 minutes of audio, but use your judgment)
-- Chunks should not be too short (avoid splitting every speaker turn) or too long (avoid 10+ minute blocks)
+Blogs are single-file by default. Chunk only if sections are reused independently (e.g., spec comparisons, benchmarks).
 
-### 3. Create Chunk Files
-For each chunk:
+### Directory & Filenames
+- Directory: /blogs/
+- Filename: YYYY-MM-DD-title.md
+- Slug: YYYY-MM-DD-title
 
-1. Create a new file in the appropriate episode directory (e.g., `ep04/ep04-01-topic-title.md`)
+## Blog Frontmatter (Required Fields)
+| Field           | Notes                          |
+| --------------- | ------------------------------ |
+| `type`          | `blog`                         |
+| `title`         | Full blog title                |
+| `slug`          | `YYYY-MM-DD-title`             |
+| `series`        | `WunderGraph Blog`             |
+| `date`          | Publish date `YYYY-MM-DD`      |
+| `author`        | Full name                      |
+| `speakers`      | Empty list `[]`                |
+| `episode`       | `null`                         |
+| `chunk`         | `null` unless chunked          |
+| `segment`       | `Full article` unless chunked  |
+| `topics`        | Title Case                     |
+| `tags`          | From `tags_master.yaml`        |
+| `entities`      | People/products/orgs/standards |
+| `summary`       | 2–5 sentences                  |
+| `faqs`          | Optional                       |
+| `canonical_url` | **Required**                   |
 
-2. Add YAML frontmatter at the top, including:
-   - `title`: Short, descriptive title for the chunk
-   - `slug`: Unique identifier (e.g., `ep04-01-topic-title`)
-   - `series`: Always "The Good Thing"
-   - `episode`: Episode number
-   - `chunk`: Chunk number (sequential, starting from 1)
-   - `segment`: Short description of the segment
-   - `timecode`, `start_time`, `end_time`: Use transcript timestamps
-   - `speakers`: List of speakers in the chunk
-   - `topics`: Bullet list of main topics discussed (Title Case, human-readable)
-   - `tags`: Short, machine-friendly tags (lowercase, kebab-case) from `tags_master.yaml`
-   - `entities`: People, companies, or products mentioned
-   - `summary`: A detailed, multi-sentence summary (2–5 sentences) capturing all key points, context, and takeaways. This is the abstract that powers knowledge-base search and AI use cases.
+```yaml
+---
+type: blog
+title: Cosmo Connect vs Apollo Federation vs GraphQL Federation
+slug: 2025-09-09-cosmo-connect-vs-apollo-federation-vs-graphql-federation
+series: WunderGraph Blog
+date: 2025-09-09
+author: Jens Neuse
+speakers: []
+episode: null
+chunk: null
+segment: Full article
+topics:
+  - GraphQL Federation
+  - API Architecture
+  - Entity Layer
+tags:
+  - graphql
+  - graphql-federation
+  - apollo-federation
+  - cosmo-connect
+  - grpc
+  - supergraph
+  - schema-governance
+entities:
+  - Apollo Federation
+  - GraphQL Federation
+  - Cosmo Connect
+  - Cosmo Router
+  - Composite Schemas
+summary: |
+  Compares Cosmo Connect, Apollo Federation, and GraphQL Federation through the lens of an entity layer.
+  Explains why a unified API layer matters, how batching and entity lookups differ (_entities vs @lookup vs gRPC),
+  and when to choose Connect over GraphQL subgraphs. Frames tradeoffs for architecture, governance, and operations.
+faqs:
+  - q: What is the difference between Apollo Federation and GraphQL Federation?
+    a: Apollo Federation extends GraphQL with entity types, @key directives, and the _entities field for batching. GraphQL Federation, defined by the Composite Schemas specification, keeps GraphQL vanilla and uses explicit directives like @lookup for composition.
+canonical_url: https://your-site/blog/cosmo-connect-vs-apollo-federation
+---
+```
 
+## Webinars
+Treat webinars like podcasts with a different type. Chunk if long or highly reusable; otherwise one file.
 
-3. Paste the transcript for that segment below the frontmatter, preserving timestamps and speaker labels
+### Directory & Filenames
+- Directory: `/webinars/`
+- If single file: `/webinars/2025-08-20-webinar-schema-collaboration.md`
+- Chunked:
+  - Directory: `/webinars/2025-08-20/`
+    - `2025-08-20-01-intro-schema-collaboration.md`
+    - `2025-08-20-02-governance-workflows.md`
 
-### 4. Repeat
-Continue until the entire episode is chunked. Each chunk should be a separate file.
+### Webinar Frontmatter (minimum)
+| Field                                  | Notes                                 |
+| -------------------------------------- | ------------------------------------- |
+| `type`                                 | `webinar` or `webinar-chunk`          |
+| `title`                                | Webinar title                         |
+| `slug`                                 | `YYYY-MM-DD-webinar-title`            |
+| `series`                               | `WunderGraph Webinars` (optional)     |
+| `date`                                 | Webinar date `YYYY-MM-DD`             |
+| `episode`                              | `null`                                |
+| `chunk`                                | `null` unless chunked                 |
+| `segment`                              | Required if chunked                   |
+| `timecode` / `start_time` / `end_time` | Optional, recommended if timestamped  |
+| `speakers`                             | List of presenters                    |
+| `topics`                               | Title Case                            |
+| `tags`                                 | From `tags_master.yaml`               |
+| `entities`                             | People/products/orgs/standards        |
+| `summary`                              | 2–5 sentences                         |
+| `faqs`                                 | Optional                              |
+| `canonical_url`                        | **Required** (replay page or YouTube) |
+
+## Rules
+
+- Chunk webinars if > ~20 minutes or if sections will be reused.  
+- Single-file webinars should still include `timecode` if you have it.  
+- `canonical_url` should point to a replay page (not a storage bucket).
+
+---
 
 ## Metadata Field Rules (Detailed)
 
-### Topics
-**Purpose:** Human-readable description of discussion themes in the chunk.
+### Topics (human-facing)
+- Title Case; short and clear (1–4 words)
+- No hyphens/underscores; use spaces
+- Avoid overly specific one-offs
 
-**Format:**
-- Title Case (e.g., GraphQL Federation, Wedding Preparation)
-- Spaces between words; no hyphens or underscores
-- 1–4 words preferred; avoid overly specific one-off phrasing unless essential
+### Tags (machine-facing)
+- Lowercase, kebab-case
+- Must exist in `tags_master.yaml`
+- Broad and reusable; avoid micro-variants
 
-**Usage:** Used for browsing and human-facing displays.
-
-### Tags
-**Purpose:** Global, machine-friendly vocabulary for categorizing all content.
-
-**Format:**
-- Lowercase only
-- Kebab-case: words separated by hyphens
-- No special characters except hyphens
-- Must be broad enough for reuse across multiple files
-
-**Usage:** Pulled from `tags_master.yaml`.
+---
 
 ## Why Chunk?
 
-- **Improved search:** Smaller, topic-focused segments are easier to search and retrieve
-- **Knowledge base ready:** Chunks can be indexed, summarized, or embedded for LLMs
-- **Reusability:** Chunks can be referenced independently in other projects or tools
-- Each chunk includes a detailed summary in its frontmatter to power semantic search, AI retrieval, and content creation. The summary should provide enough context that someone can understand the chunk without reading the transcript.
+- Better search and retrieval
+- Cleaner reuse in marketing and docs
+- Faster, more accurate LLM grounding
+
+Keep chunks self-contained with strong summaries.

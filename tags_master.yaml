@@ -29,11 +29,13 @@ contract-testing
 contracts
 conways-law
 cosmo
+cosmo-connect
 cosmo-router
 data-dependencies
 data-loading
 database
 datadog
+debugging
 dream-query
 dream-query-workflow
 edfs
@@ -79,6 +81,8 @@ observability
 open-federation
 open-source
 openapi
+performance
+plugins
 plugin-system
 postgres
 principal-architect
@@ -99,6 +103,7 @@ schema-diffs
 schema-evolution
 schema-exploration
 schema-first
+schema-governance
 schema-registry
 schema-stitching
 schema-validation
