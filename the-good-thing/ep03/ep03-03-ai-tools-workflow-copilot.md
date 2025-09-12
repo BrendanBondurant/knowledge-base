@@ -4,9 +4,6 @@ slug: ep03-03-ai-tools-workflow-copilot
 series: The Good Thing
 episode: 3
 chunk: 3
-participants:
-  - Stefan
-  - Dustin
 segment: Discussion of AI tools in development workflow and Stefan's sister's experience
 timecode: 00:08:30:15 - 00:13:26:21
 start_time: 00:08:30:15
@@ -25,10 +22,6 @@ tags:
   - go
   - llm
   - startup
-topic_tags:
-  - ai
-  - github-copilot
-  - startup
 entities:
   - Stefan
   - Dustin
@@ -36,14 +29,6 @@ entities:
   - Cursor
   - Claude
   - Next.js
-mentions:
-  - Copilot
-  - Cursor
-  - Claude
-  - Next.js
-  - WordPress
-  - Wix
-  - blog
 summary: Dustin shares his AI tool usage including Copilot for code completion and
   ChatGPT for documentation. Stefan discusses his experience with Cursor and shares
   a story about his sister building a Next.js blog with no programming experience

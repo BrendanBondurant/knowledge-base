@@ -4,9 +4,6 @@ slug: ep13-06-mcp-accessibility-and-api-paradigm
 series: The Good Thing
 episode: 13
 chunk: 6
-participants:
-  - Stefan
-  - Jens
 segment: MCP Accessibility and Universal API Concepts
 timecode: 00:19:22 – 00:23:06
 start_time: 00:19:22
@@ -28,10 +25,6 @@ tags:
   - llm
   - rest-connectors
   - typescript
-topic_tags:
-  - mcp
-  - ai
-  - api-design
 entities:
   - MCP
   - Cursor
@@ -40,13 +33,6 @@ entities:
   - JavaScript
   - React
   - JSON
-mentions:
-  - MCP connector marketplaces
-  - "Cursor but for humans" concept
-  - lighthouse MCP server example
-  - headless browser approach
-  - "turtles all the way down" philosophy
-  - internet evolution from simple HTML
 summary: |
   Jens envisions MCP connector marketplaces and "Cursor but for humans" applications for non-technical users. They discuss the complexity of modern web development versus simple HTML/CSS days, exploring whether AI could crawl websites without APIs, and introduce the "turtles all the way down" concept - that everything ultimately becomes APIs.
 ---

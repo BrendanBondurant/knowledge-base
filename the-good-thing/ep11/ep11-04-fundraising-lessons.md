@@ -4,9 +4,6 @@ slug: ep11-04-fundraising-lessons
 series: The Good Thing
 episode: 11
 chunk: 4
-participants:
-  - Stefan
-  - Jens
 segment: Early Fundraising Mistakes and Learning
 timecode: 00:18:09:21 – 00:24:36:05
 start_time: 00:18:09:21
@@ -27,23 +24,12 @@ tags:
   - founder
   - go
   - startup
-topic_tags:
-  - startup
-  - founder
-  - ai
 entities:
   - Stefan Avram
   - Jens Neuse
   - Mark Zuckerberg
   - Peter Thiel
   - WunderGraph
-mentions:
-  - pitch deck obsession
-  - revenue growth slide importance
-  - bootstrap before fundraising
-  - experienced founder advisors
-  - fundraising like dating
-  - naivety as strength
 summary: Jens shares early fundraising lessons including not trying to impress VCs,
   focusing on revenue growth over pitch decks, and the importance of experienced advisors.
   Stefan compares fundraising to dating and argues that first-time founder naivety

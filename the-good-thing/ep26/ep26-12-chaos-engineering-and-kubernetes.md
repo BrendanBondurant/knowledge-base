@@ -4,10 +4,6 @@ slug: ep26-12-chaos-engineering-and-kubernetes
 series: The Good Thing
 episode: 26
 chunk: 12
-participants:
-  - Stefan
-  - Jens
-  - Sam Lambert
 segment: Reliability Engineering and Infrastructure Architecture
 timecode: 00:56:07:17 – 01:01:10:19
 start_time: 00:56:07:17
@@ -28,10 +24,6 @@ tags:
   - go
   - observability
   - startup
-topic_tags:
-  - kubernetes
-  - database
-  - observability
 entities:
   - PlanetScale
   - Kubernetes
@@ -39,13 +31,6 @@ entities:
   - Firecracker
   - EKS
   - Google Cloud
-mentions:
-  - Progressive rollout and monitoring
-  - 29-day maximum node lifetime
-  - Constant node failures and repairs
-  - Planned and emergency repair systems
-  - Kubernetes operator for database state
-  - Firecracker virtualization
 summary: |
   Deep dive into PlanetScale's reliability engineering practices, including their chaos engineering approach with 29-day node expiry, shared nothing architecture, and their advanced use of Kubernetes for running stateful database workloads at scale.
 ---

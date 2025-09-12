@@ -4,9 +4,6 @@ slug: ep06-08-cost-structure-infra-collaboration-pricing
 series: The Good Thing
 episode: 6
 chunk: 08
-participants:
-  - Jens
-  - Stefan
 segment: Cost structure, infrastructure vs. collaboration, pricing, and value alignment
 timecode: 00:20:15:18 - 00:23:31:29
 start_time: 00:20:15:18
@@ -31,10 +28,6 @@ tags:
   - llm
   - open-source
   - rust
-topic_tags:
-  - startup
-  - ai
-  - cosmo-router
 entities:
   - Stefan Avram
   - Jens Neuse
@@ -48,13 +41,6 @@ entities:
   - Miro
   - Postgres
   - S3
-mentions:
-  - open source history
-  - SaaS vs open source cycles
-  - infrastructure ownership vs collaboration
-  - cost correlation with success
-  - data center deployment
-  - enterprise licensing models
 summary: |
   Jens and Stefan discuss the cost structure of infrastructure and collaboration tools, pricing strategies, and the importance of aligning value with customer needs in the startup landscape.
 ---

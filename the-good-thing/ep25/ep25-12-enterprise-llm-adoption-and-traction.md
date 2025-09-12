@@ -4,10 +4,6 @@ slug: ep25-12-enterprise-llm-adoption-and-traction
 series: The Good Thing
 episode: 25
 chunk: 12
-participants:
-  - Stefan Avram
-  - Jens Neuse
-  - Kevin Swiber
 segment: Enterprise AI Adoption Reality
 timecode: 00:49:51:21 – 00:54:27:11
 start_time: 00:49:51:21
@@ -31,10 +27,6 @@ tags:
   - llm
   - rest
   - startup
-topic_tags:
-  - mcp
-  - ai
-  - llm
 entities:
   - Netflix
   - ChatGPT premium/free tiers
@@ -47,16 +39,6 @@ entities:
   - Insurance companies
   - Mortgage companies
   - Chief AI Officers
-mentions:
-  - Premium vs free ChatGPT versions
-  - Accessibility improvements for disabled users
-  - Text consumption and audio listening
-  - Real market pull identification
-  - Technology team AI adoption
-  - Business ChatGPT-like experience requests
-  - ML experience pre-LLM boom
-  - AI mandate implementations
-  - Deep enterprise AI penetration gaps
 summary: |
   Jens predicts ChatGPT will adopt Netflix's ad-supported model with premium tiers. The discussion shifts to enterprise LLM adoption reality - while there's hype, most enterprises are just starting with ChatGPT and basic tools like GitHub Copilot before progressing to Cursor and Windsurf. Kevin explains that digital native companies (15-20 years old) adopt AI much faster than traditional companies (300+ years old), with some early adopters already implementing MCP servers and authorization controls.
 ---

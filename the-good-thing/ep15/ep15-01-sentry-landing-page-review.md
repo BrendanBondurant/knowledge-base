@@ -4,9 +4,6 @@ slug: ep15-01-sentry-landing-page-review
 series: The Good Thing
 episode: 15
 chunk: 1
-participants:
-  - Stefan
-  - Jens
 segment: Landing Page Analysis and Discussion Format
 timecode: 00:00:23 – 00:05:03
 start_time: 00:00:23
@@ -25,9 +22,6 @@ tags:
   - startup
   - go
   - observability
-topic_tags:
-  - startup
-  - observability
 entities:
   - Sentry
   - GitHub
@@ -39,12 +33,6 @@ entities:
   - Cloudflare
   - Cursor
   - Microsoft
-mentions:
-  - "Code breaks. Fix it faster" tagline
-  - "Not bad by 4 million developers" German humor reference
-  - Interactive hover effects on landing page
-  - Trust wall with major company logos
-  - Playful vs professional design debate
 summary: |
   Stefan and Jens spontaneously decide to review landing pages, starting with Sentry's creative approach. They discuss the effectiveness of Sentry's playful design, trust signals from major companies like Disney and GitHub, and debate whether the interactive elements and humor ("not bad") appeal to developers versus being too playful for a bug-finding tool.
 ---

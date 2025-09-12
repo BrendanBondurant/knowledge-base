@@ -4,9 +4,6 @@ slug: ep01-05-learning-from-failure-startup-lessons
 series: The Good Thing
 episode: 1
 chunk: 5
-participants:
-  - Jens
-  - Stefan
 segment: Programming Doubts, Self-Taught Path, and First Startup
 timecode: 00:13:23:14 – 00:16:46:15
 start_time: 00:13:23:14
@@ -25,8 +22,6 @@ tags:
   - go
   - rest
   - rust
-topic_tags:
-  - startup
 entities:
   - Jens Neuse
   - Stefan Avram
@@ -35,19 +30,7 @@ entities:
   - Frankfurt
   - Giessen
   - Alexandra
-mentions:
-  - programming background
-  - Perl scripts
-  - learn to program
-  - self-taught engineers
-  - dating during university
-  - first startup
-summary: Jens recounts how he struggled with learning programming after being encouraged
-  by a boss to move beyond server administration. Perl made no sense to him, and he
-  temporarily gave up on becoming a developer. Stefan reflects on how many great engineers,
-  including those at WunderGraph, are self-taught—despite his own CS degree. Jens
-  then describes how a new relationship and a partnership with a business psychology
-  classmate led to founding his first startup, marking the next pivot in his journey.
+summary: Jens recalls being encouraged by a boss to learn programming but struggling with Perl to the point of giving up. Stefan comments on how many exceptional engineers are self-taught, framing Jens’ journey as proof. Jens then describes meeting Alexandra, his future wife, and starting a company with her and a classmate, marking his first step into entrepreneurship despite limited technical skills
 ---
 
 

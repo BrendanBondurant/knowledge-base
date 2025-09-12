@@ -4,9 +4,6 @@ slug: ep02-08-business-impact-performance-conversion
 series: The Good Thing
 episode: 2
 chunk: 8
-participants:
-  - Stefan
-  - Jens
 segment: Performance Impact on Business
 timecode: 00:30:01:06 – 00:33:43:24
 start_time: 00:30:01:06
@@ -34,22 +31,12 @@ tags:
   - microservices
   - rest
   - rest-apis
-topic_tags:
-  - startup
-  - api-design
-  - graphql
 entities:
   - WunderGraph
   - Coinbase
   - Super Bowl
   - GraphQL Federation
   - REST APIs
-mentions:
-  - e-commerce conversion
-  - customer abandonment
-  - latency impact
-  - federation complexity
-  - REST API approach
 summary: Stefan and Jens discuss the business impact of slow performance, using examples
   like Coinbase's Super Bowl ad crash. Jens explains how federation provides organizational
   benefits over REST APIs, highlighting how federation enforces schema transparency

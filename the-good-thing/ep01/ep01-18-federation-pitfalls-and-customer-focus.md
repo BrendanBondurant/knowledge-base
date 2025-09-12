@@ -4,9 +4,6 @@ slug: ep01-18-federation-pitfalls-and-customer-focus
 series: The Good Thing
 episode: 1
 chunk: 18
-participants:
-  - Jens
-  - Stefan
 segment: Lessons from Building Cosmo and Avoiding Rewrites
 timecode: 00:57:05 – 01:00:23
 start_time: 00:57:05
@@ -30,30 +27,7 @@ tags:
   - graphql-federation
   - rust
   - startup
-topic_tags:
-  - graphql
-  - api-design
-  - federation
-  - Jens Neuse
-  - Stefan Avram
-  - WunderGraph
-  - Cosmo
-  - Federation
-  - Linear
-mentions:
-  - federation trap of rebuilding
-  - customer focus over internal systems
-  - vendor partnerships
-  - schema registry and router minimalism
-  - garbage rewrites of complete platforms
-summary: Jens explains how many engineers reject vendor solutions like Cosmo because
-  they seem too big or complex at first glance. But over time, as business requirements
-  pile up, teams realize they are slowly recreating every feature they once thought
-  they did not need. He emphasizes that federation systems like Cosmo reflect deep
-  lessons gained over years of experience, and trying to replace them with a lightweight
-  version typically results in failure. Instead of rebuilding, teams should partner
-  with vendors and focus on what matters. For developers, that means prioritizing
-  the customer over the thrill of internal systems work.
+summary: Jens explains why teams often underestimate federation complexity, thinking they only need a schema registry and router, only to rebuild every feature they rejected. He stresses that Cosmo embodies lessons from years of experience, and rebuilding it piecemeal wastes time. Instead, he advises working with vendors and redirecting energy to customers. Stefan adds that early-career engineers should prioritize understanding the “why” behind tickets over blindly coding
 ---
 
 

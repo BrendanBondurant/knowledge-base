@@ -4,10 +4,6 @@ slug: ep07-10-directive-complexity-and-tech-debt
 series: The Good Thing
 episode: 7
 chunk: 10
-participants:
-  - Jens
-  - Sergiy
-  - David
 segment: Apollo Federation directive critique and solutions
 timecode: 00:51:07:21 – 00:57:00:21
 start_time: 00:51:07:21
@@ -31,10 +27,6 @@ tags:
   - go
   - graphql
   - startup
-topic_tags:
-  - graphql-federation
-  - apollo-graphql
-  - startup
 entities:
   - Apollo Federation
   - Facebook
@@ -44,15 +36,6 @@ entities:
   - Jens Neuse
   - Sergiy
   - David
-mentions:
-  - efficient computation problems
-  - engineering complexity
-  - Ruby on Rails evolution example
-  - Facebook GraphQL origins
-  - inaccessible directive power
-  - shareable directive handshake
-  - mass user enterprise effects
-  - xkcd workflow comic
 summary: Jens critiques Apollo Federation directives for lacking mathematical foundation
   and creating computational challenges. Sergiy explains federation as evolutionary
   like Ruby on Rails, while David uses Lord of the Rings metaphor to describe how

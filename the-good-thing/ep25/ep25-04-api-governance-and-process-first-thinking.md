@@ -4,10 +4,6 @@ slug: ep25-04-api-governance-and-process-first-thinking
 series: The Good Thing
 episode: 25
 chunk: 4
-participants:
-  - Stefan Avram
-  - Jens Neuse
-  - Kevin Swiber
 segment: Enterprise API Governance Challenges
 timecode: 00:14:05:28 – 00:18:28:28
 start_time: 00:14:05:28
@@ -32,10 +28,6 @@ tags:
   - llm
   - rest-apis
   - startup
-topic_tags:
-  - microservices
-  - api-sprawl
-  - api-design
 entities:
   - Fortune 500 companies
   - Enterprise architects
@@ -44,14 +36,6 @@ entities:
   - Address verification APIs
   - LLM technology
   - Schema governance
-mentions:
-  - API governance as fundamental problem
-  - Hundreds of services management
-  - Tens of thousands of REST endpoints
-  - People-process-technology priority
-  - Seven address verification APIs example
-  - Three different vendors for same service
-  - Autonomous teams losing visibility
 summary: |
   Stefan and Jens discuss how enterprise customers focus on fundamental API governance problems rather than cutting-edge AI. Jens explains the challenge of managing hundreds of microservices with tens of thousands of endpoints. Kevin emphasizes the "people, then process, then technology" principle, sharing examples of API sprawl where companies unknowingly have multiple duplicate services from different vendors due to lack of visibility from autonomous team structures.
 ---

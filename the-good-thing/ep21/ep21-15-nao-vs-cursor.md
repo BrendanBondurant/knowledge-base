@@ -4,9 +4,6 @@ slug: ep21-15-nao-vs-cursor
 series: The Good Thing
 episode: 21
 chunk: 15
-participants:
-  - Stefan
-  - Jens
 segment: Nao Evaluation - Part 1
 timecode: 00:45:10:25 – 00:48:05:11
 start_time: 00:45:10:25
@@ -24,10 +21,6 @@ tags:
   - python
   - startup
   - go
-topic_tags:
-  - ai
-  - python
-  - startup
 entities:
   - Nao
   - Cursor
@@ -38,15 +31,6 @@ entities:
   - PostHog
   - DBT
   - Python
-mentions:
-  - VS Code fork observation
-  - tiny chat interface
-  - PostHog integration
-  - DBT and Python pipeline support
-  - Cursor notebook capabilities
-  - data indexing and autocompletion
-  - agent terminology overuse
-  - data warehouse connections
 summary: Stefan and Jens evaluate Nao, identifying it as a VS Code fork with data-specific
   features. They question its differentiation from Cursor, noting that Cursor already
   supports notebooks and similar functionality. Jens points out Nao's DBT/analytics

@@ -4,9 +4,6 @@ slug: ep23-08-collaboration-vs-coding-speed
 series: The Good Thing
 episode: 23
 chunk: 8
-participants:
-  - Stefan
-  - Jens
 segment: AI Development Workflows and Team Dynamics
 timecode: 00:45:01:00 – 00:50:04:15
 start_time: 00:45:01:00
@@ -26,18 +23,9 @@ tags:
   - api-design
   - go
   - startup
-topic_tags:
-  - graphql
-  - ai
-  - rest
 entities:
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - AI library generation
-  - workflow bottlenecks
-  - collaboration challenges
-  - development processes
 summary: Stefan and Jens discuss AI-generated libraries and collaboration bottlenecks
   in development workflows, exploring how team dynamics affect productivity and the
   balance between individual coding speed and collaborative development processes.

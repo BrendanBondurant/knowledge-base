@@ -4,9 +4,6 @@ slug: ep04-08-flyio-platform-reliability-support
 series: The Good Thing
 episode: 4
 chunk: 08
-participants:
-  - Stefan
-  - Jens
 segment: Experiences with Fly.io, building on platforms, reliability issues, and support
   challenges
 timecode: 00:22:00:14 - 00:25:32:21
@@ -28,21 +25,12 @@ tags:
   - api-design
   - apollo-graphql
   - go
-topic_tags:
-  - startup
-  - founder
 entities:
   - Stefan
   - Jens
   - Fly.io
   - Apollo
   - Calendly
-mentions:
-  - fly machines
-  - firecracker
-  - CI workflows
-  - support tiers
-  - API spec
 summary: Stefan and Jens discuss their experiences building on Fly.io, the promise
   and challenges of the platform, reliability issues, and the lack of support. They
   compare Fly.io to other vendors and reflect on the importance of listening to customers

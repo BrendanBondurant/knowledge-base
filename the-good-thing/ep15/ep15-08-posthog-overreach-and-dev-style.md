@@ -4,9 +4,6 @@ slug: ep15-08-posthog-overreach-and-dev-style
 series: The Good Thing
 episode: 15
 chunk: 8
-participants:
-  - Stefan
-  - Jens
 segment: PostHog Landing Page Analysis
 timecode: 00:35:11 – 00:40:01
 start_time: 00:35:11
@@ -29,19 +26,9 @@ tags:
   - open-source
   - rest
   - startup
-topic_tags:
-  - ai
-  - observability
-  - apollo-graphql
 entities:
   - PostHog
   - Apollo
-mentions:
-  - How developers build successful products
-  - Single platform for analyze, test, observe, deploy
-  - Modern developer tooling references
-  - Product confusion from feature overload
-  - Developer appeal through technical focus
 summary: Stefan and Jens examine PostHog's landing page, struggling to understand
   what the product actually does due to its many features (analytics, testing, observability,
   deployment). They note that while the messaging appeals to developers with modern

@@ -4,9 +4,6 @@ slug: ep05-01-intro-content-marketing-founder-led
 series: The Good Thing
 episode: 5
 chunk: 1
-participants:
-  - Stefan
-  - Jens
 segment: Introduction, content marketing, and the rise of founder-led content
 timecode: 00:00:25:16 - 00:07:12:22
 start_time: 00:00:25:16
@@ -33,22 +30,12 @@ tags:
   - rest
   - rust
   - startup
-topic_tags:
-  - startup
-  - founder
-  - graphql
 entities:
   - Stefan
   - Jens
   - Sergei
   - WunderGraph
   - Cosmo
-mentions:
-  - AVC investment
-  - content creators
-  - developer tooling
-  - podcast feedback
-  - personal branding
 summary: Stefan and Jens introduce the episode, discuss the importance of content
   marketing and the rise of founder-led content, and reflect on how authenticity and
   personal stories help build a brand. They share thoughts on podcasting, developer

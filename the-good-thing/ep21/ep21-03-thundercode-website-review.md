@@ -4,9 +4,6 @@ slug: ep21-03-thundercode-website-review
 series: The Good Thing
 episode: 21
 chunk: 3
-participants:
-  - Stefan
-  - Jens
 segment: ThunderCode Evaluation - Part 1
 timecode: 00:06:06:21 – 00:10:08:15
 start_time: 00:06:06:21
@@ -23,8 +20,6 @@ tags:
   - ai
   - startup
   - go
-topic_tags:
-  - ai
 entities:
   - ThunderCode
   - Stefan Avram
@@ -34,14 +29,6 @@ entities:
   - Tunisia
   - San Francisco
   - GitHub
-mentions:
-  - AI testing agent tagline
-  - San Francisco location advantage
-  - EU cookie banner compliance
-  - "with the power of AI" criticism
-  - .com boom comparison
-  - plain English test writing
-  - book a demo requirement
 summary: |
   Stefan and Jens review ThunderCode's website, immediately noting the location disadvantage of being in Paris rather than San Francisco. They criticize the generic "AI testing agent" messaging and the overuse of "with the power of AI" language, comparing it to the .com boom. While they find some merit in the plain English test writing feature, they struggle to understand the clear value proposition and note the lack of transparent pricing.
 ---

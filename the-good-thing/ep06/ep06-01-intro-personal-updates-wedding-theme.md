@@ -4,9 +4,6 @@ slug: ep06-01-intro-personal-updates-wedding-theme
 series: The Good Thing
 episode: 6
 chunk: 01
-participants:
-  - Stefan
-  - Jens
 segment: Introduction, personal updates, wedding preparation, and episode theme
 timecode: 00:00:24:18 - 00:02:32:17
 start_time: 00:00:24:18
@@ -24,21 +21,11 @@ tags:
   - ai
   - websocket
   - go
-topic_tags:
-  - startup
-  - ai
 entities:
   - Stefan Avram
   - Jens Neuse
   - The Good Thing
   - WunderGraph
-mentions:
-  - wedding preparations
-  - team news
-  - episode theme
-  - startup life balance
-  - weekend mood
-  - personal updates
 summary: |
   Stefan and Jens open the episode with personal updates, including wedding preparations and team news. They set the stage for the episode's main theme and discuss the mood and energy at the end of the week.
 ---

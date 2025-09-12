@@ -4,9 +4,6 @@ slug: ep01-09-fundamentals-ai-learning-imposters-handbook
 series: The Good Thing
 episode: 1
 chunk: 9
-participants:
-  - Jens
-  - Stefan
 segment: Learning Fundamentals and Finding the Right Book
 timecode: 00:26:23 – 00:29:55
 start_time: 00:26:23
@@ -28,11 +25,6 @@ tags:
   - go
   - rest
   - startup
-topic_tags:
-  - computer-science
-  - ai
-  - github-copilot
-  - startup
 entities:
   - Jens Neuse
   - Stefan Avram
@@ -43,21 +35,7 @@ entities:
   - HTTP
   - TCP
   - TLS
-mentions:
-  - engineering knowledge decay
-  - you can just do things
-  - fundamentals of the internet
-  - book for self-taught programmers
-  - imposter syndrome
-  - startup failure in Europe
-summary: Jens continues explaining why knowing how things work—like HTTP TLS and TCP—is
-  critical to being a strong engineer even when using AI tools like Copilot. He encourages
-  developers to use these tools to understand code not just generate it. Stefan connects
-  this to the broader idea that technical knowledge becomes obsolete quickly while
-  fundamentals remain constant. He prompts Jens to recall a foundational book from
-  his early career Imposters Handbook which Jens says resonated deeply during times
-  of self-doubt and still shapes how he learns. They transition toward discussing
-  Shakealert's failure and startup culture in Europe.
+summary: Jens stresses the importance of understanding HTTP, TCP, and TLS even when using AI assistants like GitHub Copilot. Stefan adds that while frameworks evolve quickly, fundamentals stay constant, making them essential for career longevity. Jens shares how The Imposter’s Handbook helped him overcome self-doubt and deepen his understanding early in his career. The conversation transitions toward Shakealert’s eventual failure and lessons learned
 ---
 
 

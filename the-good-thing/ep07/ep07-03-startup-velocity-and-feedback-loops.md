@@ -4,10 +4,6 @@ slug: ep07-03-startup-velocity-and-feedback-loops
 series: The Good Thing
 episode: 7
 chunk: 3
-participants:
-  - Jens
-  - Sergiy
-  - David
 segment: Startup culture and customer feedback
 timecode: 00:10:23:17 – 00:16:19:07
 start_time: 00:10:23:17
@@ -32,9 +28,6 @@ tags:
   - graphql
   - graphql-federation
   - rest
-topic_tags:
-  - startup
-  - federation
 entities:
   - WunderGraph
   - Jira
@@ -44,12 +37,6 @@ entities:
   - David
   - Jens Neuse
   - Sergiy
-mentions:
-  - multiple releases per day
-  - Jens' rapid prototyping style
-  - Sergiy's code refactoring role
-  - financial software testing background
-  - red tape vs. speed tradeoffs
 summary: The team discusses WunderGraph's startup culture, emphasizing rapid deployment
   (multiple times daily) and direct engineer-to-customer feedback loops. David contrasts
   this with his previous experience at financial software companies where indirect

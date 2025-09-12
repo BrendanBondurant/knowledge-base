@@ -4,9 +4,6 @@ slug: ep12-13-federation-adoption-barriers
 series: The Good Thing
 episode: 12
 chunk: 13
-participants:
-  - Stefan
-  - Jens
 segment: Federation Adoption Analysis
 timecode: 00:47:16:25 – 00:51:11:28
 start_time: 00:47:16:25
@@ -28,10 +25,6 @@ tags:
   - go
   - graphql
   - rest
-topic_tags:
-  - federation
-  - graphql-federation
-  - mcp
 entities:
   - Meta
   - Coinbase
@@ -43,13 +36,6 @@ entities:
   - JSON RPC
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - Twitter GraphQL criticism
-  - under-fetching over-fetching problems
-  - 1-2 engineer teams
-  - Relay complexity concerns
-  - MCP preferring RPC
-  - domain model clarity
 summary: Discussion of why federation adoption remains limited, with Jens arguing
   that few companies actually have 100+ frontend developers working on one frontend.
   Stefan challenges this by noting small teams trying GraphQL and failing, leading

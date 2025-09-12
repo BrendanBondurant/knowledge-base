@@ -4,9 +4,6 @@ slug: ep12-16-compute-vs-collaboration
 series: The Good Thing
 episode: 12
 chunk: 16
-participants:
-  - Stefan
-  - Jens
 segment: Business Model Strategy Discussion
 timecode: 00:58:19:19 – 01:03:20:19
 start_time: 00:58:19:19
@@ -25,10 +22,6 @@ tags:
   - database
   - go
   - rust
-topic_tags:
-  - startup
-  - compute-reselling
-  - vercel-strategy
 entities:
   - Prisma
   - Vercel
@@ -38,13 +31,6 @@ entities:
   - Flight Control
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - AWS account developer preference
-  - 10x markup pricing challenges
-  - developer time valuation
-  - startup reliability failures
-  - 700 years developer experience
-  - compute provider recommendations
 summary: Jens argues against compute-based business models, explaining how startups
   fail when selling marked-up AWS services because developers prefer direct cloud
   provider access. He contrasts Vercel's platform complexity with simple AWS wrappers,

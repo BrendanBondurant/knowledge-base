@@ -4,9 +4,6 @@ slug: ep06-16-team-dynamics-retreat-cosmo-pivot-customers-luck
 series: The Good Thing
 episode: 6
 chunk: 16
-participants:
-  - Jens
-  - Stefan
 segment: Team dynamics, retreat, Cosmo pivot, first customers, and luck
 timecode: 00:55:10:15 - 01:03:21:19
 start_time: 00:55:10:15
@@ -26,21 +23,11 @@ tags:
   - cosmo
   - startup
   - go
-topic_tags:
-  - startup
-  - cosmo
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
   - Cosmo
-mentions:
-  - team dynamics evolution
-  - pivotal company retreat
-  - Cosmo product pivot
-  - first customer onboarding
-  - startup growth factors
-  - luck in business success
 ---
 
 00:55:10:15 - 00:55:47:06

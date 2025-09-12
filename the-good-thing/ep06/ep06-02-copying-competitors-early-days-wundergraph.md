@@ -4,9 +4,6 @@ slug: ep06-02-copying-competitors-early-days-wundergraph
 series: The Good Thing
 episode: 6
 chunk: 02
-participants:
-  - Stefan
-  - Jens
 segment: Should you copy your competitors? Early days of WunderGraph
 timecode: 00:02:32:20 - 00:04:54:07
 start_time: 00:02:32:20
@@ -28,21 +25,10 @@ tags:
   - go
   - graphql-federation
   - rest
-topic_tags:
-  - startup
-  - federation
-  - cosmo
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
-mentions:
-  - competitor copying debate
-  - copycat accusations
-  - WunderGraph early days
-  - product differentiation
-  - devtools space dynamics
-  - startup strategy
 summary: |
   Stefan and Jens introduce the main theme of the episode: should you copy your competitors? They discuss the early days of WunderGraph, accusations of being a copycat, and the reality of product differentiation in the devtools space.
 ---

@@ -4,9 +4,6 @@ slug: ep21-19-ciroos-funding-and-messaging
 series: The Good Thing
 episode: 21
 chunk: 19
-participants:
-  - Stefan
-  - Jens
 segment: Ciroos Evaluation - Part 1
 timecode: 00:57:00:00 – 01:00:00:00
 start_time: 00:57:00:00
@@ -25,8 +22,6 @@ tags:
   - founder
   - go
   - startup
-topic_tags:
-  - ciroos
 entities:
   - Ciroos
   - Stefan Avram
@@ -34,14 +29,6 @@ entities:
   - AWS
   - Cisco
   - Y Combinator
-mentions:
-  - February 2025 funding
-  - three founder team
-  - AWS backgrounds
-  - Cisco VP positions
-  - marathon running
-  - stacked founder team
-  - angel investor research
 summary: Stefan and Jens review Ciroos, noting the impressive founder team with AWS
   and Cisco VP experience. They recognize the team's credentials but struggle to understand
   the SRE messaging and what problem Ciroos actually solves, despite acknowledging

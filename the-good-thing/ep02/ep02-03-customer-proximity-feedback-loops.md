@@ -4,9 +4,6 @@ slug: ep02-03-customer-proximity-feedback-loops
 series: The Good Thing
 episode: 2
 chunk: 3
-participants:
-  - Stefan
-  - Jens
 segment: Customer Proximity and Team Collaboration
 timecode: 00:08:37:01 – 00:12:34:02
 start_time: 00:08:37:01
@@ -25,20 +22,11 @@ tags:
   - ai
   - cosmo-router
   - go
-topic_tags:
-  - startup
-  - founder
 entities:
   - WunderGraph
   - Stefan Avram
   - Jens Neuse
   - SoundCloud
-mentions:
-  - on-call engineering rotation
-  - direct customer access
-  - technical support
-  - soft skills development
-  - customer relationships
 summary: Stefan and Jens discuss WunderGraph's unique approach to customer proximity,
   where engineers directly interact with customers through an on-call rotation system.
   They emphasize the importance of short feedback loops and how this creates happier

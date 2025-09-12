@@ -4,9 +4,6 @@ slug: ep08-01-marriage-and-cofounders
 series: The Good Thing
 episode: 8
 chunk: 1
-participants:
-  - Stefan
-  - Jens
 segment: Personal reflections on marriage and cofounder relationships
 timecode: 00:00:22:11 – 00:09:03:15
 start_time: 00:00:22:11
@@ -25,9 +22,6 @@ tags:
   - founder
   - go
   - rest
-topic_tags:
-  - startup
-  - founder
 entities:
   - Stefan Avram
   - Jens Neuse
@@ -35,15 +29,6 @@ entities:
   - WunderGraph
   - Y Combinator
   - Dustin (CTO)
-mentions:
-  - 27 years old marriage
-  - three-day destination wedding
-  - six-year relationship foundation
-  - yin and yang opposites philosophy
-  - bad cofounder worse than no cofounder
-  - wife as garbage collector metaphor
-  - quality control and QA filtering
-  - hard disk defragmentation analogy
 summary: Stefan returns from his wedding and draws parallels between marriage and
   cofounder relationships. He discusses how complementary partners (yin and yang)
   provide balance, with both marriage and cofounding requiring shared values while

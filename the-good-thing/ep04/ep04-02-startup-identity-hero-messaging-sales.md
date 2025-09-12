@@ -4,9 +4,6 @@ slug: ep04-02-startup-identity-hero-messaging-sales
 series: The Good Thing
 episode: 4
 chunk: 2
-participants:
-  - Jens
-  - Stefan
 segment: Discussing the challenge of defining company identity, hero messaging, and
   the realities of sales in devtools startups
 timecode: 00:03:15:22 - 00:06:56:18
@@ -27,18 +24,11 @@ tags:
   - database
   - go
   - postgres
-topic_tags:
-  - startup
 entities:
   - Jens
   - Stefan
   - wundergraph
   - Theo
-mentions:
-  - landing page
-  - hero text
-  - self-serve
-  - enterprise deals
 summary: Jens and Stefan discuss the difficulty of crafting a compelling company identity
   and hero message as their startup evolves. They reflect on the initial vision of
   being a devtools company, the realities of sales, and the shift toward enterprise

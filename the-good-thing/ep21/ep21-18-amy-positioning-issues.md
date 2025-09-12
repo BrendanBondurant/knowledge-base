@@ -4,9 +4,6 @@ slug: ep21-18-amy-positioning-issues
 series: The Good Thing
 episode: 21
 chunk: 18
-participants:
-  - Stefan
-  - Jens
 segment: Amy Evaluation - Part 2
 timecode: 00:54:05:27 – 00:57:00:00
 start_time: 00:54:05:27
@@ -27,23 +24,11 @@ tags:
   - benchmarking
   - go
   - startup
-topic_tags:
-  - ai
-  - websocket
-  - founder
 entities:
   - Amy
   - Stefan Avram
   - Jens Neuse
   - VC industry
-mentions:
-  - humanized AI agent naming
-  - VC process being slow and personal
-  - due diligence relationship importance
-  - associate job performance questions
-  - VC industry AI resistance
-  - coin flip tier placement
-  - problem existence uncertainty
 summary: Jens expresses skepticism about AI adoption in VC, emphasizing that the venture
   capital process is inherently slow, personal, and relationship-driven, making it
   unsuitable for AI automation. They debate whether Amy solves a real problem, with

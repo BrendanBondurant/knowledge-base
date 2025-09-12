@@ -4,9 +4,6 @@ slug: ep09-14-introduction-to-mcp
 series: The Good Thing
 episode: 9
 chunk: 14
-participants:
-  - Jens
-  - Cameron
 segment: Model Context Protocol introduction
 timecode: 00:50:33:02 – 00:54:05:12
 start_time: 00:50:33:02
@@ -26,10 +23,6 @@ tags:
   - go
   - graphql
   - rest
-topic_tags:
-  - mcp
-  - ai
-  - api-design
 entities:
   - Model Context Protocol
   - Anthropic
@@ -37,13 +30,6 @@ entities:
   - OpenAI
   - Gemini
   - Mixed Role
-mentions:
-  - Claude Desktop implementation
-  - JSON-RPC communication
-  - defined protocol standards
-  - tool execution automation
-  - function call handling
-  - prompt iteration cycles
 summary: Cameron introduces the Model Context Protocol (MCP) developed by Anthropic,
   explaining how it differs from traditional tool APIs like OpenAI's. He details the
   client-server architecture, JSON-RPC communication, and how MCP automates tool execution,

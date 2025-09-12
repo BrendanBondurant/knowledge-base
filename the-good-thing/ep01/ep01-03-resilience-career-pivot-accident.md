@@ -4,9 +4,6 @@ slug: ep01-03-resilience-career-pivot-accident
 series: The Good Thing
 episode: 1
 chunk: 3
-participants:
-  - Jens
-  - Stefan
 segment: Injury, Adaptation, and Entry into Programming
 timecode: 00:06:42:11 – 00:10:02:17
 start_time: 00:06:42:11
@@ -27,28 +24,13 @@ tags:
   - founder
   - go
   - rest
-topic_tags:
-topic_tags:
-  - resilience
-  - startup
-  - founder
 entities:
   - Jens Neuse
   - Stefan Avram
   - WunderGraph
   - Windows Server
   - Germany
-mentions:
-  - the accident
-  - career rehabilitation
-  - YouTube videos on programming
-summary: Jens reflects on how a traumatic motorcycle accident gave him perspective
-  that shaped his emotional resilience as a founder. He recounts how recovery challenges—like
-  relearning to walk—dwarfed startup stress, making failures like losing a deal seem
-  manageable. Stefan relates with his own injury experience, prompting Jens to share
-  how he discovered programming during his bedridden recovery. A German career rehabilitation
-  program helped him retrain into IT, starting as a Windows Server administrator before
-  moving on to more fulfilling paths.
+summary: Jens explains how surviving his accident gave him perspective, making startup stress and setbacks seem minor compared to rebuilding his life and learning to walk again. Stefan relates with his own injury story, leading Jens to describe how being bedridden during recovery sparked his interest in programming. With support from a German career rehabilitation program, Jens retrained in IT, starting as a Windows Server administrator before seeking more fulfilling work
 ---
 
 00:06:42:11 - 00:07:08:16

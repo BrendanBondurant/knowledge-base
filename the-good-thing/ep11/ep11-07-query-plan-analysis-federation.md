@@ -4,9 +4,6 @@ slug: ep11-07-query-plan-analysis-federation
 series: The Good Thing
 episode: 11
 chunk: 7
-participants:
-  - Stefan
-  - Jens
 segment: Static Analysis and Future Tooling
 timecode: 00:36:28:22 – 00:43:02:29
 start_time: 00:36:28:22
@@ -34,22 +31,11 @@ tags:
   - open-source
   - rest
   - startup
-topic_tags:
-  - query-planning
-  - federation
-  - graphql
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
   - GraphQL
-mentions:
-  - CI system for schema validation
-  - query plan AST analysis
-  - federation directives impact
-  - schema change testing
-  - open source tooling
-  - reliability improvements
 summary: Jens describes WunderGraph's new static analysis tooling that analyzes query
   plans for all customer schemas and queries. The system generates AST statistics
   and can detect how federation directive changes impact query planning, enabling

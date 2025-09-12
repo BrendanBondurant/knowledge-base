@@ -4,9 +4,6 @@ slug: ep16-09-bigco-cloning-energy-gap
 series: The Good Thing
 episode: 16
 chunk: 9
-participants:
-  - Stefan
-  - Jens
 segment: Corporate vs Founder-led Competition
 timecode: 00:41:07 – 00:46:28
 start_time: 00:41:07
@@ -31,19 +28,9 @@ tags:
   - cosmo
   - go
   - rest
-topic_tags:
-  - founder-advantage
-  - startup-vs-enterprise
-  - competitive-limitations
 entities:
   - KubeCon
   - VCs
-mentions:
-  - Current AI investment wave
-  - Cloud native wave ending
-  - $10 billion founder-led company example
-  - "Group of kids I don't know" competitive fear
-  - Founder dedication versus corporate employees
 summary: |
   Stefan and Jens discuss why big companies struggle to replicate startup success, focusing on the energy and commitment gap. Stefan shares an anecdote about a $10 billion company founder who fears unknown startup teams more than corporate competitors, highlighting how founder-led companies benefit from total dedication that corporate employees working 9-to-5 cannot match, regardless of the resources available to large companies.
 ---

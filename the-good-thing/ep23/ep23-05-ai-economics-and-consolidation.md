@@ -4,9 +4,6 @@ slug: ep23-05-ai-economics-and-consolidation
 series: The Good Thing
 episode: 23
 chunk: 5
-participants:
-  - Stefan
-  - Jens
 segment: AI Market Dynamics
 timecode: 00:26:18:00 – 00:33:14:00
 start_time: 00:26:18:00
@@ -28,19 +25,10 @@ tags:
   - go
   - open-source
   - rest
-topic_tags:
-  - ai-economics
-  - business-model-fragility
-  - microsoft-strategy
 entities:
   - Stefan Avram
   - Jens Neuse
   - Microsoft
-mentions:
-  - fragile business models
-  - Microsoft long game
-  - AI consolidation trends
-  - platform advantages
 summary: Stefan and Jens analyze the fragility of AI business models and Microsoft's
   long-term strategic positioning in the AI market. They discuss consolidation trends
   and how platform dynamics favor established tech giants in the evolving AI landscape.

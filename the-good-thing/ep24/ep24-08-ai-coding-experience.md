@@ -4,9 +4,6 @@ slug: ep24-08-ai-coding-experience
 series: The Good Thing
 episode: 24
 chunk: 8
-participants:
-  - Stefan
-  - Jens
 segment: Personal AI Development Experience
 timecode: 00:40:14:14 – 00:46:14:03
 start_time: 00:40:14:14
@@ -32,10 +29,6 @@ tags:
   - rust
   - startup
   - typescript
-topic_tags:
-  - ai
-  - coding-experience
-  - developer-productivity
 entities:
   - Stefan Avram
   - Jens Neuse
@@ -48,19 +41,6 @@ entities:
   - TypeScript
   - Go
   - Master Framework
-mentions:
-  - React frontend development
-  - full-stack TypeScript
-  - Go language productivity issues
-  - Claude Coder workflow
-  - AI agent development failure
-  - import resolution problems
-  - GraphQL Go tools
-  - Cosmo Router development
-  - existing codebase challenges
-  - biased interview methodology
-  - group interview bias
-  - CEO presence in evaluations
 summary: |
   Jens shares detailed personal experiences with AI coding tools, finding Cursor effective for React/TypeScript but problematic for Go development. He describes Claude Coder's impressive workflow but poor code quality for complex projects. The discussion includes a satirical critique of biased research methodologies, comparing proper survey techniques to obviously flawed approaches.
 ---

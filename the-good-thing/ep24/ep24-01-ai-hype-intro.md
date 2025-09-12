@@ -4,9 +4,6 @@ slug: ep24-01-ai-hype-intro
 series: The Good Thing
 episode: 24
 chunk: 1
-participants:
-  - Stefan
-  - Jens
 segment: Episode Introduction and AI Discussion
 timecode: 00:00:25:08 – 00:04:05:01
 start_time: 00:00:25:08
@@ -34,10 +31,6 @@ tags:
   - llm
   - rest
   - rust
-topic_tags:
-  - podcast-intro
-  - AI-development
-  - developer-productivity
 entities:
   - The Good Thing
   - WunderGraph
@@ -49,18 +42,6 @@ entities:
   - Crandham
   - GitHub
   - Cursor
-mentions:
-  - Call of Duty video intro style
-  - AI replacing developers
-  - prompt engineering
-  - Matrix energy provision analogy
-  - weekly tech review format
-  - Hacker News study
-  - 15 million seed funding
-  - 200 million Series A
-  - 75 million ARR
-  - 2 billion valuation
-  - China's Deep Seek
 summary: Stefan and Jens open episode 24 with playful banter about AI replacing developers
   and the podcast format. They preview the week's tech topics including gRPC for GraphQL
   Federation, an AI productivity study showing developers slowing down 20%, Lovable's

@@ -4,10 +4,6 @@ slug: ep14-05-mcp-gateway-and-json-schema
 series: The Good Thing
 episode: 14
 chunk: 5
-participants:
-  - Stefan
-  - Jens
-  - Dustin
 segment: MCP Gateway Architecture and Schema Generation
 timecode: 00:17:11 – 00:22:00
 start_time: 00:17:11
@@ -35,10 +31,6 @@ tags:
   - mcp
   - rust
   - startup
-topic_tags:
-  - mcp-gateway
-  - json-schema
-  - trusted-documents
 entities:
   - MCP gateway
   - Trusted documents
@@ -47,15 +39,6 @@ entities:
   - LLM
   - Router
   - MCP protocol
-mentions:
-  - landing page sneak peek
-  - MCP protocol implementation in router
-  - discovery endpoint and metadata
-  - GraphQL operation to MCP tool conversion
-  - get product operation example
-  - input contract definition
-  - type-safe tool calling
-  - automatic schema validation
 summary: Dustin introduces the MCP gateway, explaining how the router implements MCP
   protocol by converting trusted documents into MCP tools with automatically inferred
   JSON schemas. This enables type-safe LLM interactions where GraphQL operations become

@@ -4,9 +4,6 @@ slug: ep02-07-cache-warmer-solution-analytics
 series: The Good Thing
 episode: 2
 chunk: 7
-participants:
-  - Stefan
-  - Jens
 segment: Cache Warming Implementation
 timecode: 00:25:15:16 – 00:29:35:13
 start_time: 00:25:15:16
@@ -32,22 +29,12 @@ tags:
   - graphql
   - graphql-federation
   - startup
-topic_tags:
-  - cache-warming
-  - query-planning
-  - federation
 entities:
   - WunderGraph
   - GraphQL Federation
   - CDN
   - Analytics Data
   - Query Planning Cache
-mentions:
-  - 30-day analytics data
-  - query plan ranking
-  - CDN storage
-  - persistent operations
-  - federation directives
 summary: Jens explains their cache warmer solution that analyzes 30 days of analytics
   data to identify the most expensive queries and pre-compute their query plans. The
   system stores this data on a CDN and loads it when routers start up, ensuring they're

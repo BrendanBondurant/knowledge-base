@@ -4,10 +4,6 @@ slug: ep19-13-embracing-ai-and-looking-ahead
 series: The Good Thing
 episode: 19
 chunk: 13
-participants:
-  - Stefan
-  - Robert Farr
-  - Jens
 segment: Episode Conclusion and Future Outlook
 timecode: 01:03:09 – 01:05:33
 start_time: 01:03:09
@@ -26,20 +22,11 @@ tags:
   - go
   - rest
   - startup
-topic_tags:
-  - ai-boom
-  - value-delivery
-  - future-outlook
 entities:
   - Robert Farr
   - Stefan Avram
   - Jens Neuse
   - Procore
-mentions:
-  - AI industry acceleration
-  - Pressure to deliver AI value
-  - Future AI adoption trends
-  - Episode wrap-up insights
 summary: Concluding discussion on the accelerating AI boom, pressure to deliver value
   through AI adoption, and future outlook for AI in enterprise environments, with
   closing thoughts from the conversation.

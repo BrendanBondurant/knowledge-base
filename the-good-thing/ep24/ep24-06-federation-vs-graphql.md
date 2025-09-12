@@ -4,9 +4,6 @@ slug: ep24-06-federation-vs-graphql
 series: The Good Thing
 episode: 24
 chunk: 6
-participants:
-  - Stefan
-  - Jens
 segment: Technology Philosophy and Development Approach
 timecode: 00:28:16:08 – 00:33:06:05
 start_time: 00:28:16:08
@@ -30,10 +27,6 @@ tags:
   - go
   - graphql
   - startup
-topic_tags:
-  - federation
-  - graphql-federation
-  - governance
 entities:
   - Stefan Avram
   - Jens Neuse
@@ -42,18 +35,6 @@ entities:
   - GraphQL Foundation
   - Apollo
   - Nithin
-mentions:
-  - don't marry the tech evolution
-  - blockchain looking for problems
-  - bank vs blockchain security
-  - be obsessed with problems not solutions
-  - GraphQL over HTTP batching API
-  - entity request hacks
-  - specification adoption lag
-  - Navy SEALs team size limits
-  - eight person maximum teams
-  - too many cooks in kitchen
-  - governance board problems
 summary: |
   Stefan observes Jens's evolution toward not being married to technology, comparing GraphQL Federation's approach to blockchain's solution-seeking behavior. Jens advocates for being obsessed with problems rather than solutions, critiquing the GraphQL over HTTP batching approach. Stefan applies Navy SEALs team size principles to argue that large governance boards hinder effective development.
 ---

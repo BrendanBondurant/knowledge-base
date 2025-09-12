@@ -4,9 +4,6 @@ slug: ep22-04-federation-and-schema-registry
 series: The Good Thing
 episode: 22
 chunk: 4
-participants:
-  - Stefan
-  - Jens
 segment: Apollo Principles Analysis
 timecode: 00:16:05:00 – 00:19:26:27
 start_time: 00:16:05:00
@@ -35,18 +32,10 @@ tags:
   - rest
   - rest-apis
   - rest-connectors
-topic_tags:
-  - schema-registry
-  - principled-graphql
 entities:
   - Apollo
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - federation principles
-  - schema registry role
-  - graph composition
-  - Apollo framework
 summary: Stefan and Jens analyze Apollo's federation and schema registry principles
   from their Principled GraphQL document. They discuss the importance of centralized
   schema management and how Apollo's approach to graph composition influences the

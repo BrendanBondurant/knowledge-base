@@ -4,10 +4,6 @@ slug: ep26-08-venture-risk-and-founder-perspective
 series: The Good Thing
 episode: 26
 chunk: 8
-participants:
-  - Stefan
-  - Jens
-  - Sam Lambert
 segment: Venture Funding Dynamics and Long-term Thinking
 timecode: 00:34:21:20 – 00:39:45:08
 start_time: 00:34:21:20
@@ -30,10 +26,6 @@ tags:
   - go
   - postgres
   - rust
-topic_tags:
-  - startup
-  - founder
-  - database
 entities:
   - PlanetScale
   - Figma
@@ -41,13 +33,6 @@ entities:
   - Snowflake
   - GitHub
   - Microsoft
-mentions:
-  - Database companies taking time to build trust
-  - Figma's 5-year development before product launch
-  - MongoDB and Snowflake long development cycles
-  - GitHub's 13-year journey to Microsoft acquisition
-  - Young founders raising $200M inefficiently
-  - Rocket analogy for over-funding
 summary: |
   Exploration of venture capital dynamics in infrastructure companies, comparing database company timelines to other successful exits. Discussion of the risks of over-funding young companies and the importance of building enduring businesses rather than chasing quick exits.
 ---

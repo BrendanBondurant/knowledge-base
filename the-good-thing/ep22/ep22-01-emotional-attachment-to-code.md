@@ -4,9 +4,6 @@ slug: ep22-01-emotional-attachment-to-code
 series: The Good Thing
 episode: 22
 chunk: 1
-participants:
-  - Stefan
-  - Jens
 segment: Introduction and Developer Psychology
 timecode: 00:00:25:17 – 00:07:07:02
 start_time: 00:00:25:17
@@ -27,10 +24,6 @@ tags:
   - founder
   - go
   - rest
-topic_tags:
-  - emotional-attachment
-  - developer-psychology
-  - startup-feedback
 entities:
   - Stefan Avram
   - Jens Neuse
@@ -42,16 +35,6 @@ entities:
   - WunderGraph
   - Cosmo
   - Apollo
-mentions:
-  - text.ai founder feedback
-  - Apple Intelligence threat concern
-  - Google outage discussion
-  - PlanetScale vs Neon commentary
-  - developer attachment to code
-  - pull request feedback emotions
-  - WunderGraph SDK shutdown
-  - landing page effectiveness
-  - small startup advantages
 summary: Stefan and Jens discuss developer emotional attachment to code, triggered
   by feedback from a text.ai founder who felt "roasted" by their tier list episode.
   They explore how developers become personally identified with their work, making

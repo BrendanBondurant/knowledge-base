@@ -4,9 +4,6 @@ slug: ep07-01-configure-description-directive
 series: The Good Thing
 episode: 7
 chunk: 1
-participants:
-  - Jens
-  - David
 segment: Introduction and Configure Description directive
 timecode: 00:00:00:00 – 00:05:06:09
 start_time: 00:00:00:00
@@ -31,10 +28,6 @@ tags:
   - query-planning
   - rest
   - supergraph
-topic_tags:
-  - graphql
-  - federation
-  - cosmo
 entities:
   - WunderGraph
   - Cosmo
@@ -43,12 +36,6 @@ entities:
   - Jens Neuse
   - David
   - Stefan Avram
-mentions:
-  - Stefan's marriage ceremonies
-  - customer use case with 80-90+ graphs
-  - description propagation algorithm
-  - granular control over federation descriptions
-  - post-process transformers
 summary: Jens introduces episode 7 with David and Sergiy while Stefan is away. David
   explains the recently implemented Configure Description directive, which gives customers
   granular control over how schema descriptions propagate in federated graphs, solving

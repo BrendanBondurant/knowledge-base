@@ -4,10 +4,6 @@ slug: ep14-06-json-schema-limits-and-safe-generation
 series: The Good Thing
 episode: 14
 chunk: 6
-participants:
-  - Stefan
-  - Jens
-  - Dustin
 segment: Schema Generation Complexity and LLM Limitations
 timecode: 00:22:00 – 00:27:17
 start_time: 00:22:00
@@ -27,10 +23,6 @@ tags:
   - ai
   - go
   - llm
-topic_tags:
-  - graphql
-  - mcp
-  - ai
 entities:
   - JSON schema
   - LLM
@@ -38,15 +30,6 @@ entities:
   - Find employees tool
   - Recursive structures
   - Enums
-mentions:
-  - complex input types with nationality and mood filters
-  - LLM subset support of JSON schema
-  - recursion depth limitations
-  - nullable field handling
-  - enum value requirements
-  - vibe coding confidence concerns
-  - GraphQL to JSON schema mapping complexity
-  - deterministic task inappropriate for LLMs
 summary: Dustin explains the complexity of generating JSON schemas for LLM consumption,
   noting that models only support subsets of the full specification and struggle with
   recursive structures. Jens questions the reliability of vibe coding schema generation,

@@ -4,9 +4,6 @@ slug: ep15-06-vercel-business-benefits
 series: The Good Thing
 episode: 15
 chunk: 6
-participants:
-  - Stefan
-  - Jens
 segment: Vercel Landing Page Benefits Analysis
 timecode: 00:25:01 – 00:30:17
 start_time: 00:25:01
@@ -29,20 +26,12 @@ tags:
   - rest
   - startup
   - telemetry
-topic_tags:
-  - social-proof
 entities:
   - Vercel
   - Runway
   - Adobe
   - Chick-fil-A
   - Neo
-mentions:
-  - 95% reduction in page loads
-  - 7 minutes to 40s build time reduction
-  - 100% uptime during Black Friday
-  - One year of developer time saved
-  - Business person understanding benefits
 summary: Stefan and Jens praise Vercel's landing page for immediately presenting quantified
   business benefits like 95% reduction in page loads and dramatic build time improvements.
   They highlight how Vercel effectively communicates value to business stakeholders

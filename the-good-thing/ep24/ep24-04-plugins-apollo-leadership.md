@@ -4,9 +4,6 @@ slug: ep24-04-plugins-apollo-leadership
 series: The Good Thing
 episode: 24
 chunk: 4
-participants:
-  - Stefan
-  - Jens
 segment: Future Vision and Apollo Leadership Discussion
 timecode: 00:16:25:01 – 00:22:01:03
 start_time: 00:16:25:01
@@ -39,10 +36,6 @@ tags:
   - rest
   - rest-apis
   - rest-connectors
-topic_tags:
-  - plugin-system
-  - llm
-  - apollo-graphql
 entities:
   - WunderGraph
   - Cosmo Router
@@ -53,16 +46,6 @@ entities:
   - SOAP APIs
   - CORBA
   - OpenAPI
-mentions:
-  - co-processor architecture
-  - REST/SOAP/XML integration
-  - mainframe system connections
-  - LLM-generated adapters
-  - automated integration tooling
-  - Matt as Apollo's face
-  - conference leadership presence
-  - 18-month CEO mindset
-  - competitor relationship strategy
 summary: |
   Jens outlines WunderGraph's future vision of using gRPC co-processors and LLM-generated adapters to automatically integrate legacy systems, eliminating manual connector development. Stefan and Jens then discuss Apollo's leadership change with Matt DeBergalis becoming CEO, viewing it as positive while noting it suggests internal challenges.
 ---

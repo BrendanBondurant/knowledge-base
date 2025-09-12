@@ -4,9 +4,6 @@ slug: ep12-10-relay-jwt-node-entities
 series: The Good Thing
 episode: 12
 chunk: 10
-participants:
-  - Stefan
-  - Jens
 segment: Technical Implementation of Node Interface
 timecode: 00:34:21:09 – 00:38:22:27
 start_time: 00:34:21:09
@@ -27,23 +24,12 @@ tags:
   - cosmo-router
   - go
   - graphql
-topic_tags:
-  - federation
-  - graphql
-  - cosmo-router
 entities:
   - JWT
   - GraphQL Federation
   - Cosmo Router
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - entity home subgraph concept
-  - key directive annotations
-  - node interface implementation
-  - entity guessing attacks
-  - signed JWT validation
-  - type name and keys combination
 summary: Jens details the technical implementation of secure entity lookup in federation
   through JWT-signed node IDs. He explains how the router maps node IDs to entities,
   prevents security attacks through JWT signing, and routes requests to the correct

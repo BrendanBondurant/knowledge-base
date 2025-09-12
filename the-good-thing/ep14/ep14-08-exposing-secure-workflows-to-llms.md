@@ -4,10 +4,6 @@ slug: ep14-08-exposing-secure-workflows-to-llms
 series: The Good Thing
 episode: 14
 chunk: 8
-participants:
-  - Stefan
-  - Jens
-  - Dustin
 segment: Workflow Design and Security for AI Integration
 timecode: 00:31:08 – 00:34:58
 start_time: 00:31:08
@@ -33,9 +29,6 @@ tags:
   - rest
   - rest-apis
   - rust
-topic_tags:
-  - trusted-documents
-  - dream-query-workflow
 entities:
   - GraphQL API
   - REST API
@@ -44,15 +37,6 @@ entities:
   - Cosmo
   - Visual query builder
   - LLM
-mentions:
-  - LinkedIn discussions about MCP
-  - schema size exceeding context limits
-  - human vs model interaction patterns
-  - multi-step workflow design
-  - tool description and interaction
-  - GraphQL query writing accessibility
-  - prompt-to-GraphQL conversion
-  - no-code MCP server creation
 summary: Jens explains the risks of exposing raw APIs to LLMs, including context overflow
   with large schemas and unfocused responses. He advocates for trusted documents to
   create secure, workflow-oriented tools that guide LLMs through specific tasks like

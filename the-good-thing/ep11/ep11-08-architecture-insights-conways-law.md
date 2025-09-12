@@ -4,9 +4,6 @@ slug: ep11-08-architecture-insights-conways-law
 series: The Good Thing
 episode: 11
 chunk: 8
-participants:
-  - Stefan
-  - Jens
 segment: Microservices Architecture Analysis
 timecode: 00:43:03:01 – 00:48:14:14
 start_time: 00:43:03:01
@@ -36,22 +33,12 @@ tags:
   - query-planning
   - rest
   - telemetry
-topic_tags:
-  - conways-law
-  - microservices
-  - federation
 entities:
   - Conway's Law
   - Jeff Bezos
   - Amazon
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - machine learning schema optimization
-  - questioning architecture decisions
-  - team ownership of domains
-  - API communication mandate
-  - compiler team example
 summary: Discussion of using machine learning approaches to optimize microservices
   architecture through schema analysis. Jens explores how Conway's Law affects system
   design, while Stefan explains Jeff Bezos' API mandate requiring teams to communicate

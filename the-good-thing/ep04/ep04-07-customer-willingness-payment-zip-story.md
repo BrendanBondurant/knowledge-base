@@ -4,9 +4,6 @@ slug: ep04-07-customer-willingness-payment-zip-story
 series: The Good Thing
 episode: 4
 chunk: 7
-participants:
-  - Stefan
-  - Jens
 segment: The importance of customer willingness to pay, procurement hurdles, and the
   story of Zip's early validation
 timecode: 00:19:11:09 - 00:22:00:14
@@ -29,19 +26,10 @@ tags:
   - open-source
   - rest
   - rust
-topic_tags:
-  - startup
-  - founder
-  - open-source
 entities:
   - Stefan
   - Jens
   - Zip
-mentions:
-  - procurement software
-  - early customers
-  - building with feedback
-  - series D
 summary: Stefan and Jens discuss the critical importance of customers being willing
   to pay, share a story about a company that never committed financially, and highlight
   how Zip validated their product by getting customers to pay before the software

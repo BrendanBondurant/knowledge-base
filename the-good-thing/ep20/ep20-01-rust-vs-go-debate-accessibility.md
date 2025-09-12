@@ -4,9 +4,6 @@ slug: ep20-01-rust-vs-go-debate-accessibility
 series: The Good Thing
 episode: 20
 chunk: 1
-participants:
-  - Stefan
-  - Jens
 segment: Introduction and Programming Language Debate
 timecode: 00:00:21:00 – 00:06:28:24
 start_time: 00:00:21:00
@@ -30,21 +27,12 @@ tags:
   - query-planning
   - rest
   - startup
-topic_tags:
-  - rust
-  - go
-  - programming-languages
 entities:
   - Stefan Avram
   - Jens Neuse
   - Rust programming language
   - Go programming language
   - LinkedIn
-mentions:
-  - Jens' LinkedIn post controversy
-  - Rust vs Go performance trade-offs
-  - Developer experience differences
-  - LLM code generation impact
 summary: Stefan and Jens discuss the Rust vs Go programming language debate, sparked
   by controversy over Jens' LinkedIn post about language accessibility and the impact
   of LLM-generated code on language choice.

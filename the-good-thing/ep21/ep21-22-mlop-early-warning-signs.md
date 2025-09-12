@@ -4,9 +4,6 @@ slug: ep21-22-mlop-early-warning-signs
 series: The Good Thing
 episode: 21
 chunk: 22
-participants:
-  - Stefan
-  - Jens
 segment: Mlop Evaluation - Part 2
 timecode: 01:06:14:00 – 01:09:08:00
 start_time: 01:06:14:00
@@ -25,21 +22,11 @@ tags:
   - open-source
   - go
   - startup
-topic_tags:
-  - ai
-  - cosmo
-  - open-source
 entities:
   - Mlop
   - Stefan Avram
   - Jens Neuse
   - GitHub
-mentions:
-  - minimal GitHub commits
-  - open source strategy questions
-  - early stage development
-  - $21M investment rationale
-  - coin flip vs RIP tier debate
 summary: Stefan and Jens discover concerning GitHub activity patterns for Mlop, questioning
   their open source commitment and development progress. Despite the significant $21M
   funding round suggesting investor confidence, they debate the early warning signs

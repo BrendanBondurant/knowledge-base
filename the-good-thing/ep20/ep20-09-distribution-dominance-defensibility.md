@@ -4,9 +4,6 @@ slug: ep20-09-distribution-dominance-defensibility
 series: The Good Thing
 episode: 20
 chunk: 9
-participants:
-  - Stefan
-  - Jens
 segment: Startup Strategy and Market Position
 timecode: 00:47:02:27 – 00:51:10:03
 start_time: 00:47:02:27
@@ -25,19 +22,10 @@ tags:
   - api-design
   - go
   - llm
-topic_tags:
-  - distribution
-  - market-dominance
-  - startup-defensibility
 entities:
   - Stefan Avram
   - Jens Neuse
   - Startup ecosystem
-mentions:
-  - Distribution strategy importance
-  - Defensibility mechanisms
-  - Market positioning tactics
-  - Competitive advantage building
 summary: Discussion of how distribution dominance creates defensibility for startups,
   exploring competitive moats, platform advantages, and strategies for building sustainable
   market positions.

@@ -4,9 +4,6 @@ slug: ep18-05-cosmo-lite-open-source-funnel
 series: The Good Thing
 episode: 18
 chunk: 5
-participants:
-  - Stefan
-  - Jens
 segment: Open source strategy and managed service value
 timecode: 00:26:47:12 – 00:32:13:10
 start_time: 00:26:47:12
@@ -32,25 +29,12 @@ tags:
   - graphql-federation
   - postgres
   - startup
-topic_tags:
-  - open-source-funnel
-  - sales-cycle
-  - managed-services
 entities:
   - Lovable
   - Cosmo
   - Healthcare company
   - SoC (Security Operations Center)
   - Brendan
-mentions:
-  - Lovable web app example
-  - try this out to wow moment
-  - healthcare company staging setup
-  - closed source eight-month delay
-  - open source maintenance requirements
-  - security issues consideration
-  - Brendan's blog post on leaving open source
-  - production safety guarantees
 summary: Stefan explains how open source creates competitive advantages by shortening
   sales cycles, using healthcare company and Lovable examples where immediate trial
   access led to faster adoption. He discusses the tradeoff between offering free open

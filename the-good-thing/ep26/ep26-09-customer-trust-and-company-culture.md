@@ -4,10 +4,6 @@ slug: ep26-09-customer-trust-and-company-culture
 series: The Good Thing
 episode: 26
 chunk: 9
-participants:
-  - Stefan
-  - Jens
-  - Sam Lambert
 segment: Capital Allocation and Company Culture
 timecode: 00:39:45:10 – 00:45:00:07
 start_time: 00:39:45:10
@@ -25,22 +21,11 @@ tags:
   - api-design
   - rust
   - startup
-topic_tags:
-  - api-design
-  - rust
-  - startup
 entities:
   - PlanetScale
   - Neon
   - Databricks
   - Silicon Valley
-mentions:
-  - Managing $200M capital efficiently
-  - Neon team acquisition success
-  - Building trust-based culture
-  - Expert-led teams without micromanagement
-  - Low meeting and management overhead
-  - Subject matter experts with freedom
 summary: |
   Discussion of capital allocation challenges and PlanetScale's approach to building a high-performance culture with minimal management overhead. Covers their trust-based approach, expert-led philosophy, and thoughts on the Neon acquisition.
 ---

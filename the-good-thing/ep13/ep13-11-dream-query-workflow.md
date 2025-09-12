@@ -4,9 +4,6 @@ slug: ep13-11-dream-query-workflow
 series: The Good Thing
 episode: 13
 chunk: 11
-participants:
-  - Stefan
-  - Jens
 segment: Schema Evolution and Visualization Demo
 timecode: 00:41:28 – 00:45:02
 start_time: 00:41:28
@@ -30,9 +27,6 @@ tags:
   - graphql-federation
   - mcp
   - rest
-topic_tags:
-  - dream-query
-  - schema-evolution
 entities:
   - Employee type
   - Mermaid
@@ -42,15 +36,6 @@ entities:
   - Subgraphs
   - Family service
   - Availability service
-mentions:
-  - employee schema details
-  - federated architecture visualization
-  - Mermaid diagram generation
-  - family and availability subgraphs
-  - dream query workflow from Yelp
-  - age field addition attempt
-  - serverless cold start issues
-  - schema field missing error
 summary: Jens demonstrates schema exploration by showing the employee type details
   and successfully generates a Mermaid diagram visualizing the federated architecture.
   He introduces the "dream query workflow" concept borrowed from Yelp, attempting

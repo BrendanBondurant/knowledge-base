@@ -4,9 +4,6 @@ slug: ep11-09-supergraph-unification-strategy
 series: The Good Thing
 episode: 11
 chunk: 9
-participants:
-  - Stefan
-  - Jens
 segment: Future of API Unification
 timecode: 00:48:14:16 – 00:53:01:04
 start_time: 00:48:14:16
@@ -33,10 +30,6 @@ tags:
   - rest-connectors
   - startup
   - supergraph
-topic_tags:
-  - supergraph
-  - api-design
-  - cosmo
 entities:
   - WunderGraph
   - GraphQL Gateway
@@ -44,13 +37,6 @@ entities:
   - Dustin
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - one engineering team structure
-  - GraphQL Go tools outpost
-  - thousand REST APIs problem
-  - 2019 GraphQL Gateway
-  - directives approach rejection
-  - supergraph as fundamental piece
 summary: Jens outlines WunderGraph's strategy for API unification through supergraphs,
   explaining how organizations need to move beyond tools like Backstage to handle
   thousands of APIs. He discusses plans to simplify bringing APIs onto supergraphs

@@ -4,9 +4,6 @@ slug: ep15-04-planetscale-social-proof-and-scale
 series: The Good Thing
 episode: 15
 chunk: 4
-participants:
-  - Stefan
-  - Jens
 segment: PlanetScale Landing Page Analysis
 timecode: 00:15:17 – 00:20:38
 start_time: 00:15:17
@@ -29,22 +26,12 @@ tags:
   - mysql
   - startup
   - vitess
-topic_tags:
-  - database
-  - benchmarking
-  - startup
 entities:
   - PlanetScale
   - eBay
   - Cash App
   - Vitess
   - NVMe
-mentions:
-  - "World's fastest and most reliable relational database" claim
-  - Blazing fast NVMe drives and unlimited IOPs
-  - Tier zero database concept
-  - Cash App case study link
-  - Vitess technology mention
 summary: |
   Stefan and Jens analyze PlanetScale's dramatically simplified landing page featuring bold performance claims like "world's fastest database." They discuss the strategic targeting of technical audiences, the effective use of case studies like Cash App, and how the seemingly "ugly" design actually appeals to developers who care more about performance proof than visual polish.
 ---

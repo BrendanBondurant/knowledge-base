@@ -4,9 +4,6 @@ slug: ep16-06-managed-service-expertise-gap
 series: The Good Thing
 episode: 16
 chunk: 6
-participants:
-  - Stefan
-  - Jens
 segment: Service Delivery and Domain Expertise
 timecode: 00:26:16 – 00:31:23
 start_time: 00:26:16
@@ -28,18 +25,8 @@ tags:
   - graphql
   - graphql-federation
   - kubernetes
-topic_tags:
-  - managed-services
-  - customer-support
-  - domain-expertise
 entities:
   - Cosmo
-mentions:
-  - Following commits creates lag
-  - Missing decision-making context
-  - Trial and error learning curve
-  - Customer support obligations
-  - Education and guidance requirements
 summary: Stefan and Jens explore why simply copying code commits doesn't create a
   viable business, focusing on the knowledge gap problem. They discuss how paying
   customers require support, education, and guidance that demands deep domain expertise

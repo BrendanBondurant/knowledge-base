@@ -4,9 +4,6 @@ slug: ep11-01-series-a-purpose
 series: The Good Thing
 episode: 11
 chunk: 1
-participants:
-  - Stefan
-  - Jens
 segment: Series A Announcement and Purpose
 timecode: 00:00:24:18 – 00:06:00:22
 start_time: 00:00:24:18
@@ -27,10 +24,6 @@ tags:
   - founder
   - go
   - graphql-federation
-topic_tags:
-  - startup
-  - founder
-  - graphql-federation
 entities:
   - WunderGraph
   - Karma Ventures
@@ -40,12 +33,6 @@ entities:
   - Jens Neuse
   - Y Combinator
   - Gary Tan
-mentions:
-  - series A announcement
-  - funding celebration
-  - champagne vs wine analogy
-  - investor dilution tradeoffs
-  - bootstrapping pace limitations
 summary: Stefan and Jens announce WunderGraph's Series A funding led by Karma Ventures
   with strategic follow-on from eBay Ventures. They discuss why they chose to dilute
   equity, viewing funding as a tool rather than celebration, and explain how it accelerates

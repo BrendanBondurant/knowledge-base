@@ -4,10 +4,6 @@ slug: ep25-08-vendor-evaluation-and-tooling-tradeoffs
 series: The Good Thing
 episode: 25
 chunk: 8
-participants:
-  - Stefan Avram
-  - Jens Neuse
-  - Kevin Swiber
 segment: Tool Recommendations and Evaluation Criteria
 timecode: 00:31:06:18 – 00:35:12:21
 start_time: 00:31:06:18
@@ -27,10 +23,6 @@ tags:
   - open-source
   - go
   - startup
-topic_tags:
-  - api-design
-  - open-source
-  - startup
 entities:
   - Fortune 100 companies
   - Kong
@@ -41,15 +33,6 @@ entities:
   - SaaS control plane
   - Data plane
   - RBAC (Role-Based Access Control)
-mentions:
-  - Three vendor shortlist strategy
-  - Risk management in tool selection
-  - Open source gateway options
-  - Customer managed products
-  - Centralized control plane comfort
-  - Distributed data plane hosting
-  - Git ops workflow preferences
-  - More recommended than avoided tools
 summary: |
   Stefan and Jens discuss the value of analyst recommendations for CTOs making vendor decisions, emphasizing risk management over just good decisions. Kevin shares his approach to tool recommendations, mentioning Kong, Tyk, and Gravitee for open source options. He explains the growing trend toward SaaS control planes with distributed data planes, and highlights Zuplo's GitOps approach for specific market segments. Kevin notes he's recommended more tools than he's advised against.
 ---

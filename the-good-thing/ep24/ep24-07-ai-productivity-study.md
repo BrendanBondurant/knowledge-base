@@ -4,9 +4,6 @@ slug: ep24-07-ai-productivity-study
 series: The Good Thing
 episode: 24
 chunk: 7
-participants:
-  - Stefan
-  - Jens
 segment: AI Productivity Research Analysis
 timecode: 00:33:06:08 – 00:40:14:14
 start_time: 00:33:06:08
@@ -26,10 +23,6 @@ tags:
   - ai
   - go
   - rest
-topic_tags:
-  - ai
-  - developer-productivity
-  - research-methodology
 entities:
   - Stefan Avram
   - Jens Neuse
@@ -41,18 +34,6 @@ entities:
   - Cursor
   - Lovable
   - Google
-mentions:
-  - 19% developer slowdown claim
-  - 16 developer sample size
-  - early 2025 AI study
-  - experienced open source developers
-  - 22K stars repositories
-  - 1 million lines of code
-  - selection bias explanation
-  - statistical tools for data validation
-  - scientific journal review process
-  - headline vs actual science
-  - Google outage trolling incident
 summary: |
   Stefan and Jens critically analyze a study claiming AI tools slow developers by 19%, focusing on the problematically small sample size of 16 developers. Jens applies his psychology background to explain selection bias, proper statistical validation, and peer review standards. They critique media outlets for prioritizing clickbait headlines over scientific rigor.
 ---

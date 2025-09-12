@@ -4,9 +4,6 @@ slug: ep13-14-enable-websockets-in-ide
 series: The Good Thing
 episode: 13
 chunk: 14
-participants:
-  - Stefan
-  - Jens
 segment: IDE-Integrated Configuration and Documentation
 timecode: 00:54:22 – 00:59:01
 start_time: 00:59:01
@@ -34,10 +31,6 @@ tags:
   - startup
   - telemetry
   - websocket
-topic_tags:
-  - mcp
-  - ai
-  - cosmo-router
 entities:
   - OTEL
   - Datadog
@@ -46,15 +39,6 @@ entities:
   - Cosmo router
   - IDE
   - Absent protocol
-mentions:
-  - telemetry configuration
-  - sampling rate metrics
-  - JSON schema validation trust
-  - Datadog agent OTLP
-  - API key headers
-  - WebSocket protocol support
-  - authentication from initial payload
-  - staying in IDE workflow
 summary: Jens demonstrates configuring OTEL metrics, Datadog integration, and WebSocket
   support entirely through prompts and JSON schema validation. He emphasizes the power
   of staying in the IDE without needing to consult external documentation, as the

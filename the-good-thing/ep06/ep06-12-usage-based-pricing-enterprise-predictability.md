@@ -4,9 +4,6 @@ slug: ep06-12-usage-based-pricing-enterprise-predictability
 series: The Good Thing
 episode: 6
 chunk: 12
-participants:
-  - Stefan
-  - Jens
 segment: Usage-based pricing, enterprise needs, and predictability
 timecode: 00:36:26:27 - 00:41:07:19
 start_time: 00:36:26:27
@@ -24,21 +21,10 @@ tags:
   - ai
   - open-source
   - go
-topic_tags:
-  - startup
-  - ai
-  - open-source
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
-mentions:
-  - usage-based pricing challenges
-  - enterprise cost predictability
-  - scaling traffic costs
-  - employee count vs usage
-  - pricing model evolution
-  - customer acquisition costs
 summary: |
   Stefan and Jens discuss the pros and cons of usage-based pricing, the needs of enterprise customers, and the importance of predictability in pricing models for successful sales and adoption.
 ---

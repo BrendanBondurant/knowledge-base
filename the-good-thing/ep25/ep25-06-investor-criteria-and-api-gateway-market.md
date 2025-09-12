@@ -4,10 +4,6 @@ slug: ep25-06-investor-criteria-and-api-gateway-market
 series: The Good Thing
 episode: 25
 chunk: 6
-participants:
-  - Stefan Avram
-  - Jens Neuse
-  - Kevin Swiber
 segment: Investment Strategy and Market Positioning
 timecode: 00:23:20:19 – 00:27:14:11
 start_time: 00:23:20:19
@@ -27,10 +23,6 @@ tags:
   - startup
   - api-gateway
   - go
-topic_tags:
-  - api-gateway
-  - api-design
-  - startup
 entities:
   - Field CTO role
   - Postman
@@ -39,14 +31,6 @@ entities:
   - Microsoft Azure
   - API gateway companies
   - Electric company metaphor
-mentions:
-  - Close customer connections importance
-  - Mutual beneficial relationships
-  - Credible, relevant, differentiated criteria
-  - Cloud providers as utility companies
-  - Usage-based utility rates
-  - Higher barrier to entry
-  - Platform vs gateway distinction
 summary: |
   Kevin describes his field CTO role at Postman, emphasizing the importance of building close customer connections and being invested in their success. Jens asks about investment advice, leading Kevin to explain his criteria for evaluating API companies: credibility, relevance, and differentiation. He discusses how cloud providers have commoditized basic gateway functionality, comparing them to electric utilities, which raises the bar for new entrants who must build on top of commodity services.
 ---

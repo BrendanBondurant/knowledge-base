@@ -4,10 +4,6 @@ slug: ep25-02-enterprise-priorities-and-ai-investor-interest
 series: The Good Thing
 episode: 25
 chunk: 2
-participants:
-  - Stefan Avram
-  - Jens Neuse
-  - Kevin Swiber
 segment: Vendor vs Consulting Perspective
 timecode: 00:05:11:14 – 00:09:53:12
 start_time: 00:05:11:14
@@ -29,10 +25,6 @@ tags:
   - startup
   - api-design
   - go
-topic_tags:
-  - mcp
-  - ai
-  - rest
 entities:
   - Tyk Technologies
   - WunderGraph
@@ -43,14 +35,6 @@ entities:
   - Backend developers
   - Designers
   - Product owners
-mentions:
-  - Platform team shielding vendors from end users
-  - Cross-functional startup work
-  - Pre-sales consulting
-  - Customer's multiple initiatives
-  - No decision deals
-  - AI anxiety and curiosity in investment
-  - MCP relevance questions
 summary: |
   Jens explores the differences between vendor and consulting perspectives, noting how platform teams often shield vendors from end users. Kevin explains how his enterprise architecture background helps him understand both sides, emphasizing that vendors often forget they're just one small part of a customer's world. The discussion shifts to investor interest in AI's impact on API companies and portfolio strategies.
 ---

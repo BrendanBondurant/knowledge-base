@@ -4,9 +4,6 @@ slug: ep16-05-forking-cosmo-future-context
 series: The Good Thing
 episode: 16
 chunk: 5
-participants:
-  - Stefan
-  - Jens
 segment: Business Forking Strategy Analysis
 timecode: 00:21:10 – 00:26:16
 start_time: 00:21:10
@@ -28,19 +25,9 @@ tags:
   - go
   - graphql
   - startup
-topic_tags:
-  - code-forking
-  - business-strategy
-  - open-source-maintenance
 entities:
   - Cosmo
   - GraphQL Go Tools
-mentions:
-  - GraphQL Go Tools created in 2018
-  - Seven years of open source maintenance
-  - Passive maintainer role evolution
-  - Code copying vs business stealing distinction
-  - Multiple business aspects categorization
 summary: Jens transitions from discussing PR maintenance to the central question of
   business competition through code forking. Drawing on seven years of maintaining
   GraphQL Go Tools, he sets up a framework for analyzing what it takes to successfully

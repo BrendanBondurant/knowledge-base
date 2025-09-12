@@ -4,11 +4,6 @@ slug: ep10-02-sdk-lessons-and-federation-signal
 series: The Good Thing
 episode: 10
 chunk: 2
-participants:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
 segment: Product strategy and market signals
 timecode: 00:09:15:19 – 00:16:10:04
 start_time: 00:09:15:19
@@ -43,23 +38,12 @@ tags:
   - open-source
   - rest
   - rest-apis
-topic_tags:
-  - graphql
-  - federation
-  - cosmo
 entities:
   - WunderGraph SDK
   - Cosmo
   - GraphQL Go Tools
   - Apollo Federation
   - Netherlands Retreat
-mentions:
-  - three weeks to first customer
-  - hair on fire problem analysis
-  - federation capabilities request
-  - GraphQL go engine reuse
-  - Stefan's notebook documentation
-  - boring monolith architecture
 summary: Stefan discusses the rapid customer acquisition but notes the SDK wasn't
   solving urgent enterprise problems. Björn explains how customer feedback pointing
   toward federation capabilities became a pivotal market signal. Jens details how

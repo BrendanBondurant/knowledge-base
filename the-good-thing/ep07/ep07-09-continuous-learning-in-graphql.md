@@ -4,10 +4,6 @@ slug: ep07-09-continuous-learning-in-graphql
 series: The Good Thing
 episode: 7
 chunk: 9
-participants:
-  - Jens
-  - Sergiy
-  - David
 segment: Education and continuous learning discussion
 timecode: 00:45:32:06 – 00:51:06:19
 start_time: 00:45:32:06
@@ -32,10 +28,6 @@ tags:
   - graphql
   - query-planning
   - rest
-topic_tags:
-  - computer-science
-  - graphql
-  - apollo-graphql
 entities:
   - Computer Science
   - Git
@@ -45,13 +37,6 @@ entities:
   - Jens Neuse
   - Sergiy
   - David
-mentions:
-  - university computer science education
-  - graph theory and mathematics
-  - SVN to Git transition experience
-  - Apollo Federation directive criticism
-  - GraphQL Federation working group
-  - mathematical foundation of directives
 summary: Discussion shifts to education and continuous learning, with Sergiy reflecting
   on university computer science education and his experience migrating from SVN to
   Git. Jens introduces a critique of Apollo Federation directives, suggesting they

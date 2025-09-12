@@ -4,9 +4,6 @@ slug: ep21-23-textai-group-chatbot-analysis
 series: The Good Thing
 episode: 21
 chunk: 23
-participants:
-  - Stefan
-  - Jens
 segment: TextAI Evaluation
 timecode: 01:09:08:12 – 01:12:27:12
 start_time: 01:09:08:12
@@ -25,20 +22,10 @@ tags:
   - startup
   - api-design
   - go
-topic_tags:
-  - ai
-  - open-source
-  - startup
 entities:
   - text.ai
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - group chatbot functionality
-  - AI agent market flooding
-  - competition concerns
-  - quick evaluation
-  - RIP tier placement
 summary: Stefan and Jens quickly evaluate text.ai's group chatbot platform, expressing
   immediate concerns about competition in the oversaturated AI agent market. Consistent
   with earlier predictions about the company's poor prospects, they dismiss it rapidly

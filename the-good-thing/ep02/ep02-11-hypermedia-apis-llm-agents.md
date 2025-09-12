@@ -4,9 +4,6 @@ slug: ep02-11-hypermedia-apis-llm-agents
 series: The Good Thing
 episode: 2
 chunk: 11
-participants:
-  - Stefan
-  - Jens
 segment: Hypermedia APIs and AI Agents
 timecode: 00:43:16:25 – 00:47:02:28
 start_time: 00:43:16:25
@@ -35,22 +32,12 @@ tags:
   - llm
   - rest
   - startup
-topic_tags:
-  - ai
-  - api-design
-  - startup
 entities:
   - WunderGraph
   - GraphQL Federation
   - REST APIs
   - Hypermedia APIs
   - LLM Agents
-mentions:
-  - OpenAPI spec
-  - hypermedia links
-  - self-describing APIs
-  - agent collaboration
-  - API documentation
 summary: Jens discusses hypermedia APIs and their potential resurgence with LLM agents.
   He explains how hypermedia APIs provide self-describing capabilities that are perfect
   for AI agents to navigate, while acknowledging that for human developers, structured

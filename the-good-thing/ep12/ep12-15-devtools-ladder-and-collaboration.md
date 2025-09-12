@@ -4,9 +4,6 @@ slug: ep12-15-devtools-ladder-and-collaboration
 series: The Good Thing
 episode: 12
 chunk: 15
-participants:
-  - Stefan
-  - Jens
 segment: Devtools Business Model Analysis
 timecode: 00:54:11:28 – 00:58:19:17
 start_time: 00:54:11:28
@@ -29,10 +26,6 @@ tags:
   - graphql
   - graphql-federation
   - startup
-topic_tags:
-  - open-source
-  - cosmo
-  - federation
 entities:
   - WunderGraph SDK
   - Cosmo
@@ -40,13 +33,6 @@ entities:
   - Drizzle
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - persisted GraphQL operations
-  - three-tier adoption model
-  - enterprise tooling space
-  - backwards adoption pattern
-  - open source ORM challenges
-  - commercial vs community motivation
 summary: Stefan outlines his devtools adoption ladder theory (individual → group →
   organization) and reflects on WunderGraph SDK's failure versus Cosmo's backwards
   adoption success. Jens discusses the challenges of monetizing open source tools

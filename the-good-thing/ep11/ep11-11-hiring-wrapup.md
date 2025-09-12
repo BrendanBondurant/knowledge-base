@@ -4,9 +4,6 @@ slug: ep11-11-hiring-wrapup
 series: The Good Thing
 episode: 11
 chunk: 11
-participants:
-  - Stefan
-  - Jens
 segment: Hiring Call and Episode Conclusion
 timecode: 01:02:15:05 – 01:03:09:10
 start_time: 01:02:15:05
@@ -26,21 +23,11 @@ tags:
   - api-design
   - go
   - rest
-topic_tags:
-  - ai
-  - query-planning
-  - api-design
 entities:
   - WunderGraph
   - Dustin
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - retro meeting after podcast
-  - hiring across all fronts
-  - two team structure
-  - query planning engine team
-  - essential plumbing positioning
 summary: Stefan wraps up the episode with a hiring call, emphasizing WunderGraph is
   hiring across all fronts to build essential API plumbing. He references their Conway's
   Law structure of mostly one big team plus a small query planning engine team, and

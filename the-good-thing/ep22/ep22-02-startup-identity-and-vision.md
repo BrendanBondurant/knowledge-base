@@ -4,9 +4,6 @@ slug: ep22-02-startup-identity-and-vision
 series: The Good Thing
 episode: 22
 chunk: 2
-participants:
-  - Stefan
-  - Jens
 segment: Bell Curve Meme and Startup Strategy
 timecode: 00:07:07:05 – 00:11:01:10
 start_time: 00:07:07:05
@@ -30,20 +27,10 @@ tags:
   - llm
   - open-source
   - rest
-topic_tags:
-  - bell-curve-meme
-  - startup-vision
-  - communication-strategy
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
-mentions:
-  - bell curve intelligence meme
-  - big vision messaging
-  - startup communication evolution
-  - vision vs execution balance
-  - company maturity phases
 summary: Jens uses the bell curve meme to explain startup communication strategy -
   very early and very mature companies both focus on simple, direct messaging, while
   middle-stage companies often overcomplicate with grand vision statements. He reflects

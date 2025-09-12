@@ -4,10 +4,6 @@ slug: ep26-11-open-source-collaboration-and-safety
 series: The Good Thing
 episode: 26
 chunk: 11
-participants:
-  - Stefan
-  - Jens
-  - Sam Lambert
 segment: Open Source Maintenance and Community Collaboration
 timecode: 00:51:13:19 – 00:56:07:15
 start_time: 00:51:13:19
@@ -30,10 +26,6 @@ tags:
   - go
   - mysql
   - vitess
-topic_tags:
-  - postgres
-  - open-source
-  - vitess
 entities:
   - Vitess
   - PlanetScale
@@ -43,13 +35,6 @@ entities:
   - Uber
   - MIT
   - GPL
-mentions:
-  - Open source as human achievement
-  - Internal Vitess and MySQL forks
-  - Platform-specific modifications
-  - Uber's significant contributions
-  - Consultation on large changes
-  - Postgres and Mongo compatibility discussions
 summary: |
   Discussion of open source philosophy and the responsibilities of maintaining large-scale projects like Vitess. Covers how PlanetScale manages internal forks while contributing upstream, and their approach to community collaboration with companies like Uber, Slack, and others.
 ---

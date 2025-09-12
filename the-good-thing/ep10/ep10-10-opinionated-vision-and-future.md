@@ -4,11 +4,6 @@ slug: ep10-10-opinionated-vision-and-future
 series: The Good Thing
 episode: 10
 chunk: 10
-participants:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
 segment: Vision execution and episode conclusion
 timecode: 01:01:55:15 – 01:05:53:27
 start_time: 01:01:55:15
@@ -30,23 +25,11 @@ tags:
   - go
   - graphql
   - open-source
-topic_tags:
-  - graphql
-  - open-source
-  - startup
 entities:
   - WunderGraph
   - GraphQL
   - Apache 2.0
   - The Good Thing Podcast
-mentions:
-  - SDK evolution return
-  - GraphQL as byte code
-  - growth stage challenges
-  - engineering-first support
-  - January podcast start
-  - first live recording
-  - open source knowledge sharing
 summary: Dustin explains how GraphQL will evolve as a meta language while expanding
   beyond protocol limitations. Björn discusses company growth challenges while preserving
   engineering DNA and customer-focused communication. Stefan concludes the milestone

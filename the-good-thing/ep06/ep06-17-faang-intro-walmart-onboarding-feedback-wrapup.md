@@ -4,9 +4,6 @@ slug: ep06-17-faang-intro-walmart-onboarding-feedback-wrapup
 series: The Good Thing
 episode: 6
 chunk: 17
-participants:
-  - Jens
-  - Stefan
 segment: FAANG intro, Walmart, onboarding, feedback, and episode wrap-up
 timecode: 01:03:21:19 - 01:09:27:19
 start_time: 01:03:21:19
@@ -33,23 +30,12 @@ tags:
   - query-planning
   - rust
   - telemetry
-topic_tags:
-  - startup
-  - federation
-  - graphql
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
   - FAANG companies
   - Walmart
-mentions:
-  - FAANG company introductions
-  - Walmart partnership experience
-  - customer onboarding process
-  - feedback collection methods
-  - startup journey reflections
-  - product success metrics
 ---
 
 01:03:21:19 - 01:09:27:19

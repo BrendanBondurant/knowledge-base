@@ -4,9 +4,6 @@ slug: ep13-04-ai-raises-bar-b2b-impact
 series: The Good Thing
 episode: 13
 chunk: 4
-participants:
-  - Stefan
-  - Jens
 segment: B2B Transformation and Team Efficiency
 timecode: 00:11:22 – 00:14:46
 start_time: 00:11:22
@@ -19,29 +16,10 @@ topics:
   - Competitive Advantage
   - Hiring Policies
   - Team Efficiency
-topic_tags:
-  - ai
-  - benchmarking
-  - startup
-topic_tags:
-  - b2b-transformation
-  - team-efficiency
-  - competitive-advantage
-  - hiring-policies
-  - small-teams
-  - ai-empowerment
-  - communication-complexity
 entities:
   - Shopify
   - Cursor
   - Toby (Tobias Lütke)
-mentions:
-  - self-directed learning mandate
-  - sharing AI learnings
-  - B2B disruption potential
-  - two pizza team concept
-  - existing resources optimization
-  - 7-8 developer teams
 summary: Stefan and Jens discuss how AI is transforming B2B SaaS by raising competitive
   bars and enabling smaller, more powerful teams. They analyze Shopify's mandate requiring
   teams to demonstrate why AI can't accomplish goals before requesting more headcount,

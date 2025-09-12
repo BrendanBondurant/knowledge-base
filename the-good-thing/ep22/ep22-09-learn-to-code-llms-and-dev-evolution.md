@@ -4,9 +4,6 @@ slug: ep22-09-learn-to-code-llms-and-dev-evolution
 series: The Good Thing
 episode: 22
 chunk: 9
-participants:
-  - Stefan
-  - Jens
 segment: AI Impact on Developer Education
 timecode: 00:46:23:00 – 00:54:20:00
 start_time: 00:46:23:00
@@ -32,18 +29,9 @@ tags:
   - llm
   - rest
   - rest-apis
-topic_tags:
-  - federation
-  - graphql-federation
-  - grpc
 entities:
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - coding education debate
-  - LLM learning assistance
-  - developer skill evolution
-  - AI impact on programming
 summary: Stefan and Jens debate the future of learning to code in the LLM era, discussing
   how AI assistance is changing programming education and the evolution of developer
   roles. They explore whether traditional coding skills remain essential or if the

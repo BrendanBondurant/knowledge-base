@@ -4,9 +4,6 @@ slug: ep13-01-ai-plateau-to-mcp-devtools
 series: The Good Thing
 episode: 13
 chunk: 1
-participants:
-  - Stefan
-  - Jens
 segment: Episode Introduction and AI Integration Discussion
 timecode: 00:00:24 – 00:04:02
 start_time: 00:00:24
@@ -26,22 +23,12 @@ tags:
   - api-design
   - go
   - rest
-topic_tags:
-  - ai
-  - mcp
-  - cosmo
 entities:
   - MCP (Model Context Protocol)
   - Cosmo
   - WunderGraph
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - AI plateau discussion
-  - elephant in the room (MCP)
-  - sophisticated MCP support in Cosmo
-  - dev tools space transformation
-  - dashboards and user interfaces
 summary: Stefan and Jens discuss the current AI landscape, noting a plateau in model
   capabilities but excitement around integration opportunities. They introduce MCP
   (Model Context Protocol) as a transformative technology and discuss how WunderGraph

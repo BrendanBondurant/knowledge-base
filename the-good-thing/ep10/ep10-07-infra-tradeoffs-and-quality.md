@@ -4,11 +4,6 @@ slug: ep10-07-infra-tradeoffs-and-quality
 series: The Good Thing
 episode: 10
 chunk: 7
-participants:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
 segment: Remote work benefits and company culture
 timecode: 00:43:45:01 – 00:50:31:01
 start_time: 00:43:45:01
@@ -30,24 +25,12 @@ tags:
   - go
   - rest
   - startup
-topic_tags:
-  - ai
-  - websocket
-  - founder
 entities:
   - Linear
   - Jira
   - Slack
   - WunderGraph
   - Zoom
-mentions:
-  - Linear vs Jira preference
-  - three kids under ten
-  - family separation challenges
-  - mistake-handling culture
-  - Slack misunderstandings
-  - hackathon energy comparison
-  - travel capability requirements
 summary: Dustin discusses remote work tooling choices like Linear over Jira. Stefan
   emphasizes family benefits of remote work, while Björn shares the challenges of
   balancing family presence with work focus. Björn reflects on WunderGraph's culture

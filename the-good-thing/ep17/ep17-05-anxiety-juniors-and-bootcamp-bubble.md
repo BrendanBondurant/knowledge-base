@@ -4,9 +4,6 @@ slug: ep17-05-anxiety-juniors-and-bootcamp-bubble
 series: The Good Thing
 episode: 17
 chunk: 5
-participants:
-  - Stefan
-  - Jens
 segment: Developer experience evolution and complexity
 timecode: 00:20:22 – 00:25:14
 start_time: 00:20:22
@@ -28,10 +25,6 @@ tags:
   - database
   - go
   - mysql
-topic_tags:
-  - ai
-  - postgres
-  - telemetry
 entities:
   - PHP
   - Apache
@@ -45,14 +38,6 @@ entities:
   - ClickHouse
   - OpenTelemetry
   - Cursor
-mentions:
-  - simple PHP file upload with FTP
-  - modern complex technology stack
-  - high demand for developers
-  - majority being non-senior developers
-  - vibe coding without understanding
-  - security vulnerabilities in AI-generated code
-  - carpenter apprenticeship analogy
 summary: Jens discusses how development has become exponentially more complex compared
   to simple PHP/Apache setups, while the majority of developers now have less than
   3 years of experience. He expresses concern about junior developers using AI tools

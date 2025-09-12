@@ -4,11 +4,6 @@ slug: ep10-04-cold-start-and-pretzel-marketing
 series: The Good Thing
 episode: 10
 chunk: 4
-participants:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
 segment: Marketing strategy and conference tactics
 timecode: 00:22:37:11 – 00:29:05:17
 start_time: 00:22:37:11
@@ -34,10 +29,6 @@ tags:
   - graphql
   - rest
   - startup
-topic_tags:
-  - federation
-  - graphql-federation
-  - startup
 entities:
   - Cosmo
   - Apollo
@@ -45,14 +36,6 @@ entities:
   - San Francisco
   - Berkeley
   - Walmart
-mentions:
-  - Apollo's $100M funding advantage
-  - orange spacesuit cosmonaut
-  - TV rental workaround
-  - GraphQL logo pretzels
-  - Mario Kart booth strategy
-  - graveyard shift talk
-  - 35 calls in one week
 summary: Stefan and Jens discuss the transition from technical to business thinking
   and the extreme cold start challenges facing Cosmo against well-funded Apollo. Stefan
   details their creative GraphQL Conf strategy including the cosmonaut spacesuit,

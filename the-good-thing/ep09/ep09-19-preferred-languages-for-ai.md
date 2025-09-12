@@ -4,9 +4,6 @@ slug: ep09-19-preferred-languages-for-ai
 series: The Good Thing
 episode: 9
 chunk: 19
-participants:
-  - Jens
-  - Cameron
 segment: Programming language preferences
 timecode: 01:08:06:01 – 01:10:31:19
 start_time: 01:08:06:01
@@ -23,13 +20,6 @@ tags:
   - go
   - typescript
   - python
-topic_tags:
-  - go-language
-  - typescript
-  - python
-  - cpp
-  - ai-ecosystems
-  - language-preferences
 entities:
   - Go
   - TypeScript
@@ -39,13 +29,6 @@ entities:
   - Scala
   - Spring Boot
   - Java
-mentions:
-  - Go simplicity and readability
-  - TypeScript type safety
-  - AI ecosystem tool availability
-  - model tracking limitations
-  - Kotlin and Scala usage
-  - Java avoidance preference
 summary: Jens advocates for Go's simplicity and readability in AI code generation,
   while Cameron agrees on TypeScript for web development but prefers Python or C++
   for AI backends due to ecosystem tool availability. They discuss the limitations

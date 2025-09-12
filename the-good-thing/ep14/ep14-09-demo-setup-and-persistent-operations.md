@@ -4,10 +4,6 @@ slug: ep14-09-demo-setup-and-persistent-operations
 series: The Good Thing
 episode: 14
 chunk: 9
-participants:
-  - Stefan
-  - Jens
-  - Dustin
 segment: MCP Configuration and Trusted Document Management
 timecode: 00:34:58 – 00:38:24
 start_time: 00:34:58
@@ -29,10 +25,6 @@ tags:
   - go
   - graphql
   - rust
-topic_tags:
-  - demo-setup
-  - persistent-operations
-  - trusted-documents
 entities:
   - MCP server
   - Trusted documents
@@ -41,16 +33,6 @@ entities:
   - Find employees operation
   - GraphQL mutations
   - JSON schema
-mentions:
-  - operations directory storage
-  - MCP endpoint path defaults
-  - graph name suffix configuration
-  - full schema exposure options
-  - arbitrary operation execution
-  - mutation exclusion for safety
-  - domain vs localhost hosting
-  - search filters for employees
-  - comment incorporation into schema
 summary: Dustin demonstrates MCP server configuration, showing how to set up storage
   providers for trusted documents, configure ports and endpoints, and manage safety
   options like excluding mutations. He introduces the find employees operation as

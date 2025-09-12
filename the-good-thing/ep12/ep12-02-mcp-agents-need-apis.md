@@ -4,9 +4,6 @@ slug: ep12-02-mcp-agents-need-apis
 series: The Good Thing
 episode: 12
 chunk: 2
-participants:
-  - Stefan
-  - Jens
 segment: AI Market Analysis and API Necessity
 timecode: 00:02:13:24 – 00:06:13:28
 start_time: 00:02:13:24
@@ -26,10 +23,6 @@ tags:
   - go
   - rest
   - rust
-topic_tags:
-  - mcp
-  - ai
-  - api-design
 entities:
   - Anthropic
   - ChatGPT
@@ -38,13 +31,6 @@ entities:
   - Nvidia
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - dotcom boom comparison
-  - cloud and mobile shifts
-  - AI rebranding wave
-  - MCP as AI needing APIs
-  - AI in a box is useless
-  - Cursor with file system access
 summary: Discussion of technology wave patterns from dotcom to cloud to mobile to
   AI, with every company rebranding as AI. Jens explains MCP (Model Context Protocol)
   as proof that AI is useless without API access, comparing ChatGPT in a box to how

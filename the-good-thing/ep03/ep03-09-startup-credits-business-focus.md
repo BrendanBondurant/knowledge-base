@@ -4,9 +4,6 @@ slug: ep03-09-startup-credits-business-focus
 series: The Good Thing
 episode: 3
 chunk: 09
-participants:
-  - Stefan
-  - Dustin
 segment: Discussion of startup credits and the importance of business focus over technical
   coolness
 timecode: 00:37:00:14 - 00:42:32:14
@@ -31,10 +28,6 @@ tags:
   - open-source
   - rest
   - telemetry
-topic_tags:
-  - startup
-  - business-focus
-  - customer-value
 entities:
   - Stefan
   - Dustin
@@ -42,13 +35,6 @@ entities:
   - AWS
   - Railway
   - WunderGraph
-mentions:
-  - startup credits
-  - GCP
-  - AWS
-  - business focus
-  - customer value
-  - technical coolness
 summary: Dustin mentions GCP startup credits as a motivation for choosing GCP. Stefan
   shares tips about using cloud provider competition to get more credits and discusses
   the importance of focusing on business value and customer problems rather than building

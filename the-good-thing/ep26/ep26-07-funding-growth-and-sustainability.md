@@ -4,10 +4,6 @@ slug: ep26-07-funding-growth-and-sustainability
 series: The Good Thing
 episode: 26
 chunk: 7
-participants:
-  - Stefan
-  - Jens
-  - Sam Lambert
 segment: VC Funding and Sustainable Growth Models
 timecode: 00:29:10:01 – 00:34:21:20
 start_time: 00:29:10:01
@@ -25,21 +21,10 @@ tags:
   - ai
   - api-design
   - startup
-topic_tags:
-  - ai
-  - api-design
-  - startup
 entities:
   - PlanetScale
   - Amazon
   - Domino's
-mentions:
-  - Quarterly surplus reinvestment
-  - Amazon's competing product underperformance
-  - User growth vs revenue metrics
-  - Free pizza analogy for unsustainable growth
-  - Fastest growing companies staying small
-  - Database user account economics
 summary: |
   Discussion of PlanetScale's approach to sustainable growth, criticizing bought growth through free offerings, and explaining their philosophy of building a profitable business that can compete effectively against much larger competitors through efficiency rather than headcount.
 ---

@@ -4,9 +4,6 @@ slug: ep02-01-intro-retreat-norway
 series: The Good Thing
 episode: 2
 chunk: 1
-participants:
-  - Stefan
-  - Jens
 segment: Episode Introduction and Alta Retreat
 timecode: 00:00:24:25 – 00:04:43:28
 start_time: 00:00:24:25
@@ -25,9 +22,6 @@ tags:
   - ai
   - go
   - rest
-topic_tags:
-  - startup
-  - founder
 entities:
   - The Good Thing
   - Alta, Norway
@@ -36,12 +30,6 @@ entities:
   - Bjorn
   - Suvij
   - Nithin
-mentions:
-  - flu recovery
-  - dog sledding
-  - snowmobiling
-  - remote company
-  - team activities
 summary: Stefan and Jens introduce episode 2, apologizing for missing the previous
   two weeks due to Stefan's flu and their annual retreat. They discuss their recent
   retreat in Alta, Norway, sharing experiences from dog sledding with Alaskan huskies

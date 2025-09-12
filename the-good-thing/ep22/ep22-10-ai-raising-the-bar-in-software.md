@@ -4,9 +4,6 @@ slug: ep22-10-ai-raising-the-bar-in-software
 series: The Good Thing
 episode: 22
 chunk: 10
-participants:
-  - Stefan
-  - Jens
 segment: AI Impact on Software Standards
 timecode: 00:54:20:00 – 01:03:02:15
 start_time: 00:54:20:00
@@ -28,18 +25,9 @@ tags:
   - rest
   - startup
   - typescript
-topic_tags:
-  - ai
-  - cosmo
-  - kubernetes
 entities:
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - quality standard improvements
-  - developer value changes
-  - complexity evolution
-  - AI-driven expectations
 summary: Stefan and Jens explore how AI is raising the bar for software quality and
   changing the value proposition for developers. They discuss the evolution of engineering
   complexity and how AI tools are shifting expectations for what constitutes good

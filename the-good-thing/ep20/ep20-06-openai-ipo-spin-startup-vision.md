@@ -4,9 +4,6 @@ slug: ep20-06-openai-ipo-spin-startup-vision
 series: The Good Thing
 episode: 20
 chunk: 6
-participants:
-  - Stefan
-  - Jens
 segment: OpenAI Business Strategy and Startup Ecosystem
 timecode: 00:29:01:11 – 00:34:07:22
 start_time: 00:29:01:11
@@ -26,20 +23,11 @@ tags:
   - go
   - llm
   - rest-connectors
-topic_tags:
-  - openai
-  - ipo
-  - startup-ecosystem
 entities:
   - OpenAI
   - Stefan Avram
   - Jens Neuse
   - Startup ecosystem
-mentions:
-  - OpenAI IPO speculation
-  - Vision-funded startups
-  - AI market dynamics
-  - Startup valuation trends
 summary: Discussion of OpenAI's potential IPO and its impact on the vision-funded
   startup ecosystem, exploring how AI company valuations and business models are reshaping
   startup funding strategies.

@@ -4,10 +4,6 @@ slug: ep14-07-benefits-of-mcp-for-graphql
 series: The Good Thing
 episode: 14
 chunk: 7
-participants:
-  - Stefan
-  - Jens
-  - Dustin
 segment: GraphQL API Advantages with MCP Integration
 timecode: 00:27:17 – 00:31:08
 start_time: 00:27:17
@@ -35,10 +31,6 @@ tags:
   - graphql-federation
   - llm
   - rust
-topic_tags:
-  - mcp-benefits
-  - graphql-api
-  - ai-discovery
 entities:
   - GraphQL API
   - MCP protocol
@@ -48,15 +40,6 @@ entities:
   - Claude
   - Cursor
   - JSON schema
-mentions:
-  - algorithmic JSON schema generation
-  - AST parsing and testing
-  - 80/20 vibe coding validation
-  - federation data aggregation
-  - employee data exposure control
-  - schema comment incorporation
-  - minimal configuration requirements
-  - bank information privacy
 summary: 'Jens emphasizes using deterministic algorithms rather than LLMs for JSON
   schema generation, ensuring testable and reliable results. Dustin outlines four
   key MCP benefits for GraphQL APIs: AI discovery through protocol capabilities, operation

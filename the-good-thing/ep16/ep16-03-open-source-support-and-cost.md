@@ -4,9 +4,6 @@ slug: ep16-03-open-source-support-and-cost
 series: The Good Thing
 episode: 16
 chunk: 3
-participants:
-  - Stefan
-  - Jens
 segment: Open Source Business Model Discussion
 timecode: 00:09:15 – 00:14:09
 start_time: 00:09:15
@@ -30,20 +27,10 @@ tags:
   - query-planning
   - rest
   - startup
-topic_tags:
-  - open-source-business
-  - developer-tools
-  - enterprise-features
 entities:
   - Nginx
   - Tyk
   - WunderGraph
-mentions:
-  - Developer tool companies needing open source
-  - Nginx Pro adoption challenges
-  - Tyk's core gateway vs management dashboard strategy
-  - Open source collaboration invitation
-  - Long-term planning requirements for open source
 summary: Stefan and Jens discuss how successful developer tool companies often need
   open source strategies to invite collaboration. They analyze different approaches
   like Nginx's failed enterprise model and Tyk's successful separation of open source

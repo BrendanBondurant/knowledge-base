@@ -4,9 +4,6 @@ slug: ep05-08-benchmarks-performance-realworld
 series: The Good Thing
 episode: 5
 chunk: 08
-participants:
-  - Stefan
-  - Jens
 segment: The pitfalls of benchmarks, performance considerations, and the importance
   of real-world use cases
 timecode: 00:45:06:11 - 00:51:27:12
@@ -36,25 +33,12 @@ tags:
   - rest
   - rust
   - telemetry
-topic_tags:
-  - graphql
-  - startup
-  - benchmarks
 entities:
   - Stefan Avram
   - Jens Neuse
   - GraphQL
   - Super Bowl
   - WunderGraph
-mentions:
-  - benchmark pitfalls
-  - synthetic vs real-world performance
-  - cache warming
-  - Super Bowl traffic
-  - autoscaling challenges
-  - cold starts
-  - macro vs micro benchmarks
-  - customer-driven optimization
 summary: Stefan and Jens discuss the pitfalls of benchmarks, the difference between
   synthetic and real-world performance, and how customer needs drive product improvement.
   They share stories about cache warming for Super Bowl traffic, the importance of

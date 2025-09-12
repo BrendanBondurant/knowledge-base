@@ -4,10 +4,6 @@ slug: ep25-09-apis-as-plumbing-and-mcp-dependence
 series: The Good Thing
 episode: 25
 chunk: 9
-participants:
-  - Stefan Avram
-  - Jens Neuse
-  - Kevin Swiber
 segment: APIs as Infrastructure and MCP Reality
 timecode: 00:35:12:21 – 00:39:30:26
 start_time: 00:35:12:21
@@ -27,10 +23,6 @@ tags:
   - ai
   - api-design
   - go
-topic_tags:
-  - graphql
-  - mcp
-  - ai
 entities:
   - HVAC and plumbing convention
   - Bachelor party
@@ -39,14 +31,6 @@ entities:
   - Client-server architecture
   - Network infrastructure
   - Digital systems
-mentions:
-  - Physical building plumbing parallel
-  - Every digital system has plumbing
-  - GraphQL still being an API
-  - MCP servers becoming API consumers
-  - Network distribution necessitating APIs
-  - Connected cloud world reality
-  - API proliferation management need
 summary: |
   Stefan shares a humorous story about attending an HVAC convention during a bachelor party, leading to the realization that APIs are like digital plumbing - every system has them. Kevin reinforces this, explaining how even attempts to escape APIs (like GraphQL or MCP) ultimately create more APIs. He emphasizes that distributed systems over networks inevitably become APIs, and the solution isn't avoiding APIs but better managing their proliferation in our connected world.
 ---

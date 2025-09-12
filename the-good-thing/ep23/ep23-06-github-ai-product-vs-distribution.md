@@ -4,9 +4,6 @@ slug: ep23-06-github-ai-product-vs-distribution
 series: The Good Thing
 episode: 23
 chunk: 6
-participants:
-  - Stefan
-  - Jens
 segment: Platform Strategy Analysis
 timecode: 00:33:14:00 – 00:39:06:00
 start_time: 00:33:14:00
@@ -26,19 +23,10 @@ tags:
   - go
   - rest
   - startup
-topic_tags:
-  - ai
-  - github-copilot
-  - founder
 entities:
   - GitHub
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - distribution advantages
-  - GitHub AI features
-  - development impact
-  - competitive positioning
 summary: Stefan and Jens examine the tension between product quality and distribution
   advantages, focusing on GitHub's AI integrations and their impact on developer workflows
   and competitive positioning in the AI-powered development tools market.

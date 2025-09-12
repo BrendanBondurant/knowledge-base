@@ -4,9 +4,6 @@ slug: ep04-14-vc-bets-future-peace-energy-software
 series: The Good Thing
 episode: 4
 chunk: 14
-participants:
-  - Stefan
-  - Jens
 segment: Where would you invest as a VC, predictions for the future, peace, green
   energy, and the future of software
 timecode: 01:06:02:25 - 01:13:55:27
@@ -29,23 +26,10 @@ tags:
   - federation
   - go
   - graphql-federation
-topic_tags:
-  - startup
-  - ai
-  - federation
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
-mentions:
-  - VC investment strategies
-  - future predictions
-  - peace initiatives
-  - green energy transition
-  - software impact on humanity
-  - collaboration platforms
-  - company mission
-  - episode wrap-up
 summary: Stefan and Jens discuss where they would invest as VCs, share predictions
   for the future including peace and green energy, and reflect on the importance of
   software and collaboration for humanity. They close the episode with thoughts on

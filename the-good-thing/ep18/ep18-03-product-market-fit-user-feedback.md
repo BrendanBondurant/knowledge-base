@@ -4,9 +4,6 @@ slug: ep18-03-product-market-fit-user-feedback
 series: The Good Thing
 episode: 18
 chunk: 3
-participants:
-  - Stefan
-  - Jens
 segment: Understanding product-market fit dynamics
 timecode: 00:13:08:16 – 00:20:00:05
 start_time: 00:13:08:16
@@ -26,20 +23,8 @@ tags:
   - founder
   - go
   - rest
-topic_tags:
-  - product-market-fit
-  - sales-strategy
-  - customer-listening
 entities:
   - TAB (Technical Advisory Board)
-mentions:
-  - owning your stuff and not blaming people
-  - layoffs meaning plan didn't align with reality
-  - pushing solution into market
-  - marketing and sales investment requirements
-  - everything feels off without PMF
-  - deals taking forever
-  - listening vs forcing solutions down throats
 summary: Jens emphasizes founder accountability for strategy failures, noting that
   layoffs often signal misalignment between plans and reality. He describes the feeling
   of lacking product-market fit as everything being "off" - deals take forever, growth

@@ -4,10 +4,6 @@ slug: ep14-11-building-employee-app-with-mcp
 series: The Good Thing
 episode: 14
 chunk: 11
-participants:
-  - Stefan
-  - Jens
-  - Dustin
 segment: Live App Generation with MCP Integration
 timecode: 00:43:18 – 00:47:01
 start_time: 00:43:18
@@ -28,10 +24,6 @@ tags:
   - go
   - graphql
   - llm
-topic_tags:
-  - mcp
-  - ai
-  - cosmo-router
 entities:
   - MCP Inspector
   - Next.js
@@ -39,16 +31,6 @@ entities:
   - Cursor
   - Cosmo Studio
   - LLM
-mentions:
-  - anti-hallucination prompt instructions
-  - no mock data or fake endpoints
-  - focus on exposed tool integration
-  - JSON schema structure reflection
-  - HTTP request endpoint details
-  - 30-second generation time
-  - tool exploration interface
-  - developer background requirements
-  - Tailwind CSS styling
 summary: Dustin demonstrates the complete MCP workflow, using MCP Inspector to show
   available tools and their JSON schema structures. He runs a carefully crafted prompt
   that prevents hallucination by instructing the LLM to avoid mock data and focus

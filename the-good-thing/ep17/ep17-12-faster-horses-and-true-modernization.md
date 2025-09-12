@@ -4,9 +4,6 @@ slug: ep17-12-faster-horses-and-true-modernization
 series: The Good Thing
 episode: 17
 chunk: 12
-participants:
-  - Stefan
-  - Jens
 segment: Episode conclusion with Henry Ford analogy
 timecode: 00:56:05 – 00:57:02
 start_time: 00:56:05
@@ -24,20 +21,9 @@ tags:
   - ai
   - cosmo
   - go
-topic_tags:
-  - henry-ford-quote
-  - customer-needs
-  - modernization
 entities:
   - Henry Ford
   - Cosmo
-mentions:
-  - faster horses vs car analogy
-  - companies wanting faster developers
-  - move faster and break less
-  - modernize stack requests
-  - live vs recorded format
-  - episode wrap-up
 summary: Stefan concludes with Henry Ford's famous quote about customers wanting faster
   horses instead of cars, drawing a parallel to how companies ask for faster developers
   when they actually need true modernization through Cosmo's collaboration platform.

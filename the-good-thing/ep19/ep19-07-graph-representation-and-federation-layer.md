@@ -4,10 +4,6 @@ slug: ep19-07-graph-representation-and-federation-layer
 series: The Good Thing
 episode: 19
 chunk: 7
-participants:
-  - Stefan
-  - Robert Farr
-  - Jens
 segment: Graph Architecture and Federation
 timecode: 00:32:32 – 00:37:10
 start_time: 00:32:32
@@ -35,20 +31,12 @@ tags:
   - monolith
   - rest
   - startup
-topic_tags:
-  - graphql
-  - federation
 entities:
   - Robert Farr
   - Stefan Avram
   - Jens Neuse
   - Procore
   - GraphQL
-mentions:
-  - Graph vs GraphQL conceptual differences
-  - Hypermedia interface patterns
-  - Internal federation experiences
-  - Graph representation challenges
 summary: Exploration of graph representations beyond GraphQL, discussing hypermedia
   as a graph interface and Robert's insights from Procore's internal federation implementation
   journey.

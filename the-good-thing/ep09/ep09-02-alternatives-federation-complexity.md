@@ -4,9 +4,6 @@ slug: ep09-02-alternatives-federation-complexity
 series: The Good Thing
 episode: 9
 chunk: 2
-participants:
-  - Jens
-  - Cameron
 segment: Federation alternatives discussion
 timecode: 00:04:17:01 – 00:08:36:13
 start_time: 00:04:17:01
@@ -33,22 +30,11 @@ tags:
   - rest
   - rest-apis
   - startup
-topic_tags:
-  - bff-pattern
-  - microservices
-  - api-design
 entities:
   - SoundCloud
   - GraphQL Federation
   - REST APIs
   - Backend for Frontend
-mentions:
-  - frontend making multiple API calls
-  - account service and billing service
-  - microservice-to-microservice communication
-  - SoundCloud BFF usage
-  - contract testing matrix
-  - breaking dependencies
 summary: Cameron and Jens discuss alternatives to GraphQL Federation, including client-side
   federation with multiple API calls and backend federation approaches. They explore
   the complexity of Backend for Frontend (BFF) patterns, using SoundCloud as an example,

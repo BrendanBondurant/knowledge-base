@@ -4,9 +4,6 @@ slug: ep08-03-infra-vs-collaboration-and-pricing
 series: The Good Thing
 episode: 8
 chunk: 3
-participants:
-  - Stefan
-  - Jens
 segment: Business model differentiation and ecosystem strategy
 timecode: 00:19:15:04 – 00:27:51:12
 start_time: 00:19:15:04
@@ -35,10 +32,6 @@ tags:
   - open-source
   - query-planning
   - rest
-topic_tags:
-  - federation
-  - startup
-  - cosmo
 entities:
   - Prisma
   - Vercel
@@ -51,14 +44,6 @@ entities:
   - Jeff Bezos
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - cache warmer Super Bowl traffic
-  - breaking change detection
-  - schema checks and playground
-  - collaborative value add-ons
-  - procurement officer insights
-  - post-Covid remote collaboration
-  - your margin is my opportunity quote
 summary: |
   Analysis of why Cosmo generates 100x more revenue than their previous SDK, focusing on impact radius (multi-team vs single-team solutions) and infrastructure vs collaboration value. Discussion covers pricing model insights from procurement officers who prioritize collaboration tools over infrastructure, leading to per-seat pricing strategies for enterprise adoption.
 ---

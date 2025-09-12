@@ -4,9 +4,6 @@ slug: ep21-04-thundercode-feedback-and-pivo
 series: The Good Thing
 episode: 21
 chunk: 4
-participants:
-  - Stefan
-  - Jens
 segment: ThunderCode Evaluation - Part 2
 timecode: 00:10:08:18 – 00:13:06:12
 start_time: 00:10:08:18
@@ -25,23 +22,12 @@ tags:
   - founder
   - go
   - rest
-topic_tags:
-  - thundercode
-  - product-criticism
-  - early-stage
 entities:
   - ThunderCode
   - Stefan Avram
   - Jens Neuse
   - Y Combinator
   - Postman
-mentions:
-  - horrible UI criticism
-  - selling to decision makers not developers
-  - book a demo requirement
-  - QA automation comparison
-  - RIP tier placement
-  - smart founders can pivot
 summary: Stefan and Jens continue their ThunderCode evaluation, criticizing the poor
   UI and questioning the target customer messaging that focuses on developers rather
   than decision makers. They note this is a very early-stage startup not part of Y

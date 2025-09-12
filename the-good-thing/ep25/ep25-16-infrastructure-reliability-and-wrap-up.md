@@ -4,10 +4,6 @@ slug: ep25-16-infrastructure-reliability-and-wrap-up
 series: The Good Thing
 episode: 25
 chunk: 16
-participants:
-  - Stefan Avram
-  - Jens Neuse
-  - Kevin Swiber
 segment: Episode Conclusion and Next Week Preview
 timecode: 01:05:30:07 – 01:07:28:16
 start_time: 01:05:30:07
@@ -28,10 +24,6 @@ tags:
   - go
   - kubernetes
   - startup
-topic_tags:
-  - database
-  - kubernetes
-  - startup
 entities:
   - GCP Kubernetes
   - Vendor Slack notifications
@@ -41,16 +33,6 @@ entities:
   - Google Cloud Platform
   - Twitter drama
   - Database vendors
-mentions:
-  - Boring tools comfort and stability
-  - 2 AM infrastructure failures
-  - Weekly Slack vendor notifications
-  - Customer service downtime calls
-  - Vendor notification failures
-  - PlanetScale 100% uptime claims
-  - Twitter database vendor drama
-  - Morning coffee suggestion
-  - Easier recording time promise
 summary: |
   Kevin emphasizes that boring infrastructure provides comfort because exciting tools often introduce breaking changes, and no one wants 2 AM wake-up calls from infrastructure failures. Jens shares frustration with unreliable vendors who send weekly Slack notifications about issues or fail to notify about outages entirely. Stefan wraps up the episode, thanking Kevin and previewing next week's guest Sam Lambert, CEO of PlanetScale, noting their impressive uptime record even when major cloud providers experience outages.
 ---

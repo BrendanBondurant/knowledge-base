@@ -4,9 +4,6 @@ slug: ep15-07-retool-clarity-and-flow
 series: The Good Thing
 episode: 15
 chunk: 7
-participants:
-  - Stefan
-  - Jens
 segment: Retool Landing Page Design Critique
 timecode: 00:30:17 – 00:35:11
 start_time: 00:30:17
@@ -29,18 +26,8 @@ tags:
   - python
   - rest
   - typescript
-topic_tags:
-  - graphql
-  - ai
-  - database
 entities:
   - Retool
-mentions:
-  - The best way to build internal software
-  - Dashboard visual supporting message
-  - Invisible "Book a demo" button
-  - Distracting animated elements
-  - Cool transition effects
 summary: Stefan and Jens analyze Retool's landing page, praising the immediate clarity
   of their internal software building use case supported by visual dashboards. However,
   they critique execution flaws like invisible CTA buttons, distracting animations

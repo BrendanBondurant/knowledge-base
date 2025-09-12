@@ -4,9 +4,6 @@ slug: ep15-15-wundergraph-performance-and-access
 series: The Good Thing
 episode: 15
 chunk: 15
-participants:
-  - Stefan
-  - Jens
 segment: WunderGraph Feature Benefits Analysis
 timecode: 01:08:14 – 01:13:12
 start_time: 01:08:14
@@ -35,16 +32,8 @@ tags:
   - rest-apis
   - startup
   - telemetry
-topic_tags:
-  - schema-checks
 entities:
   - WunderGraph
-mentions:
-  - Schema checks reducing QA time by 30%
-  - Feature flags enabling 68% QA time reduction
-  - Graph pruning and proposal checks
-  - Contract testing replacement benefits
-  - Customer use case presentation needs
 summary: Stefan and Jens discuss WunderGraph's powerful but underrepresented features
   like schema checks and feature flags. They emphasize the need to showcase customer
   success stories, such as 30% QA time reduction through schema checks replacing contract

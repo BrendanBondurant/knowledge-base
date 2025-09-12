@@ -4,9 +4,6 @@ slug: ep09-04-ai-access-graph-non-developers
 series: The Good Thing
 episode: 9
 chunk: 4
-participants:
-  - Jens
-  - Cameron
 segment: AI and GraphQL accessibility
 timecode: 00:13:07:13 – 00:17:04:24
 start_time: 00:13:07:13
@@ -27,21 +24,11 @@ tags:
   - graphql
   - graphql-federation
   - supergraph
-topic_tags:
-  - ai
-  - federation
-  - graphql
 entities:
   - GitHub
   - GraphQL
   - ChatGPT
   - WunderGraph
-mentions:
-  - business users querying APIs
-  - GitHub schema size (336,000 tokens)
-  - schema documentation challenges
-  - natural language interface
-  - developer schema navigation
 summary: Cameron discusses exploring AI-powered tools to make GraphQL supergraphs
   accessible to non-developers and improve developer productivity. Using GitHub's
   massive schema as an example, they explain the challenges of navigating large GraphQL

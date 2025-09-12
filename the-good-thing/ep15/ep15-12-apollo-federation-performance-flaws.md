@@ -4,9 +4,6 @@ slug: ep15-12-apollo-federation-performance-flaws
 series: The Good Thing
 episode: 15
 chunk: 12
-participants:
-  - Stefan
-  - Jens
 segment: Apollo Marketing Message Critique
 timecode: 00:54:10 – 00:59:12
 start_time: 00:54:10
@@ -30,20 +27,10 @@ tags:
   - go
   - graphql
   - rest-connectors
-topic_tags:
-  - federation
-  - graphql-federation
-  - ai
 entities:
   - Apollo
   - Kong
   - Apollo Connectors
-mentions:
-  - "Low code" vs "no code" brand inconsistency
-  - AI workflows buzzword usage
-  - "Deliver tomorrow's roadmap today" tagline
-  - Kong landing page comparison
-  - Apollo workshop messaging conflicts
 summary: |
   Stefan and Jens identify brand inconsistencies in Apollo's messaging, noting they call Apollo Connectors both "low code" and "no code" in different contexts. They critique the overuse of buzzwords like AI workflows and point out how Apollo's tagline closely resembles Kong's messaging, suggesting a lack of original positioning.
 ---

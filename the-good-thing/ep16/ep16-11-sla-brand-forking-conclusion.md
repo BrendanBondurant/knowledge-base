@@ -4,9 +4,6 @@ slug: ep16-11-sla-brand-forking-conclusion
 series: The Good Thing
 episode: 16
 chunk: 11
-participants:
-  - Stefan
-  - Jens
 segment: Enterprise Requirements and Brand Assets
 timecode: 00:51:18 – 00:56:51
 start_time: 00:51:18
@@ -28,22 +25,12 @@ tags:
   - graphql
   - open-source
   - rest
-topic_tags:
-  - sla-requirements
-  - brand-building
-  - customer-logos
 entities:
   - WunderGraph
   - eBay
   - SoundCloud
   - Apollo
   - Frankelly
-mentions:
-  - 200+ blog posts building brand and knowledge base
-  - eBay and SoundCloud customer stories
-  - Enterprise SLA complexity and learning curve
-  - Market maturity making competition tough
-  - Frankelly's message about startup innovation
 summary: 'Jens concludes the forking discussion by highlighting additional competitive
   moats: enterprise SLA complexity, brand momentum from 200+ blog posts, and valuable
   customer logos like eBay and SoundCloud. He emphasizes how brand recognition in

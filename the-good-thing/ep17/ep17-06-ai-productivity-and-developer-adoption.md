@@ -4,9 +4,6 @@ slug: ep17-06-ai-productivity-and-developer-adoption
 series: The Good Thing
 episode: 17
 chunk: 6
-participants:
-  - Stefan
-  - Jens
 segment: AI impact on developer productivity and career evolution
 timecode: 00:25:14 – 00:30:28
 start_time: 00:25:14
@@ -24,24 +21,11 @@ tags:
   - database
   - go
   - rest
-topic_tags:
-  - ai-productivity
-  - developer-evolution
-  - career-development
 entities:
   - Cursor
   - ChatGPT
   - AWS
   - FTP
-mentions:
-  - todo app bootcamp projects
-  - 10x developer productivity debate
-  - medical school continuing education
-  - stitches technique unchanged since 70s
-  - 1997 vs current development landscape
-  - 17-year technology refresh cycle
-  - FTP file upload simplicity
-  - ChatGPT AWS integration
 summary: Stefan explores the debate between AI making developers 10x more productive
   versus replacing them entirely, comparing technology's constant evolution to more
   stable fields like medicine. He notes that developers must constantly relearn everything

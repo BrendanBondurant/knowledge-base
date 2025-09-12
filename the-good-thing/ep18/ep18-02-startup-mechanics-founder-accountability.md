@@ -4,9 +4,6 @@ slug: ep18-02-startup-mechanics-founder-accountability
 series: The Good Thing
 episode: 18
 chunk: 2
-participants:
-  - Stefan
-  - Jens
 segment: Startup growth mechanics and founder responsibility
 timecode: 00:05:10:06 – 00:13:08:14
 start_time: 00:05:10:06
@@ -29,21 +26,8 @@ tags:
   - federation
   - go
   - graphql-federation
-topic_tags:
-  - startup-mechanics
-  - founder-accountability
-  - layoff-strategy
 entities:
   - Startups
-mentions:
-  - controversial layoff take
-  - bottom 20% performance cuts
-  - 50 million to 100 million ARR growth
-  - 10% growth planning
-  - runway and cash management
-  - outside capital for fast growth
-  - strategy ownership responsibility
-  - not blaming people
 summary: 'Stefan shares a controversial view that layoffs often target underperformers
   while acknowledging good employees can get caught up. Jens explains startup mechanics
   where companies use external capital to grow faster than organic profitability allows,

@@ -4,9 +4,6 @@ slug: ep05-10-rest-vs-graphql-federation-org-problems
 series: The Good Thing
 episode: 5
 chunk: 10
-participants:
-  - Stefan
-  - Jens
 segment: The outdated REST vs. GraphQL debate, federation, and solving organizational
   problems
 timecode: 00:56:05:12 - 01:06:41:00
@@ -38,25 +35,12 @@ tags:
   - rest-apis
   - startup
   - typescript
-topic_tags:
-  - graphql
-  - federation
-  - api-design
 entities:
   - Stefan Avram
   - Jens Neuse
   - GraphQL
   - REST
   - WunderGraph
-mentions:
-  - REST vs GraphQL debate
-  - federation benefits
-  - organizational problems
-  - BFF architecture
-  - microservices challenges
-  - team collaboration
-  - API versioning
-  - contract testing
 summary: Stefan and Jens discuss why the REST vs. GraphQL debate is outdated, the
   real value of federation, and how API choices often reflect organizational problems
   rather than technical ones. They explore BFF architecture, microservices, collaboration,

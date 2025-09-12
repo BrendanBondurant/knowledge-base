@@ -4,9 +4,6 @@ slug: ep24-05-working-group-doubts
 series: The Good Thing
 episode: 24
 chunk: 5
-participants:
-  - Stefan
-  - Jens
 segment: GraphQL Working Group Critique
 timecode: 00:22:01:06 – 00:28:16:05
 start_time: 00:22:01:06
@@ -31,10 +28,6 @@ tags:
   - apollo-graphql
   - go
   - rest
-topic_tags:
-  - federation
-  - graphql-federation
-  - working-groups
 entities:
   - Curtis (Uber)
   - GraphQL Foundation
@@ -46,16 +39,6 @@ entities:
   - LinkedIn
   - Twitter
   - GitHub
-mentions:
-  - Curtis's federation blog post
-  - collaborative effort claims
-  - GitHub contribution analysis
-  - Michael Staib and Pascal contributions
-  - Swiss developers leading spec
-  - trough of disillusionment
-  - market impact considerations
-  - thinking outside the box
-  - removing GraphQL dependency
 summary: |
   Stefan and Jens discuss Curtis from Uber's federation blog post and critique the GraphQL Foundation's working group. Jens reveals that despite claims of collaboration, the federation spec is primarily written by two developers from ChilliCream (Hot Chocolate), questioning whether reinventing federation is the right approach given its position in Gartner's trough of disillusionment.
 ---

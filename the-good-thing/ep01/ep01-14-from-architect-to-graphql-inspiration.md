@@ -4,9 +4,6 @@ slug: ep01-14-from-architect-to-graphql-inspiration
 series: The Good Thing
 episode: 1
 chunk: 14
-participants:
-  - Jens
-  - Stefan
 segment: Promotion Networking and Early API Design
 timecode: 00:42:46 – 00:46:53
 start_time: 00:42:46
@@ -32,10 +29,6 @@ tags:
   - kubernetes
   - rest
   - rest-apis
-topic_tags:
-  - graphql
-  - api-design
-  - federation
 entities:
   - Jens Neuse
   - Stefan Avram
@@ -47,20 +40,7 @@ entities:
   - Docker Swarm
   - Kubernetes
   - Imposters Handbook
-mentions:
-  - engineering lead promotion
-  - handmade federation
-  - GraphQL in 2015
-  - career networking
-  - backend for frontend
-summary: Jens explains how his confidence and energy landed him an architect role
-  and promotion to engineering lead in just a few years, even without senior-level
-  experience. He credits networking, dressing professionally, and reading foundational
-  books like Imposters Handbook. His interest shifted toward API architecture while
-  working on a large news platform where REST endpoints were being updated repeatedly
-  to support growing data needs. He discovered GraphQL in its early years and was
-  drawn to its simplicity compared to REST. Jens reflects on how their BFF pattern
-  functioned like handmade federation before formal GraphQL tooling existed.
+summary: Jens describes his rapid rise from architect to engineering lead within a few years, attributing it to networking, professional appearance, and continuous learning. He became fascinated with API design while leading a large news platform project that struggled to integrate data from multiple sources. Early exposure to GraphQL inspired him to explore replacing REST APIs with a query layer. He likens their BFF pattern to a handcrafted version of GraphQL federation before it existed
 ---
 
 

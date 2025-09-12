@@ -4,10 +4,6 @@ slug: ep25-13-llm-accessibility-and-enterprise-stickiness
 series: The Good Thing
 episode: 25
 chunk: 13
-participants:
-  - Stefan Avram
-  - Jens Neuse
-  - Kevin Swiber
 segment: AI Attribution and Ethics Discussion
 timecode: 00:54:27:11 – 00:58:02:20
 start_time: 00:54:27:11
@@ -33,10 +29,6 @@ tags:
   - rest
   - rest-apis
   - startup
-topic_tags:
-  - graphql
-  - mcp
-  - ai
 entities:
   - OpenAI
   - Cloudflare
@@ -45,15 +37,6 @@ entities:
   - LLMs
   - MCP (Model Context Protocol)
   - Technology adoption lifecycle
-mentions:
-  - Data source attribution problems
-  - Money filtering to original sources
-  - Scraper blocking strategies
-  - OpenAI charging considerations
-  - AI bias and ethical issues
-  - GraphQL roller coaster adoption
-  - LLM as additive technology
-  - Natural language GraphQL querying
 summary: |
   Kevin discusses the attribution problem in AI, where data sources can't be traced back for revenue sharing, leading OpenAI to capture all advertising revenue. This raises ethical questions about scraper blocking and charging AI companies for data access. The conversation shifts to GraphQL's future with LLMs, where Kevin explains that GraphQL won't be replaced but will become additive, similar to how MCP complements rather than replaces existing technologies. He notes that GraphQL can now be queried through natural language interfaces via MCP.
 ---

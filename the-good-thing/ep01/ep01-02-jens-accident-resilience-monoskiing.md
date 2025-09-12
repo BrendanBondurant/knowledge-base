@@ -4,8 +4,6 @@ slug: ep01-02-jens-accident-resilience-monoskiing
 series: The Good Thing
 episode: 1
 chunk: 2
-participants:
-  - Jens
 segment: Personal Background and Overcoming Adversity
 timecode: 00:02:32:04 – 00:06:42:11
 start_time: 00:02:32:04
@@ -22,23 +20,11 @@ tags:
   - ai
   - go
   - rest
-topic_tags:
-  - resilience
 entities:
   - Jens Neuse
   - WunderGraph
   - Mono skiing
-mentions:
-  - disability
-  - adaptive sports
-  - career change
-  - resilience
-  - knowledge work
-summary: Jens shares the story of a life-altering motorcycle accident that led to
-  multiple surgeries and changed his career trajectory. No longer able to become a
-  carpenter, he found new freedom through mono skiing—an adaptive sport using a sit-ski
-  setup. He reflects on how his experience with injury and recovery taught him resilience
-  and shaped how he approaches challenges, especially in tech.
+summary: Jens recounts a devastating motorcycle accident at 18 that left him uncertain he would walk again, requiring years of surgeries and rehabilitation. Unable to continue a carpentry career, he found a new passion in mono skiing, describing its difficulty and how it provided freedom and confidence despite physical limitations. He reflects on how this experience taught him resilience, persistence, and a unique outlook on overcoming challenges, which later shaped his career in tech
 ---
 
 

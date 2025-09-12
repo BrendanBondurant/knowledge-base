@@ -4,9 +4,6 @@ slug: ep21-17-amy-vc-automation
 series: The Good Thing
 episode: 21
 chunk: 17
-participants:
-  - Stefan
-  - Jens
 segment: Amy Evaluation - Part 1
 timecode: 00:51:00:00 – 00:54:05:27
 start_time: 00:51:00:00
@@ -24,26 +21,12 @@ tags:
   - startup
   - go
   - observability
-topic_tags:
-  - ai
-  - startup
 entities:
   - Amy
   - Stefan Avram
   - Jens Neuse
   - LinkedIn
   - VC firms
-mentions:
-  - watch list monitoring
-  - deep due diligence
-  - exit planning
-  - portfolio data analysis
-  - market mapping
-  - team evaluations
-  - meeting preparation
-  - associate task automation
-  - LinkedIn video content
-  - humanized AI naming
 summary: Stefan explains Amy's functionality based on LinkedIn videos, describing
   how it automates VC associate tasks including due diligence, portfolio management,
   and market mapping. Jens questions the unclear landing page messaging, suggesting

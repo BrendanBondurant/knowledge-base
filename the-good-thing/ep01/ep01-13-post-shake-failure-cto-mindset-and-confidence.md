@@ -4,9 +4,6 @@ slug: ep01-13-post-shake-failure-cto-mindset-and-confidence
 series: The Good Thing
 episode: 1
 chunk: 13
-participants:
-  - Jens
-  - Stefan
 segment: From Startup Shutdown to Junior Dev Ambition
 timecode: 00:39:17 – 00:42:46
 start_time: 00:39:17
@@ -27,30 +24,13 @@ tags:
   - founder
   - go
   - rest
-topic_tags:
-  - startup
-  - founder
-  - ai
 entities:
   - Jens Neuse
   - Stefan Avram
   - WunderGraph
   - Shakealert
   - Tonline
-mentions:
-  - startup to engineering transition
-  - junior developer salary in Germany
-  - selling the dream
-  - title inflation in startups
-  - bold mindset after failure
-summary: Jens describes what happened after Shakealert shut down. With new programming
-  skills and inflated confidence from running a startup, he entered the job market
-  as a junior developer. He quickly felt underpaid and began looking for better offers.
-  Despite his lack of formal experience, he applied for higher level roles and aimed
-  for 70 to 75 K salaries by presenting himself persuasively. Stefan jokes about the
-  startup effect where founders assume inflated titles like CEO or CTO too early.
-  Jens admits that he pitched roles like architect to employers who just needed someone
-  to believe in his enthusiasm and potential.
+summary: After Shakealert’s shutdown, Jens entered the workforce as a junior developer but carried startup-inflated confidence, quickly seeking higher pay and advanced roles. He applied for positions well above his experience level, landing offers up to 75K and even pitching himself for an architect role. Stefan jokes about the startup “title inflation” effect, noting how founders often claim CEO or CTO titles early. Jens credits self-presentation skills for helping him secure these opportunities
 ---
 
 

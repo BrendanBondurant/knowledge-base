@@ -4,9 +4,6 @@ slug: ep09-06-vectors-embeddings-query-mapping
 series: The Good Thing
 episode: 9
 chunk: 6
-participants:
-  - Jens
-  - Cameron
 segment: Vector databases and embeddings
 timecode: 00:21:04:01 – 00:25:32:08
 start_time: 00:21:04:01
@@ -28,10 +25,6 @@ tags:
   - federation
   - go
   - graphql-federation
-topic_tags:
-  - graphql
-  - ai
-  - cosmo
 entities:
   - GraphQL
   - Vector Database
@@ -39,13 +32,6 @@ entities:
   - Gemini
   - Claude
   - ChatGPT
-mentions:
-  - root operation types
-  - user and human similarity
-  - vector distance calculation
-  - tokenization models
-  - schema grouping by return type
-  - WunderGraph Cosmo repository example
 summary: Cameron explains the technical approach of using vector databases and embeddings
   to map natural language queries to relevant schema slices. He details how root types
   are grouped and how semantic similarity through vector distances helps identify

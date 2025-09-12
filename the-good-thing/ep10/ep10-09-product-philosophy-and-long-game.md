@@ -4,11 +4,6 @@ slug: ep10-09-product-philosophy-and-long-game
 series: The Good Thing
 episode: 10
 chunk: 9
-participants:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
 segment: Future vision and product strategy
 timecode: 00:55:13:11 – 01:01:55:12
 start_time: 00:55:13:11
@@ -36,10 +31,6 @@ tags:
   - open-source
   - rest
   - rest-apis
-topic_tags:
-  - federation
-  - ai
-  - open-source
 entities:
   - WunderGraph
   - Cosmo
@@ -48,15 +39,6 @@ entities:
   - gRPC
   - GitHub
   - Apache 2 License
-mentions:
-  - Frankfurt working space growth
-  - AI as new client type
-  - federation protocol agnostic
-  - search services integration
-  - enterprise version rejection
-  - 3 million seed funding
-  - API collaboration platform
-  - customer workflow research
 summary: Stefan reflects on the team's growth from internet strangers to a conference
   room full of people. Jens outlines WunderGraph's evolution beyond GraphQL toward
   protocol-agnostic federation, with AI as a key new client type. He reaffirms their

@@ -4,9 +4,6 @@ slug: ep03-06-cosmo-boring-tech-architecture
 series: The Good Thing
 episode: 3
 chunk: 6
-participants:
-  - Stefan
-  - Dustin
 segment: Discussion of Cosmo's boring tech architecture and infrastructure choices
 timecode: 00:21:40:13 - 00:26:46:23
 start_time: 00:21:40:13
@@ -31,10 +28,6 @@ tags:
   - graphql-federation
   - rest
   - startup
-topic_tags:
-  - cosmo
-  - kubernetes
-  - startup
 entities:
   - Stefan
   - Dustin
@@ -44,13 +37,6 @@ entities:
   - ClickHouse
   - Keycloak
   - Cloudflare
-mentions:
-  - GCP
-  - Kubernetes
-  - ClickHouse
-  - Keycloak
-  - Cloudflare Workers
-  - managed services
 summary: Dustin explains Cosmo's boring tech architecture using GCP, Kubernetes, managed
   ClickHouse, and Cloudflare Workers. They discuss the philosophy of using managed
   services and not being experts in everything except their own product, contrasting

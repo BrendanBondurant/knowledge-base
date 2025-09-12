@@ -4,9 +4,6 @@ slug: ep18-06-what-is-a-tab-how-to-run
 series: The Good Thing
 episode: 18
 chunk: 6
-participants:
-  - Stefan
-  - Jens
 segment: Technical Advisory Board structure and methodology
 timecode: 00:32:13:13 – 00:38:03:28
 start_time: 00:32:13:13
@@ -26,10 +23,6 @@ tags:
   - cosmo
   - go
   - rust
-topic_tags:
-  - technical-advisory-board
-  - customer-research
-  - product-development
 entities:
   - Technical Advisory Board (TAB)
   - Adam Frankl
@@ -38,15 +31,6 @@ entities:
   - Architects
   - Senior developers
   - Junior developers
-mentions:
-  - board of directors analogy
-  - unfiltered feedback importance
-  - Wednesday Thursday schedule
-  - six meetings per day
-  - no product showing initially
-  - junior vs CTO different problems
-  - developer marketing guru
-  - vision getting clearer
 summary: 'Stefan introduces the Technical Advisory Board concept as both a business
   tool and personal development method, emphasizing the importance of unfiltered feedback
   from trusted advisors. He describes their structured approach: 30-minute meetings

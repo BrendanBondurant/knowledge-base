@@ -4,9 +4,6 @@ slug: ep18-07-pattern-finding-user-pain-validation
 series: The Good Thing
 episode: 18
 chunk: 7
-participants:
-  - Stefan
-  - Jens
 segment: TAB methodology for pattern discovery and validation
 timecode: 00:38:04:00 – 00:44:35:22
 start_time: 00:38:04:00
@@ -29,10 +26,6 @@ tags:
   - graphql
   - graphql-federation
   - rest
-topic_tags:
-  - pattern-discovery
-  - user-research
-  - stakeholder-mapping
 entities:
   - Cosmo
   - GraphQL
@@ -40,16 +33,6 @@ entities:
   - B2C applications
   - Product owners
   - Developers
-mentions:
-  - finding real gold in conversations
-  - not asking about commuting to work
-  - B2C digital applications nature
-  - multiple teams working together
-  - stakeholder mapping process
-  - to-do list prioritization
-  - buying solution over everything else
-  - hockey stick growth point
-  - TAB exploration fun factor
 summary: 'Jens explains how to scope TAB conversations effectively by focusing on
   relevant domains like Cosmo''s federation and API space rather than unrelated areas.
   He describes their discovery process: mapping B2C application teams, identifying

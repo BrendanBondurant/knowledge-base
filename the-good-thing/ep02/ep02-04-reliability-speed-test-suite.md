@@ -4,9 +4,6 @@ slug: ep02-04-reliability-speed-test-suite
 series: The Good Thing
 episode: 2
 chunk: 4
-participants:
-  - Stefan
-  - Jens
 segment: Engineering Reliability and Testing
 timecode: 00:12:34:02 – 00:16:37:24
 start_time: 00:12:34:02
@@ -35,10 +32,6 @@ tags:
   - rest
   - startup
   - telemetry
-topic_tags:
-  - go
-  - typescript
-  - cosmo-router
 entities:
   - WunderGraph
   - Go programming language
@@ -47,12 +40,6 @@ entities:
   - React
   - PostgreSQL
   - Redis
-mentions:
-  - test suite performance
-  - end-to-end testing
-  - router architecture
-  - query planning engine
-  - gateway functionality
 summary: 'Jens discusses the balance between speed and reliability in engineering,
   emphasizing how WunderGraph invests heavily in test suite optimization. He explains
   their approach to hiring engineers, focusing on two main tracks: Go engineers for

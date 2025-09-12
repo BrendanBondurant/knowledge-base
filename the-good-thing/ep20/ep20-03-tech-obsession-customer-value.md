@@ -4,9 +4,6 @@ slug: ep20-03-tech-obsession-customer-value
 series: The Good Thing
 episode: 20
 chunk: 3
-participants:
-  - Stefan
-  - Jens
 segment: Technology Philosophy and Customer Focus
 timecode: 00:12:00:19 – 00:18:25:13
 start_time: 00:12:00:19
@@ -33,18 +30,9 @@ tags:
   - rust
   - telemetry
   - typescript
-topic_tags:
-  - tech-obsession
-  - customer-value
-  - software-complexity
 entities:
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - Technology choices and customer impact
-  - Complexity vs simplicity trade-offs
-  - Business value prioritization
-  - Pragmatic development approaches
 summary: Discussion of the tension between technology obsession and customer value
   delivery, exploring how software complexity affects business impact and the importance
   of balancing technical excellence with pragmatic, customer-focused approaches.

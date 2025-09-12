@@ -4,9 +4,6 @@ slug: ep09-12-human-touch-in-blogging
 series: The Good Thing
 episode: 9
 chunk: 12
-participants:
-  - Jens
-  - Cameron
 segment: Content creation and authenticity
 timecode: 00:43:03:19 – 00:46:35:29
 start_time: 00:43:03:19
@@ -26,20 +23,10 @@ tags:
   - go
   - graphql
   - graphql-federation
-topic_tags:
-  - authenticity
-  - ai
 entities:
   - Cursor
   - Wikipedia
   - GraphQL Federation
-mentions:
-  - federation specification research
-  - composite schema working group
-  - reporter research workflows
-  - agent tab organization
-  - blog post writing patterns
-  - structured vs human content
 summary: Cameron and Jens explore Cursor's applications beyond coding, including documentation,
   research, and content creation. Jens emphasizes the importance of authenticity in
   blogging, preferring autocompletion over agent mode for writing to maintain human

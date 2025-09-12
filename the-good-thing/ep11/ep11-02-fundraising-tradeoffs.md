@@ -4,9 +4,6 @@ slug: ep11-02-fundraising-tradeoffs
 series: The Good Thing
 episode: 11
 chunk: 2
-participants:
-  - Stefan
-  - Jens
 segment: Enterprise Customers and Strategic Value
 timecode: 00:06:00:22 – 00:12:13:29
 start_time: 00:06:00:22
@@ -27,10 +24,6 @@ tags:
   - rest
   - rust
   - telemetry
-topic_tags:
-  - startup
-  - founder
-  - ai
 entities:
   - eBay
   - WunderGraph
@@ -38,12 +31,6 @@ entities:
   - Jens Neuse
   - Parker Conrad
   - Rippling
-mentions:
-  - enterprise integration requirements
-  - brand value of public company investment
-  - fundraising as distraction from customers
-  - power law investment strategy
-  - bootstrap vs funding pace
 summary: Discussion of why WunderGraph needed additional funding for enterprise customers,
   the strategic value of eBay as both customer and investor, and the challenges of
   fundraising as a distraction from customer work. Jens reflects on the difficulty

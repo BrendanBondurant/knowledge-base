@@ -4,9 +4,6 @@ slug: ep05-11-boring-tech-vs-bigco-culture
 series: The Good Thing
 episode: 5
 chunk: 11
-participants:
-  - Stefan
-  - Jens
 segment: The value of boring tech, big company culture, and episode wrap-up
 timecode: 01:06:41:00 - 01:11:00:21
 start_time: 01:06:41:00
@@ -29,23 +26,10 @@ tags:
   - kubernetes
   - postgres
   - rest
-topic_tags:
-  - startup
-  - founder
-  - ai
 entities:
   - Stefan Avram
   - Jens Neuse
   - WunderGraph
-mentions:
-  - boring tech philosophy
-  - big company culture
-  - internal tooling complexity
-  - developer motivation factors
-  - business value focus
-  - technology choices impact
-  - layoffs discussion
-  - company focus strategies
 summary: Stefan and Jens discuss the value of boring tech, why big companies often
   build complex internal tools, and the importance of focusing on business value.
   They reflect on developer motivation, layoffs, and how choosing the right technology

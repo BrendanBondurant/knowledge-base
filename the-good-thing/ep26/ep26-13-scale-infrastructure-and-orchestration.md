@@ -4,10 +4,6 @@ slug: ep26-13-scale-infrastructure-and-orchestration
 series: The Good Thing
 episode: 26
 chunk: 13
-participants:
-  - Stefan
-  - Jens
-  - Sam Lambert
 segment: Database Company Passion and Scale Orchestration
 timecode: 01:01:10:22 – 01:05:02:25
 start_time: 01:01:10:22
@@ -27,21 +23,10 @@ tags:
   - database
   - go
   - rest
-topic_tags:
-  - startup
-  - ai
-  - database
 entities:
   - PlanetScale
   - Amazon
   - WunderGraph
-mentions:
-  - Working vicariously through customers
-  - Products used in physical world
-  - Academic vs practical database approaches
-  - 500-server cluster single-button deployment
-  - Cross-zone orchestration
-  - Unison database serving
 summary: |
   Discussion of what drives passion for database and infrastructure work, focusing on the satisfaction of seeing massive scale orchestration in action. Sam describes the thrill of watching 500 servers coordinate to serve a single database connection string.
 ---

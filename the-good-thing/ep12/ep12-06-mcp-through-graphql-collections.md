@@ -4,9 +4,6 @@ slug: ep12-06-mcp-through-graphql-collections
 series: The Good Thing
 episode: 12
 chunk: 6
-participants:
-  - Stefan
-  - Jens
 segment: MCP Implementation Strategy
 timecode: 00:18:23:27 – 00:22:42:22
 start_time: 00:18:23:27
@@ -34,10 +31,6 @@ tags:
   - observability
   - postgres
   - rest
-topic_tags:
-  - cosmo-router
-  - mcp
-  - graphql
 entities:
   - GraphQL
   - MCP
@@ -45,13 +38,6 @@ entities:
   - JSON Schema
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - GraphQL queries as MCP functions
-  - JSON schema transformation
-  - mutation control and observability
-  - no-code query collection creation
-  - API gateway limitations
-  - federation investment strategy
 summary: Jens explains WunderGraph's approach to implementing MCP through GraphQL
   query collections, providing fine-grained access control and observability. He describes
   creating no-code MCP interfaces where backend developers build subgraphs and create

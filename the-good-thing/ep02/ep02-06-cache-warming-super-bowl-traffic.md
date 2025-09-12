@@ -4,9 +4,6 @@ slug: ep02-06-cache-warming-super-bowl-traffic
 series: The Good Thing
 episode: 2
 chunk: 6
-participants:
-  - Stefan
-  - Jens
 segment: Technical Deep Dive on Cache Warming
 timecode: 00:20:13:15 – 00:25:15:13
 start_time: 00:20:13:15
@@ -32,22 +29,12 @@ tags:
   - graphql-federation
   - microservices
   - startup
-topic_tags:
-  - cache-warming
-  - federation
-  - query-planning
 entities:
   - WunderGraph
   - Super Bowl
   - GraphQL Federation
   - Query Planning Cache
   - CDN
-mentions:
-  - traffic spikes
-  - query plan cache
-  - federation complexity
-  - query planning delays
-  - cache warming solution
 summary: 'Stefan and Jens dive deep into a new cache warming feature they built for
   a major customer preparing for a Super Bowl commercial. Jens explains the technical
   challenge: when traffic spikes occur, new routers start with empty caches, causing

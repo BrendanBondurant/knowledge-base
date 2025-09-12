@@ -4,11 +4,6 @@ slug: ep10-08-realism-and-building-in-public
 series: The Good Thing
 episode: 10
 chunk: 8
-participants:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
 segment: Work-life balance and founder stress
 timecode: 00:50:31:01 – 00:55:13:11
 start_time: 00:50:31:01
@@ -29,24 +24,12 @@ tags:
   - go
   - rest
   - startup
-topic_tags:
-  - work-life-balance
-  - founder
-  - ai
 entities:
   - WunderGraph
   - Uber
   - Paramount
   - eBay
   - Google
-mentions:
-  - six kids between founders
-  - kindergarten pickup flexibility
-  - carpenter background story
-  - truck accident career change
-  - self-taught engineer path
-  - principal software engineers
-  - funding constraints benefits
 summary: Jens explains WunderGraph's results-focused rather than hours-focused culture,
   comparing the team to elite sports players with families. He reflects on working
   with senior engineers from major companies and how funding constraints forced efficiency.

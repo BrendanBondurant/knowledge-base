@@ -4,10 +4,6 @@ slug: ep19-04-api-evolution-and-rest-vs-rpc
 series: The Good Thing
 episode: 19
 chunk: 4
-participants:
-  - Stefan
-  - Robert Farr
-  - Jens
 segment: API Patterns and Evolution Strategies
 timecode: 00:15:13 – 00:21:20
 start_time: 00:15:13
@@ -34,18 +30,11 @@ tags:
   - monolith
   - rest-apis
   - startup
-topic_tags:
-  - rest
 entities:
   - Robert Farr
   - Stefan Avram
   - Jens Neuse
   - Procore
-mentions:
-  - API design evolution over time
-  - Monolithic database challenges
-  - REST vs RPC decision factors
-  - Real-world implementation trade-offs
 summary: Robert shares his evolving perspective on API design, discussing lessons
   learned from monolithic database pain points and the practical trade-offs between
   REST and RPC architectural patterns.

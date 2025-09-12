@@ -4,9 +4,6 @@ slug: ep17-03-monoliths-vs-microservices-in-practice
 series: The Good Thing
 episode: 17
 chunk: 3
-participants:
-  - Stefan
-  - Jens
 segment: Practical comparison of monolith vs microservice architectures
 timecode: 00:10:29 – 00:15:20
 start_time: 00:10:29
@@ -32,22 +29,12 @@ tags:
   - rest
   - startup
   - typescript
-topic_tags:
-  - microservices
-  - monolith
 entities:
   - Ruby on Rails
   - GitHub
   - Cosmo
   - WunderGraph
   - buf connect
-mentions:
-  - five developer team antipattern
-  - GitHub scaling with Rails
-  - companies going bankrupt from monoliths
-  - microservices complexity stories
-  - control plane architecture
-  - RPC contract generation
 summary: Jens critiques the trend of small teams adopting microservices prematurely,
   arguing that monoliths like GitHub's Rails implementation have better scaling stories
   than complex microservice architectures. He advocates for boring, problem-focused

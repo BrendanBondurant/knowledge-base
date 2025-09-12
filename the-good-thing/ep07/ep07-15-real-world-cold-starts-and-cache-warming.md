@@ -4,10 +4,6 @@ slug: ep07-15-real-world-cold-starts-and-cache-warming
 series: The Good Thing
 episode: 7
 chunk: 15
-participants:
-  - Jens
-  - Sergiy
-  - David
 segment: Production benchmarking and cache warming solutions
 timecode: 01:20:05:01 – 01:26:02:29
 start_time: 01:20:05:01
@@ -34,10 +30,6 @@ tags:
   - rest
   - rust
   - startup
-topic_tags:
-  - cache-warming
-  - cosmo
-  - graphql-federation
 entities:
   - Cosmo Router
   - WunderGraph
@@ -46,14 +38,6 @@ entities:
   - Jens Neuse
   - David
   - Sergiy
-mentions:
-  - Node.js single CPU deployment
-  - e-commerce website scaling
-  - 100,000 concurrent users
-  - query planning cache invalidation
-  - analytics warehouse integration
-  - heuristic query prioritization
-  - traffic pattern scaling
 summary: Jens explains the inherent bias in benchmarking due to configuration knowledge
   differences and critiques unrealistic lab benchmarks. He details WunderGraph's innovative
   cache warmer solution that uses analytics to pre-warm router caches with the most

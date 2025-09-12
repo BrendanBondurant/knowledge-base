@@ -4,9 +4,6 @@ slug: ep08-04-soundcloud-case-study
 series: The Good Thing
 episode: 8
 chunk: 4
-participants:
-  - Stefan
-  - Jens
 segment: SoundCloud partnership and competitive advantages
 timecode: 00:27:51:12 – 00:36:18:11
 start_time: 00:27:51:12
@@ -37,10 +34,6 @@ tags:
   - rest
   - rust
   - telemetry
-topic_tags:
-  - startup
-  - open-source
-  - case-study
 entities:
   - SoundCloud
   - Prometheus
@@ -50,15 +43,6 @@ entities:
   - WunderGraph
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - Prometheus creation by SoundCloud
-  - BFF framework development
-  - former CTO podcast appearance
-  - 86% cost reduction headline
-  - $265,000 annual AWS Fargate savings
-  - multipart upload customization
-  - business goal vs hosting goals
-  - Suit Supply retail business example
 summary: Discussion of competitive advantages through open source and customer partnerships,
   featuring SoundCloud as a premier case study. Stefan highlights SoundCloud's strong
   engineering team and their impressive cost savings, while Jens explains how customer

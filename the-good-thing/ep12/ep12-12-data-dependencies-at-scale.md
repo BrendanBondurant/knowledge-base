@@ -4,9 +4,6 @@ slug: ep12-12-data-dependencies-at-scale
 series: The Good Thing
 episode: 12
 chunk: 12
-participants:
-  - Stefan
-  - Jens
 segment: Fragment Management and Team Coordination
 timecode: 00:42:26:26 – 00:47:16:25
 start_time: 00:42:26:26
@@ -28,10 +25,6 @@ tags:
   - graphql
   - rest
   - rest-apis
-topic_tags:
-  - data-dependencies
-  - api-design
-  - graphql
 entities:
   - Relay
   - tRPC
@@ -42,13 +35,6 @@ entities:
   - WunderGraph
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - relay compiler optimization
-  - product owner change requests
-  - lint errors for unused fields
-  - teams of teams coordination
-  - REST API field removal challenges
-  - 100 frontend developers scale
 summary: Jens explains how Relay's fragment hoisting enables efficient data dependency
   management at scale, contrasting with tRPC and REST approaches. He describes how
   GraphQL fragments prevent breaking changes when UI requirements change, while REST

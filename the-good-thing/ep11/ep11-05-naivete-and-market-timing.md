@@ -4,9 +4,6 @@ slug: ep11-05-naivete-and-market-timing
 series: The Good Thing
 episode: 11
 chunk: 5
-participants:
-  - Stefan
-  - Jens
 segment: Product Timing and GraphQL Market Evolution
 timecode: 00:24:36:08 – 00:30:13:19
 start_time: 00:24:36:08
@@ -32,10 +29,6 @@ tags:
   - graphql-federation
   - llm
   - rest
-topic_tags:
-  - startup
-  - mcp
-  - graphql
 entities:
   - WunderGraph
   - Apollo
@@ -45,12 +38,6 @@ entities:
   - INNOQ
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - GraphQL Summit 2019
-  - 5 years ahead of market
-  - Apollo conference inspiration
-  - MCP model context protocol
-  - JSON RPC explanation
 summary: Discussion of how first-time founder naivety enables building products, with
   Jens reflecting on building the right thing at the wrong time and being 5 years
   ahead of market. Stefan recounts WunderGraph's origins from Jens attending GraphQL

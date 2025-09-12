@@ -4,9 +4,6 @@ slug: ep02-05-hiring-team-culture-marathon-runners
 series: The Good Thing
 episode: 2
 chunk: 5
-participants:
-  - Stefan
-  - Jens
 segment: Engineering Hiring and Team Dynamics
 timecode: 00:16:37:24 – 00:20:13:15
 start_time: 00:16:37:24
@@ -27,19 +24,10 @@ tags:
   - go
   - rest
   - telemetry
-topic_tags:
-  - startup
-  - founder
 entities:
   - WunderGraph
   - Stefan Avram
   - Jens Neuse
-mentions:
-  - team player mentality
-  - communication skills
-  - junior developers
-  - senior developers
-  - remote work
 summary: Stefan and Jens discuss WunderGraph's engineering hiring philosophy, emphasizing
   their preference for excellent team players over mythical 10x engineers. They explain
   the "marathon runners vs sprinters" analogy for remote team collaboration and their

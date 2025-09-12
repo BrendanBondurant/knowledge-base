@@ -4,9 +4,6 @@ slug: ep21-01-ai-startup-tier-list-intro
 series: The Good Thing
 episode: 21
 chunk: 1
-participants:
-  - Stefan
-  - Jens
 segment: Introduction and Game Setup
 timecode: 00:00:18:28 – 00:03:18:19
 start_time: 00:00:18:28
@@ -25,23 +22,12 @@ tags:
   - api-design
   - go
   - rest
-topic_tags:
-  - ai-startups
-  - tier-list
-  - venture-capital
 entities:
   - Stefan Avram
   - Jens Neuse
   - The Good Thing
   - Jacob (producer)
   - OpenAI
-mentions:
-  - landing page roasting episode
-  - 2025 startup tier list
-  - content producer Jacob
-  - ten AI startups
-  - Thunder code
-  - five-year prediction validation
 summary: Stefan and Jens introduce a new game format where they'll evaluate ten unknown
   AI startups using a five-tier ranking system, from "unicorn/next OpenAI" to "RIP/will
   die". They plan to revisit their predictions in five years to see how accurate their

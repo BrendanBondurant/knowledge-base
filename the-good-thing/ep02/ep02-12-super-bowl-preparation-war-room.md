@@ -4,9 +4,6 @@ slug: ep02-12-super-bowl-preparation-war-room
 series: The Good Thing
 episode: 2
 chunk: 12
-participants:
-  - Stefan
-  - Jens
 segment: Super Bowl Event Preparation
 timecode: 00:47:02:28 – 00:51:44:12
 start_time: 00:47:02:28
@@ -35,22 +32,12 @@ tags:
   - graphql-federation
   - query-planning
   - startup
-topic_tags:
-  - cache-warming
-  - observability
-  - zero-incidents
 entities:
   - WunderGraph
   - Super Bowl
   - Cache Warmer
   - Performance Monitoring
   - Customer Support
-mentions:
-  - war room setup
-  - performance monitoring
-  - cache warming
-  - customer support
-  - event preparation
 summary: Stefan and Jens discuss their preparation for a major customer's Super Bowl
   event, including setting up a war room for monitoring and support. They explain
   how the cache warmer feature will help handle traffic spikes and how they'll provide

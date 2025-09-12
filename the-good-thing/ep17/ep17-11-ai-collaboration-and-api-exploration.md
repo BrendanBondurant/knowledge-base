@@ -4,9 +4,6 @@ slug: ep17-11-ai-collaboration-and-api-exploration
 series: The Good Thing
 episode: 17
 chunk: 11
-participants:
-  - Stefan
-  - Jens
 segment: AI-powered development and federation acceleration
 timecode: 00:50:19 – 00:56:05
 start_time: 00:50:19
@@ -30,23 +27,10 @@ tags:
   - graphql-federation
   - llm
   - rest
-topic_tags:
-  - ai-collaboration
-  - cursor-adoption
-  - legacy-migration
 entities:
   - Cursor
   - WunderGraph
   - GraphQL guild
-mentions:
-  - collaboration productivity and safeguards intersection
-  - senior architects prompt development
-  - lightning speed legacy migration
-  - Friday GraphQL guild meetings
-  - seven subgraphs single query
-  - 20 API calls reduction to one
-  - AI LLM adoption trend
-  - orchestration layer need
 summary: Stefan positions their product at the intersection of collaboration, productivity,
   and safeguards while Jens observes big companies using Cursor to accelerate legacy
   migration to federation. He describes a GraphQL guild meeting where one query replaced

@@ -4,9 +4,6 @@ slug: ep05-09-micro-vs-macro-benchmarks-optimization
 series: The Good Thing
 episode: 5
 chunk: 09
-participants:
-  - Jens
-  - Stefan
 segment: The difference between micro and macro benchmarks, and the tradeoffs in code
   optimization
 timecode: 00:51:27:14 - 00:56:04:15
@@ -32,22 +29,10 @@ tags:
   - graphql
   - rest
   - startup
-topic_tags:
-  - startup
-  - graphql
-  - benchmarks
 entities:
   - Jens Neuse
   - Stefan Avram
   - WunderGraph
-mentions:
-  - micro vs macro benchmarks
-  - code optimization tradeoffs
-  - readability vs speed
-  - garbage collection impact
-  - benchmarking tools
-  - real-world performance
-  - developer experience priorities
 summary: Jens and Stefan discuss the difference between micro and macro benchmarks,
   the dangers of over-optimizing code, and the tradeoffs between readability and speed.
   They share insights on garbage collection, benchmarking tools, and why real-world

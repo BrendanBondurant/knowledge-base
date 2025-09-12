@@ -4,9 +4,6 @@ slug: ep09-17-typescript-go-rewrite-vs-rust
 series: The Good Thing
 episode: 9
 chunk: 17
-participants:
-  - Jens
-  - Cameron
 segment: Microsoft TypeScript rewrite discussion
 timecode: 01:01:20:10 – 01:04:23:25
 start_time: 01:01:20:10
@@ -27,10 +24,6 @@ tags:
   - go
   - python
   - rest
-topic_tags:
-  - typescript
-  - go
-  - rust
 entities:
   - Microsoft
   - TypeScript
@@ -40,13 +33,6 @@ entities:
   - C++
   - Java
   - Python
-mentions:
-  - Microsoft language background
-  - C/C++/C#/.NET heritage
-  - Go language characteristics
-  - compiler rewrite strategies
-  - GitHub Go usage
-  - garbage collection benefits
 summary: Cameron expresses excitement about Microsoft choosing Go over Rust for the
   TypeScript compiler rewrite, describing Go as combining the best of C++, Java, Python,
   and TypeScript. Jens explains the practical advantages of Go's similarity to C and

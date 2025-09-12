@@ -4,8 +4,6 @@ slug: ep01-11-first-startup-lessons-failure-and-flywheels
 series: The Good Thing
 episode: 1
 chunk: 11
-participants:
-  - Jens
 segment: Why the First Startup Failed
 timecode: 00:32:55 – 00:36:29
 start_time: 00:32:55
@@ -25,30 +23,12 @@ tags:
   - ai
   - go
   - rest
-topic_tags:
-  - startup
-  - founder
-  - ai
 entities:
   - Jens Neuse
   - WunderGraph
   - Shakealert
   - Instagram
-mentions:
-  - building apps without problem validation
-  - students and local deals
-  - subscription sales to restaurants
-  - go to market friction
-  - founder skill mismatch
-  - flywheel failure
-summary: Jens shares why his first startup failed. He admits he built an app just
-  to build an app rather than starting with a clear customer problem. The goal was
-  to connect students with local deals via restaurants and shops, but he avoided direct
-  sales, which turned out to be critical. When the team finally tried selling, it
-  proved nearly impossible to get local merchants to pay even 25 dollars per month.
-  They also assumed merchants would post deals themselves like on Instagram, but technical
-  and behavioral friction killed that idea. Despite getting small traction in one
-  city, the business was not scalable.
+summary: Jens analyzes why his first startup failed, admitting he focused on building an app rather than solving a validated problem. The concept was a student discount marketplace, but sales proved nearly impossible, with restaurants unwilling to pay even $25 a month. They also wrongly assumed merchants would post their own deals like on Instagram, but technical and behavioral friction prevented adoption. Even with modest traction in one city, the model wasn’t scalable
 ---
 
 

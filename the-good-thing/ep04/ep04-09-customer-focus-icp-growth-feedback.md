@@ -4,9 +4,6 @@ slug: ep04-09-customer-focus-icp-growth-feedback
 series: The Good Thing
 episode: 4
 chunk: 09
-participants:
-  - Stefan
-  - Jens
 segment: The evolution of ideal customer profile (ICP), company growth, and the importance
   of listening to users
 timecode: 00:25:32:21 - 00:29:02:26
@@ -28,21 +25,12 @@ tags:
   - apollo-graphql
   - founder
   - go
-topic_tags:
-  - startup
-  - founder
-  - api-design
 entities:
   - Stefan
   - Jens
   - Fly.io
   - Calendly
   - Apollo
-mentions:
-  - logo wall
-  - support issues
-  - company pivots
-  - customer feedback
 summary: Stefan and Jens discuss how their ideal customer profile (ICP) evolved as
   the company grew, the challenges of supporting different customer segments, and
   the importance of listening to users. They reflect on company pivots and the need

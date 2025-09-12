@@ -4,9 +4,6 @@ slug: ep01-20-prompting-programming-and-team-dynamics
 series: The Good Thing
 episode: 1
 chunk: 20
-participants:
-  - Jens
-  - Stefan
 segment: From Code to Customer and Building Together
 timecode: 01:03:28 – 01:07:15
 start_time: 01:03:28
@@ -28,10 +25,6 @@ tags:
   - rest
   - rust
   - startup
-topic_tags:
-  - graphql
-  - ai
-  - startup
 entities:
   - Jens Neuse
   - Stefan Avram
@@ -42,20 +35,7 @@ entities:
   - Lexor
   - Bytecode
   - India
-mentions:
-  - prompt engineering as programming
-  - understanding compilers
-  - building programming languages
-  - translating business to product
-  - team dynamics and trust
-summary: Jens argues that whether you are writing code or prompting an AI, both require
-  clear thinking and accurate translation of business requirements into real solutions.
-  For him, the ability to turn customer needs into working software is more valuable
-  than typing code. He encourages developers to learn fundamentals like parsing and
-  compiler design by building their own tools, noting he did this with GraphQL. More
-  than anything, he credits great teams for success, explaining that WunderGraph thrived
-  because of strong collaboration across personalities and skill sets, not just technical
-  output.
+summary: Jens argues that prompting an AI and writing code are both about translating business requirements into precise instructions, reinforcing that problem-solving matters more than syntax. He shares how building his own parsers and compilers for GraphQL deepened his understanding of programming, encouraging others to do the same. He stresses the value of teamwork, noting WunderGraph’s success came from diverse skills and strong collaboration, not just technical expertise
 ---
 
 

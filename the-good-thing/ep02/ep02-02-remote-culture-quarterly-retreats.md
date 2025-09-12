@@ -4,9 +4,6 @@ slug: ep02-02-remote-culture-quarterly-retreats
 series: The Good Thing
 episode: 2
 chunk: 2
-participants:
-  - Stefan
-  - Jens
 segment: Remote Work Culture and Team Building
 timecode: 00:04:44:00 – 00:08:36:29
 start_time: 00:04:44:00
@@ -26,9 +23,6 @@ tags:
   - ai
   - api-design
   - go
-topic_tags:
-  - startup
-  - founder
 entities:
   - WunderGraph
   - Stefan Avram
@@ -37,12 +31,6 @@ entities:
   - Majorca
   - Austria
   - Amsterdam
-mentions:
-  - flexible PTO
-  - equipment setup
-  - Frankfurt schnitzel
-  - team energy
-  - customer proximity
 summary: Stefan and Jens discuss WunderGraph's remote work culture, emphasizing the
   importance of quarterly in-person retreats to combat zoom fatigue and build stronger
   team bonds. They explain how the company balances remote flexibility with regular

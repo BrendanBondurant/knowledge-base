@@ -4,11 +4,6 @@ slug: ep10-05-developer-feedback-and-abstractions
 series: The Good Thing
 episode: 10
 chunk: 5
-participants:
-  - Stefan
-  - Björn
-  - Dustin
-  - Jens
 segment: Guerrilla marketing and competitive dynamics
 timecode: 00:29:05:17 – 00:35:40:00
 start_time: 00:29:05:17
@@ -32,23 +27,11 @@ tags:
   - go
   - graphql
   - rest
-topic_tags:
-  - guerrilla-marketing
-  - startup
-  - competitive-dynamics
 entities:
   - GraphQL Summit
   - Apollo
   - New York
   - LED Trucks
-mentions:
-  - GraphQL Summit ticket rejection
-  - LED truck parking strategy
-  - Apollo booth intimidation
-  - community event exclusion
-  - market share competition
-  - creative team retention
-  - customer benefit focus
 summary: Stefan describes the GraphQL Summit exclusion and their LED truck guerrilla
   marketing response, while Björn reflects on maintaining startup creativity as they
   grow. They discuss competitive dynamics with Apollo, the challenges of being a market

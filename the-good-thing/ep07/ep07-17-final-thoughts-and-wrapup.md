@@ -4,9 +4,6 @@ slug: ep07-17-final-thoughts-and-wrapup
 series: The Good Thing
 episode: 7
 chunk: 17
-participants:
-  - Jens
-  - David
 segment: Episode conclusion and community feedback
 timecode: 01:33:06:03 – 01:36:52:16
 start_time: 01:33:06:03
@@ -27,10 +24,6 @@ tags:
   - graphql
   - graphql-federation
   - rest
-topic_tags:
-  - startup
-  - federation
-  - collaborative-tooling
 entities:
   - WunderGraph
   - GraphQL
@@ -39,13 +32,6 @@ entities:
   - Jens Neuse
   - David
   - Sergiy
-mentions:
-  - collaborative API tooling
-  - internal API development
-  - Uber, eBay, GitHub, Microsoft
-  - Stefan's return next week
-  - deep tech vs business content
-  - community feedback channels
 summary: Jens reflects on WunderGraph's mission to build collaborative tooling for
   API development and shares his journey as a self-taught engineer now working with
   major companies. The episode concludes with appreciation for the deep technical

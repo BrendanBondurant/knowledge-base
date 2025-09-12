@@ -4,9 +4,6 @@ slug: ep13-12-ai-schema-proposals-governance
 series: The Good Thing
 episode: 13
 chunk: 12
-participants:
-  - Stefan
-  - Jens
 segment: Automated Schema Change Proposals and Governance
 timecode: 00:45:02 – 00:50:04
 start_time: 00:45:02
@@ -30,10 +27,6 @@ tags:
   - graphql
   - graphql-federation
   - llm
-topic_tags:
-  - ai
-  - mcp
-  - schema-evolution
 entities:
   - Iron Man/Jarvis
   - GraphQL
@@ -41,15 +34,6 @@ entities:
   - Family service
   - Cosmo Studio
   - MCP tools
-mentions:
-  - Iron Man Jarvis comparison
-  - in-memory schema verification
-  - schema change proposal workflow
-  - age field addition to employee type
-  - family service modification
-  - MCP tools marketplace concept
-  - frontend developer workflow improvement
-  - backend approval governance
 summary: Jens demonstrates the dream query workflow where AI automatically creates
   schema change proposals. The system successfully adds an age field to the employee
   type in the family service through prompting alone. Stefan envisions how this transforms
