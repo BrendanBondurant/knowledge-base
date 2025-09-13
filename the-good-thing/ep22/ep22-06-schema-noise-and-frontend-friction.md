@@ -27,6 +27,7 @@ tags:
   - rest
   - rest-apis
   - rest-connectors
+  - data-modeling
 entities:
   - Stefan Avram
   - Jens Neuse

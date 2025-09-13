@@ -25,6 +25,7 @@ tags:
   - graphql
   - rest
   - rest-apis
+  - state-management
 entities:
   - Relay
   - tRPC

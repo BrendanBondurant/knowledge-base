@@ -27,6 +27,8 @@ tags:
   - graphql
   - llm
   - mcp
+  - event-driven-architecture
+  - state-management
 entities:
   - Cursor
   - MCP community

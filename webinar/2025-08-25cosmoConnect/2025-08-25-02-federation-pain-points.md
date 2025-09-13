@@ -21,6 +21,8 @@ tags:
   - federation
   - apollo
   - graphql
+  - schema-ownership
+  - software-governance
 entities:
   - Apollo Federation
   - WunderGraph

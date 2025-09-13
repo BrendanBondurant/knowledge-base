@@ -36,6 +36,8 @@ tags:
   - rest-connectors
   - startup
   - typescript
+  - composition-algorithms
+  - query-optimization
 entities:
   - WunderGraph
   - Cosmo Router

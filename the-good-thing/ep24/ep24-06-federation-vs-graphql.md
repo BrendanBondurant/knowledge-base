@@ -27,6 +27,8 @@ tags:
   - go
   - graphql
   - startup
+  - schema-ownership
+  - query-optimization
 entities:
   - Stefan Avram
   - Jens Neuse

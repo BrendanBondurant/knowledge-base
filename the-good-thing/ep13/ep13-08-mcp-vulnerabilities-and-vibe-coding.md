@@ -21,6 +21,7 @@ tags:
   - ai
   - go
   - mcp
+  - llm-security
 entities:
   - MCP
   - Twitter

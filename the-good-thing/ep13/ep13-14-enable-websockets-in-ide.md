@@ -31,6 +31,7 @@ tags:
   - startup
   - telemetry
   - websocket
+  - persisted-operations
 entities:
   - OTEL
   - Datadog

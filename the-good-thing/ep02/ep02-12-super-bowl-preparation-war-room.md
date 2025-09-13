@@ -32,6 +32,7 @@ tags:
   - graphql-federation
   - query-planning
   - startup
+  - persisted-operations
 entities:
   - WunderGraph
   - Super Bowl

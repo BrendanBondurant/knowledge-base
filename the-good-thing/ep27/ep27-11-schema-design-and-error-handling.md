@@ -20,6 +20,7 @@ tags:
   - schema-design
   - error-handling
   - api-integration
+  - data-modeling
 entities:
   - GraphQL
   - WunderGraph

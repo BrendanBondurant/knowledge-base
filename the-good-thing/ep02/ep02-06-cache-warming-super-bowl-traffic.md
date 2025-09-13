@@ -29,6 +29,8 @@ tags:
   - graphql-federation
   - microservices
   - startup
+  - composition-algorithms
+  - persisted-operations
 entities:
   - WunderGraph
   - Super Bowl

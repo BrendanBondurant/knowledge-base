@@ -20,6 +20,7 @@ tags:
   - routing
   - graphql
   - ops
+  - persisted-operations
 entities:
   - Cosmo Router
 summary: |

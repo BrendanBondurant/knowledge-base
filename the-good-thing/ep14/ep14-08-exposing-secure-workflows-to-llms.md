@@ -29,6 +29,7 @@ tags:
   - rest
   - rest-apis
   - rust
+  - llm-security
 entities:
   - GraphQL API
   - REST API

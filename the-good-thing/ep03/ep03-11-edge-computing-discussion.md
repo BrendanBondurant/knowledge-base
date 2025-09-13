@@ -31,6 +31,7 @@ tags:
   - graphql
   - graphql-federation
   - startup
+  - edge-compute
 entities:
   - Stefan
   - Dustin

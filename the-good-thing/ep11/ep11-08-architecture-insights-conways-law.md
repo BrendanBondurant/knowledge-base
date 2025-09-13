@@ -33,6 +33,7 @@ tags:
   - query-planning
   - rest
   - telemetry
+  - software-governance
 entities:
   - Conway's Law
   - Jeff Bezos

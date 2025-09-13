@@ -20,6 +20,8 @@ tags:
   - performance
   - grpc
   - federation
+  - query-optimization
+  - edge-compute
 entities:
   - Cosmo Connect
   - Cosmo Router

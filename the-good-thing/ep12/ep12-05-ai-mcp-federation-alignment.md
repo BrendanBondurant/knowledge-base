@@ -32,6 +32,9 @@ tags:
   - postgres
   - rest
   - supergraph
+  - composition-algorithms
+  - query-optimization
+  - multi-tenant
 entities:
   - Stefan Avram
   - Jens Neuse

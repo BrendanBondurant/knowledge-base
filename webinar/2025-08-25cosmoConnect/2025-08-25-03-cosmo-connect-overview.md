@@ -20,6 +20,8 @@ tags:
   - grpc
   - federation
   - cosmo-connect
+  - composition-algorithms
+  - query-optimization
 entities:
   - Cosmo Connect
   - Cosmo Router

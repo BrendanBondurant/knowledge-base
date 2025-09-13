@@ -25,6 +25,7 @@ tags:
   - go
   - graphql
   - rust
+  - persisted-operations
 entities:
   - MCP server
   - Trusted documents

@@ -28,7 +28,7 @@ entities:
   - Cosmo Router
   - Composite Schemas
 summary: |
-  Compares Cosmo Connect, Apollo Federation, and GraphQL Federation through the lens of an entity layer.
+  Compares Cosmo Connect, Apollo Federation, and GraphQL Federation through the lens of an entity layer.b
   Explains why a unified API layer matters, how batching and entity lookups differ (_entities vs @lookup vs gRPC),
   and when to choose Connect over GraphQL subgraphs. Frames tradeoffs for architecture, governance, and operations.
 faqs:

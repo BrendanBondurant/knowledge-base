@@ -34,6 +34,7 @@ tags:
   - mysql
   - rest
   - rest-apis
+  - query-optimization
 entities:
   - Robert Farr
   - Stefan Avram

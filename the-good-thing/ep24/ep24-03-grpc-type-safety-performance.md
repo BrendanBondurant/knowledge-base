@@ -33,6 +33,10 @@ tags:
   - graphql
   - startup
   - typescript
+  - composition-algorithms
+  - event-driven-architecture
+  - federation-testing
+  - query-optimization
 entities:
   - WunderGraph
   - Cosmo Router

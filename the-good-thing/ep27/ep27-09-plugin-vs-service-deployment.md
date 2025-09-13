@@ -21,6 +21,7 @@ tags:
   - plugin-architecture
   - deployment
   - dev-environments
+  - feature-flags
 entities:
   - WunderGraph
   - Cosmo Connect

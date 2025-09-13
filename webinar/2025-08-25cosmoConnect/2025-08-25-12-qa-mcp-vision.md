@@ -20,6 +20,7 @@ tags:
   - mcp
   - router
   - ai
+  - agentic-frameworks
 entities:
   - Cosmo Router
 summary: |

@@ -20,6 +20,8 @@ tags:
   - plugins
   - grpc
   - deployment
+  - event-driven-architecture
+  - data-modeling
 entities:
   - Cosmo Router
   - Cosmo Connect

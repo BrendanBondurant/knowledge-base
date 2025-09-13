@@ -25,6 +25,7 @@ tags:
   - api-design
   - go
   - graphql-federation
+  - state-management
 entities:
   - Conway's Law
   - WunderGraph
