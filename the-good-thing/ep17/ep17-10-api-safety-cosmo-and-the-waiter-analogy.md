@@ -28,6 +28,7 @@ tags:
   - mcp
   - rest
   - startup
+  - llm-security
 entities:
   - LLMs
   - Sofia

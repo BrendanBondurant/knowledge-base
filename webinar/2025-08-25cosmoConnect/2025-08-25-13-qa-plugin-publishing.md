@@ -20,6 +20,8 @@ tags:
   - plugins
   - cosmo-cloud
   - deployment
+  - software-governance
+  - multi-tenant
 entities:
   - Cosmo Cloud
 summary: |

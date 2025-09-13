@@ -27,6 +27,7 @@ tags:
   - graphql-federation
   - rest
   - rest-apis
+  - schema-ownership
 entities:
   - WunderGraph
   - Conway's Law

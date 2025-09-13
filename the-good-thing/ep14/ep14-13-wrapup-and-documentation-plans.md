@@ -27,6 +27,7 @@ tags:
   - go
   - postgres
   - rest
+  - persisted-operations
 entities:
   - Retool
   - Postgres database

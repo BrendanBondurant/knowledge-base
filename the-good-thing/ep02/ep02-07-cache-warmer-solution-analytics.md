@@ -29,6 +29,7 @@ tags:
   - graphql
   - graphql-federation
   - startup
+  - persisted-operations
 entities:
   - WunderGraph
   - GraphQL Federation

@@ -32,6 +32,7 @@ tags:
   - rest
   - startup
   - telemetry
+  - federation-testing
 entities:
   - WunderGraph
   - Go programming language

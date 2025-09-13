@@ -29,6 +29,7 @@ tags:
   - rest
   - rest-apis
   - supergraph
+  - schema-ownership
 entities:
   - GraphQL
   - OpenAPI

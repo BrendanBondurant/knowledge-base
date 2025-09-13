@@ -20,6 +20,8 @@ tags:
   - demo
   - cosmo-connect
   - plugins
+  - state-management
+  - federation-testing
 entities:
   - Cosmo Connect
 summary: |

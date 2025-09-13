@@ -28,6 +28,7 @@ tags:
   - llm
   - rest-apis
   - startup
+  - software-governance
 entities:
   - Fortune 500 companies
   - Enterprise architects

@@ -30,6 +30,7 @@ tags:
   - kubernetes
   - query-planning
   - startup
+  - query-optimization
 entities:
   - SoundCloud
   - Node.js

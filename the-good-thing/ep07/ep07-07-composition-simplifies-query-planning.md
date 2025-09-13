@@ -33,6 +33,9 @@ tags:
   - graphql-federation
   - startup
   - supergraph
+  - composition-algorithms
+  - query-optimization
+  - persisted-operations
 entities:
   - Cosmo
   - Apollo

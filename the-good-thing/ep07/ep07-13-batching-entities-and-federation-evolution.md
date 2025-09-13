@@ -31,6 +31,9 @@ tags:
   - graphql
   - rest
   - telemetry
+  - composition-algorithms
+  - event-driven-architecture
+  - persisted-operations
 entities:
   - Apollo Federation
   - GraphQL

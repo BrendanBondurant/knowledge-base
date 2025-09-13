@@ -32,6 +32,8 @@ tags:
   - rest
   - rest-apis
   - rest-connectors
+  - schema-ownership
+  - software-governance
 entities:
   - Apollo
   - Stefan Avram

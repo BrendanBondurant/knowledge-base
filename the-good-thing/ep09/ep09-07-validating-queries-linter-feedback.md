@@ -20,6 +20,7 @@ tags:
   - ai
   - go
   - graphql
+  - federation-testing
 entities:
   - GraphQL
   - GitHub

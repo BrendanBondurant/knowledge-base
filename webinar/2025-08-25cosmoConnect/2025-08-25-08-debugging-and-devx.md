@@ -18,6 +18,8 @@ topics:
 tags:
   - debugging
   - developer-experience
+  - federation-testing
+  - state-management
 entities:
   - Cosmo Connect
 summary: |

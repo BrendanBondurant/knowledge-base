@@ -20,6 +20,7 @@ tags:
   - protobuf
   - schema-translation
   - graphql
+  - data-modeling
 entities:
   - Protobuf
   - GraphQL

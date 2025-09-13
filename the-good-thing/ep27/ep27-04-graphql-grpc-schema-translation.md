@@ -19,6 +19,7 @@ tags:
   - graphql
   - grpc
   - schema-translation
+  - composition-algorithms
 entities:
   - GraphQL
   - gRPC

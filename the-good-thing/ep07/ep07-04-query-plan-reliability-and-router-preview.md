@@ -31,6 +31,7 @@ tags:
   - graphql-federation
   - open-source
   - rest
+  - feature-flags
 entities:
   - Cosmo
   - WunderGraph

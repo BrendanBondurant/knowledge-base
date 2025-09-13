@@ -35,6 +35,7 @@ tags:
   - rest-apis
   - startup
   - supergraph
+  - llm-security
 entities:
   - Stefan Avram
   - Robert Farr

@@ -20,6 +20,7 @@ tags:
   - api-governance
   - tooling
   - consulting
+  - software-governance
 entities:
   - Daniel Kocot
   - WunderGraph

@@ -29,6 +29,7 @@ tags:
   - open-source
   - rest
   - rest-apis
+  - event-driven-architecture
 entities:
   - Relay
   - Isograph

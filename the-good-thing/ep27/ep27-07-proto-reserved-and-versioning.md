@@ -19,6 +19,7 @@ tags:
   - protobuf
   - versioning
   - schema-design
+  - data-modeling
 entities:
   - Protobuf
   - WunderGraph

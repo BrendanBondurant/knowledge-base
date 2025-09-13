@@ -20,6 +20,8 @@ tags:
   - demo
   - schema
   - llm
+  - llm-security
+  - data-modeling
 entities:
   - Cosmo Connect
 summary: |

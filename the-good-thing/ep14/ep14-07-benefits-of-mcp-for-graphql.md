@@ -31,6 +31,7 @@ tags:
   - graphql-federation
   - llm
   - rust
+  - llm-security
 entities:
   - GraphQL API
   - MCP protocol

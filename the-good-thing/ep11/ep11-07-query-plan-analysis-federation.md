@@ -31,6 +31,9 @@ tags:
   - open-source
   - rest
   - startup
+  - composition-algorithms
+  - federation-testing
+  - query-optimization
 entities:
   - Stefan Avram
   - Jens Neuse

@@ -29,6 +29,7 @@ tags:
   - graphql
   - query-planning
   - supergraph
+  - composition-algorithms
 entities:
   - graphql
   - Federation

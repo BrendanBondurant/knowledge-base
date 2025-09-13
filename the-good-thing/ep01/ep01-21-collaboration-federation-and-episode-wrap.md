@@ -27,6 +27,7 @@ tags:
   - go
   - graphql-federation
   - query-planning
+  - composition-algorithms
 entities:
   - Jens Neuse
   - Stefan Avram

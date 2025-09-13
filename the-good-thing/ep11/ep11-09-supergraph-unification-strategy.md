@@ -30,6 +30,7 @@ tags:
   - rest-connectors
   - startup
   - supergraph
+  - schema-ownership
 entities:
   - WunderGraph
   - GraphQL Gateway

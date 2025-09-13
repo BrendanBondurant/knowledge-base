@@ -27,6 +27,7 @@ tags:
   - graphql-federation
   - rust
   - startup
+  - schema-ownership
 summary: Jens explains why teams often underestimate federation complexity, thinking they only need a schema registry and router, only to rebuild every feature they rejected. He stresses that Cosmo embodies lessons from years of experience, and rebuilding it piecemeal wastes time. Instead, he advises working with vendors and redirecting energy to customers. Stefan adds that early-career engineers should prioritize understanding the “why” behind tickets over blindly coding
 ---
 

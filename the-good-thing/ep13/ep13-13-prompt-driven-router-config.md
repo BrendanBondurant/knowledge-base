@@ -32,6 +32,7 @@ tags:
   - mcp
   - supergraph
   - telemetry
+  - persisted-operations
 entities:
   - MCP tools
   - JSON schema

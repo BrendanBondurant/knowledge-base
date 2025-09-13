@@ -30,6 +30,7 @@ tags:
   - rest
   - rust
   - startup
+  - persisted-operations
 entities:
   - Cosmo Router
   - WunderGraph

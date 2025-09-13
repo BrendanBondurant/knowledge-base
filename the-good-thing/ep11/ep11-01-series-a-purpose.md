@@ -24,6 +24,7 @@ tags:
   - founder
   - go
   - graphql-federation
+  - multi-tenant
 entities:
   - WunderGraph
   - Karma Ventures
