@@ -18,7 +18,7 @@ topics:
   - MCP Tool Marketplace
 tags:
   - ai
-  - dream-query
+  - dream-query-workflow
   - mcp
   - schema-evolution
   - cosmo

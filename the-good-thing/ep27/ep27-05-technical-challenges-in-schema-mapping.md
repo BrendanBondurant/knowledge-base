@@ -21,7 +21,6 @@ tags:
   - grpc
   - schema-design
   - data-modeling
-  - data-modeling
 entities:
   - GraphQL
   - gRPC
