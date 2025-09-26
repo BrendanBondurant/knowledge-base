@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Benefits of MCP for GraphQL
 slug: ep14-07-benefits-of-mcp-for-graphql
 series: The Good Thing

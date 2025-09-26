@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Lumona vs Existing Search
 slug: ep21-11-lumona-vs-existing-search
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: WunderGraph Cloud, Low-Cost Customers, and Support Challenges
 slug: ep04-04-wundergraph-cloud-support-enterprise
 series: The Good Thing

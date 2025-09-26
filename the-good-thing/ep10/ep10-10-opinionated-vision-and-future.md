@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Opinionated Vision, Pragmatic Execution, and the Future Ahead
 slug: ep10-10-opinionated-vision-and-future
 series: The Good Thing

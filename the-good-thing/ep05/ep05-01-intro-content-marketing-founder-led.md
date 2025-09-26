@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Intro, Content Marketing, and Founder-Led Content
 slug: ep05-01-intro-content-marketing-founder-led
 series: The Good Thing

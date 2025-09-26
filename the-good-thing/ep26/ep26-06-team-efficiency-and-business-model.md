@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Team Efficiency and Business Model
 slug: ep26-06-team-efficiency-and-business-model
 series: The Good Thing

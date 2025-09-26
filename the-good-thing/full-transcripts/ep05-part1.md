@@ -1,4 +1,5 @@
 Episode 5
+type: podcast-chunk
 00:00:25:16 - 00:00:34:28
 Stefan
 And we're live. Welcome back, everyone, to another episode of The Good Thing, hosted by

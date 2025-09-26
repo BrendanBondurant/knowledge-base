@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: WunderGraph Performance Proof and Missing Customer Success Stories
 slug: ep15-15-wundergraph-performance-and-access
 series: The Good Thing

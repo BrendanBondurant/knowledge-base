@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Infrastructure Reliability and Collaborative Value
 slug: ep12-17-infra-reliability-and-value
 series: The Good Thing

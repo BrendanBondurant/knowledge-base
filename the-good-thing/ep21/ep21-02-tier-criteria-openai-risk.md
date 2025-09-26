@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Tier Criteria and OpenAI Risk
 slug: ep21-02-tier-criteria-openai-risk
 series: The Good Thing

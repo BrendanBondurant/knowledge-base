@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: SLA Requirements, Brand Momentum and Fork Protection Conclusion
 slug: ep16-11-sla-brand-forking-conclusion
 series: The Good Thing

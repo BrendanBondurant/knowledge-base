@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: WunderGraph Landing Page Self-Critique and Messaging Problems
 slug: ep15-13-wundergraph-landing-page-roast
 series: The Good Thing

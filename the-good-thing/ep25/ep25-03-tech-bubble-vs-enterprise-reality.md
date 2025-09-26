@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Tech Bubble vs Enterprise Reality
 slug: ep25-03-tech-bubble-vs-enterprise-reality
 series: The Good Thing

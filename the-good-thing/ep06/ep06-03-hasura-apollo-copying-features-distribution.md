@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Hasura, Apollo, Copying Features, and Distribution vs. Features
 slug: ep06-03-hasura-apollo-copying-features-distribution
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Apollo Hero Messaging Problems and GraphQL Branding Strategy
 slug: ep15-10-apollo-cloud-native-roast
 series: The Good Thing

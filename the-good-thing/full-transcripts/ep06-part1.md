@@ -1,4 +1,5 @@
 Episode 6
+type: podcast-chunk
 00:00:24:18 - 00:00:37:24
 Stefan
 And we're back. Look at that. We already have an audience waiting. Welcome back, ladies and

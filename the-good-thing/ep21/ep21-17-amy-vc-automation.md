@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Amy VC Automation
 slug: ep21-17-amy-vc-automation
 series: The Good Thing

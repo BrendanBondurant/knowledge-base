@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Klavis vs OpenAI
 slug: ep21-09-klavis-vs-openai
 series: The Good Thing

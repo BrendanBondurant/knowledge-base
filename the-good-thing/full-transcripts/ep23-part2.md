@@ -1,4 +1,5 @@
 00:28:36:20 - 00:28:59:19
+type: podcast-chunk
 Jens
 Yeah. You want to have the biggest market share. You want to have the best tech. So hire hire
 the best people and improve the tech and and don't lose to alternatives. And with this behavior

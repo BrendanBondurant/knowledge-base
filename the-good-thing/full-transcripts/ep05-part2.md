@@ -1,4 +1,5 @@
 00:33:51:09 - 00:34:19:28
+type: podcast-chunk
 Jens
 So in my past life I was a consultant and if you're an external consultant, if you get a ticket, your
 goal is to write something into the ticket. That's not offending, that's not negatively affecting any

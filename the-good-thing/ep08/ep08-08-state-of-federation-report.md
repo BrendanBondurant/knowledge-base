@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: State of GraphQL Federation Report Launch
 slug: ep08-08-state-of-federation-report
 series: The Good Thing

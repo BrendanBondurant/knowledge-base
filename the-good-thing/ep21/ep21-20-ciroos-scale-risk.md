@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Ciroos Scale Risk
 slug: ep21-20-ciroos-scale-risk
 series: The Good Thing

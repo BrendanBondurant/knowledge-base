@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Soft Skills Bold Applications and Bare Metal Mistakes
 slug: ep01-15-soft-skills-bold-applications-and-bare-metal-mistakes
 series: The Good Thing

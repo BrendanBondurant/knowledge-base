@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Startup Identity and Vision
 slug: ep22-02-startup-identity-and-vision
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Codex vs Cursor and OpenAI Strategy
 slug: ep20-08-codex-vs-cursor-openai-strategy
 series: The Good Thing

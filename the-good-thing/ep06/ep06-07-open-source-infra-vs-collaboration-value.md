@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Open Source, Infra vs. Collaboration, and Value Perception
 slug: ep06-07-open-source-infra-vs-collaboration-value
 series: The Good Thing

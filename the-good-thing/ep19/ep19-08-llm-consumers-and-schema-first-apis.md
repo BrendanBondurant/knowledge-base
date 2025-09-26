@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: LLM Consumers and Schema-First APIs
 slug: ep19-08-llm-consumers-and-schema-first-apis
 series: The Good Thing

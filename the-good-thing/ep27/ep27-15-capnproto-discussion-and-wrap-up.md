@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Cap’n Proto Discussion and Wrap-Up
 slug: ep27-15-capnproto-discussion-and-wrap-up
 series: The Good Thing

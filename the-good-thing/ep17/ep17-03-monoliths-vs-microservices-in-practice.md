@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Monoliths vs Microservices in Practice
 slug: ep17-03-monoliths-vs-microservices-in-practice
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Mlop Early Warning Signs
 slug: ep21-22-mlop-early-warning-signs
 series: The Good Thing

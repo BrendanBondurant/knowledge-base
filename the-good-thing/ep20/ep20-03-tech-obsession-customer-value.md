@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Tech Obsession vs Customer Value
 slug: ep20-03-tech-obsession-customer-value
 series: The Good Thing

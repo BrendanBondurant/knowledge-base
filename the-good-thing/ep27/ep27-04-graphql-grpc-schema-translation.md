@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: GraphQL to gRPC Schema Translation Workflow
 slug: ep27-04-graphql-grpc-schema-translation
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Prisma Business Value Issues - Missing Metrics and Messaging Problems
 slug: ep15-02-prisma-business-value-issues
 series: The Good Thing

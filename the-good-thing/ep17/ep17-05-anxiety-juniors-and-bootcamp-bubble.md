@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Anxiety, Juniors, and the Bootcamp Bubble
 slug: ep17-05-anxiety-juniors-and-bootcamp-bubble
 series: The Good Thing

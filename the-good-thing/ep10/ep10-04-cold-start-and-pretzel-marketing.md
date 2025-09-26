@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Cold Start, Competing with Apollo, and the Pretzel Stunt
 slug: ep10-04-cold-start-and-pretzel-marketing
 series: The Good Thing

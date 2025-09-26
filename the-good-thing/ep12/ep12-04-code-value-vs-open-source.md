@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Code Value vs Open Source Philosophy
 slug: ep12-04-code-value-vs-open-source
 series: The Good Thing

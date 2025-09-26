@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Open Source Community Collaboration and PR Maintenance Challenges
 slug: ep16-04-collaboration-pr-liability
 series: The Good Thing

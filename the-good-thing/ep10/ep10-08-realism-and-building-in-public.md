@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Realism, Courage, and Building in Public
 slug: ep10-08-realism-and-building-in-public
 series: The Good Thing

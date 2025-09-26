@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI for All and UX Abstraction
 slug: ep13-05-ai-for-all-and-ux-abstraction
 series: The Good Thing

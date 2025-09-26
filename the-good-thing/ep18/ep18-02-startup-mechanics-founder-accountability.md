@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Startup Mechanics and Founder Accountability
 slug: ep18-02-startup-mechanics-founder-accountability
 series: The Good Thing

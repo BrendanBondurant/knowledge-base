@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Chaos Engineering and Kubernetes
 slug: ep26-12-chaos-engineering-and-kubernetes
 series: The Good Thing

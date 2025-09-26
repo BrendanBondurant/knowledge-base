@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Prisma Unikernel Confusion and Messaging Clarity Issues
 slug: ep15-03-prisma-unikernel-and-messaging
 series: The Good Thing

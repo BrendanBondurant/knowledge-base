@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Plugins, Connectors and Apollo Leadership Changes
 slug: ep24-04-plugins-apollo-leadership
 series: The Good Thing

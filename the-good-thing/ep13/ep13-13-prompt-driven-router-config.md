@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Prompt-Driven Router Configuration
 slug: ep13-13-prompt-driven-router-config
 series: The Good Thing

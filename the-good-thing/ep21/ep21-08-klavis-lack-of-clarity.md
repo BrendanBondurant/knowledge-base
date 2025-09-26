@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Klavis Lack of Clarity
 slug: ep21-08-klavis-lack-of-clarity
 series: The Good Thing

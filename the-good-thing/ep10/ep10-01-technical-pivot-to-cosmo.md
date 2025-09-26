@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Strategic Technical Decisions and the SDK-to-Cosmo Pivot
 slug: ep10-01-technical-pivot-to-cosmo
 series: The Good Thing

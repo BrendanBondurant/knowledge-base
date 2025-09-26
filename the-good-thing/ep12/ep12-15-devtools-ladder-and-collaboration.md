@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Devtools Ladder and Collaboration Strategy
 slug: ep12-15-devtools-ladder-and-collaboration
 series: The Good Thing

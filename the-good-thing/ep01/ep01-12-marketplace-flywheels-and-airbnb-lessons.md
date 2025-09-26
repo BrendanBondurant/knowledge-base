@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Marketplace Flywheels and Airbnb Lessons
 slug: ep01-12-marketplace-flywheels-and-airbnb-lessons
 series: The Good Thing

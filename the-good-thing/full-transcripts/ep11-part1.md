@@ -1,4 +1,5 @@
 Episode 11
+type: podcast-chunk
 00:00:24:18 - 00:00:53:18
 Stefan
 And we're live. Welcome back, everybody, to another episode of the Good Thing podcast,

@@ -1,4 +1,5 @@
 00:27:51:12 - 00:28:26:10
+type: podcast-chunk
 Jens
 Yes. Like and I think in infra, if someone creates a proprietary product with a high margin that is
 billing per traffic, then you can, you can, you can set a counter and someone will build an open

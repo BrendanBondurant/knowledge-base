@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Procore's Mission and Robert's Role
 slug: ep19-02-procore-mission-and-robert-role
 series: The Good Thing

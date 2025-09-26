@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Marblism Uniqueness and Threats
 slug: ep21-07-marblism-uniqueness-and-threats
 series: The Good Thing

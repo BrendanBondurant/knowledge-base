@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Micro vs. Macro Benchmarks and Code Optimization
 slug: ep05-09-micro-vs-macro-benchmarks-optimization
 series: The Good Thing

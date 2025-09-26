@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Series A Purpose and Funding Philosophy
 slug: ep11-01-series-a-purpose
 series: The Good Thing

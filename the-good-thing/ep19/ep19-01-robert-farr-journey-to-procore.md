@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Robert Farr's Journey to Procore
 slug: ep19-01-robert-farr-journey-to-procore
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Copying Competitors, REST Connectors, and Technical Evaluation
 slug: ep06-13-copying-competitors-rest-connectors-technical-evaluation
 series: The Good Thing

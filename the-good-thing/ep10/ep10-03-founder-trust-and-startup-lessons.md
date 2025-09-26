@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Team Trust, Founder Roles, and Early-Stage Mistakes
 slug: ep10-03-founder-trust-and-startup-lessons
 series: The Good Thing

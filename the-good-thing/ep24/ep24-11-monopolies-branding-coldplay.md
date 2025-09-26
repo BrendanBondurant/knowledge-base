@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Monopolies, Market Positioning, and Coldplay Controversy
 slug: ep24-11-monopolies-branding-coldplay
 series: The Good Thing

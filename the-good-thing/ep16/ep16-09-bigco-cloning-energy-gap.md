@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Big Company Cloning Limitations and Founder Energy Mismatch
 slug: ep16-09-bigco-cloning-energy-gap
 series: The Good Thing

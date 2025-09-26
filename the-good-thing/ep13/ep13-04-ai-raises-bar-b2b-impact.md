@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Raises Bar for B2B Impact
 slug: ep13-04-ai-raises-bar-b2b-impact
 series: The Good Thing

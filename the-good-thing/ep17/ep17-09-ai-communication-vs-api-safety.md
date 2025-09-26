@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Communication vs API Safety
 slug: ep17-09-ai-communication-vs-api-safety
 series: The Good Thing

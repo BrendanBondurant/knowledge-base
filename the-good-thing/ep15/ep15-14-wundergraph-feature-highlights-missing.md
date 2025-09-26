@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: WunderGraph Feature Highlights Missing Business Impact
 slug: ep15-14-wundergraph-feature-highlights-missing
 series: The Good Thing

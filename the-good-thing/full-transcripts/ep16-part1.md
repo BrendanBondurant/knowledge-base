@@ -1,4 +1,5 @@
 Episode 16
+type: podcast-chunk
 00:00:12:22 - 00:00:22:06
 Stefan
 You.

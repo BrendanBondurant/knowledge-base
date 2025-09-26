@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Postgres Sharding and Adoption
 slug: ep26-02-postgres-sharding-and-adoption
 series: The Good Thing

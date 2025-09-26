@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: The S in MCP - STDIO vs SSE Security
 slug: ep13-07-s-in-mcp-stdio-vs-sse
 series: The Good Thing

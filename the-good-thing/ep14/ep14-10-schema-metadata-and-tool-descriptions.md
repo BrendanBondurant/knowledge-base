@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Schema Metadata and Tool Descriptions
 slug: ep14-10-schema-metadata-and-tool-descriptions
 series: The Good Thing

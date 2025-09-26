@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Apollo Connectors Strategy and Problem Clarity Issues
 slug: ep15-11-apollo-connectors-messaging-gap
 series: The Good Thing

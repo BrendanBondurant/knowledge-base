@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Building Relationships, Customer Validation, and Payment
 slug: ep04-06-customer-relationships-validation-payment
 series: The Good Thing

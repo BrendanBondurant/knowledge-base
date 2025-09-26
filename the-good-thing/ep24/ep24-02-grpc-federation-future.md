@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: gRPC Federation Future and Apollo Leadership
 slug: ep24-02-grpc-federation-future
 series: The Good Thing

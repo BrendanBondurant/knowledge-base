@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: MCP Gateway and JSON Schema
 slug: ep14-05-mcp-gateway-and-json-schema
 series: The Good Thing

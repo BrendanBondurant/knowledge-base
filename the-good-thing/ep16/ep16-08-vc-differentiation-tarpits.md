@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: VC Funding Challenges and Market Differentiation for Clones
 slug: ep16-08-vc-differentiation-tarpits
 series: The Good Thing

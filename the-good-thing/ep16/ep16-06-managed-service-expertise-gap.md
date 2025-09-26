@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Managed Service Expertise Gap and Customer Support Challenges
 slug: ep16-06-managed-service-expertise-gap
 series: The Good Thing

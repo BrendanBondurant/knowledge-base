@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Inaccessible Entities and N+1 Problems
 slug: ep22-07-inaccessible-entities-and-n-plus-one
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: REST Evolution and Capability Thinking
 slug: ep28-05-rest-evolution-and-capability-thinking
 series: The Good Thing

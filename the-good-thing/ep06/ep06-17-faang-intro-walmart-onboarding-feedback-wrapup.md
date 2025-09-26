@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: FAANG Intro, Walmart, Onboarding, Feedback, and Episode Wrap-up
 slug: ep06-17-faang-intro-walmart-onboarding-feedback-wrapup
 series: The Good Thing

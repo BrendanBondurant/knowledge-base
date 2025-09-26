@@ -1,4 +1,5 @@
 00:29:03:05 - 00:29:42:04
+type: podcast-chunk
 Jens
 And here starts the first problem. If you fork Cosmo. We currently have close to 20 developers
 working full time on Cosmo. It so like some people, they had a little bit of experience. But now

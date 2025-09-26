@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Relay Fragments and UI Architecture at Scale
 slug: ep12-11-relay-fragments-ui-scale
 series: The Good Thing

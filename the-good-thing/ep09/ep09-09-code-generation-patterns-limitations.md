@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Patterns and Edge Cases When Using AI for Code Generation
 slug: ep09-09-code-generation-patterns-limitations
 series: The Good Thing

@@ -1,4 +1,5 @@
 00:32:23:10 - 00:32:56:17
+type: podcast-chunk
 Jens
 I mean, I'm now, a few more than I don't know how many years, ten, 12, whatever. I guess doing
 doing software and, I learned a, I learned coding in the pre vibe coding era. Yeah, it's I don't

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI-Powered Access to Supergraphs Without GraphQL Knowledge
 slug: ep09-04-ai-access-graph-non-developers
 series: The Good Thing

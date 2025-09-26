@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Dream Query Workflow
 slug: ep13-11-dream-query-workflow
 series: The Good Thing

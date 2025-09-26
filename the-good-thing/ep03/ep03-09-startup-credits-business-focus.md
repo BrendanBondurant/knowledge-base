@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Startup Credits and Business Focus
 slug: ep03-09-startup-credits-business-focus
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Enterprise LLM Adoption and Traction
 slug: ep25-12-enterprise-llm-adoption-and-traction
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Limits and Autonomy Questions
 slug: ep17-08-ai-limits-and-autonomy-questions
 series: The Good Thing

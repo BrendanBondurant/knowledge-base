@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Hyperbound Feedback and Tier
 slug: ep21-13-hyperbound-feedback-and-tier
 series: The Good Thing

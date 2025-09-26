@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Vendor Evaluation and Tooling Tradeoffs
 slug: ep25-08-vendor-evaluation-and-tooling-tradeoffs
 series: The Good Thing

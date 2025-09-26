@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Collaboration vs Coding Speed
 slug: ep23-08-collaboration-vs-coding-speed
 series: The Good Thing

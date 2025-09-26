@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Product Market Fit and User Feedback
 slug: ep18-03-product-market-fit-user-feedback
 series: The Good Thing

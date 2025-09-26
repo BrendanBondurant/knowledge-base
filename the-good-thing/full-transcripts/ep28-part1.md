@@ -1,4 +1,5 @@
 00:00:10:09 - 00:00:18:21
+type: podcast-chunk
 Stefan Avram
 You.
 

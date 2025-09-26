@@ -1,4 +1,5 @@
 00:36:28:22 - 00:36:56:22
+type: podcast-chunk
 Jens
 Yes, we can do that. But why I mean, we we have an algorithm for this Federation works great.
 And yeah, we we now also built very powerful tooling to better understand how your federated

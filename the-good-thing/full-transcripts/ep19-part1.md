@@ -1,4 +1,5 @@
 Episode 19
+type: podcast-chunk
 00:00:09:26 - 00:00:27:17
 Stefan
 Oh, cool. And we're live. Thanks for joining us for another episode of The Good Thing. Today we

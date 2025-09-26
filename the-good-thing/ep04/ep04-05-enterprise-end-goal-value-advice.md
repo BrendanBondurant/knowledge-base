@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Enterprise as End Goal, Value Creation, and Startup Advice
 slug: ep04-05-enterprise-end-goal-value-advice
 series: The Good Thing

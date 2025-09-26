@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Collaboration Focus and Next Episode Preview
 slug: ep12-19-collaboration-and-next-episode
 series: The Good Thing

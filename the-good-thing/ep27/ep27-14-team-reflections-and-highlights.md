@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Team Reflections and Cosmo Connect Highlights
 slug: ep27-14-team-reflections-and-highlights
 series: The Good Thing

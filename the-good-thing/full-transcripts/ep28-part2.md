@@ -1,4 +1,5 @@
 00:30:07:08 - 00:30:18:01
+type: podcast-chunk
 Jens Neuse
 But how do you see the, the evolution of, of API styles and how people perceive REST and stuff like that.
 

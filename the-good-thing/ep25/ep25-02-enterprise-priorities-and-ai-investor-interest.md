@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Enterprise Priorities and AI Investor Interest
 slug: ep25-02-enterprise-priorities-and-ai-investor-interest
 series: The Good Thing

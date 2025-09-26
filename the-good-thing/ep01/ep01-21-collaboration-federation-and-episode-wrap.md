@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Collaboration Federation and Episode Wrap
 slug: ep01-21-collaboration-federation-and-episode-wrap
 series: The Good Thing

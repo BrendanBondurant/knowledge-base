@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Managed Router Operational Costs and Apollo Critique
 slug: ep12-18-managed-router-operational-costs
 series: The Good Thing

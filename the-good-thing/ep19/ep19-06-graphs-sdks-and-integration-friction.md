@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Graphs, SDKs, and Integration Friction
 slug: ep19-06-graphs-sdks-and-integration-friction
 series: The Good Thing

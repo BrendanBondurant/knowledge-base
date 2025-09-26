@@ -1,4 +1,5 @@
 00:34:28:20 - 00:35:10:05
+type: podcast-chunk
 Jens
 This is what's happening. Like we're we're talking to multiple, Faang companies now. We
 already had contributions from people working at Faang sized companies. And even if they don't

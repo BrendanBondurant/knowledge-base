@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Security Checks and Complexity Scoring
 slug: ep14-04-security-checks-and-complexity-scoring
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Getting Feedback and Testing Buying Interest
 slug: ep18-08-getting-feedback-testing-buying-interes
 series: The Good Thing

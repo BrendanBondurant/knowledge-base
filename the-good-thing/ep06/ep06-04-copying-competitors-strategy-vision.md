@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Copying Competitors, Strategy, Vision, and Customer Focus
 slug: ep06-04-copying-competitors-strategy-vision
 series: The Good Thing

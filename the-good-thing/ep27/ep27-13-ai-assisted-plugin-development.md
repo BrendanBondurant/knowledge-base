@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI-Assisted Plugin Development
 slug: ep27-13-ai-assisted-plugin-development
 series: The Good Thing

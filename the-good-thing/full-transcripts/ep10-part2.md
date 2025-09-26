@@ -1,4 +1,5 @@
 00:29:05:17 - 00:29:23:29
+type: podcast-chunk
 Stefan
 And then from there it was just, I guess a snowball effect. And so for me, everything, you know,
 you can't connect the dots looking forward. You can only connect them looking backwards. And

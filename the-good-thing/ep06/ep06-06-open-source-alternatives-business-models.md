@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Open Source Alternatives, Business Models, and Product Differentiation
 slug: ep06-06-open-source-alternatives-business-models
 series: The Good Thing

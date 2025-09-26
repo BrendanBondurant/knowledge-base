@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: 'Education After Accident: Business, Psychology, and Persistence'
 slug: ep01-04-education-after-accident-business-psychology
 series: The Good Thing

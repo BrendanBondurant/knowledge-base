@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Null Semantics and Protobuf Field Order
 slug: ep27-06-null-semantics-and-protobuf-field-order
 series: The Good Thing

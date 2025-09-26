@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Introduction to MCP and How It Differs from Traditional Tool APIs
 slug: ep09-14-introduction-to-mcp
 series: The Good Thing

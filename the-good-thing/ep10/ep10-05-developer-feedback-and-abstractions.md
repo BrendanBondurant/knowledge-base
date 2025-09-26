@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Developer Experience, Feedback Loops, and Avoiding Premature Abstraction
 slug: ep10-05-developer-feedback-and-abstractions
 series: The Good Thing

@@ -1,4 +1,5 @@
 Episode 9
+type: podcast-chunk
 00:00:00:00 - 00:00:48:09
 Jens
 And we are live and back with the good thing. I'm your host today, Jens. You can already see we

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Pricing Strategy and Sales Feedback Loops Beyond Code Copying
 slug: ep16-07-pricing-sales-copying-gaps
 series: The Good Thing

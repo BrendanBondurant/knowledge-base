@@ -1,4 +1,5 @@
 Episode 7
+type: podcast-chunk
 00:00:00:00 - 00:00:54:03
 Jens
 Hey, everybody. This is the good thing today. We're just a little bit late. As you can see, it's not

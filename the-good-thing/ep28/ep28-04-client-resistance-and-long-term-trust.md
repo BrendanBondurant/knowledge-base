@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Client Resistance and Long-Term Trust
 slug: ep28-04-client-resistance-and-long-term-trust
 series: The Good Thing

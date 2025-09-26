@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Benchmarks, Performance, and Real-World Use Cases
 slug: ep05-08-benchmarks-performance-realworld
 series: The Good Thing

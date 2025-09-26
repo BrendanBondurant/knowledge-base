@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Faster Horses and True Modernization
 slug: ep17-12-faster-horses-and-true-modernization
 series: The Good Thing

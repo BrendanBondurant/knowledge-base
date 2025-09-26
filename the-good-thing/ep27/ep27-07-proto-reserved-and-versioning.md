@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Proto Reserved Keywords and Versioning Strategies
 slug: ep27-07-proto-reserved-and-versioning
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: What is a TAB and How to Run One
 slug: ep18-06-what-is-a-tab-how-to-run
 series: The Good Thing

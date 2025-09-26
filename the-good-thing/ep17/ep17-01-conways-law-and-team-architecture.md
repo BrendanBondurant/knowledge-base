@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Conway's Law and Team Architecture
 slug: ep17-01-conways-law-and-team-architecture
 series: The Good Thing

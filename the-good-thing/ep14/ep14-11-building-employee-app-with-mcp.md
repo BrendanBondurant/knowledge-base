@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Building Employee App with MCP
 slug: ep14-11-building-employee-app-with-mcp
 series: The Good Thing

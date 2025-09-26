@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Plugin vs Dedicated Service Deployment
 slug: ep27-09-plugin-vs-service-deployment
 series: The Good Thing

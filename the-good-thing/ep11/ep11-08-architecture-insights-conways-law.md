@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Architecture Insights and Conway's Law
 slug: ep11-08-architecture-insights-conways-law
 series: The Good Thing

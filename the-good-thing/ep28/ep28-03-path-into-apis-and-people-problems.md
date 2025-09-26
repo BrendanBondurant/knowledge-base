@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Path Into APIs and People Problems
 slug: ep28-03-path-into-apis-and-people-problems
 series: The Good Thing

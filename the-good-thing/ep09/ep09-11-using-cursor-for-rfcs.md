@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Using Cursor for Writing and Refining RFCs and Indexing Docs
 slug: ep09-11-using-cursor-for-rfcs
 series: The Good Thing

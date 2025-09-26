@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: ThunderCode Feedback and Pivot Potential
 slug: ep21-04-thundercode-feedback-and-pivo
 series: The Good Thing

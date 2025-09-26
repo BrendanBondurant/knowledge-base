@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Cosmo Native Relay Support and Node Interface
 slug: ep12-09-cosmo-native-relay-support
 series: The Good Thing

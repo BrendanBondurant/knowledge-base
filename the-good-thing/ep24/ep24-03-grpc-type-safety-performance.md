@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: gRPC Type Safety and Performance Benefits
 slug: ep24-03-grpc-type-safety-performance
 series: The Good Thing

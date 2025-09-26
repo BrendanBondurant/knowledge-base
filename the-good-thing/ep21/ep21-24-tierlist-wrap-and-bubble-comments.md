@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Tierlist Wrap and Bubble Comments
 slug: ep21-24-tierlist-wrap-and-bubble-comments
 series: The Good Thing

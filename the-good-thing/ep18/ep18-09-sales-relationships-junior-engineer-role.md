@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Sales, Relationships, and Junior Engineer Role
 slug: ep18-09-sales-relationships-junior-engineer-role
 series: The Good Thing

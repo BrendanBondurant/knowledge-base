@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Customer Focus AI Era and Career Advice
 slug: ep01-19-customer-focus-ai-era-and-career-advice
 series: The Good Thing

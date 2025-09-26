@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: API Background and Consulting View
 slug: ep25-01-api-background-and-consulting-view
 series: The Good Thing

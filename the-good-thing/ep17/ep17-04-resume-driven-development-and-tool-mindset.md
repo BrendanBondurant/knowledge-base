@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Resume-Driven Development and Tool Mindset
 slug: ep17-04-resume-driven-development-and-tool-mindse
 series: The Good Thing

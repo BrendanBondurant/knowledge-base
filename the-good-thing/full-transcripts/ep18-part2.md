@@ -1,4 +1,5 @@
 00:35:48:09 - 00:36:14:00
+type: podcast-chunk
 Jens
 We want to to solve like the, the, the real problem. And I think what is what is super important or
 like one way I think about it is you can have different classes of problems you're solving. So it's

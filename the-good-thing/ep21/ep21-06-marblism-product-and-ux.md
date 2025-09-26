@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Marblism Product and UX
 slug: ep21-06-marblism-product-and-ux
 series: The Good Thing

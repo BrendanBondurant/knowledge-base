@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Declarative vs Programmatic Connectors
 slug: ep27-10-declarative-vs-programmatic-connectors
 series: The Good Thing

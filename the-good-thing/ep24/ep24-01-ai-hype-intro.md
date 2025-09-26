@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Hype Introduction and Future Predictions
 slug: ep24-01-ai-hype-intro
 series: The Good Thing

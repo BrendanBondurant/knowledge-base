@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: OpenAI IPO Spin and Startup Vision
 slug: ep20-06-openai-ipo-spin-startup-vision
 series: The Good Thing

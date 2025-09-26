@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Infrastructure Reliability and Wrap-up
 slug: ep25-16-infrastructure-reliability-and-wrap-up
 series: The Good Thing

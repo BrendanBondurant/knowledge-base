@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Batching Entities and Federation Evolution Tradeoffs
 slug: ep07-13-batching-entities-and-federation-evolution
 series: The Good Thing

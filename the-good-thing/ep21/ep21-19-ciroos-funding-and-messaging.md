@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Ciroos Funding and Messaging
 slug: ep21-19-ciroos-funding-and-messaging
 series: The Good Thing

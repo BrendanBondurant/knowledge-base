@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Market Size, VC Pattern Matching, and Founder vs. Market
 slug: ep04-12-market-size-vc-patterns-founder-vs-market
 series: The Good Thing

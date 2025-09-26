@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Shakealert Startup — First Real Coding Experience
 slug: ep01-06-shakealert-startup-self-taught-dev
 series: The Good Thing

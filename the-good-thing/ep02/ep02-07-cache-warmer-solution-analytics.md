@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Cache Warmer Solution and Analytics Implementation
 slug: ep02-07-cache-warmer-solution-analytics
 series: The Good Thing

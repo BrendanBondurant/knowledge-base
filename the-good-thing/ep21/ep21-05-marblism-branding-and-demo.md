@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Marblism Branding and Demo
 slug: ep21-05-marblism-branding-and-demo
 series: The Good Thing

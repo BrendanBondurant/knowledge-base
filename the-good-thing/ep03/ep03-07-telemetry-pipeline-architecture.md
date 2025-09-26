@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Telemetry Pipeline Architecture
 slug: ep03-07-telemetry-pipeline-architecture
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Shift and Shopify's AI Memo
 slug: ep13-02-ai-shift-and-shopify-memo
 series: The Good Thing

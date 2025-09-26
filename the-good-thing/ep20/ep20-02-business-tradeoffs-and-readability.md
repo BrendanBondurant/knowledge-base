@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Business Tradeoffs and Readability
 slug: ep20-02-business-tradeoffs-and-readability
 series: The Good Thing

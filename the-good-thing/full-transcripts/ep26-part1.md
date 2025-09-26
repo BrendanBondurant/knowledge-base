@@ -1,4 +1,5 @@
 00:00:22:20 - 00:00:33:03
+type: podcast-chunk
 Stefan
 And we're live. Welcome back, ladies and gentlemen, to another episode of The Good Thing.
 Today we have a very special guest, which I've been really excited to bring on Sam Lambert

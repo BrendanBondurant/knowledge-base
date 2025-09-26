@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: TypeScript Rewrite in Go and Tradeoffs vs Rust
 slug: ep09-17-typescript-go-rewrite-vs-rust
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Closing Reflections and Farewell
 slug: ep26-15-closing-reflections-and-farewell
 series: The Good Thing

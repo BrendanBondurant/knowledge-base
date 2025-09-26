@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Open Source Competition and Reliability
 slug: ep26-05-open-source-competition-and-reliability
 series: The Good Thing

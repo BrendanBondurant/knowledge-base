@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Hiring Philosophy and Team Culture
 slug: ep02-05-hiring-team-culture-marathon-runners
 series: The Good Thing

@@ -1,4 +1,5 @@
 00:00:22:23 - 00:00:35:06
+type: podcast-chunk
 Stefan
 And we're live. Welcome back, ladies and gentlemen, to another episode of The Good Thing.
 Today we have a very special guest. As always, you know my co-host. Jens who is here. He's

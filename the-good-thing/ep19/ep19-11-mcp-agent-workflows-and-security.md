@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: MCP Agent Workflows and Security
 slug: ep19-11-mcp-agent-workflows-and-security
 series: The Good Thing

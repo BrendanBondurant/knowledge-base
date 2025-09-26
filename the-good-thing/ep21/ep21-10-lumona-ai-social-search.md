@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Lumona AI Social Search
 slug: ep21-10-lumona-ai-social-search
 series: The Good Thing

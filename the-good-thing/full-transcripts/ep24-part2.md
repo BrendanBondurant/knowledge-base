@@ -1,4 +1,5 @@
 00:32:47:22 - 00:32:50:17
+type: podcast-chunk
 Stefan
 I don't know anything. You're the problem. So I don't know if you can marry yourself.
 00:32:50:17 - 00:33:06:05

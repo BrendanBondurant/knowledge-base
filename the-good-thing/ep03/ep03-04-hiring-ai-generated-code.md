@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Hiring Practices and AI-Generated Code
 slug: ep03-04-hiring-ai-generated-code
 series: The Good Thing

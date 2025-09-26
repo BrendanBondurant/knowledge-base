@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Apollo Connectors and Broken Abstraction
 slug: ep22-05-apollo-connectors-and-broken-abstraction
 series: The Good Thing

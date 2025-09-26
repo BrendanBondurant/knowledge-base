@@ -1,4 +1,5 @@
 Episode 8
+type: podcast-chunk
 00:00:22:11 - 00:00:33:12
 Stefan
 And we're live. I'm back. Welcome back, ladies and gentlemen, to another episode of The Good

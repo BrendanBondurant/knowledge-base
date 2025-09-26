@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Plugin Packaging and OCI Storage
 slug: ep27-12-plugin-packaging-and-oci-storage
 series: The Good Thing

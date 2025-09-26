@@ -1,4 +1,5 @@
 00:33:35:08 - 00:34:07:21
+type: podcast-chunk
 Kevin
 Of course, looking at, you know, are their needs going to grow and expand? And what does that
 look like to a lot of open source projects? Have vendors associated with them as well. You

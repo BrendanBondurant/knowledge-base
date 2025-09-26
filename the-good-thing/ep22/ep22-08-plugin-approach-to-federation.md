@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Plugin Approach to Federation
 slug: ep22-08-plugin-approach-to-federation
 series: The Good Thing

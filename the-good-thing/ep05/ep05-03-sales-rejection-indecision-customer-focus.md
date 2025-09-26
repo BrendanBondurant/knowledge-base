@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Sales, Rejection, Indecision, and Customer Focus
 slug: ep05-03-sales-rejection-indecision-customer-focus
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Configure Description Directive and Large-Scale Schema Metadata
 slug: ep07-01-configure-description-directive
 series: The Good Thing

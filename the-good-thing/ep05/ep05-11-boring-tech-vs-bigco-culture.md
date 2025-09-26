@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Boring Tech vs. Big Company Culture
 slug: ep05-11-boring-tech-vs-bigco-culture
 series: The Good Thing

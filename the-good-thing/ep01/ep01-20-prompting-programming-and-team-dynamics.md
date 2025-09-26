@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Prompting Programming and Team Dynamics
 slug: ep01-20-prompting-programming-and-team-dynamics
 series: The Good Thing

@@ -1,4 +1,5 @@
 Episode 14
+type: podcast-chunk
 00:00:00:00 - 00:00:41:06
 Stefan
 And. Well, I know, I'm just kidding. Ladies and gentlemen, welcome back to another episode of

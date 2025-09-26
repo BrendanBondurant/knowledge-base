@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Working Group Doubts and Federation Spec Concerns
 slug: ep24-05-working-group-doubts
 series: The Good Thing

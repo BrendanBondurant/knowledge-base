@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Continuous Learning and Education in GraphQL Development
 slug: ep07-09-continuous-learning-in-graphql
 series: The Good Thing

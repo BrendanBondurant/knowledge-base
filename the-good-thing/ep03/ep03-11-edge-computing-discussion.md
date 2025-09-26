@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Edge Computing Discussion
 slug: ep03-11-edge-computing-discussion
 series: The Good Thing

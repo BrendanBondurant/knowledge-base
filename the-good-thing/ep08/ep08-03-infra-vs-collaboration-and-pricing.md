@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Infrastructure vs Collaboration Value and Pricing Models
 slug: ep08-03-infra-vs-collaboration-and-pricing
 series: The Good Thing

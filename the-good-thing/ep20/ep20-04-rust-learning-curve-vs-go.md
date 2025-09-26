@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Rust Learning Curve vs Go
 slug: ep20-04-rust-learning-curve-vs-go
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Open Source Support Costs and Enterprise Business Models
 slug: ep16-03-open-source-support-and-cost
 series: The Good Thing

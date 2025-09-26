@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: LLM Accessibility and Enterprise Stickiness
 slug: ep25-13-llm-accessibility-and-enterprise-stickiness
 series: The Good Thing

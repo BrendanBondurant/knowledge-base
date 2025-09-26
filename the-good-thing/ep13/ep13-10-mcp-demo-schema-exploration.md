@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: MCP Demo - Schema Exploration
 slug: ep13-10-mcp-demo-schema-exploration
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Solving Organizational Problems Beyond GraphQL
 slug: ep18-10-solving-org-problems-beyond-graphql
 series: The Good Thing

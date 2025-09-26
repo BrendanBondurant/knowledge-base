@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: MCP Through GraphQL Collections and Access Control
 slug: ep12-06-mcp-through-graphql-collections
 series: The Good Thing

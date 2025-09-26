@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: N+1 Problems, Batching, Testing, and Engineering Philosophy
 slug: ep06-14-n-plus-one-batching-testing-engineering
 series: The Good Thing

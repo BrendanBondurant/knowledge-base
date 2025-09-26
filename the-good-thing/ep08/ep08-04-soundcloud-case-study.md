@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: SoundCloud Case Study and Open Source Moats
 slug: ep08-04-soundcloud-case-study
 series: The Good Thing

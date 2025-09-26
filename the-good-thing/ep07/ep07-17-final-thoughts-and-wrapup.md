@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Final Thoughts and Episode Wrap-up
 slug: ep07-17-final-thoughts-and-wrapup
 series: The Good Thing

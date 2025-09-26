@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Hype Cycles and MCP Adoption
 slug: ep28-09-hype-cycles-and-mcp-adoption
 series: The Good Thing

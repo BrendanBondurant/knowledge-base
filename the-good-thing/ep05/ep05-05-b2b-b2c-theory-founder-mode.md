@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: B2B/B2C Theory and Founder Mode
 slug: ep05-05-b2b-b2c-theory-founder-mode
 series: The Good Thing

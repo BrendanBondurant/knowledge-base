@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: KubeCon AI Trends and API Market Reality
 slug: ep12-01-kubecon-ai-api-trends
 series: The Good Thing

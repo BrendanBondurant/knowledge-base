@@ -1,4 +1,5 @@
 Episode 1
+type: podcast-chunk
 00:00:01:18 - 00:00:19:19
 Stefan
 Ladies and gentlemen, welcome to an episode of The Good Thing, episode one, where we're

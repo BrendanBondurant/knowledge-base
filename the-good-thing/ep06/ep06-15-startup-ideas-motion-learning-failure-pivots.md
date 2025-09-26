@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Startup Ideas, Motion, Learning from Failure, and Product Pivots
 slug: ep06-15-startup-ideas-motion-learning-failure-pivots
 series: The Good Thing

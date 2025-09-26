@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Customer Focus, Competition, and Benchmarks
 slug: ep05-07-customer-focus-competition-benchmarks
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: GitHub AI Product vs Distribution
 slug: ep23-06-github-ai-product-vs-distribution
 series: The Good Thing

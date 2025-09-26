@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI, MCP, and Federation Alignment Strategy
 slug: ep12-05-ai-mcp-federation-alignment
 series: The Good Thing

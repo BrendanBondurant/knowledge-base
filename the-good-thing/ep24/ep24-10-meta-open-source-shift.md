@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Meta's Open Source Strategy Shift and AI Arms Race
 slug: ep24-10-meta-open-source-shift
 series: The Good Thing

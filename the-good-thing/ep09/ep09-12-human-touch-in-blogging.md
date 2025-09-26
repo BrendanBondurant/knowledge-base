@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Authenticity and Human Touch in AI-Generated Blog Content
 slug: ep09-12-human-touch-in-blogging
 series: The Good Thing

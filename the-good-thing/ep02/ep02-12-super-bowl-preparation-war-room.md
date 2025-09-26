@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Super Bowl Preparation and War Room Setup
 slug: ep02-12-super-bowl-preparation-war-room
 series: The Good Thing

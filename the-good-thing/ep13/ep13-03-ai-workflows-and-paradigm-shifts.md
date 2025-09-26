@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Workflows and Paradigm Shifts
 slug: ep13-03-ai-workflows-and-paradigm-shifts
 series: The Good Thing

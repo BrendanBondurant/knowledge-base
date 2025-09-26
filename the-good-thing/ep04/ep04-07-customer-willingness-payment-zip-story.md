@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Customer Willingness to Pay, Procurement, and the Zip Story
 slug: ep04-07-customer-willingness-payment-zip-story
 series: The Good Thing

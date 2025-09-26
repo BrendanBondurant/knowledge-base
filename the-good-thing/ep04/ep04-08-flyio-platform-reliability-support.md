@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Fly.io, Platform Building, Reliability, and Support
 slug: ep04-08-flyio-platform-reliability-support
 series: The Good Thing

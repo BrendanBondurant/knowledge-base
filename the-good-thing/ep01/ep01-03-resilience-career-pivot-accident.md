@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Startup Resilience Rooted in Recovery
 slug: ep01-03-resilience-career-pivot-accident
 series: The Good Thing

@@ -1,4 +1,5 @@
 Episode 23
+type: podcast-chunk
 00:00:23:21 - 00:00:45:17
 Stefan
 And we're back. Welcome back, ladies and gentlemen. Back to another episode of The Good

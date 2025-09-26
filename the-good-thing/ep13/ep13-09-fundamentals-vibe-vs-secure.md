@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Fundamentals vs Vibe Coding Security Mindset
 slug: ep13-09-fundamentals-vibe-vs-secure
 series: The Good Thing

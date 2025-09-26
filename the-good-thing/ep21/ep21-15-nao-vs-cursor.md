@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Nao vs Cursor
 slug: ep21-15-nao-vs-cursor
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Fundamentals, AI Learning, and The Imposters Handbook
 slug: ep01-09-fundamentals-ai-learning-imposters-handbook
 series: The Good Thing

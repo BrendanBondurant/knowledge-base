@@ -1,4 +1,5 @@
 00:39:45:14 - 00:40:00:16
+type: podcast-chunk
 Jens
 Free, mid-market. I think I would prefer if mid-market had a pricing and not just book a demo,
 but okay, I guess the product is complex.

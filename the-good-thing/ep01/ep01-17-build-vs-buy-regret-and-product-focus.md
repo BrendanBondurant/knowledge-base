@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Build vs Buy Regret and Product Focus
 slug: ep01-17-build-vs-buy-regret-and-product-focus
 series: The Good Thing

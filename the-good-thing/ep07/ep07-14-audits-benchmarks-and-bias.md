@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Federation Audits, Benchmarks, and Ecosystem Bias
 slug: ep07-14-audits-benchmarks-and-bias
 series: The Good Thing

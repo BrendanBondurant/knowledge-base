@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Customer Proximity and Engineering Feedback Loops
 slug: ep02-03-customer-proximity-feedback-loops
 series: The Good Thing

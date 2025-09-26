@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Infrastructure Investments, Testing Tradeoffs, and Delivery Quality
 slug: ep10-07-infra-tradeoffs-and-quality
 series: The Good Thing

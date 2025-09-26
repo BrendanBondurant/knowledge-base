@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: LLM Code Quality and Productivity
 slug: ep23-07-llm-code-quality-and-productivity
 series: The Good Thing

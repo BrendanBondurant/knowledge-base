@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: ClickHouse Self-Hosting Discussion
 slug: ep03-08-clickhouse-self-hosting-discussion
 series: The Good Thing

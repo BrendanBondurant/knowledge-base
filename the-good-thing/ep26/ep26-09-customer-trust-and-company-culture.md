@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Customer Trust and Company Culture
 slug: ep26-09-customer-trust-and-company-culture
 series: The Good Thing

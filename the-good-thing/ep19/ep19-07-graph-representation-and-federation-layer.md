@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Graph Representation and Federation Layer
 slug: ep19-07-graph-representation-and-federation-layer
 series: The Good Thing

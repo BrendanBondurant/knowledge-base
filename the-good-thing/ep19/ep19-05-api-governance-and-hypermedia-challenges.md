@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: API Governance and Hypermedia Challenges
 slug: ep19-05-api-governance-and-hypermedia-challenges
 series: The Good Thing

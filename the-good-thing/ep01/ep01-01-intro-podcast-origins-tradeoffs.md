@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Podcast Origins and the Engineering of Tradeoffs
 slug: ep01-01-intro-podcast-origins-tradeoffs
 series: The Good Thing

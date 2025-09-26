@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Limitations of AI Autonomy and the Role of Tools and Protocols
 slug: ep09-15-ai-autonomy-and-tools
 series: The Good Thing

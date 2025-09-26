@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Impact and Database Usage
 slug: ep26-14-ai-impact-and-database-usage
 series: The Good Thing

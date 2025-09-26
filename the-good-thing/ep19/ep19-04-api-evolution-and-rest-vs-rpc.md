@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: API Evolution and REST vs RPC
 slug: ep19-04-api-evolution-and-rest-vs-rpc
 series: The Good Thing

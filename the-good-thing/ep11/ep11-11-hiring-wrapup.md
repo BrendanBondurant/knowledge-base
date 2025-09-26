@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Hiring Opportunities and Episode Wrap-up
 slug: ep11-11-hiring-wrapup
 series: The Good Thing

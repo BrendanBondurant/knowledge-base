@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Agents and Supergraph Future Vision
 slug: ep11-10-ai-agents-and-supergraph-future
 series: The Good Thing

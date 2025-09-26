@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Hypermedia APIs and LLM Agents
 slug: ep02-11-hypermedia-apis-llm-agents
 series: The Good Thing

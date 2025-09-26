@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Schema Proposals and Governance
 slug: ep13-12-ai-schema-proposals-governance
 series: The Good Thing

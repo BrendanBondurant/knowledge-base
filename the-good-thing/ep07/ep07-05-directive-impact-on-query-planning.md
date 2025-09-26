@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Federation Directives Impact on Query Planning
 slug: ep07-05-directive-impact-on-query-planning
 series: The Good Thing

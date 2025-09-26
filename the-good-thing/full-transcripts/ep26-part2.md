@@ -1,4 +1,5 @@
 00:31:36:14 - 00:32:00:08
+type: podcast-chunk
 Sam
 I think it depends how your company is being valued. Right. You know, you and if you if you
 believe that certain amounts of burning leads to growth. Right. So this is there's, there's this

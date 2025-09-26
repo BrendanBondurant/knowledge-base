@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Cache Warming and Super Bowl Traffic Spikes
 slug: ep02-06-cache-warming-super-bowl-traffic
 series: The Good Thing

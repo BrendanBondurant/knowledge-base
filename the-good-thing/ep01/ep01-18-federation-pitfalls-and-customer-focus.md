@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Federation Pitfalls and Customer Focus
 slug: ep01-18-federation-pitfalls-and-customer-focus
 series: The Good Thing

@@ -1,4 +1,5 @@
 00:32:55:19 - 00:33:26:29
+type: podcast-chunk
 Jens
 So the the the the big problem I think was so I, I actually wanted to build an app. So I didn't start
 a startup or a business with the idea of creating a business. I started the startup with the idea of

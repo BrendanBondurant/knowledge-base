@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Startup Velocity and Customer Feedback Loops
 slug: ep07-03-startup-velocity-and-feedback-loops
 series: The Good Thing

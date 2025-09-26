@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Vision vs. Customer Feedback, AB Testing, and Luck
 slug: ep04-11-vision-feedback-abtesting-luck
 series: The Good Thing

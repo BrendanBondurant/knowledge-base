@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: From Perl Frustration to Startup Beginnings
 slug: ep01-05-learning-from-failure-startup-lessons
 series: The Good Thing

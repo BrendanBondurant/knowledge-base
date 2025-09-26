@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Lovable AI Scaling and Bubble Concerns
 slug: ep24-09-lovable-ai-scaling
 series: The Good Thing

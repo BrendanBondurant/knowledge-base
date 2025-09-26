@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Lee Robinson Leaves Vercel
 slug: ep23-03-lee-robinson-leaves-vercel
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Bare Metal Overkill and Custom CMS Traps
 slug: ep01-16-bare-metal-overkill-and-custom-cms-traps
 series: The Good Thing

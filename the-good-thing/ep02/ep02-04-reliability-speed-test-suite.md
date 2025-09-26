@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Reliability vs Speed and Test Suite Optimization
 slug: ep02-04-reliability-speed-test-suite
 series: The Good Thing
