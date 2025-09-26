@@ -1,4 +1,5 @@
 Episode 2
+type: podcast-chunk
 00:00:24:25 - 00:00:43:07
 Stefan
 And we're back. Hey, everybody. Thank you guys so much for joining us today on another

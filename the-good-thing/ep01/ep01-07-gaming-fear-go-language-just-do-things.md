@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Getting Over Fear and Just Doing Things
 slug: ep01-07-gaming-fear-go-language-just-do-things
 series: The Good Thing

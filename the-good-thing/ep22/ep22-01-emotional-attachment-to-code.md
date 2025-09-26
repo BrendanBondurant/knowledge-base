@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Emotional Attachment to Code
 slug: ep22-01-emotional-attachment-to-code
 series: The Good Thing

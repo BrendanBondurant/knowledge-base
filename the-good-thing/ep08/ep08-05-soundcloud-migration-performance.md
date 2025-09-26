@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: SoundCloud Migration Performance and Architecture Benefits
 slug: ep08-05-soundcloud-migration-performance
 series: The Good Thing

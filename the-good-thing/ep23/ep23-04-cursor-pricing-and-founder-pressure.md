@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Cursor Pricing and Founder Pressure
 slug: ep23-04-cursor-pricing-and-founder-pressure
 series: The Good Thing

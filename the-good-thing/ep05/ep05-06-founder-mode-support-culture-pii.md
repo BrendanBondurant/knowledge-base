@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Founder Mode, Support Culture, and PII Handling
 slug: ep05-06-founder-mode-support-culture-pii
 series: The Good Thing

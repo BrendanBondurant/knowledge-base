@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Cosmo's Boring Tech Architecture
 slug: ep03-06-cosmo-boring-tech-architecture
 series: The Good Thing

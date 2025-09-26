@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI-First Strategy and Customer Expectations
 slug: ep19-12-ai-first-strategy-and-customer-expectations
 series: The Good Thing

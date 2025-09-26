@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Compute vs Collaboration Business Models
 slug: ep12-16-compute-vs-collaboration
 series: The Good Thing

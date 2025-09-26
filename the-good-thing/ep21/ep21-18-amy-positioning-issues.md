@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Amy Positioning Issues
 slug: ep21-18-amy-positioning-issues
 series: The Good Thing

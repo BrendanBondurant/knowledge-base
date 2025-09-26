@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Retool Clarity and Visual Flow vs Execution Flaws
 slug: ep15-07-retool-clarity-and-flow
 series: The Good Thing

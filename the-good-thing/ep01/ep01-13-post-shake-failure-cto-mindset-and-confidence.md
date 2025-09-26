@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Post-Shake Failure CTO Mindset and Confidence
 slug: ep01-13-post-shake-failure-cto-mindset-and-confidence
 series: The Good Thing

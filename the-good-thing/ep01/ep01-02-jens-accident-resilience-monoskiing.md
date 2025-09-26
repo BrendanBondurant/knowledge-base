@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Mono Skiing, Recovery, and Learning to Fail
 slug: ep01-02-jens-accident-resilience-monoskiing
 series: The Good Thing

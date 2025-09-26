@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Open Source Collaboration and Safety
 slug: ep26-11-open-source-collaboration-and-safety
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: JSON Schema Limits and Safe Generation
 slug: ep14-06-json-schema-limits-and-safe-generation
 series: The Good Thing

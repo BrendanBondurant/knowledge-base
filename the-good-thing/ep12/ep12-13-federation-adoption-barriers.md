@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Federation Adoption Barriers and Scale Requirements
 slug: ep12-13-federation-adoption-barriers
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Introductions and Branding Decisions
 slug: ep27-01-introductions-and-branding
 series: The Good Thing

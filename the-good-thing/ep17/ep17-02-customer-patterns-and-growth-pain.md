@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Customer Patterns and Growth Pain
 slug: ep17-02-customer-patterns-and-growth-pain
 series: The Good Thing

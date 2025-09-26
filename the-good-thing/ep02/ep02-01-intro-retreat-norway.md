@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Introduction and Retreat Experience in Norway
 slug: ep02-01-intro-retreat-norway
 series: The Good Thing

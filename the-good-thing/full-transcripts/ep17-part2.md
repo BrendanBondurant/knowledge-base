@@ -1,4 +1,5 @@
 00:30:57:28 - 00:31:43:24
+type: podcast-chunk
 Jens
 And then I make a coffee or something and five, ten minutes later I get a well researched paper.
 I can, I can review it, and I'm not even considering using that for my RFC. It's more like, okay,

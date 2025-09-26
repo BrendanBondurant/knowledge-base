@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: WunderGraph Plugin System and LLM Backend
 slug: ep20-10-wundergraph-plugin-llm-backend
 series: The Good Thing

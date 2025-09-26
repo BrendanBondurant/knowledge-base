@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Tools and Workflow Discussion
 slug: ep03-03-ai-tools-workflow-copilot
 series: The Good Thing

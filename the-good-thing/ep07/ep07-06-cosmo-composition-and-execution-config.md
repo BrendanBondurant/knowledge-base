@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Cosmo's Composition and Execution Config Architecture
 slug: ep07-06-cosmo-composition-and-execution-config
 series: The Good Thing

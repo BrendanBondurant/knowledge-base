@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Team Dynamics, Retreat, Cosmo Pivot, First Customers, and Luck
 slug: ep06-16-team-dynamics-retreat-cosmo-pivot-customers-luck
 series: The Good Thing

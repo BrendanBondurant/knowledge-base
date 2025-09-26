@@ -1,4 +1,5 @@
 00:30:25:05 - 00:30:52:09
+type: podcast-chunk
 Dustin
 Rich metadata, which is really important. So I think this is also like a super, super power of
 GraphQL. Because we have a unified, super graph schema, you can just add comments to the

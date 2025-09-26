@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Developer Maturity and Boring Tech
 slug: ep25-15-developer-maturity-and-boring-tech
 series: The Good Thing

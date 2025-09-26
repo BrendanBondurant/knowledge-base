@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: First Startup lessons Failure and Flywheels
 slug: ep01-11-first-startup-lessons-failure-and-flywheels
 series: The Good Thing

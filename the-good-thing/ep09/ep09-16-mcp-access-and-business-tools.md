@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Registry, Access Control, and Business User Interfaces with MCP
 slug: ep09-16-mcp-access-and-business-tools
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Venture Risk and Founder Perspective
 slug: ep26-08-venture-risk-and-founder-perspective
 series: The Good Thing

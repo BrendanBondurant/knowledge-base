@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Role Evolution and Technical Founder Discussion
 slug: ep03-02-role-evolution-technical-founder
 series: The Good Thing

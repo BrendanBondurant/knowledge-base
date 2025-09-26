@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: VC Selling Mindset and Fundraising Strategy
 slug: ep11-03-vc-selling-mindset
 series: The Good Thing

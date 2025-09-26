@@ -1,4 +1,5 @@
 00:33:27:04 - 00:33:55:05
+type: podcast-chunk
 Cameron
 But, you know, doing, you know, doing all of the things that are time consuming is just super
 simple, like writing SQL migrations, writing comments, helping to write tests, helping to, you

@@ -1,4 +1,5 @@
 Episode 3
+type: podcast-chunk
 00:00:15:27 - 00:00:22:02
 Stefan
 I was.

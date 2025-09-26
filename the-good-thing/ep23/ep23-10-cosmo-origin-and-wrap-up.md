@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Cosmo Origin and Wrap Up
 slug: ep23-10-cosmo-origin-and-wrap-up
 series: The Good Thing

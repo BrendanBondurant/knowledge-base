@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Live App Demo and API Connection
 slug: ep14-12-live-app-demo-and-api-connection
 series: The Good Thing

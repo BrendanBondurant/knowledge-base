@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Realizing What You Don’t Know — Seniority and Boldness
 slug: ep01-10-seniority-boldness-it-depends
 series: The Good Thing

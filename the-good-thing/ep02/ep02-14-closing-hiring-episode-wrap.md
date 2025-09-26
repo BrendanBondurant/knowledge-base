@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Closing, Hiring, and Episode Wrap-up
 slug: ep02-14-closing-hiring-episode-wrap
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Onsite vs Remote Consulting
 slug: ep28-02-onsite-vs-remote-consulting
 series: The Good Thing

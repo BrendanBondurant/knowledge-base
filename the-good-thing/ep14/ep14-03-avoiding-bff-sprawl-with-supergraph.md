@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Avoiding BFF Sprawl with Supergraph
 slug: ep14-03-avoiding-bff-sprawl-with-supergraph
 series: The Good Thing

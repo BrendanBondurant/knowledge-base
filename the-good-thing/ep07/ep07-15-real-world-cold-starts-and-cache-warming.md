@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Real-World Cold Starts and Intelligent Cache Warming
 slug: ep07-15-real-world-cold-starts-and-cache-warming
 series: The Good Thing

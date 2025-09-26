@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: From GraphQL to Collaboration
 slug: ep25-05-from-graphql-to-collaboration
 series: The Good Thing

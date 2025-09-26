@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Vercel Business Benefits and Benefit-Driven Storytelling
 slug: ep15-06-vercel-business-benefits
 series: The Good Thing

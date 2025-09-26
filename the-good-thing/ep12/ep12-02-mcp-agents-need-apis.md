@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: MCP and Why AI Agents Need APIs
 slug: ep12-02-mcp-agents-need-apis
 series: The Good Thing

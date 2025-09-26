@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Coding Experience and Personal Observations
 slug: ep24-08-ai-coding-experience
 series: The Good Thing

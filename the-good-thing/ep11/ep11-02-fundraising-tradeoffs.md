@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Fundraising Tradeoffs and Founder Transparency
 slug: ep11-02-fundraising-tradeoffs
 series: The Good Thing

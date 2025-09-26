@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Technical Challenges in Schema Mapping
 slug: ep27-05-technical-challenges-in-schema-mapping
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Schema Noise and Frontend Friction
 slug: ep22-06-schema-noise-and-frontend-friction
 series: The Good Thing

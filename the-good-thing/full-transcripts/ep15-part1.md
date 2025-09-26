@@ -1,4 +1,5 @@
 Episode 15
+type: podcast-chunk
 00:00:23:26 - 00:00:33:12
 Stefan
 And we're back. Welcome back, ladies and gentlemen, to another episode of The Good Thing.

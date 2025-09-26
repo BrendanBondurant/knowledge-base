@@ -1,4 +1,5 @@
 00:00:24:17 - 00:00:52:05
+type: podcast-chunk
 Jens
 I. Hey, everybody. We're live. Today I do. I have to do the intro because Stefan is not here, and,
 I'm not prepared to do it. I'm just winging it. Yeah, it's it's good to be, back on the stream. We

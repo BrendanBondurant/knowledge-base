@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Apollo Federation Messaging Flaws and Brand Inconsistencies
 slug: ep15-12-apollo-federation-performance-flaws
 series: The Good Thing

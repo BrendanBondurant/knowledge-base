@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: TextAI Group Chatbot Analysis
 slug: ep21-23-textai-group-chatbot-analysis
 series: The Good Thing

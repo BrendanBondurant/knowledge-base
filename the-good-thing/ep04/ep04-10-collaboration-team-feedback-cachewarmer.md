@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Collaboration, Team Energy, Feedback Loops, and Cache Warmer Story
 slug: ep04-10-collaboration-team-feedback-cachewarmer
 series: The Good Thing

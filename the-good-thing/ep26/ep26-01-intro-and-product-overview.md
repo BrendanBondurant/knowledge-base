@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Intro and Product Overview
 slug: ep26-01-intro-and-product-overview
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Cosmo Architecture Reliability and Closing
 slug: ep03-12-cosmo-architecture-reliability-closing
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Productivity and Developer Adoption
 slug: ep17-06-ai-productivity-and-developer-adoption
 series: The Good Thing

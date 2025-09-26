@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Business-Engineering Gaps and Stakeholder Issues
 slug: ep28-07-business-engineering-gaps
 series: The Good Thing

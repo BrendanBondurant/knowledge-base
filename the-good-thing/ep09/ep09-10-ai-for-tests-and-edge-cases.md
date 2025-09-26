@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Using AI for Test Generation and Second Set of Eyes
 slug: ep09-10-ai-for-tests-and-edge-cases
 series: The Good Thing

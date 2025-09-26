@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Introductions and Consulting Perspective
 slug: ep28-01-introductions-and-consulting-perspective
 series: The Good Thing

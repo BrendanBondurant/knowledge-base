@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Relay JWT Node Entities and Secure Federation
 slug: ep12-10-relay-jwt-node-entities
 series: The Good Thing

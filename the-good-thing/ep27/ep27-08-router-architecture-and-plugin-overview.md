@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Router Architecture and Plugin Overview
 slug: ep27-08-router-architecture-and-plugin-overview
 series: The Good Thing

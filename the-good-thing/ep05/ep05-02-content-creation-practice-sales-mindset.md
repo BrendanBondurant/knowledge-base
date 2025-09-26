@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Content Creation, Practice, and Sales Mindset
 slug: ep05-02-content-creation-practice-sales-mindset
 series: The Good Thing

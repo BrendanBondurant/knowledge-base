@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Embracing AI and Looking Ahead
 slug: ep19-13-embracing-ai-and-looking-ahead
 series: The Good Thing

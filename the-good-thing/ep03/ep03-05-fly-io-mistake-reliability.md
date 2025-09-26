@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Fly.io Mistake and Reliability Lessons
 slug: ep03-05-fly-io-mistake-reliability
 series: The Good Thing

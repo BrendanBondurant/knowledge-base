@@ -1,4 +1,5 @@
 Episode 17
+type: podcast-chunk
 00:00:22:17 - 00:00:31:05
 Stefan
 You.

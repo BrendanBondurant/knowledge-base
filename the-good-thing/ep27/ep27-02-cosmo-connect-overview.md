@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Cosmo Connect Overview and gRPC Motivation
 slug: ep27-02-cosmo-connect-overview
 series: The Good Thing

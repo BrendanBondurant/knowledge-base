@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Federation Directive Complexity and Technical Debt
 slug: ep07-10-directive-complexity-and-tech-debt
 series: The Good Thing

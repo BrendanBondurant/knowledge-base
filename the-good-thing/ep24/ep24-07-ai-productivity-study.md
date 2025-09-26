@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Productivity Study Critique and Sample Size Issues
 slug: ep24-07-ai-productivity-study
 series: The Good Thing

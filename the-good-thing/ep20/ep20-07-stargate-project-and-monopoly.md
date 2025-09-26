@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Stargate Project and Monopoly
 slug: ep20-07-stargate-project-and-monopoly
 series: The Good Thing

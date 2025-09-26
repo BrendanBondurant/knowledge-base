@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Rust vs Go Debate and Developer Accessibility
 slug: ep20-01-rust-vs-go-debate-accessibility
 series: The Good Thing

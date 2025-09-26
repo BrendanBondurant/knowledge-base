@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Blackmail Headline Analysis
 slug: ep20-05-ai-blackmail-headline-analysis
 series: The Good Thing

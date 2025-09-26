@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Enable WebSockets in IDE
 slug: ep13-14-enable-websockets-in-ide
 series: The Good Thing

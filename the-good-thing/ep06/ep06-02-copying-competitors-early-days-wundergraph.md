@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Copying Competitors and the Early Days of WunderGraph
 slug: ep06-02-copying-competitors-early-days-wundergraph
 series: The Good Thing

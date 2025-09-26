@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Schema Design Philosophy and Error Handling
 slug: ep27-11-schema-design-and-error-handling
 series: The Good Thing

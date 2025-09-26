@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Business Impact of Performance and Conversion Rates
 slug: ep02-08-business-impact-performance-conversion
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Naivety Benefits and Market Timing Challenges
 slug: ep11-05-naivete-and-market-timing
 series: The Good Thing

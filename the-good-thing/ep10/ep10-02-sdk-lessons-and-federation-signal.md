@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: SDK Lessons, Federation Signals, and the Leap of Faith
 slug: ep10-02-sdk-lessons-and-federation-signal
 series: The Good Thing

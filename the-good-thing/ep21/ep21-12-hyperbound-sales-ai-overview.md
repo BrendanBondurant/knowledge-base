@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Hyperbound Sales AI Overview
 slug: ep21-12-hyperbound-sales-ai-overview
 series: The Good Thing

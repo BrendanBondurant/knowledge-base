@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Schema Quality and REST API Abstraction Leakage
 slug: ep08-07-schema-quality-and-abstractions
 series: The Good Thing

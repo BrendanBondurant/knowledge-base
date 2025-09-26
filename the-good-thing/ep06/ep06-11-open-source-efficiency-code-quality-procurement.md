@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Open Source Efficiency, Code Quality, and Procurement
 slug: ep06-11-open-source-efficiency-code-quality-procurement
 series: The Good Thing

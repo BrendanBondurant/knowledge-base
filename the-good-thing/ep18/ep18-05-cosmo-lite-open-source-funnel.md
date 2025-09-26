@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Cosmo Lite and the Open Source Funnel
 slug: ep18-05-cosmo-lite-open-source-funnel
 series: The Good Thing

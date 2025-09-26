@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Scale Infrastructure and Orchestration
 slug: ep26-13-scale-infrastructure-and-orchestration
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Pricing, Customer Value, and Mid-Market vs. Enterprise
 slug: ep04-03-pricing-customer-value-midmarket-enterprise
 series: The Good Thing

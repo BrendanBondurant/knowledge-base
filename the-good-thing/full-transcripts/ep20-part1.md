@@ -1,4 +1,5 @@
 Episode 20
+type: podcast-chunk
 00:00:21:00 - 00:00:41:25
 Stefan
 And we're live. Welcome back, ladies and gentlemen, to another episode of The Good Thing.

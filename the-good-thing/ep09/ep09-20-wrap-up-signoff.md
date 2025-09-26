@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Wrap-up and 'The Good Thing' Sign-off
 slug: ep09-20-wrap-up-signoff
 series: The Good Thing

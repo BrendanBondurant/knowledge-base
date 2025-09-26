@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Apollo Layoffs and Founder Empathy
 slug: ep18-01-apollo-layoffs-founder-empathy
 series: The Good Thing

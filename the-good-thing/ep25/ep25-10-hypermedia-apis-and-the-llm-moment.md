@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Hypermedia APIs and the LLM Moment
 slug: ep25-10-hypermedia-apis-and-the-llm-moment
 series: The Good Thing

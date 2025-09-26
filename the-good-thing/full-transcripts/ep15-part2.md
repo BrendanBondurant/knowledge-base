@@ -1,4 +1,5 @@
 00:35:29:18 - 00:35:45:01
+type: podcast-chunk
 Stefan
 Of course, we'll do it after this one. But I love their landing page. Used to be super cool. I think
 they might have changed it a little bit, but have you ever seen posthogs? No. I still don't

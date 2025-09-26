@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Licensing Governance and Contributions
 slug: ep26-10-licensing-governance-and-contributions
 series: The Good Thing

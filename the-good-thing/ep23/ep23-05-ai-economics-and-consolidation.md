@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Economics and Consolidation
 slug: ep23-05-ai-economics-and-consolidation
 series: The Good Thing

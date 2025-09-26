@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Agent Mode Coding vs Autocompletion and Prompt-Based Tools
 slug: ep09-08-agent-mode-vs-copilot
 series: The Good Thing

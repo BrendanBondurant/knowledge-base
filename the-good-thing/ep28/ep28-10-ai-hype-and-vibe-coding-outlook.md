@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Hype and Vibe Coding Outlook
 slug: ep28-10-ai-hype-and-vibe-coding-outlook
 series: The Good Thing

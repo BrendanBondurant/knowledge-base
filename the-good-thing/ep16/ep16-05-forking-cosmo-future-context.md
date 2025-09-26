@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Forking Cosmo Challenges - Future Context and Business Complexity
 slug: ep16-05-forking-cosmo-future-context
 series: The Good Thing

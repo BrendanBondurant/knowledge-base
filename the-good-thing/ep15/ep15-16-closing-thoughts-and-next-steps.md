@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Episode Wrap-up and Landing Page Review Reflection
 slug: ep15-16-closing-thoughts-and-next-steps
 series: The Good Thing

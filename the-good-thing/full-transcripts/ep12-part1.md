@@ -1,4 +1,5 @@
 Episode 12
+type: podcast-chunk
 00:00:10:15 - 00:00:19:00
 Stefan
 You.

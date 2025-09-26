@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: REST vs. GraphQL, Federation, and Organizational Problems
 slug: ep05-10-rest-vs-graphql-federation-org-problems
 series: The Good Thing

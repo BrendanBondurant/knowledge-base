@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Open Source Strategy and VC Resistance
 slug: ep08-02-open-source-and-self-hosting
 series: The Good Thing

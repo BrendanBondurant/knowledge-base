@@ -1,4 +1,5 @@
 Episode 4
+type: podcast-chunk
 00:00:24:00 - 00:00:34:09
 Stefan
 And we're live. Hello, everybody. Welcome back to another episode of The Good Thing, hosted

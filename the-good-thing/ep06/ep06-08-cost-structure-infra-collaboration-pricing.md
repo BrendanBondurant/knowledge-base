@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Cost Structure, Infra vs. Collaboration, Pricing, and Value Alignment
 slug: ep06-08-cost-structure-infra-collaboration-pricing
 series: The Good Thing

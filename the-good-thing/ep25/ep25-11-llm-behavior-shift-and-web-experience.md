@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: LLM Behavior Shift and Web Experience
 slug: ep25-11-llm-behavior-shift-and-web-experience
 series: The Good Thing

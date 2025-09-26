@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Metal Performance and High Availability
 slug: ep26-03-metal-performance-and-ha
 series: The Good Thing

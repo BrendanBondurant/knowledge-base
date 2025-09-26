@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Data Dependencies and Fragments at Scale
 slug: ep12-12-data-dependencies-at-scale
 series: The Good Thing

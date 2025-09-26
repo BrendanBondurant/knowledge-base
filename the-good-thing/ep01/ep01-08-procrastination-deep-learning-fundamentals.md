@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Procrastination, Deep Learning, and Fundamentals
 slug: ep01-08-procrastination-deep-learning-fundamentals
 series: The Good Thing

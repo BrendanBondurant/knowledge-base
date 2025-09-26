@@ -1,4 +1,5 @@
 Episode 13
+type: podcast-chunk
 00:00:24:22 - 00:00:33:10
 Stefan
 And we're live. Welcome back, ladies and gentlemen, to another episode of The Good Thing.

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Validating AI-Generated Queries and Linter-Like Feedback Loops
 slug: ep09-07-validating-queries-linter-feedback
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Sergiy's Journey and Evolution of GraphQL Go Tools
 slug: ep07-02-sergiy-joins-and-evolves-graphql-tools
 series: The Good Thing

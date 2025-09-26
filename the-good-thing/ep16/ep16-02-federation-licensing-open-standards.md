@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Federation Licensing Strategy and Open Standards Importance
 slug: ep16-02-federation-licensing-open-standards
 series: The Good Thing

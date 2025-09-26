@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Federation for AI and SQL for Agents
 slug: ep19-10-federation-for-ai-and-sql-for-agents
 series: The Good Thing

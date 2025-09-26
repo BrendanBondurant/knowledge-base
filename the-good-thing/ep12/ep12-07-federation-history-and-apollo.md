@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Federation History and Apollo's Innovation Journey
 slug: ep12-07-federation-history-and-apollo
 series: The Good Thing

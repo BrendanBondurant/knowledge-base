@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: API Safety, Cosmo, and the Waiter Analogy
 slug: ep17-10-api-safety-cosmo-and-the-waiter-analogy
 series: The Good Thing

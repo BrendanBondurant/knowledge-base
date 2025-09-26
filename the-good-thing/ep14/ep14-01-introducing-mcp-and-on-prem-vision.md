@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Introducing MCP and On-Prem Vision
 slug: ep14-01-introducing-mcp-and-on-prem-vision
 series: The Good Thing

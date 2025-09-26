@@ -1,4 +1,5 @@
 00:38:48:16 - 00:39:13:16
+type: podcast-chunk
 Jesse
 It might go down once in a while. And you can use your own Prometheus metrics.
 Opentelemetry. You can do BGP whatever you want. Because it is a completely separate

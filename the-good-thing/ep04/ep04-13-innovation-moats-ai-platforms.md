@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Innovation, Platform Moats, AI, and Collaboration Platforms
 slug: ep04-13-innovation-moats-ai-platforms
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Corporate vs Founder Drive and Big Company Competition Limits
 slug: ep16-10-corporate-vs-founder-drive
 series: The Good Thing

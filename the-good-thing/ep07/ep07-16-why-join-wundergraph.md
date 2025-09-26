@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Why Join WunderGraph - Team Culture and Engineering Impact
 slug: ep07-16-why-join-wundergraph
 series: The Good Thing

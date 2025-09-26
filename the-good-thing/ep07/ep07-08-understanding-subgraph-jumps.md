@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Understanding Subgraph Jumps and Graph Traversal
 slug: ep07-08-understanding-subgraph-jumps
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Supergraph Unification Strategy and API Evolution
 slug: ep11-09-supergraph-unification-strategy
 series: The Good Thing

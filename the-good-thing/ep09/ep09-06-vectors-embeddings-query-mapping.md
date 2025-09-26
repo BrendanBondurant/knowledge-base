@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Using Vectors and Embeddings to Map Queries to Schema Slices
 slug: ep09-06-vectors-embeddings-query-mapping
 series: The Good Thing

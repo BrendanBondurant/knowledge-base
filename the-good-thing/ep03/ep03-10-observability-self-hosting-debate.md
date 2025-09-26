@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Observability and Self-Hosting Debate
 slug: ep03-10-observability-self-hosting-debate
 series: The Good Thing

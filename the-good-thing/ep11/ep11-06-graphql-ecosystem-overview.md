@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: GraphQL Ecosystem Overview and API Categories
 slug: ep11-06-graphql-ecosystem-overview
 series: The Good Thing

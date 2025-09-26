@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: GraphQL LLMs and Pragmatic Consulting
 slug: ep25-14-graphql-llms-and-pragmatic-consulting
 series: The Good Thing

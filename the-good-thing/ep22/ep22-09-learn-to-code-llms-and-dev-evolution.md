@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Learn to Code LLMs and Dev Evolution
 slug: ep22-09-learn-to-code-llms-and-dev-evolution
 series: The Good Thing

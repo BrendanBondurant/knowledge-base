@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Sentry Landing Page Review - Trust Signals and Playfulness
 slug: ep15-01-sentry-landing-page-review
 series: The Good Thing

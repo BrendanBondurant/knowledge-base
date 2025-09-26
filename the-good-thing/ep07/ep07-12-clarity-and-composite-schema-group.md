@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Federation Clarity and Composite Schema Working Group
 slug: ep07-12-clarity-and-composite-schema-group
 series: The Good Thing

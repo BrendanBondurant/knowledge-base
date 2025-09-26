@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: YC Selection and Funding Insights
 slug: ep21-25-yc-selection-and-funding-insights
 series: The Good Thing

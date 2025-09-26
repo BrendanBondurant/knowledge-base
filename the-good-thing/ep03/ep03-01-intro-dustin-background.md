@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Introduction and Dustin's Background
 slug: ep03-01-intro-dustin-background
 series: The Good Thing

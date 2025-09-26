@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Federation as Schema Coordination and Observability via Cosmo
 slug: ep09-03-federation-observability-cosmo
 series: The Good Thing

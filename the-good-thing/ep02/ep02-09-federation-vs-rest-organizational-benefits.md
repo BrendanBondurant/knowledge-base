@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Federation vs REST Organizational Benefits
 slug: ep02-09-federation-vs-rest-organizational-benefits
 series: The Good Thing

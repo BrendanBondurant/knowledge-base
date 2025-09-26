@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Investor Criteria and API Gateway Market
 slug: ep25-06-investor-criteria-and-api-gateway-market
 series: The Good Thing

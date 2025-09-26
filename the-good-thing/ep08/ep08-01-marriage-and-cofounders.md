@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Marriage, Cofounders, and Life Partnership Parallels
 slug: ep08-01-marriage-and-cofounders
 series: The Good Thing

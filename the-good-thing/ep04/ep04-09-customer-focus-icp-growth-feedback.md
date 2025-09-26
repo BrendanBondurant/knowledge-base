@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Customer Focus, ICP Changes, Company Growth, and Listening to Users
 slug: ep04-09-customer-focus-icp-growth-feedback
 series: The Good Thing

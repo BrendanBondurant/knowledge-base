@@ -1,4 +1,5 @@
 Episode 24
+type: podcast-chunk
 00:00:25:08 - 00:00:39:18
 Stefan
 And we're live. Welcome back, ladies and gentlemen. I always do the same intro I just realized.

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Open Source Game Theory, FAANG, and Community Contributions
 slug: ep06-10-open-source-game-theory-faang-community
 series: The Good Thing

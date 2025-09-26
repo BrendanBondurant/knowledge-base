@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Remote Culture and Quarterly Retreats
 slug: ep02-02-remote-culture-quarterly-retreats
 series: The Good Thing

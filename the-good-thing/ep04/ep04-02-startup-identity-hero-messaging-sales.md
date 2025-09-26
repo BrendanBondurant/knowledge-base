@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Startup Identity, Hero Messaging, and Sales Realities
 slug: ep04-02-startup-identity-hero-messaging-sales
 series: The Good Thing

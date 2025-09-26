@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: ThunderCode Website Review
 slug: ep21-03-thundercode-website-review
 series: The Good Thing

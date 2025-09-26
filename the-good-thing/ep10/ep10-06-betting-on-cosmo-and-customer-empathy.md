@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Betting the Company on Cosmo, Enterprise Validation, and Customer Empathy
 slug: ep10-06-betting-on-cosmo-and-customer-empathy
 series: The Good Thing

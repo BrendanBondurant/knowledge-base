@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: How Composition Simplifies Query Planning
 slug: ep07-07-composition-simplifies-query-planning
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Federation and Schema Registry
 slug: ep22-04-federation-and-schema-registry
 series: The Good Thing

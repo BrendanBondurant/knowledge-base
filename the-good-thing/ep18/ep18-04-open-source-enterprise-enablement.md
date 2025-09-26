@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Open Source Enterprise Enablement
 slug: ep18-04-open-source-enterprise-enablemen
 series: The Good Thing

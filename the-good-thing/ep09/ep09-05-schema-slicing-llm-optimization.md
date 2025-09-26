@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Schema Slicing and Optimizing LLM Context Usage
 slug: ep09-05-schema-slicing-llm-optimization
 series: The Good Thing

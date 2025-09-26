@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: PlanetScale Bold Claims and Targeted Database Messaging
 slug: ep15-04-planetscale-social-proof-and-scale
 series: The Good Thing

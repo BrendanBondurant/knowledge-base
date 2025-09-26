@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Plateau to MCP DevTools
 slug: ep13-01-ai-plateau-to-mcp-devtools
 series: The Good Thing

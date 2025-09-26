@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Fundraising Lessons and First-Time Founder Naivety
 slug: ep11-04-fundraising-lessons
 series: The Good Thing

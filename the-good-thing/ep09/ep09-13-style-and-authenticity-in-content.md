@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: The Importance of Personal Style and Taste in Writing and Code
 slug: ep09-13-style-and-authenticity-in-content
 series: The Good Thing

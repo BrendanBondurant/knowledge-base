@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Tooling and Governance Challenges
 slug: ep28-06-tooling-and-governance-challenges
 series: The Good Thing

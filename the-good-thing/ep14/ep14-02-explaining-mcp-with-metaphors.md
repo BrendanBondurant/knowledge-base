@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Explaining MCP with Metaphors
 slug: ep14-02-explaining-mcp-with-metaphors
 series: The Good Thing

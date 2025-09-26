@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Exposing Secure Workflows to LLMs
 slug: ep14-08-exposing-secure-workflows-to-llms
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Garbage Collection, Compiler Concerns, and Language Considerations for AI
 slug: ep09-18-garbage-collection-and-ai-languages
 series: The Good Thing

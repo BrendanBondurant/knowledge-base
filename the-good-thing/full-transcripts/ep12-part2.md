@@ -1,4 +1,5 @@
 00:31:44:03 - 00:32:12:23
+type: podcast-chunk
 Jens
 You can easily refetch data and everything. By the way, one one thing I'm, I'm going on a
 tangent on my tangent, but, we we are intending to bring native support for Relay to Cosmo

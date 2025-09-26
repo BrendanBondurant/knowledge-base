@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: API Governance and Process-First Thinking
 slug: ep25-04-api-governance-and-process-first-thinking
 series: The Good Thing

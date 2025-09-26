@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Code Ethics and Misaligned Incentives
 slug: ep12-03-ai-code-ethics-and-risks
 series: The Good Thing

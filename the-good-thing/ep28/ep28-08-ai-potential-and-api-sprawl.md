@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Potential and API Sprawl
 slug: ep28-08-ai-potential-and-api-sprawl
 series: The Good Thing

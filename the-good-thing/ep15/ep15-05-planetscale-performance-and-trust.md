@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: PlanetScale Performance Claims and Visual Proof Strategy
 slug: ep15-05-planetscale-performance-and-trust
 series: The Good Thing

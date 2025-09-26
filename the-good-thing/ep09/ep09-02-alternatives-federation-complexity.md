@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Alternatives to GraphQL Federation and Their Complexity
 slug: ep09-02-alternatives-federation-complexity
 series: The Good Thing

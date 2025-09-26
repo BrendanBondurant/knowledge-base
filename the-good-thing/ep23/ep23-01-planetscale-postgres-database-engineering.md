@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: PlanetScale Postgres Database Engineering
 slug: ep23-01-planetscale-postgres-database-engineering
 series: The Good Thing

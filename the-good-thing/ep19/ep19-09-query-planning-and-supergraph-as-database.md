@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Query Planning and Supergraph as Database
 slug: ep19-09-query-planning-and-supergraph-as-database
 series: The Good Thing

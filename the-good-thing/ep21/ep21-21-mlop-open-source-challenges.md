@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Mlop Open Source Challenges
 slug: ep21-21-mlop-open-source-challenges
 series: The Good Thing

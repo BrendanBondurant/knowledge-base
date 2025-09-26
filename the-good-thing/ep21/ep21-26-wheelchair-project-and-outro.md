@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Wheelchair Project and Outro
 slug: ep21-26-wheelchair-project-and-outro
 series: The Good Thing

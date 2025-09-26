@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Distribution Dominance and Defensibility
 slug: ep20-09-distribution-dominance-defensibility
 series: The Good Thing

@@ -1,4 +1,5 @@
 00:29:35:15 - 00:30:01:03
+type: podcast-chunk
 Stefan
 First of all, I think that explanation was absolutely brilliant. And one of the coolest things that I
 absolutely love about, you know, working with such technical folks like yourself and building this

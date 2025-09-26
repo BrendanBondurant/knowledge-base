@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Demo Setup and Persistent Operations
 slug: ep14-09-demo-setup-and-persistent-operations
 series: The Good Thing

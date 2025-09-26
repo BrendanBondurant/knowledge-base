@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Query Plan Analysis and Federation Insights
 slug: ep11-07-query-plan-analysis-federation
 series: The Good Thing

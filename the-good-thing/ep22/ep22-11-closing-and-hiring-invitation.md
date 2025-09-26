@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Closing and Hiring Invitation
 slug: ep22-11-closing-and-hiring-invitation
 series: The Good Thing

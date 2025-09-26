@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: DevTools Future with MCP
 slug: ep13-15-devtools-future-with-mcp
 series: The Good Thing

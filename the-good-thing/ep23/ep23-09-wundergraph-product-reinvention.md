@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: WunderGraph Product Reinvention
 slug: ep23-09-wundergraph-product-reinvention
 series: The Good Thing

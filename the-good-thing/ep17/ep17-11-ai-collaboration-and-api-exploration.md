@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Collaboration and API Exploration
 slug: ep17-11-ai-collaboration-and-api-exploration
 series: The Good Thing

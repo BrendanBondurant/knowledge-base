@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: From Architect to GraphQL Inspiration
 slug: ep01-14-from-architect-to-graphql-inspiration
 series: The Good Thing

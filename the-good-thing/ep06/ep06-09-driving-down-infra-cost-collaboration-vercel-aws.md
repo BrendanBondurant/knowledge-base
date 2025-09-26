@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Driving Down Infra Cost, Collaboration Features, Vercel, and AWS
 slug: ep06-09-driving-down-infra-cost-collaboration-vercel-aws
 series: The Good Thing

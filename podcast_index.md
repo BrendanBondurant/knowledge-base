@@ -542,3 +542,18 @@
 | 00:51:12 | 00:57:40 | AI's potential for requirements engineering, integration issues, and sprawl | ai, api-sprawl, requirements-engineering | ep28-08-ai-potential-and-api-sprawl |
 | 00:57:40 | 01:05:31 | Technology hype cycles, GraphQL adoption mistakes, and MCP as a solution looking for a problem | graphql, mcp, tech-evaluation | ep28-09-hype-cycles-and-mcp-adoption |
 | 01:05:31 | 01:12:35 | AI and vibe coding hype, realistic value, and cautious outlook | ai, developer-experience, tooling | ep28-10-ai-hype-and-vibe-coding-outlook |
+
+29
+
+| Start    | End      | Summary                                                                | Tags                               | Slug                                      |
+| -------- | -------- | ---------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------- |
+| 00:00:23 | 00:06:05 | Viola joins and explains engineering-led support and early challenges. | startup, observability, governance | ep29-01-intro-and-engineering-led-support |
+| 00:06:05 | 00:10:04 | Rotation burnout, Fly.io lessons, and founder-led support insights.    | startup, observability, governance | ep29-02-scaling-lessons-and-flyio-story   |
+| 00:10:04 | 00:16:28 | Viola on customer wins, tough “no’s,” and avoiding scope creep.        | startup, federation, governance    | ep29-03-csm-rewards-and-prioritization    |
+| 00:16:28 | 00:21:08 | Bad support creates detractors; NPS and feedback loops build trust.    | startup, observability, governance | ep29-04-nps-and-feedback-loops            |
+| 00:21:08 | 00:29:50 | Shift from on-call rotation to dedicated CSM + engineer model.         | startup, governance                | ep29-05-evolving-to-dedicated-csm-model   |
+| 00:29:50 | 00:36:48 | Startup scaling, forecasting, and data-driven customer success.        | startup, governance                | ep29-06-scaling-and-strategy              |
+| 00:36:48 | 00:43:27 | Turning feedback into product decisions through triage and tools.      | startup, governance, composition   | ep29-07-triage-and-product-alignment      |
+| 00:43:27 | 00:49:52 | Balancing vision and customer needs through division of powers.        | startup, governance                | ep29-08-division-of-powers                |
+| 00:49:52 | 00:55:20 | Why AI can’t replace empathy or human relationships in support.        | ai, startup, governance            | ep29-09-ai-vs-human-relationships         |
+| 00:55:20 | 01:00:36 | Practical advice for building and iterating on support processes.      | startup, governance                | ep29-10-advice-and-wrap-up                |

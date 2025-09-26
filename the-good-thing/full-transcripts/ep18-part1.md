@@ -1,4 +1,5 @@
 Episode 18
+type: podcast-chunk
 00:00:19:17 - 00:00:38:08
 Stefan
 And we're live. Welcome back, ladies and gentlemen, to another episode of The Good Thing.

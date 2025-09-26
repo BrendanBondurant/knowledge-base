@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: GraphQL Limitations and Relay-Driven Adoption
 slug: ep12-08-graphql-limitations-relay
 series: The Good Thing

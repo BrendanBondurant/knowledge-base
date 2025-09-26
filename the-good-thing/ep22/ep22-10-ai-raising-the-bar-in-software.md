@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Raising the Bar in Software
 slug: ep22-10-ai-raising-the-bar-in-software
 series: The Good Thing

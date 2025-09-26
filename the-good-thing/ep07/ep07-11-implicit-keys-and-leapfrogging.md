@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Implicit Keys and Leapfrogging in Federation
 slug: ep07-11-implicit-keys-and-leapfrogging
 series: The Good Thing

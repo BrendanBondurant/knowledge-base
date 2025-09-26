@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Enterprise Sales, Value Demonstration, and Customer Stories
 slug: ep05-04-enterprise-sales-value-customer-stories
 series: The Good Thing

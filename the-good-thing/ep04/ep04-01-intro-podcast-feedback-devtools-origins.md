@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Podcast Feedback, Casual Tone, and Devtools Origins
 slug: ep04-01-intro-podcast-feedback-devtools-origins
 series: The Good Thing

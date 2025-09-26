@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: MCP Accessibility and API Paradigm
 slug: ep13-06-mcp-accessibility-and-api-paradigm
 series: The Good Thing

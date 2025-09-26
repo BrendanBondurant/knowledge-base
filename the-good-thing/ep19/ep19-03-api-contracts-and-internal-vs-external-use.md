@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: API Contracts and Internal vs External Use
 slug: ep19-03-api-contracts-and-internal-vs-external-use
 series: The Good Thing

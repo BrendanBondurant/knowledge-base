@@ -1,4 +1,5 @@
 00:32:24:24 - 00:32:53:10
+type: podcast-chunk
 Stefan
 He just has a big head. That's a thing. But first of all, can I just acknowledge how ridiculous this
 is, that you can start a nonprofit, you can start a nonprofit, and then you can IPO, like anything

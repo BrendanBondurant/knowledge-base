@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Write Optimization and Tradeoffs
 slug: ep26-04-write-optimization-and-tradeoffs
 series: The Good Thing

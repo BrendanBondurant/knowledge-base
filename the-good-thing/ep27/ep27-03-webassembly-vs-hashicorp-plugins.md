@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: WebAssembly vs HashiCorp Plugins
 slug: ep27-03-webassembly-vs-hashicorp-plugins
 series: The Good Thing

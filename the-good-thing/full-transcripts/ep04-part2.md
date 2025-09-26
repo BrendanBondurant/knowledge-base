@@ -1,4 +1,5 @@
 00:39:37:19 - 00:39:38:27
+type: podcast-chunk
 Stefan
 This is a.
 00:39:38:28 - 00:40:09:17

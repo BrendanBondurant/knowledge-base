@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Unreal Engine Open Source Strategy and Mass Adoption Value
 slug: ep16-01-unreal-open-source-mass-adoption
 series: The Good Thing

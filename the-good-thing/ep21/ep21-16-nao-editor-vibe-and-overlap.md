@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Nao Editor Vibe and Overlap
 slug: ep21-16-nao-editor-vibe-and-overlap
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: PostHog Humor, Pricing Strategy and Objection Handling
 slug: ep15-09-posthog-humor-pricing-positioning
 series: The Good Thing

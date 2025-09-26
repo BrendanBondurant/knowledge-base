@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Product Philosophy, Structured Opinions, and the Long Game
 slug: ep10-09-product-philosophy-and-long-game
 series: The Good Thing

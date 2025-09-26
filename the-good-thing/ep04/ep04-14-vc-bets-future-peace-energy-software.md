@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: VC Bets, Future Predictions, Peace, Green Energy, and the Future of Software
 slug: ep04-14-vc-bets-future-peace-energy-software
 series: The Good Thing

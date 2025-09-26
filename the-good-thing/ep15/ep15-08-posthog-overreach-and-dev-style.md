@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: PostHog Overloaded Features and Developer-Focused Appeal
 slug: ep15-08-posthog-overreach-and-dev-style
 series: The Good Thing

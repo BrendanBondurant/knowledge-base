@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Intro, Personal Updates, Wedding Prep, and Episode Theme
 slug: ep06-01-intro-personal-updates-wedding-theme
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Apollo Principles and Small Startup Hacks
 slug: ep22-03-apollo-principles-and-small-startup-hacks
 series: The Good Thing

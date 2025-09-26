@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Funding Growth and Sustainability
 slug: ep26-07-funding-growth-and-sustainability
 series: The Good Thing

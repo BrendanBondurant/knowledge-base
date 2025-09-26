@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Schema Transparency and Conway's Law
 slug: ep02-10-schema-transparency-conways-law
 series: The Good Thing

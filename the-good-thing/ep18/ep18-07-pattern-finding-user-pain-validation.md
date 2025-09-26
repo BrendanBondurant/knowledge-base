@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Pattern Finding and User Pain Validation
 slug: ep18-07-pattern-finding-user-pain-validation
 series: The Good Thing

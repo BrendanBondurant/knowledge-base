@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Episode Closing and Hiring Announcement
 slug: ep08-09-closing-and-hiring-announcement
 series: The Good Thing

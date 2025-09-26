@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Preferred Languages for AI and Backend Work
 slug: ep09-19-preferred-languages-for-ai
 series: The Good Thing

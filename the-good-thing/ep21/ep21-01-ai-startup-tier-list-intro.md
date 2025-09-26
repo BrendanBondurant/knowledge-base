@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Startup Tier List Intro
 slug: ep21-01-ai-startup-tier-list-intro
 series: The Good Thing

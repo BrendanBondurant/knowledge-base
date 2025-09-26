@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Descriptions, Federation, and RFC Process
 slug: ep02-13-descriptions-federation-rfc
 series: The Good Thing

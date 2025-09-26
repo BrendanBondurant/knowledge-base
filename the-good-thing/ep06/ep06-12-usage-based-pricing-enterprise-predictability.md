@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Usage-Based Pricing, Enterprise Needs, and Predictability
 slug: ep06-12-usage-based-pricing-enterprise-predictability
 series: The Good Thing

@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: AI Wrappers and Market Saturation
 slug: ep21-14-ai-wrappers-and-market-saturation
 series: The Good Thing

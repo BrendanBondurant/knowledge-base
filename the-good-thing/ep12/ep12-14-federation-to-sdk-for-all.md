@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Federation to SDK Generation for Broader Adoption
 slug: ep12-14-federation-to-sdk-for-all
 series: The Good Thing

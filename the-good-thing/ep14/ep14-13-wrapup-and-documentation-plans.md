@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Wrapup and Documentation Plans
 slug: ep14-13-wrapup-and-documentation-plans
 series: The Good Thing

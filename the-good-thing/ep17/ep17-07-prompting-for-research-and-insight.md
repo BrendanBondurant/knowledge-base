@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Prompting for Research and Insight
 slug: ep17-07-prompting-for-research-and-insigh
 series: The Good Thing

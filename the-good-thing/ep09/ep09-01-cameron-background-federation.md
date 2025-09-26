@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Cameron's Background and Federation Experience
 slug: ep09-01-cameron-background-federation
 series: The Good Thing

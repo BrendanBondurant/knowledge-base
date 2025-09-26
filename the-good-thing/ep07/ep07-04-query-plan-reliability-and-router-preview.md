@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Query Plan Reliability and Router Headless Mode
 slug: ep07-04-query-plan-reliability-and-router-preview
 series: The Good Thing

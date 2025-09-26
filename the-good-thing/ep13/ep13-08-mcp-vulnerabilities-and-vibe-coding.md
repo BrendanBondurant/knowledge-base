@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: MCP Vulnerabilities and Vibe Coding
 slug: ep13-08-mcp-vulnerabilities-and-vibe-coding
 series: The Good Thing

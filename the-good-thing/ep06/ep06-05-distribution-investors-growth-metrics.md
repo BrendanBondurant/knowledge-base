@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Distribution, Investor Conversations, and Growth Metrics
 slug: ep06-05-distribution-investors-growth-metrics
 series: The Good Thing

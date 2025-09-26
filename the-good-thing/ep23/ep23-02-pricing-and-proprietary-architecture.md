@@ -1,4 +1,5 @@
 ---
+type: podcast-chunk
 title: Pricing and Proprietary Architecture
 slug: ep23-02-pricing-and-proprietary-architecture
 series: The Good Thing
