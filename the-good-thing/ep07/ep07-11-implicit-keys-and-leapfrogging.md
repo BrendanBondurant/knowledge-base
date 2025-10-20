@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 11
 segment: Federation key management and explicit schema design
-timecode: 00:57:00:23 – 01:03:00:00
-start_time: 00:57:00:23
-end_time: 01:03:00:00
+timecode: 00:57:00 – 01:03:00
+start_time: 00:57:00
+end_time: 01:03:00
 speakers:
   - Jens
   - Sergiy

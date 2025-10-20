@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 2
 chunk: 13
 segment: Federation Descriptions and Documentation
-timecode: 00:51:44:14 – 00:56:39:05
-start_time: 00:51:44:14
-end_time: 00:56:39:05
+timecode: 00:51:44 – 00:56:39
+start_time: 00:51:44
+end_time: 00:56:39
 speakers:
   - Stefan
   - Jens

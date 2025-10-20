@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 14
 segment: Third-party audits and benchmark reliability
-timecode: 01:14:15:10 – 01:20:04:28
-start_time: 01:14:15:10
-end_time: 01:20:04:28
+timecode: 01:14:15 – 01:20:04
+start_time: 01:14:15
+end_time: 01:20:04
 speakers:
   - Jens
   - Sergiy

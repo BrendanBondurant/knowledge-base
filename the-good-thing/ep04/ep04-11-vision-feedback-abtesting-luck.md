@@ -7,9 +7,9 @@ episode: 4
 chunk: 11
 segment: Balancing vision and customer feedback, the role of AB testing, and the importance
   of luck in startups
-timecode: 00:44:09:24 - 00:52:10:18
-start_time: 00:44:09:24
-end_time: 00:52:10:18
+timecode: 00:44:09 - 00:52:10
+start_time: 00:44:09
+end_time: 00:52:10
 speakers:
   - Jens
   - Stefan

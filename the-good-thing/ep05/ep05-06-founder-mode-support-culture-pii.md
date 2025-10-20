@@ -7,9 +7,9 @@ episode: 5
 chunk: 6
 segment: The scalability of founder mode, support culture, and handling PII in customer
   solutions
-timecode: 00:27:37:26 - 00:36:27:03
-start_time: 00:27:37:26
-end_time: 00:36:27:03
+timecode: 00:27:37 - 00:36:27
+start_time: 00:27:37
+end_time: 00:36:27
 speakers:
   - Stefan
   - Jens

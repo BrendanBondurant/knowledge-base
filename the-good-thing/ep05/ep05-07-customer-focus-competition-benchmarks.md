@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 5
 chunk: 7
 segment: Focusing on customers, handling competition, and the pitfalls of benchmarks
-timecode: 00:36:27:06 - 00:45:06:08
-start_time: 00:36:27:06
-end_time: 00:45:06:08
+timecode: 00:36:27 - 00:45:06
+start_time: 00:36:27
+end_time: 00:45:06
 speakers:
   - Stefan
   - Jens

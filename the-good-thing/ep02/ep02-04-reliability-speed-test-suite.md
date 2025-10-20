@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 2
 chunk: 4
 segment: Engineering Reliability and Testing
-timecode: 00:12:34:02 – 00:16:37:24
-start_time: 00:12:34:02
-end_time: 00:16:37:24
+timecode: 00:12:34 – 00:16:37
+start_time: 00:12:34
+end_time: 00:16:37
 speakers:
   - Stefan
   - Jens

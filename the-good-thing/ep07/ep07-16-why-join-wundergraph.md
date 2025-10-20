@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 16
 segment: Hiring pitch and team culture discussion
-timecode: 01:26:03:01 – 01:33:06:03
-start_time: 01:26:03:01
-end_time: 01:33:06:03
+timecode: 01:26:03 – 01:33:06
+start_time: 01:26:03
+end_time: 01:33:06
 speakers:
   - Jens
   - Sergiy

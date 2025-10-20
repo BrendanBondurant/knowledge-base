@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 09
 segment: Driving down infrastructure cost, collaboration features, Vercel, and AWS
-timecode: 00:23:31:29 - 00:27:30:06
-start_time: 00:23:31:29
-end_time: 00:27:30:06
+timecode: 00:23:31 - 00:27:30
+start_time: 00:23:31
+end_time: 00:27:30
 speakers:
   - Jens
   - Stefan

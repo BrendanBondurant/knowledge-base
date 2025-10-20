@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 2
 chunk: 9
 segment: Federation vs REST Comparison
-timecode: 00:33:43:26 – 00:39:32:04
-start_time: 00:33:43:26
-end_time: 00:39:32:04
+timecode: 00:33:43 – 00:39:32
+start_time: 00:33:43
+end_time: 00:39:32
 speakers:
   - Stefan
   - Jens

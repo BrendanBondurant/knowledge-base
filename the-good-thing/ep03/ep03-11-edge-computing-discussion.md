@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 3
 chunk: 11
 segment: Discussion about edge computing, its use cases, and relevance
-timecode: 00:47:39:18 - 00:53:01:17
-start_time: 00:47:39:18
-end_time: 00:53:01:17
+timecode: 00:47:39 - 00:53:01
+start_time: 00:47:39
+end_time: 00:53:01
 speakers:
   - Stefan
   - Dustin

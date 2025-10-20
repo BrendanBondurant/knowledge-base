@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 2
 chunk: 1
 segment: Episode Introduction and Alta Retreat
-timecode: 00:00:24:25 – 00:04:43:28
-start_time: 00:00:24:25
-end_time: 00:04:43:28
+timecode: 00:00:24 – 00:04:43
+start_time: 00:00:24
+end_time: 00:04:43
 speakers:
   - Stefan
   - Jens

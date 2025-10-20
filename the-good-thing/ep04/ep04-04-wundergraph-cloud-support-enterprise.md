@@ -7,9 +7,9 @@ episode: 4
 chunk: 4
 segment: Experiences with WunderGraph Cloud, challenges with low-cost customers, and
   the shift toward enterprise
-timecode: 00:10:07:25 - 00:13:12:27
-start_time: 00:10:07:25
-end_time: 00:13:12:27
+timecode: 00:10:07 - 00:13:12
+start_time: 00:10:07
+end_time: 00:13:12
 speakers:
   - Jens
   - Stefan

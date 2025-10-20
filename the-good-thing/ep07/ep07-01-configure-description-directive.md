@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 1
 segment: Introduction and Configure Description directive
-timecode: 00:00:00:00 – 00:05:06:09
-start_time: 00:00:00:00
-end_time: 00:05:06:09
+timecode: 00:00:00 – 00:05:06
+start_time: 00:00:00
+end_time: 00:05:06
 speakers:
   - Jens
   - David

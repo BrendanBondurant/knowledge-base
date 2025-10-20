@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 1
 chunk: 5
 segment: Programming Doubts, Self-Taught Path, and First Startup
-timecode: 00:13:23:14 – 00:16:46:15
-start_time: 00:13:23:14
-end_time: 00:16:46:15
+timecode: 00:13:23 – 00:16:46
+start_time: 00:13:23
+end_time: 00:16:46
 speakers:
   - Jens
   - Stefan

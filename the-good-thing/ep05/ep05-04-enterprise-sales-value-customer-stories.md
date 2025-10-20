@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 5
 chunk: 4
 segment: Demonstrating value in enterprise sales and the power of customer stories
-timecode: 00:15:17:03 - 00:22:31:28
-start_time: 00:15:17:03
-end_time: 00:22:31:28
+timecode: 00:15:17 - 00:22:31
+start_time: 00:15:17
+end_time: 00:22:31
 speakers:
   - Stefan
   - Jens

@@ -7,9 +7,9 @@ episode: 4
 chunk: 2
 segment: Discussing the challenge of defining company identity, hero messaging, and
   the realities of sales in devtools startups
-timecode: 00:03:15:22 - 00:06:56:18
-start_time: 00:03:15:22
-end_time: 00:06:56:18
+timecode: 00:03:15 - 00:06:56
+start_time: 00:03:15
+end_time: 00:06:56
 speakers:
   - Jens
   - Stefan

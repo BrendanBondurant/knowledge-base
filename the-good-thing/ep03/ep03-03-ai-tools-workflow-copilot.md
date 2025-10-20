@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 3
 chunk: 3
 segment: Discussion of AI tools in development workflow and Stefan's sister's experience
-timecode: 00:08:30:15 - 00:13:26:21
-start_time: 00:08:30:15
-end_time: 00:13:26:21
+timecode: 00:08:30 - 00:13:26
+start_time: 00:08:30
+end_time: 00:13:26
 speakers:
   - Stefan
   - Dustin

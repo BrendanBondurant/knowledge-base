@@ -21,6 +21,11 @@ entities:
   - Shopify
   - Cursor
   - Toby (Tobias Lütke)
+tags:
+  - ai
+  - startup
+  - developer-velocity
+  - enterprise
 summary: Stefan and Jens discuss how AI is transforming B2B SaaS by raising competitive
   bars and enabling smaller, more powerful teams. They analyze Shopify's mandate requiring
   teams to demonstrate why AI can't accomplish goals before requesting more headcount,

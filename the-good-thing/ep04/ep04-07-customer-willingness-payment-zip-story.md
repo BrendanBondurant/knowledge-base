@@ -7,9 +7,9 @@ episode: 4
 chunk: 7
 segment: The importance of customer willingness to pay, procurement hurdles, and the
   story of Zip's early validation
-timecode: 00:19:11:09 - 00:22:00:14
-start_time: 00:19:11:09
-end_time: 00:22:00:14
+timecode: 00:19:11 - 00:22:00
+start_time: 00:19:11
+end_time: 00:22:00
 speakers:
   - Stefan
   - Jens

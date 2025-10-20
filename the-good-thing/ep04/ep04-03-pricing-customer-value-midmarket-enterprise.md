@@ -7,9 +7,9 @@ episode: 4
 chunk: 3
 segment: Exploring pricing models, customer value perception, and the differences
   between mid-market and enterprise customers
-timecode: 00:06:56:18 - 00:10:07:25
-start_time: 00:06:56:18
-end_time: 00:10:07:25
+timecode: 00:06:56 - 00:10:07
+start_time: 00:06:56
+end_time: 00:10:07
 speakers:
   - Jens
   - Stefan

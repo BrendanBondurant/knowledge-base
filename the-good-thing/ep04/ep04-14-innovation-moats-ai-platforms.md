@@ -4,12 +4,12 @@ title: Innovation, Platform Moats, AI, and Collaboration Platforms
 slug: ep04-13-innovation-moats-ai-platforms
 series: The Good Thing
 episode: 4
-chunk: 13
+chunk: 14
 segment: The need for innovation, platform moats, the role of AI, and the value of
   collaboration platforms
-timecode: 00:59:01:06 - 01:06:02:23
-start_time: 00:59:01:06
-end_time: 01:06:02:23
+timecode: 00:59:01 - 01:06:02
+start_time: 00:59:01
+end_time: 01:06:02
 speakers:
   - Jens
   - Stefan

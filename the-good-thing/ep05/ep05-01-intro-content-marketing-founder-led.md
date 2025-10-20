@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 5
 chunk: 1
 segment: Introduction, content marketing, and the rise of founder-led content
-timecode: 00:00:25:16 - 00:07:12:22
-start_time: 00:00:25:16
-end_time: 00:07:12:22
+timecode: 00:00:25 - 00:07:12
+start_time: 00:00:25
+end_time: 00:07:12
 speakers:
   - Stefan
   - Jens

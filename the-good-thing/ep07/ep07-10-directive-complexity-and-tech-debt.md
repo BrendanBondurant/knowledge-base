@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 10
 segment: Apollo Federation directive critique and solutions
-timecode: 00:51:07:21 – 00:57:00:21
-start_time: 00:51:07:21
-end_time: 00:57:00:21
+timecode: 00:51:07 – 00:57:00
+start_time: 00:51:07
+end_time: 00:57:00
 speakers:
   - Jens
   - Sergiy

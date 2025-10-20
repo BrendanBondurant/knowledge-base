@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 3
 chunk: 10
 segment: Debate about self-hosting observability and the importance of managed services
-timecode: 00:42:32:14 - 00:47:39:16
-start_time: 00:42:32:14
-end_time: 00:47:39:16
+timecode: 00:42:32 - 00:47:39
+start_time: 00:42:32
+end_time: 00:47:39
 speakers:
   - Stefan
   - Dustin

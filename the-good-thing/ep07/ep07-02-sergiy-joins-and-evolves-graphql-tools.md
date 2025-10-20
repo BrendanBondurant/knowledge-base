@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 2
 segment: Sergiy's background and GraphQL Go tools evolution
-timecode: 00:05:06:09 – 00:10:23:15
-start_time: 00:05:06:09
-end_time: 00:10:23:15
+timecode: 00:05:06 – 00:10:23
+start_time: 00:05:06
+end_time: 00:10:23
 speakers:
   - Jens
   - Sergiy

@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 1
 chunk: 1
 segment: Introduction and Show Philosophy
-timecode: 00:00:01:18 – 00:02:32:04
-start_time: 00:00:01:18
-end_time: 00:02:32:04
+timecode: 00:00:01 – 00:02:32
+start_time: 00:00:01
+end_time: 00:02:32
 speakers:
   - Stefan
   - Jens

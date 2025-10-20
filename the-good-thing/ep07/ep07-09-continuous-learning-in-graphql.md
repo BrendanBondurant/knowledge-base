@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 9
 segment: Education and continuous learning discussion
-timecode: 00:45:32:06 – 00:51:06:19
-start_time: 00:45:32:06
-end_time: 00:51:06:19
+timecode: 00:45:32 – 00:51:06
+start_time: 00:45:32
+end_time: 00:51:06
 speakers:
   - Jens
   - Sergiy

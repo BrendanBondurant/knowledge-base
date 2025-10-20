@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 11
 segment: Open source efficiency, code quality, and procurement
-timecode: 00:31:41:11 - 00:36:26:27
-start_time: 00:31:41:11
-end_time: 00:36:26:27
+timecode: 00:31:41 - 00:36:26
+start_time: 00:31:41
+end_time: 00:36:26
 speakers:
   - Jens
   - Stefan

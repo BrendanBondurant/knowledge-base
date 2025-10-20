@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 08
 segment: Cost structure, infrastructure vs. collaboration, pricing, and value alignment
-timecode: 00:20:15:18 - 00:23:31:29
-start_time: 00:20:15:18
-end_time: 00:23:31:29
+timecode: 00:20:15 - 00:23:31
+start_time: 00:20:15
+end_time: 00:23:31
 speakers:
   - Jens
   - Stefan

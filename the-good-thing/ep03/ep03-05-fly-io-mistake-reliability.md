@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 3
 chunk: 5
 segment: Discussion of the Fly.io mistake and lessons about reliability in cloud infrastructure
-timecode: 00:16:34:08 - 00:21:40:10
-start_time: 00:16:34:08
-end_time: 00:21:40:10
+timecode: 00:16:34 - 00:21:40
+start_time: 00:16:34
+end_time: 00:21:40
 speakers:
   - Stefan
   - Dustin

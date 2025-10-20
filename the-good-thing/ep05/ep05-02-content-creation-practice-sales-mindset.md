@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 5
 chunk: 2
 segment: The value of content creation, practicing skills, and evolving a sales mindset
-timecode: 00:07:12:25 - 00:11:00:09
-start_time: 00:07:12:25
-end_time: 00:11:00:09
+timecode: 00:07:12 - 00:11:00
+start_time: 00:07:12
+end_time: 00:11:00
 speakers:
   - Stefan
   - Jens

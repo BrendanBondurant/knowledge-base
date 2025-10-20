@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 10
 chunk: 1
 segment: Introduction and technical strategy
-timecode: 00:00:04:07 – 00:09:15:16
-start_time: 00:00:04:07
-end_time: 00:09:15:16
+timecode: 00:00:04 – 00:09:15
+start_time: 00:00:04
+end_time: 00:09:15
 speakers:
   - Stefan
   - Björn

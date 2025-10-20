@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 3
 segment: Startup culture and customer feedback
-timecode: 00:10:23:17 – 00:16:19:07
-start_time: 00:10:23:17
-end_time: 00:16:19:07
+timecode: 00:10:23 – 00:16:19
+start_time: 00:10:23
+end_time: 00:16:19
 speakers:
   - Jens
   - Sergiy

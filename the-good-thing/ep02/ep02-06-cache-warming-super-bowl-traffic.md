@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 2
 chunk: 6
 segment: Technical Deep Dive on Cache Warming
-timecode: 00:20:13:15 – 00:25:15:13
-start_time: 00:20:13:15
-end_time: 00:25:15:13
+timecode: 00:20:13 – 00:25:15
+start_time: 00:20:13
+end_time: 00:25:15
 speakers:
   - Stefan
   - Jens

@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 10
 chunk: 4
 segment: Marketing strategy and conference tactics
-timecode: 00:22:37:11 – 00:29:05:17
-start_time: 00:22:37:11
-end_time: 00:29:05:17
+timecode: 00:22:37 – 00:29:05
+start_time: 00:22:37
+end_time: 00:29:05
 speakers:
   - Stefan
   - Björn

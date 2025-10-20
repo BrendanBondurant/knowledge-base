@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 12
 segment: Usage-based pricing, enterprise needs, and predictability
-timecode: 00:36:26:27 - 00:41:07:19
-start_time: 00:36:26:27
-end_time: 00:41:07:19
+timecode: 00:36:26 - 00:41:07
+start_time: 00:36:26
+end_time: 00:41:07
 speakers:
   - Stefan
   - Jens

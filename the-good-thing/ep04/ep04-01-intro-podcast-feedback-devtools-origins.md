@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 4
 chunk: 1
 segment: Introduction, feedback from listeners, and the origins of the devtools startup
-timecode: 00:00:24:00 - 00:03:15:20
-start_time: 00:00:24:00
-end_time: 00:03:15:20
+timecode: 00:00:24 - 00:03:15
+start_time: 00:00:24
+end_time: 00:03:15
 speakers:
   - Stefan
   - Jens

@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 2
 chunk: 7
 segment: Cache Warming Implementation
-timecode: 00:25:15:16 – 00:29:35:13
-start_time: 00:25:15:16
-end_time: 00:29:35:13
+timecode: 00:25:15 – 00:29:35
+start_time: 00:25:15
+end_time: 00:29:35
 speakers:
   - Stefan
   - Jens

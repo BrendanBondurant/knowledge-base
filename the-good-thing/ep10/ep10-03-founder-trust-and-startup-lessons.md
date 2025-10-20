@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 10
 chunk: 3
 segment: Founder dynamics and startup lessons
-timecode: 00:16:10:06 – 00:22:37:08
-start_time: 00:16:10:06
-end_time: 00:22:37:08
+timecode: 00:16:10 – 00:22:37
+start_time: 00:16:10
+end_time: 00:22:37
 speakers:
   - Stefan
   - Björn

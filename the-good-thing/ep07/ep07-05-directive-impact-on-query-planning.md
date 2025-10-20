@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 5
 segment: Federation directives and query plan optimization
-timecode: 00:21:16:06 – 00:27:03:05
-start_time: 00:21:16:06
-end_time: 00:27:03:05
+timecode: 00:21:16 – 00:27:03
+start_time: 00:21:16
+end_time: 00:27:03
 speakers:
   - Jens
   - Sergiy

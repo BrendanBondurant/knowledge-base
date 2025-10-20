@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 06
 segment: Open source alternatives, business models, and product differentiation
-timecode: 00:13:34:09 - 00:16:56:18
-start_time: 00:13:34:09
-end_time: 00:16:56:18
+timecode: 00:13:34 - 00:16:56
+start_time: 00:13:34
+end_time: 00:16:56
 speakers:
   - Jens
   - Stefan

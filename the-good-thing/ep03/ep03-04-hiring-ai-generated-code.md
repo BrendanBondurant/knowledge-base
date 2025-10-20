@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 3
 chunk: 4
 segment: Discussion of hiring practices and AI-generated code in applications
-timecode: 00:13:26:23 - 00:16:34:06
-start_time: 00:13:26:23
-end_time: 00:16:34:06
+timecode: 00:13:26 - 00:16:34
+start_time: 00:13:26
+end_time: 00:16:34
 speakers:
   - Stefan
   - Dustin

@@ -4,12 +4,12 @@ title: Market Size, VC Pattern Matching, and Founder vs. Market
 slug: ep04-12-market-size-vc-patterns-founder-vs-market
 series: The Good Thing
 episode: 4
-chunk: 12
+chunk: 13
 segment: The role of market size, VC pattern matching, and the debate of founder vs.
   market in startup success
-timecode: 00:52:10:20 - 00:59:01:03
-start_time: 00:52:10:20
-end_time: 00:59:01:03
+timecode: 00:52:10 - 00:59:01
+start_time: 00:52:10
+end_time: 00:59:01
 speakers:
   - Jens
   - Stefan

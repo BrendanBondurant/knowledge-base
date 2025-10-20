@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 10
 chunk: 5
 segment: Guerrilla marketing and competitive dynamics
-timecode: 00:29:05:17 – 00:35:40:00
-start_time: 00:29:05:17
-end_time: 00:35:40:00
+timecode: 00:29:05 – 00:35:40
+start_time: 00:29:05
+end_time: 00:35:40
 speakers:
   - Stefan
   - Björn

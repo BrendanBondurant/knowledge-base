@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 3
 chunk: 6
 segment: Discussion of Cosmo's boring tech architecture and infrastructure choices
-timecode: 00:21:40:13 - 00:26:46:23
-start_time: 00:21:40:13
-end_time: 00:26:46:23
+timecode: 00:21:40 - 00:26:46
+start_time: 00:21:40
+end_time: 00:26:46
 speakers:
   - Stefan
   - Dustin

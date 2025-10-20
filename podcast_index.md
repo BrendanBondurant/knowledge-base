@@ -77,10 +77,11 @@
 | 00:22:00 | 00:25:32 | Stefan and Jens reflect on building with Fly.io, discussing its promise, challenges, and lack of support. | ai, api-design, apollo-graphql, founder, go, startup | ep04-08-flyio-platform-reliability-support |
 | 00:25:32 | 00:29:02 | Stefan and Jens discuss evolving their ICP, supporting multiple customer segments, and company pivots. | ai, api-design, apollo-graphql, founder, go, startup | ep04-09-customer-focus-icp-growth-feedback |
 | 00:29:02 | 00:35:10 | Jens and Stefan emphasize close customer feedback loops, team energy, and tell the story behind the cache warmer feature. | ai, api-design, cache-warming, composition, founder, go, rest, startup, telemetry | ep04-10-collaboration-team-feedback-cachewarmer |
-| 00:44:09 | 00:52:10 | Jens and Stefan explore balancing founder vision with customer feedback, the limits of AB testing, and the role of luck. | ai, api-design, cosmo, cosmo-router, federation, founder, go, graphql, graphql-federation, rest, startup | ep04-11-vision-feedback-abtesting-luck |
-| 00:52:10 | 00:59:01 | Jens and Stefan debate market size vs founder execution, VC pattern matching, and timing’s role in startup outcomes. | ai, api-design, federation, founder, go, graphql-federation, startup | ep04-12-market-size-vc-patterns-founder-vs-market |
-| 00:59:01 | 01:06:02 | Jens and Stefan discuss innovation, platform moats, AI trends, and how collaboration platforms become defensible. | ai, api-design, apollo-graphql, cache-warming, federation, github-copilot, go, graphql-federation, open-source, rest, startup | ep04-13-innovation-moats-ai-platforms |
-| 01:06:02 | 01:13:55 | Stefan and Jens share VC bets, predictions for energy and peace, and reflect on software’s future and team collaboration. | ai, api-design, api-gateway, federation, go, graphql-federation, startup | ep04-14-vc-bets-future-peace-energy-software |
+| 00:35:10 | 00:44:09 | Stefan and Jens revisit the cache warmer success story before exploring how founders balance vision and customer feedback. Stefan shares personal stories about caring at work — from a college restaurant job to a passionate job candidate — illustrating how genuine care becomes a company's superpower. They close by debating whether billion-dollar companies grow through vision or feedback. | cache-warming, startup, founder, performance, query-planning, graphql-federation, cosmo, enterprise | ep04-11-vision-feedback-caring |
+| 00:44:09 | 00:52:10 | Jens and Stefan explore balancing founder vision with customer feedback, the limits of AB testing, and the role of luck. | ai, api-design, cosmo, cosmo-router, federation, founder, go, graphql, graphql-federation, rest, startup | ep04-12-vision-feedback-abtesting-luck |
+| 00:52:10 | 00:59:01 | Jens and Stefan debate market size vs founder execution, VC pattern matching, and timing's role in startup outcomes. | ai, api-design, federation, founder, go, graphql-federation, startup | ep04-13-market-size-vc-patterns-founder-vs-market |
+| 00:59:01 | 01:06:02 | Jens and Stefan discuss innovation, platform moats, AI trends, and how collaboration platforms become defensible. | ai, api-design, apollo-graphql, cache-warming, federation, github-copilot, go, graphql-federation, open-source, rest, startup | ep04-14-innovation-moats-ai-platforms |
+| 01:06:02 | 01:13:55 | Stefan and Jens share VC bets, predictions for energy and peace, and reflect on software's future and team collaboration. | ai, api-design, api-gateway, federation, go, graphql-federation, startup | ep04-15-vc-bets-future-peace-energy-software |
 
 
 5
@@ -252,7 +253,7 @@
 | 00:00:24 | 00:04:02 | AI plateau, shift to integration, and MCP's influence on dev tools | ai, api-design, cosmo, go, mcp, rest | ep13-01-ai-plateau-to-mcp-devtools |
 | 00:04:02 | 00:07:48 | AI's transformational shift, Apple Intelligence, and Shopify's AI memo | ai, api-design, go, rest | ep13-02-ai-shift-and-shopify-memo |
 | 00:07:48 | 00:11:22 | Mandating AI usage at work, paradigm shifts in dev workflows, Claude + MCP example | ai, api-design, database, go, llm, mcp | ep13-03-ai-workflows-and-paradigm-shifts |
-| 00:11:22 | 00:14:46 | AI raising the bar, B2B disruption, lean teams powered by AI                       |        | ep13-04-ai-raises-bar-b2b-impact            |
+| 00:11:22 | 00:14:46 | AI raising the bar, B2B disruption, lean teams powered by AI                       | ai, startup, developer-velocity, enterprise       | ep13-04-ai-raises-bar-b2b-impact            |
 | 00:14:46 | 00:19:22 | AI for everyone at Shopify, small business adoption, and abstraction challenges | ai, api-design, cosmo-router, federation, go, graphql, graphql-federation, mcp, query-planning, rest-connectors | ep13-05-ai-for-all-and-ux-abstraction |
 | 00:19:22 | 00:23:06 | Making MCP more accessible, MCP as APIs all the way down | ai, api-design, go, llm, mcp, rest-connectors, typescript | ep13-06-mcp-accessibility-and-api-paradigm |
 | 00:23:06 | 00:29:20 | The S in MCP stands for Security, standard IO vs SSE, CLI security posture | ai, cosmo, go, mcp, websocket | ep13-07-s-in-mcp-stdio-vs-sse |
@@ -341,16 +342,16 @@
 
 | Start       | End         | Summary                                             | Tags            | Slug                                             |
 | ----------- | ----------- | --------------------------------------------------- | ----------------  | ------------------------------------------------ |
-| 00:00:19:17 | 00:05:10:06 | Apollo layoffs and founder empathy | ai, apollo-graphql, founder, go, graphql, startup | ep18-01-apollo-layoffs-founder-empathy |
-| 00:05:10:06 | 00:13:08:14 | Startup mechanics and accountability | ai, api-design, apollo-graphql, benchmarking, federation, founder, go, graphql-federation, startup | ep18-02-startup-mechanics-founder-accountability |
-| 00:13:08:16 | 00:20:00:05 | Product market fit and listening to users | ai, cosmo, founder, go, rest, startup | ep18-03-product-market-fit-user-feedback |
-| 00:20:00:08 | 00:26:47:12 | Open source as enterprise enabler                   | open-source, ai, cosmo, federation, go, graphql, graphql-federation, kubernetes, rest, startup | ep18-04-open-source-enterprise-enablement        |
-| 00:26:47:12 | 00:32:13:10 | Cosmo Lite and the open source funnel | ai, cosmo, cosmo-router, database, federation, founder, go, graphql, graphql-federation, open-source, postgres, startup | ep18-05-cosmo-lite-open-source-funnel |
-| 00:32:13:13 | 00:38:03:28 | What is a TAB and how to run one | ai, composition, cosmo, go, rust, startup | ep18-06-what-is-a-tab-how-to-run |
-| 00:38:04:00 | 00:44:35:22 | Pattern finding and user pain validation | ai, api-design, cosmo, federation, go, graphql, graphql-federation, rest, startup | ep18-07-pattern-finding-user-pain-validation |
-| 00:44:35:22 | 00:52:06:11 | Getting honest feedback and testing interest        | startup, ai, api-design, cosmo, go, rest | ep18-08-getting-feedback-testing-buying-interest |
-| 00:52:06:11 | 00:58:35:18 | Sales, relationships, and junior engineer influence | ai, go, rest, startup | ep18-09-sales-relationships-junior-engineer-role |
-| 00:58:35:21 | 01:08:29:00 | Solving organizational problems beyond GraphQL | ai, api-design, cosmo, federation, founder, go, graphql, graphql-federation, mcp, open-source, rest, rest-apis, startup, supergraph | ep18-10-solving-org-problems-beyond-graphql |
+| 00:00:19 | 00:05:10 | Apollo layoffs and founder empathy | ai, apollo-graphql, founder, go, graphql, startup | ep18-01-apollo-layoffs-founder-empathy |
+| 00:05:10 | 00:13:08 | Startup mechanics and accountability | ai, api-design, apollo-graphql, benchmarking, federation, founder, go, graphql-federation, startup | ep18-02-startup-mechanics-founder-accountability |
+| 00:13:08 | 00:20:00 | Product market fit and listening to users | ai, cosmo, founder, go, rest, startup | ep18-03-product-market-fit-user-feedback |
+| 00:20:00 | 00:26:47 | Open source as enterprise enabler                   | open-source, ai, cosmo, federation, go, graphql, graphql-federation, kubernetes, rest, startup | ep18-04-open-source-enterprise-enablement        |
+| 00:26:47 | 00:32:13 | Cosmo Lite and the open source funnel | ai, cosmo, cosmo-router, database, federation, founder, go, graphql, graphql-federation, open-source, postgres, startup | ep18-05-cosmo-lite-open-source-funnel |
+| 00:32:13 | 00:38:03 | What is a TAB and how to run one | ai, composition, cosmo, go, rust, startup | ep18-06-what-is-a-tab-how-to-run |
+| 00:38:04 | 00:44:35 | Pattern finding and user pain validation | ai, api-design, cosmo, federation, go, graphql, graphql-federation, rest, startup | ep18-07-pattern-finding-user-pain-validation |
+| 00:44:35 | 00:52:06 | Getting honest feedback and testing interest        | startup, ai, api-design, cosmo, go, rest | ep18-08-getting-feedback-testing-buying-interest |
+| 00:52:06 | 00:58:35 | Sales, relationships, and junior engineer influence | ai, go, rest, startup | ep18-09-sales-relationships-junior-engineer-role |
+| 00:58:35 | 01:08:29 | Solving organizational problems beyond GraphQL | ai, api-design, cosmo, federation, founder, go, graphql, graphql-federation, mcp, open-source, rest, rest-apis, startup, supergraph | ep18-10-solving-org-problems-beyond-graphql |
 
 19
 
@@ -374,16 +375,16 @@
 
 | Start       | End         | Summary                                                      | Tags                 | Slug                                         |
 | ----------- | ----------- | ------------------------------------------------------------ | ---------------- | -------------------------------------------- |
-| 00:00:21:00 | 00:06:28:24 | Rust vs Go debate and developer accessibility | ai, api-design, benchmarking, cosmo-router, go, llm, query-planning, rest, rust, startup | ep20-01-rust-vs-go-debate-accessibility |
-| 00:06:28:26 | 00:12:00:17 | Business tradeoffs of language choice and readability | ai, cosmo, cosmo-router, go, llm, rest, rust, startup, telemetry, typescript | ep20-02-business-tradeoffs-and-readability |
-| 00:12:00:19 | 00:18:25:13 | Tech obsession vs customer value and software complexity | ai, apollo-graphql, cosmo, cosmo-router, founder, go, graphql, observability, rest, rust, startup, telemetry, typescript | ep20-03-tech-obsession-customer-value |
-| 00:18:25:15 | 00:23:07:28 | Rust's learning curve and borrow checker vs Go's flexibility | ai, go, rest, rust | ep20-04-rust-learning-curve-vs-go |
-| 00:23:08:01 | 00:29:01:09 | AI blackmail headline analysis and LLM misunderstanding | ai, go, llm, rest | ep20-05-ai-blackmail-headline-analysis |
-| 00:29:01:11 | 00:34:07:22 | OpenAI IPO spin and the vision-funded startup ecosystem | ai, api-design, go, llm, rest-connectors, startup | ep20-06-openai-ipo-spin-startup-vision |
-| 00:34:07:24 | 00:40:23:23 | Stargate project and hardware monopoly concerns | ai, api-design, founder, go, llm, rest, startup | ep20-07-stargate-project-and-monopoly |
-| 00:40:23:25 | 00:47:02:24 | Codex vs Cursor and OpenAI's platform strategy | ai, api-design, go, llm, rest, rust, startup | ep20-08-codex-vs-cursor-openai-strategy |
-| 00:47:02:27 | 00:51:10:03 | Distribution dominance and startup defensibility | ai, api-design, go, llm, startup | ep20-09-distribution-dominance-defensibility |
-| 00:51:10:06 | 01:01:08:19 | WunderGraph's plugin system and LLM-optimized backend dev | ai, api-design, apollo-graphql, benchmarking, cosmo-router, database, federation, go, graphql, graphql-federation, grpc, llm, monolith, open-source, plugin-system, rest, rest-apis, rest-connectors, rust, startup | ep20-10-wundergraph-plugin-llm-backend |
+| 00:00:21 | 00:06:28 | Rust vs Go debate and developer accessibility | ai, api-design, benchmarking, cosmo-router, go, llm, query-planning, rest, rust, startup | ep20-01-rust-vs-go-debate-accessibility |
+| 00:06:28 | 00:12:00 | Business tradeoffs of language choice and readability | ai, cosmo, cosmo-router, go, llm, rest, rust, startup, telemetry, typescript | ep20-02-business-tradeoffs-and-readability |
+| 00:12:00 | 00:18:25 | Tech obsession vs customer value and software complexity | ai, apollo-graphql, cosmo, cosmo-router, founder, go, graphql, observability, rest, rust, startup, telemetry, typescript | ep20-03-tech-obsession-customer-value |
+| 00:18:25 | 00:23:07 | Rust's learning curve and borrow checker vs Go's flexibility | ai, go, rest, rust | ep20-04-rust-learning-curve-vs-go |
+| 00:23:08 | 00:29:01 | AI blackmail headline analysis and LLM misunderstanding | ai, go, llm, rest | ep20-05-ai-blackmail-headline-analysis |
+| 00:29:01 | 00:34:07 | OpenAI IPO spin and the vision-funded startup ecosystem | ai, api-design, go, llm, rest-connectors, startup | ep20-06-openai-ipo-spin-startup-vision |
+| 00:34:07 | 00:40:23 | Stargate project and hardware monopoly concerns | ai, api-design, founder, go, llm, rest, startup | ep20-07-stargate-project-and-monopoly |
+| 00:40:23 | 00:47:02 | Codex vs Cursor and OpenAI's platform strategy | ai, api-design, go, llm, rest, rust, startup | ep20-08-codex-vs-cursor-openai-strategy |
+| 00:47:02 | 00:51:10 | Distribution dominance and startup defensibility | ai, api-design, go, llm, startup | ep20-09-distribution-dominance-defensibility |
+| 00:51:10 | 01:01:08 | WunderGraph's plugin system and LLM-optimized backend dev | ai, api-design, apollo-graphql, benchmarking, cosmo-router, database, federation, go, graphql, graphql-federation, grpc, llm, monolith, open-source, plugin-system, rest, rest-apis, rest-connectors, rust, startup | ep20-10-wundergraph-plugin-llm-backend |
 
 21
 
@@ -392,7 +393,7 @@
 | 00:00:18 | 00:03:18 | Intro and explanation of the AI startup tier list game | ai, api-design, go, rest, startup | ep21-01-ai-startup-tier-list-intro |
 | 00:03:18 | 00:06:06 | Explaining the tier list criteria and OpenAI risk | ai, founder, go, rest, startup, websocket | ep21-02-tier-criteria-openai-risk |
 | 00:06:06 | 00:10:08 | Reviewing ThunderCode's website and messaging | ai, go, startup | ep21-03-thundercode-website-review |
-| 00:10:08 | 00:13:06 | Lack of clear value and founders' potential to pivot      |          | ep21-04-thundercode-feedback-and-pivot    |
+| 00:10:08 | 00:13:06 | Lack of clear value and founders' potential to pivot      | ai, startup, founder, go, rest         | ep21-04-thundercode-feedback-and-pivot    |
 | 00:13:06 | 00:16:08 | Transition to Marblism and first impressions of branding | ai, founder, go, kubernetes, startup | ep21-05-marblism-branding-and-demo |
 | 00:16:08 | 00:20:06 | Marblism product walkthrough and UX feedback | ai, founder, go, rest, telemetry, websocket | ep21-06-marblism-product-and-ux |
 | 00:20:06 | 00:23:13 | Differentiation debate and OpenAI threat to Marblism | ai, benchmarking, founder, go, websocket | ep21-07-marblism-uniqueness-and-threats |
@@ -515,7 +516,7 @@
 | 00:06:23 | 00:10:23 | Cosmo Connect overview, motivation for gRPC adoption, and architectural goals | architecture, graphql, graphql-federation, grpc | ep27-02-cosmo-connect-overview |
 | 00:10:23 | 00:16:52 | WebAssembly considerations, HashiCorp plugin system decision, and deployment design | deployment, hashicorp, plugin-architecture, wasm | ep27-03-webassembly-vs-hashicorp-plugins |
 | 00:16:52 | 00:21:23 | gRPC and GraphQL schema translation workflow, dynamic message generation | graphql, grpc, schema-translation, composition-algorithms | ep27-04-graphql-grpc-schema-translation |
-| 00:21:23 | 00:27:17 | Technical challenges in type handling, nested lists, nullable fields, and engine design | data-modeling, graphql, grpc, schema-design, data-modeling | ep27-05-technical-challenges-in-schema-mapping |
+| 00:21:23 | 00:27:17 | Technical challenges in type handling, nested lists, nullable fields, and engine design | data-modeling, graphql, grpc, schema-design | ep27-05-technical-challenges-in-schema-mapping |
 | 00:27:17 | 00:32:43 | GraphQL null semantics, mapping files, and field order handling in protobuf | graphql, protobuf, schema-translation, data-modeling | ep27-06-null-semantics-and-protobuf-field-order |
 | 00:32:43 | 00:36:05 | Proto reserved keyword, compatibility design, and versioning strategies | protobuf, schema-design, versioning, data-modeling | ep27-07-proto-reserved-and-versioning |
 | 00:36:05 | 00:38:46 | Router architecture insights, plugin vs gRPC service distinction | grpc, plugin-architecture, router-architecture | ep27-08-router-architecture-and-plugin-overview |

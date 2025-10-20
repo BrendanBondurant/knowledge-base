@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 1
 chunk: 4
 segment: Education, Recovery, and Career Redirection
-timecode: 00:10:02:17 – 00:13:23:14
-start_time: 00:10:02:17
-end_time: 00:13:23:14
+timecode: 00:10:02 – 00:13:23
+start_time: 00:10:02
+end_time: 00:13:23
 speakers:
   - Jens
   - Stefan

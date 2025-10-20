@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 3
 chunk: 2
 segment: Discussion of Dustin's role evolution and the importance of technical founders
-timecode: 00:05:21:23 - 00:08:30:12
-start_time: 00:05:21:23
-end_time: 00:08:30:12
+timecode: 00:05:21 - 00:08:30
+start_time: 00:05:21
+end_time: 00:08:30
 speakers:
   - Stefan
   - Dustin
