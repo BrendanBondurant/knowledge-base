@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 02
 segment: Should you copy your competitors? Early days of WunderGraph
-timecode: 00:02:32:20 - 00:04:54:07
-start_time: 00:02:32:20
-end_time: 00:04:54:07
+timecode: 00:02:32 - 00:04:54
+start_time: 00:02:32
+end_time: 00:04:54
 speakers:
   - Stefan
   - Jens

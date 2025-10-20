@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 1
 chunk: 2
 segment: Personal Background and Overcoming Adversity
-timecode: 00:02:32:04 – 00:06:42:11
-start_time: 00:02:32:04
-end_time: 00:06:42:11
+timecode: 00:02:32 – 00:06:42
+start_time: 00:02:32
+end_time: 00:06:42
 speakers:
   - Jens
 topics:

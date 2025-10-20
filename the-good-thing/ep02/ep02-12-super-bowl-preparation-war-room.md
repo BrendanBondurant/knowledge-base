@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 2
 chunk: 12
 segment: Super Bowl Event Preparation
-timecode: 00:47:02:28 – 00:51:44:12
-start_time: 00:47:02:28
-end_time: 00:51:44:12
+timecode: 00:47:02 – 00:51:44
+start_time: 00:47:02
+end_time: 00:51:44
 speakers:
   - Stefan
   - Jens

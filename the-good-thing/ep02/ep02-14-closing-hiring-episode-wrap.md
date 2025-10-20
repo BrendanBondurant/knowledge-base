@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 2
 chunk: 14
 segment: Episode Closing and Hiring Information
-timecode: 00:56:39:08 – 01:00:08:11
-start_time: 00:56:39:08
-end_time: 01:00:08:11
+timecode: 00:56:39 – 01:00:08
+start_time: 00:56:39
+end_time: 01:00:08
 speakers:
   - Stefan
   - Jens

@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 10
 chunk: 10
 segment: Vision execution and episode conclusion
-timecode: 01:01:55:15 – 01:05:53:27
-start_time: 01:01:55:15
-end_time: 01:05:53:27
+timecode: 01:01:55 – 01:05:53
+start_time: 01:01:55
+end_time: 01:05:53
 speakers:
   - Stefan
   - Björn

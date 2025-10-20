@@ -7,9 +7,9 @@ episode: 5
 chunk: 08
 segment: The pitfalls of benchmarks, performance considerations, and the importance
   of real-world use cases
-timecode: 00:45:06:11 - 00:51:27:12
-start_time: 00:45:06:11
-end_time: 00:51:27:12
+timecode: 00:45:06 - 00:51:27
+start_time: 00:45:06
+end_time: 00:51:27
 speakers:
   - Stefan
   - Jens

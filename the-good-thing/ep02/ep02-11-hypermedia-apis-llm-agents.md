@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 2
 chunk: 11
 segment: Hypermedia APIs and AI Agents
-timecode: 00:43:16:25 – 00:47:02:28
-start_time: 00:43:16:25
-end_time: 00:47:02:28
+timecode: 00:43:16 – 00:47:02
+start_time: 00:43:16
+end_time: 00:47:02
 speakers:
   - Stefan
   - Jens

@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 10
 chunk: 8
 segment: Work-life balance and founder stress
-timecode: 00:50:31:01 – 00:55:13:11
-start_time: 00:50:31:01
-end_time: 00:55:13:11
+timecode: 00:50:31 – 00:55:13
+start_time: 00:50:31
+end_time: 00:55:13
 speakers:
   - Stefan
   - Björn

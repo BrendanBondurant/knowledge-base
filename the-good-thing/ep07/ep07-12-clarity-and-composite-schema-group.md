@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 12
 segment: GraphQL Federation working group participation
-timecode: 01:03:00:00 – 01:08:14:07
-start_time: 01:03:00:00
-end_time: 01:08:14:07
+timecode: 01:03:00 – 01:08:14
+start_time: 01:03:00
+end_time: 01:08:14
 speakers:
   - Jens
   - Sergiy

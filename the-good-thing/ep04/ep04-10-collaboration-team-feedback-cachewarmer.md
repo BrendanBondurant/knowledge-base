@@ -7,9 +7,9 @@ episode: 4
 chunk: 10
 segment: Team collaboration, energy, direct feedback loops, and the story of building
   the cache warmer
-timecode: 00:29:02:26 - 00:35:10:29
-start_time: 00:29:02:26
-end_time: 00:35:10:29
+timecode: 00:29:02 - 00:35:10
+start_time: 00:29:02
+end_time: 00:35:10
 speakers:
   - Jens
   - Stefan

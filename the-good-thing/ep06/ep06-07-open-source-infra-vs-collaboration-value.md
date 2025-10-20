@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 07
 segment: Open source, infrastructure vs. collaboration, and value perception
-timecode: 00:16:56:18 - 00:20:15:18
-start_time: 00:16:56:18
-end_time: 00:20:15:18
+timecode: 00:16:56 - 00:20:15
+start_time: 00:16:56
+end_time: 00:20:15
 speakers:
   - Jens
   - Stefan

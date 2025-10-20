@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 4
 segment: Query planner reliability and router preview functionality
-timecode: 00:16:19:09 – 00:21:16:06
-start_time: 00:16:19:09
-end_time: 00:21:16:06
+timecode: 00:16:19 – 00:21:16
+start_time: 00:16:19
+end_time: 00:21:16
 speakers:
   - Jens
   - Sergiy

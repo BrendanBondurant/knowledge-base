@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 3
 chunk: 1
 segment: Introduction and Dustin's career background
-timecode: 00:00:15:27 - 00:05:21:21
-start_time: 00:00:15:27
-end_time: 00:05:21:21
+timecode: 00:00:15 - 00:05:21
+start_time: 00:00:15
+end_time: 00:05:21
 speakers:
   - Stefan
   - Dustin

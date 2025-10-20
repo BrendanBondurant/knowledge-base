@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 10
 chunk: 2
 segment: Product strategy and market signals
-timecode: 00:09:15:19 – 00:16:10:04
-start_time: 00:09:15:19
-end_time: 00:16:10:04
+timecode: 00:09:15 – 00:16:10
+start_time: 00:09:15
+end_time: 00:16:10
 speakers:
   - Stefan
   - Björn

@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 1
 chunk: 3
 segment: Injury, Adaptation, and Entry into Programming
-timecode: 00:06:42:11 – 00:10:02:17
-start_time: 00:06:42:11
-end_time: 00:10:02:17
+timecode: 00:06:42 – 00:10:02
+start_time: 00:06:42
+end_time: 00:10:02
 speakers:
   - Jens
   - Stefan

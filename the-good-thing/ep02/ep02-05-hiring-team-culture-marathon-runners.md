@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 2
 chunk: 5
 segment: Engineering Hiring and Team Dynamics
-timecode: 00:16:37:24 – 00:20:13:15
-start_time: 00:16:37:24
-end_time: 00:20:13:15
+timecode: 00:16:37 – 00:20:13
+start_time: 00:16:37
+end_time: 00:20:13
 speakers:
   - Stefan
   - Jens

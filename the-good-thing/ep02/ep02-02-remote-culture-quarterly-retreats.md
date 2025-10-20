@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 2
 chunk: 2
 segment: Remote Work Culture and Team Building
-timecode: 00:04:44:00 – 00:08:36:29
-start_time: 00:04:44:00
-end_time: 00:08:36:29
+timecode: 00:04:44 – 00:08:36
+start_time: 00:04:44
+end_time: 00:08:36
 speakers:
   - Stefan
   - Jens

@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 05
 segment: Distribution, investor conversations, and the importance of growth metrics
-timecode: 00:10:42:27 - 00:13:34:09
-start_time: 00:10:42:27
-end_time: 00:13:34:09
+timecode: 00:10:42 - 00:13:34
+start_time: 00:10:42
+end_time: 00:13:34
 speakers:
   - Jens
   - Stefan

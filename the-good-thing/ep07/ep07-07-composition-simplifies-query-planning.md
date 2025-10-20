@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 7
 segment: Composition metadata and query planning optimization
-timecode: 00:32:20:18 – 00:38:24:02
-start_time: 00:32:20:18
-end_time: 00:38:24:02
+timecode: 00:32:20 – 00:38:24
+start_time: 00:32:20
+end_time: 00:38:24
 speakers:
   - Jens
   - Sergiy

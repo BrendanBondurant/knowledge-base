@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 15
 segment: Production benchmarking and cache warming solutions
-timecode: 01:20:05:01 – 01:26:02:29
-start_time: 01:20:05:01
-end_time: 01:26:02:29
+timecode: 01:20:05 – 01:26:02
+start_time: 01:20:05
+end_time: 01:26:02
 speakers:
   - Jens
   - Sergiy

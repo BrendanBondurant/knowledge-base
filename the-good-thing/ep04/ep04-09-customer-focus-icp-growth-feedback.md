@@ -7,9 +7,9 @@ episode: 4
 chunk: 09
 segment: The evolution of ideal customer profile (ICP), company growth, and the importance
   of listening to users
-timecode: 00:25:32:21 - 00:29:02:26
-start_time: 00:25:32:21
-end_time: 00:29:02:26
+timecode: 00:25:32 - 00:29:02
+start_time: 00:25:32
+end_time: 00:29:02
 speakers:
   - Stefan
   - Jens

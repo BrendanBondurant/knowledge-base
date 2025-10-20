@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 03
 segment: Hasura, Apollo, copying features, and the importance of distribution
-timecode: 00:04:54:07 - 00:07:17:15
-start_time: 00:04:54:07
-end_time: 00:07:17:15
+timecode: 00:04:54 - 00:07:17
+start_time: 00:04:54
+end_time: 00:07:17
 speakers:
   - Stefan
   - Jens

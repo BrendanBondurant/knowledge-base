@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 2
 chunk: 10
 segment: Schema Transparency and Organizational Structure
-timecode: 00:39:32:04 – 00:43:16:23
-start_time: 00:39:32:04
-end_time: 00:43:16:23
+timecode: 00:39:32 – 00:43:16
+start_time: 00:39:32
+end_time: 00:43:16
 speakers:
   - Stefan
   - Jens

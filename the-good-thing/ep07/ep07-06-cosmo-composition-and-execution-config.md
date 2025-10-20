@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 6
 segment: Cosmo vs Apollo architecture comparison
-timecode: 00:27:03:08 – 00:32:20:15
-start_time: 00:27:03:08
-end_time: 00:32:20:15
+timecode: 00:27:03 – 00:32:20
+start_time: 00:27:03
+end_time: 00:32:20
 speakers:
   - Jens
   - Sergiy

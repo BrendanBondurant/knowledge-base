@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 14
 segment: N+1 problems, batching, testing, and engineering philosophy
-timecode: 00:45:00:15 - 00:50:22:01
-start_time: 00:45:00:15
-end_time: 00:50:22:01
+timecode: 00:45:00 - 00:50:22
+start_time: 00:45:00
+end_time: 00:50:22
 speakers:
   - Jens
   - Stefan

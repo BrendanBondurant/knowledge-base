@@ -7,9 +7,9 @@ episode: 3
 chunk: 09
 segment: Discussion of startup credits and the importance of business focus over technical
   coolness
-timecode: 00:37:00:14 - 00:42:32:14
-start_time: 00:37:00:14
-end_time: 00:42:32:14
+timecode: 00:37:00 - 00:42:32
+start_time: 00:37:00
+end_time: 00:42:32
 speakers:
   - Stefan
   - Dustin

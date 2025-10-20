@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 15
 segment: Startup ideas, motion, learning from failure, and product pivots
-timecode: 00:50:22:01 - 00:55:10:15
-start_time: 00:50:22:01
-end_time: 00:55:10:15
+timecode: 00:50:22 - 00:55:10
+start_time: 00:50:22
+end_time: 00:55:10
 speakers:
   - Jens
   - Stefan

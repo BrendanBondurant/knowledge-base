@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 16
 segment: Team dynamics, retreat, Cosmo pivot, first customers, and luck
-timecode: 00:55:10:15 - 01:03:21:19
-start_time: 00:55:10:15
-end_time: 01:03:21:19
+timecode: 00:55:10 - 01:03:21
+start_time: 00:55:10
+end_time: 01:03:21
 speakers:
   - Jens
   - Stefan

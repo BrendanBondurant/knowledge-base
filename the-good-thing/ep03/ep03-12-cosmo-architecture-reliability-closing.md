@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 3
 chunk: 12
 segment: Final discussion about Cosmo's architecture reliability and episode closing
-timecode: 00:53:01:19 - 00:56:45:00
-start_time: 00:53:01:19
-end_time: 00:56:45:00
+timecode: 00:53:01 - 00:56:45
+start_time: 00:53:01
+end_time: 00:56:45
 speakers:
   - Stefan
   - Dustin

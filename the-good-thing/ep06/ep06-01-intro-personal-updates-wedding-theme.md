@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 01
 segment: Introduction, personal updates, wedding preparation, and episode theme
-timecode: 00:00:24:18 - 00:02:32:17
-start_time: 00:00:24:18
-end_time: 00:02:32:17
+timecode: 00:00:24 - 00:02:32
+start_time: 00:00:24
+end_time: 00:02:32
 speakers:
   - Stefan
   - Jens

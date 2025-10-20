@@ -7,9 +7,9 @@ episode: 4
 chunk: 5
 segment: Why enterprise is the end goal for devtools startups, value creation, and
   advice for founders
-timecode: 00:13:12:27 - 00:16:17:07
-start_time: 00:13:12:27
-end_time: 00:16:17:07
+timecode: 00:13:12 - 00:16:17
+start_time: 00:13:12
+end_time: 00:16:17
 speakers:
   - Stefan
   - Jens

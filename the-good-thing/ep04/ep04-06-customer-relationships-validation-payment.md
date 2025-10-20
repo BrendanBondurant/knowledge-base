@@ -7,9 +7,9 @@ episode: 4
 chunk: 6
 segment: The importance of building relationships with customers, validating problems,
   and ensuring willingness to pay
-timecode: 00:16:17:07 - 00:19:11:09
-start_time: 00:16:17:07
-end_time: 00:19:11:09
+timecode: 00:16:17 - 00:19:11
+start_time: 00:16:17
+end_time: 00:19:11
 speakers:
   - Jens
   - Stefan

@@ -7,9 +7,9 @@ episode: 5
 chunk: 10
 segment: The outdated REST vs. GraphQL debate, federation, and solving organizational
   problems
-timecode: 00:56:05:12 - 01:06:41:00
-start_time: 00:56:05:12
-end_time: 01:06:41:00
+timecode: 00:56:05 - 01:06:41
+start_time: 00:56:05
+end_time: 01:06:41
 speakers:
   - Stefan
   - Jens

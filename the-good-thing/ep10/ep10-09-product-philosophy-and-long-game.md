@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 10
 chunk: 9
 segment: Future vision and product strategy
-timecode: 00:55:13:11 – 01:01:55:12
-start_time: 00:55:13:11
-end_time: 01:01:55:12
+timecode: 00:55:13 – 01:01:55
+start_time: 00:55:13
+end_time: 01:01:55
 speakers:
   - Stefan
   - Björn

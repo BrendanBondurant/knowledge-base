@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 13
 segment: Entity batching and composite schema evolution
-timecode: 01:08:14:09 – 01:14:15:10
-start_time: 01:08:14:09
-end_time: 01:14:15:10
+timecode: 01:08:14 – 01:14:15
+start_time: 01:08:14
+end_time: 01:14:15
 speakers:
   - Jens
   - Sergiy

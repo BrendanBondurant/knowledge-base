@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 5
 chunk: 5
 segment: Theories on B2B vs. B2C and the definition and scalability of founder mode
-timecode: 00:22:32:03 - 00:27:37:24
-start_time: 00:22:32:03
-end_time: 00:27:37:24
+timecode: 00:22:32 - 00:27:37
+start_time: 00:22:32
+end_time: 00:27:37
 speakers:
   - Stefan
   - Jens

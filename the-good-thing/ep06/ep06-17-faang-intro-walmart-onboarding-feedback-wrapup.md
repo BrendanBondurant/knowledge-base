@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 17
 segment: FAANG intro, Walmart, onboarding, feedback, and episode wrap-up
-timecode: 01:03:21:19 - 01:09:27:19
-start_time: 01:03:21:19
-end_time: 01:09:27:19
+timecode: 01:03:21 - 01:09:27
+start_time: 01:03:21
+end_time: 01:09:27
 speakers:
   - Jens
   - Stefan

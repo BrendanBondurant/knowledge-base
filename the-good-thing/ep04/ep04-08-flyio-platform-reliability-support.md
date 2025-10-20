@@ -7,9 +7,9 @@ episode: 4
 chunk: 08
 segment: Experiences with Fly.io, building on platforms, reliability issues, and support
   challenges
-timecode: 00:22:00:14 - 00:25:32:21
-start_time: 00:22:00:14
-end_time: 00:25:32:21
+timecode: 00:22:00 - 00:25:32
+start_time: 00:22:00
+end_time: 00:25:32
 speakers:
   - Stefan
   - Jens

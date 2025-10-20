@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 10
 chunk: 6
 segment: Remote work challenges and team dynamics
-timecode: 00:35:47:28 – 00:43:58:00
-start_time: 00:35:47:28
-end_time: 00:43:58:00
+timecode: 00:35:47 – 00:43:44
+start_time: 00:35:47
+end_time: 00:43:44
 speakers:
   - Stefan
   - Björn

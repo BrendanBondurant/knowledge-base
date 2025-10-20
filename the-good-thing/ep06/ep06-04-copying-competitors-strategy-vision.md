@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 04
 segment: Copying competitors, startup strategy, vision, and customer focus
-timecode: 00:07:17:15 - 00:10:42:27
-start_time: 00:07:17:15
-end_time: 00:10:42:27
+timecode: 00:07:17 - 00:10:42
+start_time: 00:07:17
+end_time: 00:10:42
 speakers:
   - Stefan
   - Jens

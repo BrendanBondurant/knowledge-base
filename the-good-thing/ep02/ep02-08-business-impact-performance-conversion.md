@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 2
 chunk: 8
 segment: Performance Impact on Business
-timecode: 00:30:01:06 – 00:33:43:24
-start_time: 00:30:01:06
-end_time: 00:33:43:24
+timecode: 00:30:01 – 00:33:43
+start_time: 00:30:01
+end_time: 00:33:43
 speakers:
   - Stefan
   - Jens

@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 5
 chunk: 11
 segment: The value of boring tech, big company culture, and episode wrap-up
-timecode: 01:06:41:00 - 01:11:00:21
-start_time: 01:06:41:00
-end_time: 01:11:00:21
+timecode: 01:06:41 - 01:11:00
+start_time: 01:06:41
+end_time: 01:11:00
 speakers:
   - Stefan
   - Jens

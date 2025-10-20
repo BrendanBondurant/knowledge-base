@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 17
 segment: Episode conclusion and community feedback
-timecode: 01:33:06:03 – 01:36:52:16
-start_time: 01:33:06:03
-end_time: 01:36:52:16
+timecode: 01:33:06 – 01:36:52
+start_time: 01:33:06
+end_time: 01:36:52
 speakers:
   - Jens
   - David

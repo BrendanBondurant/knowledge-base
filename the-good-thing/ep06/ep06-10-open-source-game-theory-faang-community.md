@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 10
 segment: Open source game theory, FAANG, and community contributions
-timecode: 00:27:30:06 - 00:31:41:10
-start_time: 00:27:30:06
-end_time: 00:31:41:10
+timecode: 00:27:30 - 00:31:41
+start_time: 00:27:30
+end_time: 00:31:41
 speakers:
   - Jens
   - Stefan

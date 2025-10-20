@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 2
 chunk: 3
 segment: Customer Proximity and Team Collaboration
-timecode: 00:08:37:01 – 00:12:34:02
-start_time: 00:08:37:01
-end_time: 00:12:34:02
+timecode: 00:08:37 – 00:12:34
+start_time: 00:08:37
+end_time: 00:12:34
 speakers:
   - Stefan
   - Jens

@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 6
 chunk: 13
 segment: Copying competitors, REST connectors, and technical evaluation
-timecode: 00:41:07:19 - 00:45:00:15
-start_time: 00:41:07:19
-end_time: 00:45:00:15
+timecode: 00:41:07 - 00:45:00
+start_time: 00:41:07
+end_time: 00:45:00
 speakers:
   - Stefan
   - Jens

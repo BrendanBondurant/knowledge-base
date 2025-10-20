@@ -7,9 +7,9 @@ episode: 5
 chunk: 09
 segment: The difference between micro and macro benchmarks, and the tradeoffs in code
   optimization
-timecode: 00:51:27:14 - 00:56:04:15
-start_time: 00:51:27:14
-end_time: 00:56:04:15
+timecode: 00:51:27 - 00:56:04
+start_time: 00:51:27
+end_time: 00:56:04
 speakers:
   - Jens
   - Stefan

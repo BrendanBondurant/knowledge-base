@@ -4,12 +4,12 @@ title: VC Bets, Future Predictions, Peace, Green Energy, and the Future of Softw
 slug: ep04-14-vc-bets-future-peace-energy-software
 series: The Good Thing
 episode: 4
-chunk: 14
+chunk: 15
 segment: Where would you invest as a VC, predictions for the future, peace, green
   energy, and the future of software
-timecode: 01:06:02:25 - 01:13:55:27
-start_time: 01:06:02:25
-end_time: 01:13:55:27
+timecode: 01:06:02 - 01:13:55
+start_time: 01:06:02
+end_time: 01:13:55
 speakers:
   - Stefan
   - Jens

@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 7
 chunk: 8
 segment: Subgraph jumps and federation graph theory
-timecode: 00:38:24:04 – 00:45:32:04
-start_time: 00:38:24:04
-end_time: 00:45:32:04
+timecode: 00:38:24 – 00:45:32
+start_time: 00:38:24
+end_time: 00:45:32
 speakers:
   - Jens
   - Sergiy

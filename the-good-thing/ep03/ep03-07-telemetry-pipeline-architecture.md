@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 3
 chunk: 7
 segment: Deep dive into Cosmo's telemetry pipeline architecture and data processing
-timecode: 00:26:46:25 - 00:32:26:12
-start_time: 00:26:46:25
-end_time: 00:32:26:12
+timecode: 00:26:46 - 00:32:26
+start_time: 00:26:46
+end_time: 00:32:26
 speakers:
   - Stefan
   - Dustin

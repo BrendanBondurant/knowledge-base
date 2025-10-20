@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 10
 chunk: 7
 segment: Remote work benefits and company culture
-timecode: 00:43:45:01 – 00:50:31:01
-start_time: 00:43:45:01
-end_time: 00:50:31:01
+timecode: 00:43:45 – 00:50:31
+start_time: 00:43:45
+end_time: 00:50:31
 speakers:
   - Stefan
   - Björn

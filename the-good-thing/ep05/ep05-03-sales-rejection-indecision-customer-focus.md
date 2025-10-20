@@ -7,9 +7,9 @@ episode: 5
 chunk: 3
 segment: Embracing rejection in sales, the danger of indecision, and the importance
   of customer focus
-timecode: 00:11:00:11 - 00:15:17:01
-start_time: 00:11:00:11
-end_time: 00:15:17:01
+timecode: 00:11:00 - 00:15:17
+start_time: 00:11:00
+end_time: 00:15:17
 speakers:
   - Jens
   - Stefan

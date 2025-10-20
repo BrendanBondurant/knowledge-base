@@ -6,9 +6,9 @@ series: The Good Thing
 episode: 3
 chunk: 08
 segment: Discussion about ClickHouse requirements and self-hosting considerations
-timecode: 00:32:26:15 - 00:37:00:14
-start_time: 00:32:26:15
-end_time: 00:37:00:14
+timecode: 00:32:26 - 00:37:00
+start_time: 00:32:26
+end_time: 00:37:00
 speakers:
   - Stefan
   - Dustin
